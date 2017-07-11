@@ -1,0 +1,2 @@
+# kicad-footprints
+Footprint files
