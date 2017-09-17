@@ -253,3 +253,6 @@
 [submodule "Wire_Pads.pretty"]
 	path = Wire_Pads.pretty
 	url = https://www.github.com/KiCad/Wire_Pads.pretty
+[submodule "Connectors_TestPoints.pretty"]
+	path = Connectors_TestPoints.pretty
+	url = https://github.com/kicad/Connectors_TestPoints.pretty
