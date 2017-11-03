@@ -1,4 +1,4 @@
-(module R_1812_4532Metric_Pad1.22x3.50mm_HandSolder (layer F.Cu) (tedit 59FCCF55)
+(module R_1812_4532Metric_Pad1.22x3.50mm_HandSolder (layer F.Cu) (tedit 59FCED11)
   (descr "Resistor SMD 1812 (4532 Metric), IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator")
   (tags "resistor handsolder")
   (attr smd)

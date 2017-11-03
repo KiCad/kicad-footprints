@@ -1,4 +1,4 @@
-(module R_0603_1608Metric_Pad0.82x1.00mm_HandSolder (layer F.Cu) (tedit 59FCCF55)
+(module R_0603_1608Metric_Pad0.82x1.00mm_HandSolder (layer F.Cu) (tedit 59FCED11)
   (descr "Resistor SMD 0603 (1608 Metric), IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
   (tags "resistor handsolder")
   (attr smd)
