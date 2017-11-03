@@ -1,4 +1,4 @@
-(module R_1020_1632Metric (layer F.Cu) (tedit 59FCBE16)
+(module R_1020_1632Metric (layer F.Cu) (tedit 59FCCDB2)
   (descr "Resistor SMD 1020 (1632 Metric), IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator")
   (tags resistor)
   (attr smd)
