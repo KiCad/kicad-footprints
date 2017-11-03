@@ -1,4 +1,4 @@
-(module R_0815_2037Metric (layer F.Cu) (tedit 59FCCDB2)
+(module R_0815_2037Metric (layer F.Cu) (tedit 59FCCF55)
   (descr "Resistor SMD 0815 (2037 Metric), IPC_7351 nominal, (Body size source: http://www.yageo.com/documents/recent/PYu-PRPFPH_521_RoHS_L_0.pdf), generated with kicad-footprint-generator")
   (tags resistor)
   (attr smd)
