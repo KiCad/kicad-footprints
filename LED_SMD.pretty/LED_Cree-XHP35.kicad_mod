@@ -35,7 +35,7 @@
   (pad 3 smd rect (at 0 1) (size 1.01 0.75) (layers F.Paste))
   (pad 3 smd rect (at 0 -1) (size 1.01 0.75) (layers F.Paste))
   (pad 3 smd rect (at 0 0) (size 1.01 0.75) (layers F.Paste))
-  (model ${KISYS3DMOD}/LEDs.3dshapes/LED_Cree-XHP35.wrl
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Cree-XHP35.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))

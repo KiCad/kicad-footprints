@@ -31,7 +31,7 @@
   (fp_line (start 1.55 1.4) (end -1.95 1.4) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -1.33 0 180) (size 2.5 2.1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.33 0 180) (size 1.5 2.1) (layers F.Cu F.Paste F.Mask))
-  (model LEDs.3dshapes\LED_PLCC_2835_Handsoldering.wrl
+  (model LED_SMD.3dshapes\LED_PLCC_2835_Handsoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 0))

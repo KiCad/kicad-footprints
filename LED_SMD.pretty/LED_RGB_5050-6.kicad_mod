@@ -30,7 +30,7 @@
   (pad 4 smd rect (at 2.4 1.7 90) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.4 0 90) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 2.4 -1.7 90) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LEDs.3dshapes/LED_RGB_5050-6.wrl
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_RGB_5050-6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

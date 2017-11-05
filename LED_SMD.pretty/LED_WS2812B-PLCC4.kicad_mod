@@ -25,7 +25,7 @@
   (pad 4 smd rect (at 2.5 -1.6) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.5 1.6) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.5 -1.6) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B-PLCC4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 180))

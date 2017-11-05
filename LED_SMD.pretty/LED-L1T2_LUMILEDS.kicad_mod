@@ -24,7 +24,7 @@
   (pad 1 smd rect (at 0.45 0.52) (size 0.55 0.38) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.45 0.52) (size 0.55 0.38) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 -0.52) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LEDs.3dshapes/LED-L1T2_LUMILEDS.wrl
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED-L1T2_LUMILEDS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
