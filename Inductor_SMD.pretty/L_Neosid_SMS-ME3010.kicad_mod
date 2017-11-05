@@ -23,7 +23,7 @@
   (fp_line (start 1.85 1.75) (end -1.85 1.75) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.1 0) (size 1 2.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.1 0) (size 1 2.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Neosid_SMS-ME3010.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Neosid_SMS-ME3010.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -43,7 +43,7 @@
   (fp_line (start 1.45 1.3) (end 1.45 -2.25) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -1.45 3.45) (size 0.6 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.45 -3.45) (size 0.6 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Neosid_Air-Coil_SML_5turn_HDM0531A.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_5turn_HDM0531A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

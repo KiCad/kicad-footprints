@@ -31,7 +31,7 @@
   (fp_line (start 6.95 6.25) (end -6.95 6.25) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -5.25 0) (size 2.9 4.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 5.25 0) (size 2.9 4.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Neosid_SMs95_SMs95p.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Neosid_SMs95_SMs95p.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

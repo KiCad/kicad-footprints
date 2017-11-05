@@ -27,7 +27,7 @@
   (fp_line (start 3.1 -2.3) (end -3.1 -2.3) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.89225 0) (size 1.8545 2.286) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.89225 0) (size 1.8545 2.286) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Vishay_IHLP-1616.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Vishay_IHLP-1616.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -55,7 +55,7 @@
   (pad 2 smd rect (at 1.75 -5) (size 2.5 3.85) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -1.75 5) (size 2.5 3.85) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.75 5) (size 2.5 3.85) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -85,7 +85,7 @@
   (fp_circle (center -2.1 3) (end -1.8 3.25) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -4.95 0) (size 2.9 5.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.95 0) (size 2.9 5.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_12x12mm_h8mm.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_12x12mm_h8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 4 4 4))
     (rotate (xyz 0 0 0))

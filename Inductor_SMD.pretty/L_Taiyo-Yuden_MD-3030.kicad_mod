@@ -23,7 +23,7 @@
   (fp_line (start 1.8 -1.8) (end -1.8 -1.8) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.1 0) (size 0.8 2.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.1 0) (size 0.8 2.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Taiyo-Yuden_MD-3030.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Taiyo-Yuden_MD-3030.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

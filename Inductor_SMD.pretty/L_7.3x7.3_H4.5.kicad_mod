@@ -31,7 +31,7 @@
   (fp_arc (start 0 0) (end -2.29 -2.29) (angle 90) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -3.2 0) (size 1.5 2.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.2 0) (size 1.5 2.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_7.3x7.3_H4.5.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_7.3x7.3_H4.5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

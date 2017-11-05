@@ -29,7 +29,7 @@
   (fp_line (start -4.8 3.2) (end 0 3.2) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -3.6 0) (size 3.2 2.54) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.6 0) (size 3.2 2.54) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Wuerth_HCM-1078.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Wuerth_HCM-1078.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

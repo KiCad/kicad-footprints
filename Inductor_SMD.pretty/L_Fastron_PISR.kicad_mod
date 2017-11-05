@@ -99,7 +99,7 @@
   (fp_arc (start 0 0) (end -5.25 -5.5) (angle 85) (layer F.SilkS) (width 0.12))
   (pad 2 smd rect (at -7.82 0) (size 3 3) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 7.82 0) (size 3 3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Fastron_PISR.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Fastron_PISR.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

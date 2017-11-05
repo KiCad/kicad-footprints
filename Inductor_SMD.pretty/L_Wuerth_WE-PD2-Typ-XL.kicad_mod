@@ -29,7 +29,7 @@
   (fp_arc (start 5 0) (end -3.9 4.5) (angle 53) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -3.18 0) (size 3.75 9.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.18 0) (size 3.75 9.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Wuerth_WE-PD2-Typ-XL.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Wuerth_WE-PD2-Typ-XL.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -39,7 +39,7 @@
   (pad 2 smd rect (at -3.75 1.27) (size 2 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 3.75 1.27) (size 2 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 3.75 -1.27) (size 2 1.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_CommonMode_Wuerth_WE-SL2.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_CommonMode_Wuerth_WE-SL2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

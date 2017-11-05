@@ -31,7 +31,7 @@
   (fp_line (start 4.25 -3.25) (end -4.25 -3.25) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -2.775 0) (size 2.45 5.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.775 0) (size 2.45 5.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Taiyo-Yuden_NR-60xx.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Taiyo-Yuden_NR-60xx.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

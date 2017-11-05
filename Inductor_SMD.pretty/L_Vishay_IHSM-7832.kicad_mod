@@ -29,7 +29,7 @@
   (fp_line (start -10.77 4.165) (end 0 4.165) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -10.031 0) (size 6.6 7.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 10.031 0) (size 6.6 7.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Vishay_IHSM-7832.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Vishay_IHSM-7832.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
