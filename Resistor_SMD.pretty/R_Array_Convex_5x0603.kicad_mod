@@ -31,7 +31,7 @@
   (pad 9 smd rect (at 0.9 -0.64) (size 0.8 0.32) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0.9 1.36) (size 0.8 0.48) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 0.9 0) (size 0.8 0.32) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Resistors_SMD.3dshapes/R_Array_Convex_5x0603.wrl
+  (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_Array_Convex_5x0603.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

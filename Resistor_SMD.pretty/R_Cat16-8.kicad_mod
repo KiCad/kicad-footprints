@@ -39,7 +39,7 @@
   (pad 16 smd rect (at 0.76 -2.8 180) (size 0.76 0.43) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 0.76 2.8 180) (size 0.76 0.43) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 0.76 2 180) (size 0.76 0.43) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Resistors_SMD.3dshapes/R_Cat16-8.wrl
+  (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_Cat16-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
