@@ -37,7 +37,7 @@
   (fp_line (start 3.35 2.37) (end -3.35 2.37) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.8 0 180) (size 2.6 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.8 0 180) (size 2.6 1.6) (layers F.Cu F.Paste F.Mask))
-  (model Capacitors_SMD.3dshapes/CP_Elec_4x4.5.wrl
+  (model Capacitor_SMD.3dshapes/CP_Elec_4x4.5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
