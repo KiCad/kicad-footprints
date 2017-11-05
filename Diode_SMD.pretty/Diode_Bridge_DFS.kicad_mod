@@ -35,7 +35,7 @@
   (pad 2 smd rect (at -4.37 2.55) (size 2 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 4.37 2.55) (size 2 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 4.37 -2.55) (size 2 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Diodes_SMD.3dshapes/Diode_Bridge_DFS.wrl
+  (model ${KISYS3DMOD}/Diode_SMD.3dshapes/Diode_Bridge_DFS.wrl
     (at (xyz 0 0.0005905512 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

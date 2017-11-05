@@ -45,7 +45,7 @@
   (fp_line (start 0.25 0.2) (end 0.25 -0.2) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -1.6525 0) (size 0.762 1.27) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.6985 0) (size 2.67 2.54) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Diodes_SMD.3dshapes/D_Powermite_KA.wrl
+  (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_Powermite_KA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

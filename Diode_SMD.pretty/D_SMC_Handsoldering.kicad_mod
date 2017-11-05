@@ -30,7 +30,7 @@
   (fp_line (start -6.8 -3.25) (end 4.4 -3.25) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -4.4 0 90) (size 3.3 4.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.4 0 90) (size 3.3 4.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SMC.wrl
+  (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SMC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

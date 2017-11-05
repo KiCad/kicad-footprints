@@ -34,7 +34,7 @@
   (fp_line (start -4.85 -2.15) (end 2.7 -2.15) (layer F.SilkS) (width 0.12))
   (pad 1 smd trapezoid (at -2.9 0) (size 3.6 1.7) (rect_delta 0.6 0 ) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd trapezoid (at 2.9 0 180) (size 3.6 1.7) (rect_delta 0.6 0 ) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SMB.wrl
+  (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SMB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
