@@ -1,4 +1,4 @@
-(module D_1806_4516Metric (layer F.Cu) (tedit 59FE48B8)
+(module D_1806_4516Metric (layer F.Cu) (tedit 5A00A67B)
   (descr "Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator")
   (tags diode)
   (attr smd)
