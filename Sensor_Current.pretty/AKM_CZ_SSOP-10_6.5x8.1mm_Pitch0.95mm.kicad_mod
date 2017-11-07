@@ -34,7 +34,7 @@
   (pad 6 smd rect (at -5.29 1.425) (size 1.42 0.54) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -5.29 2.375) (size 1.42 0.54) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -5.29 3.325) (size 1.42 0.54) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/AKM_CZ_SSOP-10_6.5x8.1mm_Pitch0.95mm.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/AKM_CZ_SSOP-10_6.5x8.1mm_Pitch0.95mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
