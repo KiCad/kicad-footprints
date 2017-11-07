@@ -100,7 +100,7 @@
   (pad 7 thru_hole circle (at -2.265 -14.78) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at -5.505 -14.78) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at -3.267 -15.5) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/AKM_CQ_7.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/AKM_CQ_7.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

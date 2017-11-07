@@ -101,7 +101,7 @@
   (pad 1 thru_hole trapezoid (at 0 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 6.91 -21.4) (size 9 6) (drill oval 6 2) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at -3.09 -21.4) (size 9 6) (drill oval 6 2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/Allegro_CB_PFF.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/Allegro_CB_PFF.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

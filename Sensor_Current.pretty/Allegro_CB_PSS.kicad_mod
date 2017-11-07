@@ -75,7 +75,7 @@
   (pad 1 smd rect (at -1.91 15.00625) (size 1 9) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 5 -13.50625) (size 5.5 12) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -5 -13.50625) (size 5.5 12) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/Allegro_CB_PSS.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/Allegro_CB_PSS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
