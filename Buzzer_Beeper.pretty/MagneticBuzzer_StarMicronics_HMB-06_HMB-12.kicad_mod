@@ -1,4 +1,4 @@
-(module MagneticBuzzer_StarMicronics_HMB-06_HMB-12 (layer F.Cu) (tedit 5A030733)
+(module MagneticBuzzer_StarMicronics_HMB-06_HMB-12 (layer F.Cu) (tedit 5A030A5B)
   (descr "Buzzer, Elektromagnetic Beeper, Summer,")
   (tags "Star Micronics HMB-06 HMB-12")
   (fp_text reference REF** (at 0 -8.5) (layer F.SilkS)
@@ -19,6 +19,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 3.8 0) (end 12.3 0) (layer F.CrtYd) (width 0.05))
+  (fp_circle (center 3.8 0) (end 11.6 -0.9) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole rect (at 0 0) (size 1.6002 1.6002) (drill 1.00076) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 7.61 0) (size 1.6002 1.6002) (drill 1.00076) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Buzzer_Beeper.3dshapes/MagneticBuzzer_StarMicronics_HMB-06_HMB-12.wrl
