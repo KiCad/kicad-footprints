@@ -1,4 +1,4 @@
-(module KCSC02-106 (layer F.Cu) (tedit 597CA70E)
+(module KCSC02-106 (layer F.Cu) (tedit 5A02FE84)
   (descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-106(Ver.10A).pdf")
   (tags "Single digit 7 segement super bright orange LED")
   (attr smd)
@@ -32,7 +32,7 @@
   (pad 8 smd rect (at 5 0) (size 2.8 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 5 -1.44) (size 2.8 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 5 -2.88) (size 2.8 0.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/KCSC02-106.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/KCSC02-106.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

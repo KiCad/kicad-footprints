@@ -1,4 +1,4 @@
-(module LM16255 (layer F.Cu) (tedit 59629327)
+(module LM16255 (layer F.Cu) (tedit 5A02FE80)
   (descr "LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html")
   (tags "LCD 12x2")
   (fp_text reference REF** (at -38.83 -3.91) (layer F.SilkS)
@@ -56,7 +56,7 @@
   (pad 12 thru_hole circle (at 27.94 0 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 30.48 0 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 33.02 0 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/LM16255.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/LM16255.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

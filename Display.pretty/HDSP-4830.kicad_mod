@@ -1,4 +1,4 @@
-(module HDSP-4830 (layer F.Cu) (tedit 5957707D)
+(module HDSP-4830 (layer F.Cu) (tedit 5A02FE80)
   (descr "10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN")
   (tags "10-Element Red Bar Graph Array")
   (fp_text reference REF** (at 0.47 -2.37) (layer F.SilkS)
@@ -45,7 +45,7 @@
   (pad 18 thru_hole circle (at 7.62 5.08 270) (size 2.032 2.032) (drill 0.9144) (layers *.Cu *.Mask))
   (pad 19 thru_hole circle (at 7.62 2.54 270) (size 2.032 2.032) (drill 0.9144) (layers *.Cu *.Mask))
   (pad 20 thru_hole circle (at 7.62 0 270) (size 2.032 2.032) (drill 0.9144) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/HDSP-4830.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/HDSP-4830.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

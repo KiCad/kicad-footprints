@@ -1,4 +1,4 @@
-(module EA_T123X-I2C (layer F.Cu) (tedit 597B5628)
+(module EA_T123X-I2C (layer F.Cu) (tedit 5A02FE80)
   (descr http://www.lcd-module.de/pdf/doma/t123-i2c.pdf)
   (tags "3 Line 12 character wide alpha numeric LCD")
   (fp_text reference REF** (at 2.05 -32.75) (layer F.SilkS)
@@ -49,7 +49,7 @@
   (pad 4 thru_hole circle (at 0 7.62) (size 1.5 1.5) (drill 0.75) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 0 10.16) (size 1.5 1.5) (drill 0.75) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 0 12.7) (size 1.5 1.5) (drill 0.75) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/EA_T123X-I2C.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/EA_T123X-I2C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module DA04-11SYKWA (layer F.Cu) (tedit 599472B6)
+(module DA04-11SYKWA (layer F.Cu) (tedit 5A02FE84)
   (descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SYKWA(Ver.6A).pdf")
   (tags "Dubble digit super bright yellow 7 segment LED display")
   (fp_text reference REF** (at 0.34 -2.36) (layer F.SilkS)
@@ -41,7 +41,7 @@
   (pad 14 thru_hole circle (at 12.7 5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 12.7 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 12.7 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/DA04-11SYKWA.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/DA04-11SYKWA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

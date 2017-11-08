@@ -1,4 +1,4 @@
-(module EA_DOGXL160-7 (layer F.Cu) (tedit 59628BE3)
+(module EA_DOGXL160-7 (layer F.Cu) (tedit 5A02FE80)
   (descr "Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf")
   (tags EA_DOGXL160-7)
   (fp_text reference REF** (at 1.03 -21.11) (layer F.SilkS)
@@ -56,7 +56,7 @@
   (pad 30 thru_hole circle (at 60.96 5.08) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 31 thru_hole circle (at 60.96 2.54) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 32 thru_hole circle (at 60.96 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/EA_DOGXL160-7.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/EA_DOGXL160-7.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

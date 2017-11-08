@@ -1,4 +1,4 @@
-(module DA04-11SURKWA (layer F.Cu) (tedit 59947292)
+(module DA04-11SURKWA (layer F.Cu) (tedit 5A02FE84)
   (descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SURKWA(Ver.10A).pdf")
   (tags "Dubble digit hyper red 7 segment LED display")
   (fp_text reference REF** (at 0.5 -2.21) (layer F.SilkS)
@@ -41,7 +41,7 @@
   (pad 14 thru_hole circle (at 12.7 5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 12.7 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 12.7 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/DA04-11SURKWA.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/DA04-11SURKWA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

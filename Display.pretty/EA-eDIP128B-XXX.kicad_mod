@@ -1,4 +1,4 @@
-(module EA-eDIP128B-XXX (layer F.Cu) (tedit 59A146FF)
+(module EA-eDIP128B-XXX (layer F.Cu) (tedit 5A02FE80)
   (descr "LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf")
   (tags "LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI")
   (fp_text reference REF** (at -3.75 -6.5) (layer F.SilkS)
@@ -60,7 +60,7 @@
   (pad 30 thru_hole circle (at 5.08 60.96) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 31 thru_hole circle (at 2.54 60.96) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 32 thru_hole circle (at 0 60.96) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/EA-eDIP128B-XXX.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/EA-eDIP128B-XXX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module EA_eDIP240-XXX (layer F.Cu) (tedit 59A14D16)
+(module EA_eDIP240-XXX (layer F.Cu) (tedit 5A02FE80)
   (descr "LCD graphical display LED backlight 240x128 http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip240-7e.pdf")
   (tags "LCD graphical display LED backlight 240x128")
   (fp_text reference REF** (at -8.8 -9.6) (layer F.SilkS)
@@ -70,7 +70,7 @@
   (pad 38 thru_hole circle (at 5.08 96.52 180) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 2.54 96.52 180) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 0 96.52 180) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/EA_eDIP240-XXX.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/EA_eDIP240-XXX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

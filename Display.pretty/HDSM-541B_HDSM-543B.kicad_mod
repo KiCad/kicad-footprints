@@ -1,4 +1,4 @@
-(module HDSM-541B_HDSM-543B (layer F.Cu) (tedit 59665B2B)
+(module HDSM-541B_HDSM-543B (layer F.Cu) (tedit 5A02FE80)
   (descr "2 digit 7 segement blue LED with right hand decimal, https://docs.broadcom.com/docs/AV02-1588EN")
   (tags "2 digit 7 segement blue LED with right hand decimal")
   (attr smd)
@@ -37,7 +37,7 @@
   (pad 8 smd rect (at 9.5 0) (size 3 2) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 9.5 -2.54) (size 3 2) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 9.5 -5.08) (size 3 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/HDSM-541B_HDSM-543B.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/HDSM-541B_HDSM-543B.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

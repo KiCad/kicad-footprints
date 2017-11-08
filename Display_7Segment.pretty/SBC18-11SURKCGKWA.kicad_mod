@@ -1,4 +1,4 @@
-(module SBC18-11SURKCGKWA (layer F.Cu) (tedit 59783305)
+(module SBC18-11SURKCGKWA (layer F.Cu) (tedit 5A02FE84)
   (descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/SBC18-11SURKCGKWA(Ver.6A).pdf")
   (tags "single digit 7 segemnt red/green LED")
   (fp_text reference REF** (at -2 -15) (layer F.SilkS)
@@ -36,7 +36,7 @@
   (pad 8 thru_hole circle (at 48.26 5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 48.26 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 48.26 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/SBC18-11SURKCGKWA.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/SBC18-11SURKCGKWA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
