@@ -1,11 +1,11 @@
-(module BGA-144_12x12_13.0x13.0mm_Pitch1.0mm (layer F.Cu) (tedit 5A02E9B0)
+(module BGA-144_12x12_B13.0x13.0mm_P1.0mm (layer F.Cu) (tedit 5A02EBFC)
   (descr "BGA-144, http://www.topline.tv/drawings/pdf/BGA%201,0mm%20pitch/LBGA144T1.0-DC128.pdf")
   (tags BGA-144)
   (attr smd)
   (fp_text reference REF** (at 0 -7.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BGA-144_12x12_13.0x13.0mm_Pitch1.0mm (at 0 7.62) (layer F.Fab)
+  (fp_text value BGA-144_12x12_B13.0x13.0mm_P1.0mm (at 0 7.62) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -170,7 +170,7 @@
   (pad K12 smd circle (at 5.5 3.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad L12 smd circle (at 5.5 4.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad M12 smd circle (at 5.5 5.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-144_12x12_13.0x13.0mm_Pitch1.0mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-144_12x12_B13.0x13.0mm_P1.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
