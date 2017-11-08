@@ -37,7 +37,7 @@
   (pad 7 smd oval (at 2.03 0 90) (size 3.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd oval (at -1.97 0 90) (size 3.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -5.37 0) (size 2 1.5) (layers F.Cu F.Paste F.Mask))
-  (model Transformer_SMD.3dshapes/Transformers_SMD.3dshapes/Transformer_NF_ETAL_P3188.wrl
+  (model ${KISYS3DMOD}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3188.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))

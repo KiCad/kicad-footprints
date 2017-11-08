@@ -52,7 +52,7 @@
   (pad 11 smd rect (at -4.16 -6.15) (size 1.32 3) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at -6.7 -6.15) (size 1.32 3) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd oval (at 5 0) (size 1.5 3) (layers F.Cu F.Paste F.Mask))
-  (model Transformer_SMD.3dshapes/Transformers_SMD.3dshapes/Transformer_NF_ETAL_P3000_HandSoldering.wrl
+  (model ${KISYS3DMOD}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3000_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))
