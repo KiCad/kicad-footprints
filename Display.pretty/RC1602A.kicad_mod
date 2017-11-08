@@ -1,4 +1,4 @@
-(module RC1602A (layer F.Cu) (tedit 598F19CE)
+(module RC1602A (layer F.Cu) (tedit 5A02FE80)
   (descr http://www.raystar-optronics.com/down.php?ProID=18)
   (tags "LCD 16x2 Alphanumeric 16pin")
   (fp_text reference REF** (at -38.53 -3.41 180) (layer F.SilkS)
@@ -84,7 +84,7 @@
   (pad K1 thru_hole rect (at -36.74 19.06 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad K1 thru_hole rect (at -39.28 19.06 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad K1 thru_hole rect (at -39.28 16.52 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/RC1602A.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/RC1602A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

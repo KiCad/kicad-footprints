@@ -1,4 +1,4 @@
-(module LCD-016N002L (layer F.Cu) (tedit 5962FC7F)
+(module LCD-016N002L (layer F.Cu) (tedit 5A02FE80)
   (descr "16 x 2 Character LCD, http://www.vishay.com/product?docid=37299")
   (tags "LCD-016N002L 16 x 2 Character LCD")
   (fp_text reference REF** (at -76.21 -3.41 180) (layer F.SilkS)
@@ -82,7 +82,7 @@
   (pad K1 thru_hole rect (at -75.5 18 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad A2 thru_hole rect (at -75.5 25 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad K2 thru_hole rect (at -75.5 29 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/LCD-016N002L.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/LCD-016N002L.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

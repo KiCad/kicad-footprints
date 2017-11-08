@@ -1,4 +1,4 @@
-(module DA56-11SEKWA (layer F.Cu) (tedit 59947109)
+(module DA56-11SEKWA (layer F.Cu) (tedit 5A02FE84)
   (descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SEKWA(Ver.9A).pdf")
   (tags "Double digit seven segment super bright orange LED display")
   (fp_text reference REF** (at 0 -4) (layer F.SilkS)
@@ -43,7 +43,7 @@
   (pad 16 thru_hole circle (at 15.24 5.08) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at 15.24 2.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 18 thru_hole circle (at 15.24 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/DA56-11SEKWA.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/DA56-11SEKWA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

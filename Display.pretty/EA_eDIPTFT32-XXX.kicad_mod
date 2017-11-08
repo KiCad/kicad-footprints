@@ -1,4 +1,4 @@
-(module EA_eDIPTFT32-XXX (layer F.Cu) (tedit 59886B7E)
+(module EA_eDIPTFT32-XXX (layer F.Cu) (tedit 5A02FE80)
   (descr "TFT-graphic display 320x240 16 bit colour with led backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft32-ae.pdf")
   (tags "TFT-graphic display 320x240 16 bit colour with led backlight")
   (fp_text reference REF** (at -4.07924 -14.84122) (layer F.SilkS)
@@ -70,7 +70,7 @@
   (pad 38 thru_hole circle (at 5.08 60.96 90) (size 1.524 1.524) (drill 0.7) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 2.54 60.96 90) (size 1.524 1.524) (drill 0.7) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 0 60.96 90) (size 1.524 1.524) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/EA_eDIPTFT32-XXX.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/EA_eDIPTFT32-XXX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

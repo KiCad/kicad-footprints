@@ -1,4 +1,4 @@
-(module EA_DOGS104X-A (layer F.Cu) (tedit 599B0F90)
+(module EA_DOGS104X-A (layer F.Cu) (tedit 5A02FE80)
   (descr "LCD 4x10 character 3.3V VDD I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf")
   (tags "LCD 4x10 character 3.3V VDD I2C or SPI")
   (fp_text reference REF** (at 2.22 -7.73) (layer F.SilkS)
@@ -48,7 +48,7 @@
   (pad 19 thru_hole circle (at 25.4 2.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 20 thru_hole circle (at 25.4 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/EA_DOGS104X-A.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/EA_DOGS104X-A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

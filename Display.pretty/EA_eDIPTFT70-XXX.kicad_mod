@@ -1,4 +1,4 @@
-(module EA_eDIPTFT70-XXX (layer F.Cu) (tedit 59A1BC6D)
+(module EA_eDIPTFT70-XXX (layer F.Cu) (tedit 5A02FE80)
   (descr "TFT-graphical display 800x480 16-bit colours http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf")
   (tags "TFT-graphical display 800x480 16-bit colours and touch display")
   (fp_text reference REF** (at -24.5 -21.5) (layer F.SilkS)
@@ -78,7 +78,7 @@
   (pad 46 thru_hole circle (at 5.08 129.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 47 thru_hole circle (at 2.54 129.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 48 thru_hole circle (at 0 129.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/EA_eDIPTFT70-XXX.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/EA_eDIPTFT70-XXX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

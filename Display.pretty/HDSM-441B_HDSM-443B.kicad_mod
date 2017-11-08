@@ -1,4 +1,4 @@
-(module HDSM-441B_HDSM-443B (layer F.Cu) (tedit 59665A7D)
+(module HDSM-441B_HDSM-443B (layer F.Cu) (tedit 5A02FE80)
   (descr "2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN")
   (tags "2 Digit 7 segment blue LED")
   (attr smd)
@@ -37,7 +37,7 @@
   (pad 3 smd rect (at -7.5 0 270) (size 2 3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -7.5 -2.54 270) (size 2 3) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -7.5 -5.08 270) (size 2 3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/HDSM-441B_HDSM-443B.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/HDSM-441B_HDSM-443B.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

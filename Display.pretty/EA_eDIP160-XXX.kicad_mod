@@ -1,4 +1,4 @@
-(module EA_eDIP160-XXX (layer F.Cu) (tedit 59A14411)
+(module EA_eDIP160-XXX (layer F.Cu) (tedit 5A02FE80)
   (descr "LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf")
   (tags "LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI")
   (fp_text reference REF** (at -3.8 -11.6) (layer F.SilkS)
@@ -74,7 +74,7 @@
   (pad 38 thru_hole circle (at 5.08 60.96) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 2.54 60.96) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 0 60.96) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/EA_eDIP160-XXX.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/EA_eDIP160-XXX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

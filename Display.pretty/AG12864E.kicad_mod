@@ -1,4 +1,4 @@
-(module AG12864E (layer F.Cu) (tedit 59601209)
+(module AG12864E (layer F.Cu) (tedit 5A02FE80)
   (descr "STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php")
   (tags "AG12864E Graphics Display 128x64 Ampire")
   (fp_text reference REF** (at -0.4 -14.6) (layer F.SilkS)
@@ -86,7 +86,7 @@
   (pad "" thru_hole circle (at 0 59.13 270) (size 3.2 3.2) (drill 2.7) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 49.7 -10.87 270) (size 3.2 3.2) (drill 2.7) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 49.7 59.13 270) (size 3.2 3.2) (drill 2.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/AG12864E.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/AG12864E.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

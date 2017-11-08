@@ -1,4 +1,4 @@
-(module WC1602A (layer F.Cu) (tedit 5958D986)
+(module WC1602A (layer F.Cu) (tedit 5A02FE80)
   (descr "LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf")
   (tags "LCD 16x2 Alphanumeric 16pin")
   (fp_text reference REF** (at -5.82 -3.81) (layer F.SilkS)
@@ -59,7 +59,7 @@
   (pad "" thru_hole circle (at -5.4991 31.0007) (size 3 3) (drill 2.5) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 69.49948 31.0007) (size 3 3) (drill 2.5) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 69.5 0) (size 3 3) (drill 2.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/WC1602A.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/WC1602A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

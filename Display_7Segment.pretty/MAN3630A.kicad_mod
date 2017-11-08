@@ -1,4 +1,4 @@
-(module MAN3630A (layer F.Cu) (tedit 5977471A)
+(module MAN3630A (layer F.Cu) (tedit 5A02FE84)
   (descr https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php)
   (tags "Overflow +- 1 orange LED")
   (fp_text reference REF** (at 0.4 -3.2) (layer F.SilkS)
@@ -40,7 +40,7 @@
   (pad 12 thru_hole circle (at 7.62 5.08) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 7.62 2.54) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 7.62 0) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/MAN3630A.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/MAN3630A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

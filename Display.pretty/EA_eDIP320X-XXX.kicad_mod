@@ -1,4 +1,4 @@
-(module EA_eDIP320X-XXX (layer F.Cu) (tedit 59A13EDA)
+(module EA_eDIP320X-XXX (layer F.Cu) (tedit 5A02FE80)
   (descr "LCD display 320x340 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf")
   (tags "LCD display 320x340 RS-232 I2C or SPI")
   (fp_text reference REF** (at -21.25 -13) (layer F.SilkS)
@@ -80,7 +80,7 @@
   (pad 46 thru_hole circle (at 5.08 114.3) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 47 thru_hole circle (at 2.54 114.3) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 48 thru_hole circle (at 0 114.3) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/EA_eDIP320X-XXX.wrl
+  (model ${KISYS3DMOD}/Display.3dshapes/EA_eDIP320X-XXX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

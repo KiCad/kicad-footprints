@@ -1,4 +1,4 @@
-(module DE170-XX-XX (layer F.Cu) (tedit 597DA208)
+(module DE170-XX-XX (layer F.Cu) (tedit 5A02FE84)
   (descr http://www.display-elektronik.de/filter/DE170-RS-20_75.pdf)
   (tags "3 1/5 digit reflective arrow bat + 7 segment LCD ")
   (fp_text reference REF** (at 1.31 -2.77) (layer F.SilkS)
@@ -65,7 +65,7 @@
   (pad 38 thru_hole circle (at 33.02 5.08) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 33.02 2.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 33.02 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/DE170-XX-XX.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/DE170-XX-XX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

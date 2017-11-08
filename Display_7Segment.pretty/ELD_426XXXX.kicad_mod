@@ -1,4 +1,4 @@
-(module ELD_426XXXX (layer F.Cu) (tedit 59786E08)
+(module ELD_426XXXX (layer F.Cu) (tedit 5A02FE84)
   (descr http://www.everlight.com/file/ProductFile/D426SYGWA-S530-E2.pdf)
   (tags "Double digit 7 segment brilliant yellow green LED")
   (fp_text reference REF** (at 0.2 -6.2) (layer F.SilkS)
@@ -36,7 +36,7 @@
   (pad 8 thru_hole circle (at 12.5 5.08) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 12.5 2.54) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 12.5 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/ELD_426XXXX.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/ELD_426XXXX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
