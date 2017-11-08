@@ -42,7 +42,7 @@
   (pad 11 thru_hole circle (at 20.32 7.62) (size 3 3) (drill 1.3) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 25.32 0) (size 3 3) (drill 1.3) (layers *.Cu *.Mask))
   (pad A3 thru_hole circle (at 0 3.6) (size 3 3) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relays_THT.3dshapes/Relay_SPST_Schrack-RP3SL_RM5mm.wrl
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_SPST_Schrack-RP3SL_RM5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

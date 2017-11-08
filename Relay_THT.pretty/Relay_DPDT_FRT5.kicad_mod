@@ -42,7 +42,7 @@
   (pad 8 thru_hole oval (at 7.62 5.08) (size 2.3 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 7.62 2.54) (size 2.3 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 7.62 0) (size 2.3 1.6) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relays_THT.3dshapes/Relay_DPDT_FRT5.wrl
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_DPDT_FRT5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.395 0.395 0.395))
     (rotate (xyz 0 0 90))

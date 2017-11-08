@@ -38,7 +38,7 @@
   (pad A2 thru_hole circle (at 7.62 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 0 10.16) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 0 17.78) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relays_THT.3dshapes/Relay_SPST_Finder_32.21-x300.wrl
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_SPST_Finder_32.21-x300.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

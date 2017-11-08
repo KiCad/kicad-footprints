@@ -48,7 +48,7 @@
   (pad 7 thru_hole circle (at 5.08 3.2) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 5.08 5.4) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 5.08 7.6) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relays_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm.wrl
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

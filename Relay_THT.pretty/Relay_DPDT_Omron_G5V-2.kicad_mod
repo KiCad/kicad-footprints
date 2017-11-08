@@ -43,7 +43,7 @@
   (pad 11 thru_hole circle (at 7.63 12.71) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 7.63 17.79) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 7.62 7.62) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relays_THT.3dshapes/Relay_DPDT_Omron_G5V-2.wrl
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_DPDT_Omron_G5V-2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
