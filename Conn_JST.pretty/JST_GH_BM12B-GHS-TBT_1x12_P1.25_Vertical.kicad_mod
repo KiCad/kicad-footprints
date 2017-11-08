@@ -1,5 +1,5 @@
-(module JST_GH_BM12B-GHS-TBT_1x12_P1.25_Vertical (layer F.Cu) (tedit 5A036CE6)
-  (descr "JST GH series connector, BM12B-GHS-TBT, top entry type")
+(module JST_GH_BM12B-GHS-TBT_1x12_P1.25_Vertical (layer F.Cu) (tedit 5A03721F)
+  (descr "JST GH series connector, BM12B-GHS-TBT, top entry type, (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf)")
   (tags "connector jst GH SMT top vertical entry 1.25mm pitch")
   (attr smd)
   (fp_text reference REF** (at 0 -4.83) (layer F.SilkS)

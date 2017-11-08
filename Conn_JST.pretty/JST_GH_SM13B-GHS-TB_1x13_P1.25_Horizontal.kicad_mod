@@ -1,5 +1,5 @@
-(module JST_GH_SM13B-GHS-TB_1x13_P1.25_Horizontal (layer F.Cu) (tedit 5A036D6F)
-  (descr "JST GH series connector, SM13B-GHS-TB, side entry type")
+(module JST_GH_SM13B-GHS-TB_1x13_P1.25_Horizontal (layer F.Cu) (tedit 5A03721E)
+  (descr "JST GH series connector, SM13B-GHS-TB, side entry type, (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf)")
   (tags "connector jst GH SMT side horizontal entry 1.25mm pitch")
   (attr smd)
   (fp_text reference REF** (at 0 -4.2) (layer F.SilkS)
