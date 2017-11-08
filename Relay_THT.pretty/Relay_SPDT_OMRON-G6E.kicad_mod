@@ -38,7 +38,7 @@
   (pad 10 thru_hole circle (at 5.08 -7.62) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 12.7 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 12.7 -7.62) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relays_THT.3dshapes/Relay_SPDT_OMRON-G6E.wrl
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_SPDT_OMRON-G6E.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

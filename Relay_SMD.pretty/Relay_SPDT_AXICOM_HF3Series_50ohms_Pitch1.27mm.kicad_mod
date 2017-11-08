@@ -52,7 +52,7 @@
   (pad 5 smd rect (at -4 -1.27) (size 2 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -4 -5.08) (size 2 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -3.75 -6.35) (size 2.5 0.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Relays_SMD.3dshapes/Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm.wrl
+  (model ${KISYS3DMOD}/Relay_SMD.3dshapes/Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
