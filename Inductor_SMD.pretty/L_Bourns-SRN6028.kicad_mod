@@ -29,7 +29,7 @@
   (fp_line (start -3.3 -3.1) (end -3.3 3.1) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -2.35 0) (size 1.6 5.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.35 0) (size 1.6 5.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Bourns-SRN6028.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Bourns-SRN6028.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
