@@ -1,4 +1,4 @@
-(module SW_DIP_x7_W7.62mm_Slide_LowProfile (layer F.Cu) (tedit 5923F251)
+(module SW_DIP_x7_W7.62mm_Slide_LowProfile (layer F.Cu) (tedit 5A02FE31)
   (descr "7x-dip-switch, Slide, row spacing 7.62 mm (300 mils), LowProfile")
   (tags "DIP Switch Slide 7.62mm 300mil LowProfile")
   (fp_text reference REF** (at 3.81 -3.17) (layer F.SilkS)
@@ -109,7 +109,7 @@
   (pad 13 thru_hole oval (at 7.62 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 7 thru_hole oval (at 0 15.24) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 14 thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_DIP_x7_W7.62mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_DIP_x7_W7.62mm_Slide_LowProfile.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

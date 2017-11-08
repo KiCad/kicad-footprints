@@ -1,4 +1,4 @@
-(module SW_DIP_x11_W7.62mm_Piano (layer F.Cu) (tedit 5923F251)
+(module SW_DIP_x11_W7.62mm_Piano (layer F.Cu) (tedit 5A02FE31)
   (descr "11x-dip-switch, Piano, row spacing 7.62 mm (300 mils)")
   (tags "DIP Switch Piano 7.62mm 300mil")
   (fp_text reference REF** (at 3.81 -3.17) (layer F.SilkS)
@@ -135,7 +135,7 @@
   (pad 21 thru_hole oval (at 7.62 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 11 thru_hole oval (at 0 25.4) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 22 thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_DIP_x11_W7.62mm_Piano.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_DIP_x11_W7.62mm_Piano.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

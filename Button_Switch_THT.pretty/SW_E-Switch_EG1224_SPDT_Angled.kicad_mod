@@ -1,4 +1,4 @@
-(module SW_E-Switch_EG1224_SPDT_Angled (layer F.Cu) (tedit 5954520D)
+(module SW_E-Switch_EG1224_SPDT_Angled (layer F.Cu) (tedit 5A02FE31)
   (descr "E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf")
   (tags "switch SPDT")
   (fp_text reference REF** (at 4 -2.95) (layer F.SilkS)
@@ -39,7 +39,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 4 0) (size 1.7 1.7) (drill 0.9) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 8 0) (size 1.7 1.7) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

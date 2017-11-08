@@ -1,4 +1,4 @@
-(module Push_E-Switch_KS01Q01 (layer F.Cu) (tedit 592454DE)
+(module Push_E-Switch_KS01Q01 (layer F.Cu) (tedit 5A02FE31)
   (descr "E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf")
   (tags "Push Button")
   (fp_text reference REF** (at 2.5 -4.5) (layer F.SilkS)
@@ -20,7 +20,7 @@
   (pad 2 thru_hole circle (at 5 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 5 5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/Push_E-Switch_KS01Q01.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/Push_E-Switch_KS01Q01.wrl
     (at (xyz 0.1 -0.1 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
