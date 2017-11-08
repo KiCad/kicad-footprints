@@ -172,7 +172,7 @@
   (pad 3 thru_hole circle (at 0 18.54) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 21.08) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 23.62) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
-  (model Hall-Effect_Transducers_LEM.3dshapes/HTFS-Series_LEM-HallEffektCurrentTransducer.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/HTFS-Series_LEM-HallEffektCurrentTransducer.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

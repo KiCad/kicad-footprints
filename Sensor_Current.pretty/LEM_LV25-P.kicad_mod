@@ -1,4 +1,4 @@
-(module LEM_LV25-P (layer F.Cu) (tedit 58C3F1B9)
+(module LEM_LV25-P (layer F.Cu) (tedit 5A03055B)
   (descr "LEM LV25-P Voltage transducer, http://www.lem.com/docs/products/lv_25-p.pdf")
   (tags "LEM Hall Effect Voltage transducer")
   (fp_text reference REF** (at -8.89 -5.08) (layer F.SilkS)
@@ -27,7 +27,7 @@
   (pad 4 thru_hole circle (at -15.24 20.32) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 0 20.32) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at -7.62 20.32) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
-  (model Hall-Effect_Transducers_LEM.3dshapes/LEM_LV25-P.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_LV25-P.wrl
     (at (xyz 0 0 -0.1))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))

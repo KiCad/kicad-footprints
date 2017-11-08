@@ -1,4 +1,4 @@
-(module LEM_HO-NP (layer F.Cu) (tedit 58CC2733)
+(module LEM_HO-NP (layer F.Cu) (tedit 5A03055B)
   (descr "LEM current transducer HO-NP 5V supply voltage series (Footprint for HO-8-NP-xxxx, HO-15-NP-xxxx and HO-25-NP-xxxx) Standard option for xxxx = 0000: 2.5V reference, 3.5us response time, EEPROM Control=yes, over current detection = 2,9*Ipn; Datasheet: http://www.lem.com/docs/products/ho-np-0000_series.pdf")
   (tags "Current transducer")
   (fp_text reference REF** (at 4.25 -2 180) (layer F.SilkS)
@@ -52,7 +52,7 @@
   (pad 5 thru_hole circle (at 5.08 0 270) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 7.62 0 270) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 270) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask))
-  (model Hall-Effect_Transducers_LEM.3dshapes/LEM_HO-NP.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_HO-NP.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
