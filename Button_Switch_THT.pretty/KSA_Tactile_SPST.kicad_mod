@@ -1,4 +1,4 @@
-(module KSA_Tactile_SPST (layer F.Cu) (tedit 59243A0D)
+(module KSA_Tactile_SPST (layer F.Cu) (tedit 5A02FE31)
   (descr "KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf")
   (tags "SWITCH SMD KSA SW")
   (fp_text reference REF** (at 2.54 -2) (layer F.SilkS)
@@ -28,7 +28,7 @@
   (pad 3 thru_hole circle (at 5.08 7.62) (size 1.778 1.778) (drill 1.143) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 2.54 7.62) (size 1.778 1.778) (drill 1.143) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 0 7.62) (size 1.778 1.778) (drill 1.143) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/KSA_Tactile_SPST.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/KSA_Tactile_SPST.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

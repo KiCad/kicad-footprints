@@ -1,4 +1,4 @@
-(module SW_TH_Tactile_Omron_B3F-10xx (layer F.Cu) (tedit 5928351D)
+(module SW_TH_Tactile_Omron_B3F-10xx (layer F.Cu) (tedit 5A02FE31)
   (descr SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf)
   (tags "Omron B3F-10xx")
   (fp_text reference REF** (at 3.25 -2.05) (layer F.SilkS)
@@ -27,7 +27,7 @@
   (pad 3 thru_hole circle (at 0 4.5) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 6.5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

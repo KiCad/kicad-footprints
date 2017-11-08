@@ -1,4 +1,4 @@
-(module SW_CuK_JS202011CQN_DPDT_Straight (layer F.Cu) (tedit 5932DAF9)
+(module SW_CuK_JS202011CQN_DPDT_Straight (layer F.Cu) (tedit 5A02FE31)
   (descr "CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf")
   (tags "switch DPDT")
   (fp_text reference REF** (at 2.75 -1.6) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (pad 4 thru_hole circle (at 0 3.3) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 2.5 3.3) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 5 3.3) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_CuK_JS202011CQN_DPDT_Straight.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_CuK_JS202011CQN_DPDT_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module Nidec_Copal_SH-7010C (layer F.Cu) (tedit 59C33B14)
+(module Nidec_Copal_SH-7010C (layer F.Cu) (tedit 5A02FE31)
   (descr "4-bit rotary coded switch, through-hole, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf")
   (tags "rotary switch bcd")
   (fp_text reference REF** (at 3.81 -2.36) (layer F.SilkS)
@@ -41,7 +41,7 @@
   (fp_text user %R (at 3.81 2.54) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/Nidec_Copal_SH-7010C.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/Nidec_Copal_SH-7010C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

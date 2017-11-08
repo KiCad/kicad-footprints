@@ -1,4 +1,4 @@
-(module SW_PUSH_LCD_E3_SAxxxx (layer F.Cu) (tedit 594B9F41)
+(module SW_PUSH_LCD_E3_SAxxxx (layer F.Cu) (tedit 5A02FE31)
   (descr "Switch with LCD screen E3 SAxxxx")
   (tags "switch normally-open pushbutton push-button LCD")
   (fp_text reference REF** (at -17.75 -6.75) (layer F.SilkS)
@@ -31,7 +31,7 @@
   (pad 4 thru_hole circle (at -15 12) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 12) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0.5 6) (size 5.1 5.1) (drill 5.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

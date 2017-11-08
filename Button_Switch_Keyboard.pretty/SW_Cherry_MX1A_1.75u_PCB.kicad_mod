@@ -1,4 +1,4 @@
-(module SW_Cherry_MX1A_1.75u_PCB (layer F.Cu) (tedit 59ECB2D9)
+(module SW_Cherry_MX1A_1.75u_PCB (layer F.Cu) (tedit 5A02FE24)
   (descr "Cherry MX keyswitch, MX1A, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
   (tags "cherry mx keyswitch MX1A 1.75u PCB")
   (fp_text reference REF** (at -2.54 -2.794) (layer F.SilkS)
@@ -31,7 +31,7 @@
   (pad "" np_thru_hole circle (at -2.54 5.08) (size 4 4) (drill 4) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -7.62 5.08) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.54 5.08) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_1.75u_PCB.wrl
+  (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX1A_1.75u_PCB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

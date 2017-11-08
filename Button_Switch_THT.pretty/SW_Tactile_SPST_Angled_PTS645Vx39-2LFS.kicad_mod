@@ -1,4 +1,4 @@
-(module SW_Tactile_SPST_Angled_PTS645Vx39-2LFS (layer F.Cu) (tedit 592CADEA)
+(module SW_Tactile_SPST_Angled_PTS645Vx39-2LFS (layer F.Cu) (tedit 5A02FE31)
   (descr "tactile switch SPST right angle, PTS645VL39-2 LFS")
   (tags "tactile switch SPST angled PTS645VL39-2 LFS C&K Button")
   (fp_text reference REF** (at 2.25 1.68) (layer F.SilkS)
@@ -43,7 +43,7 @@
   (pad 2 thru_hole circle (at 4.5 0) (size 1.75 1.75) (drill 0.99) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 1.75 1.75) (drill 0.99) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -1.25 2.49) (size 2.1 2.1) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx39-2LFS.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx39-2LFS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

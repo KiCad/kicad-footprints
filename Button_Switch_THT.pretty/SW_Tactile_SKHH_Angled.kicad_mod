@@ -1,4 +1,4 @@
-(module SW_Tactile_SKHH_Angled (layer F.Cu) (tedit 59306804)
+(module SW_Tactile_SKHH_Angled (layer F.Cu) (tedit 5A02FE31)
   (descr "tactile switch 6mm ALPS SKHH right angle http://www.alps.com/prod/info/E/HTML/Tact/SnapIn/SKHH/SKHHLUA010.html")
   (tags "tactile switch 6mm ALPS SKHH right angle")
   (fp_text reference REF** (at 2.25 2.5) (layer F.SilkS)
@@ -59,7 +59,7 @@
   (pad "" thru_hole circle (at -1.25 2.5 180) (size 2.2 2.2) (drill 1.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 4.5 0 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_Tactile_SKHH_Angled.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_Tactile_SKHH_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

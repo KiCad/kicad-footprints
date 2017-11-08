@@ -1,4 +1,4 @@
-(module SW_Cherry_MX1A_ISOEnter_PCB (layer F.Cu) (tedit 59ECB43A)
+(module SW_Cherry_MX1A_ISOEnter_PCB (layer F.Cu) (tedit 5A02FE24)
   (descr "Cherry MX keyswitch, MX1A, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
   (tags "cherry mx keyswitch MX1A ISO enter PCB")
   (fp_text reference REF** (at -2.54 -2.794) (layer F.SilkS)
@@ -37,7 +37,7 @@
   (pad "" np_thru_hole circle (at 5.7 16.98) (size 4 4) (drill 4) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -9.54 16.98) (size 3.05 3.05) (drill 3.05) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -9.54 -6.82) (size 3.05 3.05) (drill 3.05) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_ISOEnter_PCB.wrl
+  (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX1A_ISOEnter_PCB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
