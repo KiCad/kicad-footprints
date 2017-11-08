@@ -1,4 +1,4 @@
-(module LEM_LA25-P (layer F.Cu) (tedit 58C3F5D8)
+(module LEM_LA25-P (layer F.Cu) (tedit 5A03055B)
   (descr "LEM LA25-P Current transducer, http://www.lem.com/docs/products/la_25-p.pdf")
   (tags "Current transducer")
   (fp_text reference REF** (at 15.24 -8.89) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.08 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 27.94 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model Hall-Effect_Transducers_LEM.3dshapes/LEM_LA25-P.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_LA25-P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 180 0 0))
