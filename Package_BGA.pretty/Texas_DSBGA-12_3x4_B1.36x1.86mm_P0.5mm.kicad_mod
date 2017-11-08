@@ -1,4 +1,4 @@
-(module Texas_DSBGA-12_3x4_1.36x1.86mm_Pitch0.5mm (layer F.Cu) (tedit 5A02E9B0)
+(module Texas_DSBGA-12_3x4_B1.36x1.86mm_P0.5mm (layer F.Cu) (tedit 5A02EC7E)
   (descr "Texas Instruments, DSBGA, 1.36x1.86mm, 12 bump 3x4 (area) array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/txs0104e.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)")
   (tags "Texas Instruments DSBGA BGA")
   (solder_mask_margin 0.05)
@@ -6,7 +6,7 @@
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Texas_DSBGA-12_3x4_1.36x1.86mm_Pitch0.5mm (at 0 2) (layer F.Fab)
+  (fp_text value Texas_DSBGA-12_3x4_B1.36x1.86mm_P0.5mm (at 0 2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.775 -1.025) (end -0.775 1.025) (layer F.SilkS) (width 0.12))
@@ -52,7 +52,7 @@
   (pad D1 smd rect (at -0.5 0.75) (size 0.3 0.3) (layers F.Paste))
   (pad D2 smd rect (at 0 0.75) (size 0.3 0.3) (layers F.Paste))
   (pad D3 smd rect (at 0.5 0.75) (size 0.3 0.3) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Texas_DSBGA-12_3x4_1.36x1.86mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Texas_DSBGA-12_3x4_B1.36x1.86mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
