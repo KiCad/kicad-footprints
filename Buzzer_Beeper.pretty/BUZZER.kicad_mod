@@ -1,4 +1,4 @@
-(module BUZZER (layer F.Cu) (tedit 5A030678
+(module BUZZER (layer F.Cu) (tedit 5A030678)
   (descr "Generic Buzzer")
   (tags buzzer)
   (fp_text reference REF** (at 5 -2.5) (layer F.SilkS)
