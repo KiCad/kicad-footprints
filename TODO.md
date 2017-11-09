@@ -115,8 +115,8 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [ ] TerminalBlock_WAGO
 - [ ] TO_SOT_Packages_SMD
 - [ ] TO_SOT_Packages_THT
-- [ ] Transformers_SMD
-- [ ] Transformers_THT
-- [ ] Valves
+- [x] Transformers_SMD
+- [x] Transformers_THT
+- [x] Valves
 - [ ] Varistors
 - [ ] Wire_Pads
