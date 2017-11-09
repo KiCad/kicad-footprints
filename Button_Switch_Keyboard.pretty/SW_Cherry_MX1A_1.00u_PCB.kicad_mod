@@ -1,6 +1,6 @@
 (module SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24)
-  (descr "Cherry MX keyswitch, MX1A, 1u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
-  (tags "cherry mx keyswitch MX1A 1u PCB")
+  (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
+  (tags "cherry mx keyswitch MX1A 1.00u PCB")
   (fp_text reference REF** (at -2.54 -2.794) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
