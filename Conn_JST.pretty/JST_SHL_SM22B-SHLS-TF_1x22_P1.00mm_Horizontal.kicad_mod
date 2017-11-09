@@ -1,5 +1,5 @@
-(module JST_SHL_SM22B-SHLS-TF_1x22_P1.00mm_Horizontal (layer F.Cu) (tedit 5A03BDC4)
-  (descr "JST SHL series connector, SM22B-SHLS-TF")
+(module JST_SHL_SM22B-SHLS-TF_1x22_P1.00mm_Horizontal (layer F.Cu) (tedit 5A03BFB8)
+  (descr "JST SHL series connector, SM22B-SHLS-TF (http://www.jst-mfg.com/product/pdf/eng/eSHL.pdf)")
   (tags "connector jst SHL SMT side")
   (attr smd)
   (fp_text reference REF** (at 0 -4.05) (layer F.SilkS)
