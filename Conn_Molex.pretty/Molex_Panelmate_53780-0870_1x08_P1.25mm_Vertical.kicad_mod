@@ -1,4 +1,4 @@
-(module Molex_Panelmate_53780-0870_1x08_P1.25mm_Vertical (layer F.Cu) (tedit 5A062581)
+(module Molex_Panelmate_53780-0870_1x08_P1.25mm_Vertical (layer F.Cu) (tedit 5A0637F0)
   (descr "JST Panelmate series connector, 53780-0870 ()")
   (tags "connector Molex Panelmate side entry")
   (attr smd)

@@ -1,5 +1,5 @@
-(module Molex_Pico-Clasp_202396-0907_1x09_P1.00mm_Horizontal (layer F.Cu) (tedit 5A062581)
-  (descr "JST Pico-Clasp series connector, 202396-0907 (http://www.molex.com/pdm_docs/sd/5013310207_sd.pdf)")
+(module Molex_Pico-Clasp_202396-0907_1x09_P1.00mm_Horizontal (layer F.Cu) (tedit 5A0637F1)
+  (descr "JST Pico-Clasp series connector, 202396-0907 (http://www.molex.com/pdm_docs/sd/2023960207_sd.pdf)")
   (tags "connector Molex Pico-Clasp top entry")
   (attr smd)
   (fp_text reference REF** (at 0 -4.53) (layer F.SilkS)

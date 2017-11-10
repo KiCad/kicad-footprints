@@ -1,4 +1,4 @@
-(module Molex_PicoBlade_53398-1071_1x10_P1.25mm_Vertical (layer F.Cu) (tedit 5A062581)
+(module Molex_PicoBlade_53398-1071_1x10_P1.25mm_Vertical (layer F.Cu) (tedit 5A0637F0)
   (descr "JST PicoBlade series connector, 53398-1071 (http://www.molex.com/pdm_docs/sd/533980271_sd.pdf)")
   (tags "connector Molex PicoBlade side entry")
   (attr smd)
