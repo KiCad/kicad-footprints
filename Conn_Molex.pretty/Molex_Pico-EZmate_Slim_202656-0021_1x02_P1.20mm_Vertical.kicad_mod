@@ -1,4 +1,4 @@
-(module Molex_Pico-EZmate_Slim_202656-0021_1x02_P1.20mm_Vertical (layer F.Cu) (tedit 5A062581)
+(module Molex_Pico-EZmate_Slim_202656-0021_1x02_P1.20mm_Vertical (layer F.Cu) (tedit 5A0637F0)
   (descr "JST Pico-EZmate_Slim series connector, 202656-0021 (http://www.molex.com/pdm_docs/sd/2026560021_sd.pdf)")
   (tags "connector Molex Pico-EZmate_Slim side entry")
   (attr smd)

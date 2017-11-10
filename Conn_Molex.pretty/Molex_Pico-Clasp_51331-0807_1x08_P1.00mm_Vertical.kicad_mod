@@ -1,4 +1,4 @@
-(module Molex_Pico-Clasp_51331-0807_1x08_P1.00mm_Vertical (layer F.Cu) (tedit 5A062581)
+(module Molex_Pico-Clasp_51331-0807_1x08_P1.00mm_Vertical (layer F.Cu) (tedit 5A0637F1)
   (descr "JST Pico-Clasp series connector, 51331-0807 (http://www.molex.com/pdm_docs/sd/5013310207_sd.pdf)")
   (tags "connector Molex Pico-Clasp side entry")
   (attr smd)
