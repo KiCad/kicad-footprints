@@ -1,4 +1,4 @@
-(module Texas_MicroStar_Junior_BGA-80_9x9_B5.0x5.0mm_P0.5mm (layer F.Cu) (tedit 5A02EC7E)
+(module Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm (layer F.Cu) (tedit 5A058D74)
   (descr "Texas Instruments, BGA Microstar Junior, 5x5mm, 80 ball 9x9 grid, NSMD pad definition (http://www.ti.com/lit/ds/symlink/tlv320aic23b.pdf, http://www.ti.com/lit/wp/ssyz015b/ssyz015b.pdf)")
   (tags Texas_Junior_BGA-80)
   (solder_mask_margin 0.05)
@@ -6,7 +6,7 @@
   (fp_text reference REF** (at 0 -3.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Texas_MicroStar_Junior_BGA-80_9x9_B5.0x5.0mm_P0.5mm (at 0 3.7) (layer F.Fab)
+  (fp_text value Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm (at 0 3.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2 -2.5) (end -2.5 -2) (layer F.Fab) (width 0.1))
@@ -108,7 +108,7 @@
   (pad G9 smd circle (at 2 1) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad H9 smd circle (at 2 1.5) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad J9 smd circle (at 2 2) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-80_9x9_B5.0x5.0mm_P0.5mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,11 +1,11 @@
-(module BGA-1023_32x32_B33.0x33.0mm_P1.0mm (layer F.Cu) (tedit 5A02EBFC)
+(module BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm (layer F.Cu) (tedit 5A058D74)
   (descr BGA-1023)
   (tags BGA-1023)
   (attr smd)
   (fp_text reference REF** (at 0 -17.78) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BGA-1023_32x32_B33.0x33.0mm_P1.0mm (at 0 17.78) (layer F.Fab)
+  (fp_text value BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm (at 0 17.78) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -1049,7 +1049,7 @@
   (pad AM30 smd circle (at 13.5 15.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad AM31 smd circle (at 14.5 15.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad AM32 smd circle (at 15.5 15.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-1023_32x32_B33.0x33.0mm_P1.0mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

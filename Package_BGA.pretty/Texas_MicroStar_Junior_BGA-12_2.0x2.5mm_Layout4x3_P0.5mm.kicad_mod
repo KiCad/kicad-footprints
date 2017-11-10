@@ -1,4 +1,4 @@
-(module Texas_MicroStar_Junior_BGA-12_4x3_B2.0x2.5mm_P0.5mm (layer F.Cu) (tedit 5A02EC7E)
+(module Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm (layer F.Cu) (tedit 5A058D74)
   (descr "Texas Instruments, BGA Microstar Junior, 2x2.5mm, 12 bump 4x3 grid, NSMD pad definition (http://www.ti.com/lit/ds/symlink/txb0104.pdf, http://www.ti.com/lit/wp/ssyz015b/ssyz015b.pdf)")
   (tags Texas_Junior_BGA-12)
   (solder_mask_margin 0.05)
@@ -6,7 +6,7 @@
   (fp_text reference REF** (at -0.25 -2.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Texas_MicroStar_Junior_BGA-12_4x3_B2.0x2.5mm_P0.5mm (at 0.25 2.75) (layer F.Fab)
+  (fp_text value Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm (at 0.25 2.75) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.75 -1) (end -1.25 -0.5) (layer F.Fab) (width 0.1))
@@ -39,7 +39,7 @@
   (pad C4 smd circle (at 0.75 0.5) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad B4 smd circle (at 0.75 0) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad A4 smd circle (at 0.75 -0.5) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-12_4x3_B2.0x2.5mm_P0.5mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
