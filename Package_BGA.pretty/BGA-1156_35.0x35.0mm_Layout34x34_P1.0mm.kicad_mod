@@ -1,11 +1,11 @@
-(module BGA-1156_34x34_B35.0x35.0mm_P1.0mm (layer F.Cu) (tedit 5A02EBFC)
+(module BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm (layer F.Cu) (tedit 5A058D74)
   (descr BGA-1156)
   (tags BGA-1156)
   (attr smd)
   (fp_text reference REF** (at 0 -18.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BGA-1156_34x34_B35.0x35.0mm_P1.0mm (at 0 18.5) (layer F.Fab)
+  (fp_text value BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm (at 0 18.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -1183,7 +1183,7 @@
   (pad AP33 smd circle (at 15.5 16.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad AP34 smd circle (at 16.5 16.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd circle (at -16.5 -16.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-1156_34x34_B35.0x35.0mm_P1.0mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
