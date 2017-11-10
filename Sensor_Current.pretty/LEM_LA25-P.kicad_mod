@@ -1,4 +1,4 @@
-(module LEM_LA25-P (layer F.Cu) (tedit 5A03055B)
+(module LEM_LA25-P (layer F.Cu) (tedit 5A04C96D)
   (descr "LEM LA25-P Current transducer, http://www.lem.com/docs/products/la_25-p.pdf")
   (tags "Current transducer")
   (fp_text reference REF** (at 15.24 -8.89) (layer F.SilkS)
@@ -30,7 +30,7 @@
   (fp_line (start -5.08 -7.62) (end -5.08 7.62) (layer F.CrtYd) (width 0.05))
   (fp_line (start 33.02 7.62) (end 33.02 -7.62) (layer F.CrtYd) (width 0.05))
   (fp_line (start 33.02 7.62) (end -5.08 7.62) (layer F.CrtYd) (width 0.05))
-  (pad 1 thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.08 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 27.94 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_LA25-P.wrl
