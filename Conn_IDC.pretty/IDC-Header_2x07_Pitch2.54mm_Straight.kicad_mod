@@ -1,6 +1,6 @@
 (module IDC-Header_2x07_Pitch2.54mm_Straight (layer F.Cu) (tedit 59DE0420)
-  (descr "14 pins through hole IDC header")
-  (tags "IDC header socket VASCH")
+  (descr "Through hole straight IDC box header, 2x07, 2.54mm pitch, double rows")
+  (tags "Through hole IDC box header THT 2x07 2.54mm double row")
   (fp_text reference REF** (at 1.27 -6.604) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
