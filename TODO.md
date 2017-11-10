@@ -101,8 +101,8 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [x] Resistors_SMD
 - [ ] Resistors_THT
 - [ ] Resistors_Universal
-- [ ] RF_Antennas
-- [ ] RF_Modules
+- [x] RF_Antennas
+- [x] RF_Modules
 - [ ] Shielding_Cabinets
 - [x] Socket_Strips
 - [ ] Sockets
