@@ -1,11 +1,11 @@
-(module Molex_Panelmate_53780-1870_1x18_P1.25mm_Vertical (layer F.Cu) (tedit 5A063FC6)
+(module Molex_Panelmate_53780-1870_1x18_P1.25mm_Horizontal (layer F.Cu) (tedit 5A06C479)
   (descr "JST Panelmate series connector, 53780-1870 (), generated with kicad-footprint-generator")
-  (tags "connector Molex Panelmate side entry")
+  (tags "connector Molex Panelmate top entry")
   (attr smd)
   (fp_text reference REF** (at 0 -5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Molex_Panelmate_53780-1870_1x18_P1.25mm_Vertical (at 0 5.5) (layer F.Fab)
+  (fp_text value Molex_Panelmate_53780-1870_1x18_P1.25mm_Horizontal (at 0 5.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -13.825 -2.25) (end 13.825 -2.25) (layer F.Fab) (width 0.1))
@@ -55,7 +55,7 @@
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Conn_Molex.3dshapes/Molex_Panelmate_53780-1870_1x18_P1.25mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Conn_Molex.3dshapes/Molex_Panelmate_53780-1870_1x18_P1.25mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
