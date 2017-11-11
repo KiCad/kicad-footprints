@@ -1,5 +1,5 @@
-(module Molex_Panelmate_53780-1070_1x10_P1.25mm_Vertical (layer F.Cu) (tedit 5A0637F0)
-  (descr "JST Panelmate series connector, 53780-1070 ()")
+(module Molex_Panelmate_53780-1070_1x10_P1.25mm_Vertical (layer F.Cu) (tedit 5A063FC6)
+  (descr "JST Panelmate series connector, 53780-1070 (), generated with kicad-footprint-generator")
   (tags "connector Molex Panelmate side entry")
   (attr smd)
   (fp_text reference REF** (at 0 -5.5) (layer F.SilkS)

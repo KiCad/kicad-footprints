@@ -1,5 +1,5 @@
-(module Molex_Pico-EZmate_78171-0005_1x05_P1.20mm_Vertical (layer F.Cu) (tedit 5A0637F0)
-  (descr "JST Pico-EZmate series connector, 78171-0005 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf)")
+(module Molex_Pico-EZmate_78171-0005_1x05_P1.20mm_Vertical (layer F.Cu) (tedit 5A063FC6)
+  (descr "JST Pico-EZmate series connector, 78171-0005 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Pico-EZmate side entry")
   (attr smd)
   (fp_text reference REF** (at 0 -4.05) (layer F.SilkS)
