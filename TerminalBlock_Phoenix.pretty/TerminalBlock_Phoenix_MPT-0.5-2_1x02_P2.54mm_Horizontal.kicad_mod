@@ -1,10 +1,10 @@
-(module TerminalBlock_Phoenix_MKT-0.5-2_1x02_P2.54mm_Horizontal (layer F.Cu) (tedit 5A0619C8)
-  (descr "Terminal Block, Phoenix MKT-0.5-2, 2 pins, pitch 2.54mm, size 5.08x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see https://www.phoenixcontact.com/pxc-my-downloads-servlet/DownloadServlet?tokenId=26d8655d-1f5e-4f2e-b607-a82c4a4f6b34&uid=null&email=null&firstName=null&lastName=null#Z7_82KCHG41MOJQ50AVGHU18H17P4, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
-  (tags "THT Terminal Block, Phoenix MKT-0.5-2 pitch 2.54mm size 5.08x6.2mm^2 drill 1.1mm pad 2.2mm")
+(module TerminalBlock_Phoenix_MPT-0.5-2_1x02_P2.54mm_Horizontal (layer F.Cu) (tedit 5A070F16)
+  (descr "Terminal Block, Phoenix MPT-0.5-2, 2 pins, pitch 2.54mm, size 5.08x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725656-920552.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
+  (tags "THT Terminal Block, Phoenix MPT-0.5-2 pitch 2.54mm size 5.08x6.2mm^2 drill 1.1mm pad 2.2mm")
   (fp_text reference REF** (at 1.27 -4.16) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TerminalBlock_Phoenix_MKT-0.5-2_1x02_P2.54mm_Horizontal (at 1.27 4.16) (layer F.Fab)
+  (fp_text value TerminalBlock_Phoenix_MPT-0.5-2_1x02_P2.54mm_Horizontal (at 1.27 4.16) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 0 0) (end 1.1 0) (layer F.Fab) (width 0.1))
@@ -45,7 +45,7 @@
   (fp_text user %R (at 1.27 2.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKT-0.5-2_1x02_P2.54mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-0.5-2_1x02_P2.54mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
