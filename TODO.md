@@ -31,34 +31,36 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [ ] Connectors_JAE
 - [ ] Connectors_JST
    - [ ] J11_B
-   - [ ] ACH_BxxB
+   - [x] ACH_BxxB
    - [ ] ACH_SxxB 
-   - [ ] AUH
+   - [x] AUH
    - [ ] EH
-   - [ ] GH_BMxxB
-   - [ ] GH_SMxxB
+   - [x] GH_BMxxB
+   - [x] GH_SMxxB
    - [ ] J2100_BxxB
    - [ ] J2100_SxxB
    - [ ] JWPF
-   - [ ] LEA
+   - [x] LEA
    - [ ] NV
    - [x] PH_BxxB
-   - [ ] PB_SxxB
+   - [x] PH_SxxB
    - [ ] PUD_BxxB
    - [ ] PUD_SxxB
-   - [ ] SFH
+   - [x] SFH
    - [x] SHL_SMxxB
-   - [ ] SH_BMxxB
-   - [ ] SH_SMxxB
-   - [ ] SUR_SMxxB
+   - [x] SH_BMxxB
+   - [x] SH_SMxxB
+   - [x] SUR_SMxxB
+   - [x] SUR_BMxxB
    - [ ] VH_BxP
    - [ ] VH_SxP
+   - [x] XAG
    - [ ] XH_BxxB
    - [ ] XH_SxxB
    - [ ] ZE_BxxB
-   - [ ] ZE_BMxxB
+   - [x] ZE_BMxxB
    - [ ] ZE_SxxB
-   - [ ] ZE_SMxxB
+   - [x] ZE_SMxxB
 - [ ] Connectors_Mini-Universal
 - [ ] Connectors_Molex
   - [ ] FFC
