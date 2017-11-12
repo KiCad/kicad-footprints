@@ -1,6 +1,6 @@
 (module TerminalBlock_Phoenix_PT-1,5-14-3.5-H_1x14_P3.50mm_Horizontal (layer F.Cu) (tedit 5A0820CB)
   (descr "Terminal Block Phoenix PT-1,5-14-3.5-H, 14 pins, pitch 3.5mm, size 49.0x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
-  (tags "THT Terminal Block Phoenix PT-1,5-14-3.5-H pitch 3.5mm size 49.0x7.6mm^2 drill 1.2mm pad 2.4mm")
+  (tags "THT Terminal Block Phoenix PT-1.5-14-3.5-H pitch 3.5mm size 49.0x7.6mm^2 drill 1.2mm pad 2.4mm")
   (fp_text reference REF** (at 22.75 -4.16) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
