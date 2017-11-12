@@ -26,7 +26,7 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [ ] Connectors_Harwin
 - [ ] Connectors_HDMI
 - [ ] Connectors_Hirose
-- [ ] Connectors_IDC
+- [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
 - [ ] Connectors_JST
