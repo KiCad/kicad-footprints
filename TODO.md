@@ -50,6 +50,24 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
    - [ ] ZE
 - [ ] Connectors_Mini-Universal
 - [ ] Connectors_Molex
+  - [ ] FFC
+  - [ ] KK
+  - [ ] MegaFit
+  - [ ] MicroFit 3.0
+  - [ ] MicroLatch
+  - [ ] Microfit3 (duplicate of 3.0?)
+  - [ ] MiniFit-JR
+  - [ ] MiniFit-SR
+  - [ ] NanoFit
+  - [x] Panelmate
+  - [x] Pico-EZMate
+  - [x] PicoBlade
+  - [x] PicoClasp
+  - [ ] PicoFlex
+  - [x] PicoLock
+  - [ ] SPOX
+  - [ ] Sabre
+  - [ ] SlimStack
 - [ ] Connectors_Multicomp
 - [ ] Connectors_Phoenix
 - [ ] Connectors_Samtec
