@@ -83,6 +83,7 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
   - [ ] SlimStack
 - [ ] Connectors_Multicomp
 - [ ] Connectors_Phoenix
+  - [x] PTSM (moved to terminal blocks)
 - [ ] Connectors_Samtec
 - [ ] Connectors_TE-Connectivity
 - [ ] Connectors_Terminal_Blocks
