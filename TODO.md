@@ -63,6 +63,7 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
    - [x] ZE_SMxxB
 - [ ] Connectors_Mini-Universal
 - [ ] Connectors_Molex
+  - [x] CLIK-mate
   - [ ] FFC
   - [ ] KK
   - [ ] MegaFit
