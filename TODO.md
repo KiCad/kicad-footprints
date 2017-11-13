@@ -83,7 +83,9 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
   - [ ] Sabre
   - [ ] SlimStack
 - [ ] Connectors_Multicomp
-- [ ] Connectors_Phoenix
+- [x] Connectors_Phoenix
+  - [x] MC
+  - [x] MSTB
   - [x] PTSM (moved to terminal blocks)
 - [ ] Connectors_Samtec
 - [ ] Connectors_TE-Connectivity
