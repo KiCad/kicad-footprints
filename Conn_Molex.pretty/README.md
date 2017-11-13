@@ -8,6 +8,7 @@ Footprints for connectors by Molex
  - Pico-EZmate Slim
  - PicoBlade
  - Pico-Clasp
+ - CLIK-Mate
 
 Script details:
 - author: Poeschl Rene
