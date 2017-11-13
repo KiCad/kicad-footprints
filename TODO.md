@@ -143,7 +143,7 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [x] TerminalBlock_4UCON
 - [x] TerminalBlock_MetzConnect
 - [ ] TerminalBlock_Philmore
-- [ ] TerminalBlock_Phoenix
+- [x] TerminalBlock_Phoenix
    - [x] MKDS-1.5
    - [x] MPT-2.54
    - [x] PT-3.5
