@@ -140,10 +140,14 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [x] Socket_Strips
 - [ ] Sockets
 - [ ] Symbols
-- [ ] TerminalBlock_4UCON
+- [x] TerminalBlock_4UCON
 - [x] TerminalBlock_MetzConnect
 - [ ] TerminalBlock_Philmore
 - [ ] TerminalBlock_Phoenix
+   - [x] MKDS-1.5
+   - [x] MPT-2.54
+   - [x] PT-3.5
+   - [x] PTSM
 - [x] TerminalBlock_RND
 - [ ] TerminalBlock_WAGO
 - [ ] TO_SOT_Packages_SMD
