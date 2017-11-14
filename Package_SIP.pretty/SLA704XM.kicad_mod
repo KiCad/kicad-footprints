@@ -1,4 +1,6 @@
-(module SLA704XM (layer F.Cu) (tedit 5A0AB2C7)
+(module SLA704XM (layer F.Cu) (tedit 5A0AB444)
+  (descr "SIP SLA704XM")
+  (tags SIP)
   (fp_text reference REF** (at 15 -6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
