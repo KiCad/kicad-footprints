@@ -144,14 +144,14 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [ ] Symbols
 - [x] TerminalBlock_4UCON
 - [x] TerminalBlock_MetzConnect
-- [ ] TerminalBlock_Philmore
+- [x] TerminalBlock_Philmore
 - [x] TerminalBlock_Phoenix
    - [x] MKDS-1.5
    - [x] MPT-2.54
    - [x] PT-3.5
    - [x] PTSM
 - [x] TerminalBlock_RND
-- [ ] TerminalBlock_WAGO
+- [x] TerminalBlock_WAGO
 - [ ] TO_SOT_Packages_SMD
 - [ ] TO_SOT_Packages_THT
 - [x] Transformers_SMD
