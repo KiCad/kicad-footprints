@@ -1,6 +1,7 @@
-(module Texas_S-PVQFN-N36 (layer F.Cu) (tedit 5A02F385)
+(module Texas_S-PVQFN-N36 (layer F.Cu) (tedit 5A0AA2C1)
   (descr "36 pin S-PVQFN Texas http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf")
   (tags "QFN-0.5 36 QFN 6x6 PVQFN Texas")
+  (solder_mask_margin 0.07)
   (attr smd)
   (fp_text reference REF** (at 0 -4.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
