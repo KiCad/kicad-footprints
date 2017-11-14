@@ -1,4 +1,4 @@
-(module SOT-23-8_Handsoldering (layer F.Cu) (tedit 58CE4E7E)
+(module SOT-23-8_Handsoldering (layer F.Cu) (tedit 5A0AB76C)
   (descr "8-pin SOT-23 package, Handsoldering, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf")
   (tags "SOT-23-8 Handsoldering")
   (attr smd)
@@ -30,7 +30,7 @@
   (pad 6 smd rect (at 1.35 0.33) (size 1.56 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 1.35 -0.33) (size 1.56 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 1.35 -0.98) (size 1.56 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes\SOT-23-8.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module SC-59_Handsoldering (layer F.Cu) (tedit 58CE4E7E)
+(module SC-59_Handsoldering (layer F.Cu) (tedit 5A0AB732)
   (descr "SC-59, hand-soldering varaint, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg")
   (tags "SC-59 hand-soldering")
   (attr smd)
@@ -27,7 +27,7 @@
   (pad 1 smd rect (at -1.65 -0.95) (size 1.8 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.65 0.95) (size 1.8 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.65 0) (size 1.8 0.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes\SC-59.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SC-59.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

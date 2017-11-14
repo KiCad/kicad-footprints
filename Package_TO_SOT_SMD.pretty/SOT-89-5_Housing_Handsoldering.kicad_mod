@@ -1,4 +1,4 @@
-(module SOT89-5_Housing_Handsoldering (layer F.Cu) (tedit 58CE4E7F)
+(module SOT89-5_Housing_Handsoldering (layer F.Cu) (tedit 5A0AB76C)
   (descr "SOT89-5, Housing,http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf")
   (tags "SOT89-5 Housing ")
   (attr smd)
@@ -33,7 +33,7 @@
   (pad 2 smd trapezoid (at -0.78 0 90) (size 1.5 0.75) (layers F.Cu F.Paste F.Mask)
     (rect_delta 0 0.5))
   (pad 2 smd rect (at 0 0 270) (size 2 0.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes\SOT89-5_Housing_Handsoldering.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT89-5_Housing_Handsoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 90))
