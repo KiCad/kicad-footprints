@@ -1,4 +1,4 @@
-(module TDSON-8-1_HandSoldering (layer F.Cu) (tedit 590D158A)
+(module TDSON-8-1_HandSoldering (layer F.Cu) (tedit 5A0AB76C)
   (descr "Power MOSFET package, TDSON-8-1, SuperS08, SON-8_5x6mm")
   (tags "tdson ")
   (attr smd)
@@ -36,7 +36,7 @@
   (pad 5 smd rect (at 1.25 1.09 270) (size 1.55 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -0.75 -1.09 270) (size 1.55 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -0.75 1.09 270) (size 1.55 1.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes\TDSON-8-1.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TDSON-8-1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

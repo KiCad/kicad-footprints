@@ -1,4 +1,4 @@
-(module SOT-23-5_HandSoldering (layer F.Cu) (tedit 58CE4E7E)
+(module SOT-23-5_HandSoldering (layer F.Cu) (tedit 5A0AB76C)
   (descr "5-pin SOT23 package")
   (tags "SOT-23-5 hand-soldering")
   (attr smd)
@@ -27,7 +27,7 @@
   (pad 3 smd rect (at -1.35 0.95) (size 1.56 0.65) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.35 0.95) (size 1.56 0.65) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.35 -0.95) (size 1.56 0.65) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes\SOT-23-5.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

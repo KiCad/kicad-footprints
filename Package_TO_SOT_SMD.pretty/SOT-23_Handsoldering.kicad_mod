@@ -1,4 +1,4 @@
-(module SOT-23_Handsoldering (layer F.Cu) (tedit 58CE4E7E)
+(module SOT-23_Handsoldering (layer F.Cu) (tedit 5A0AB76C)
   (descr "SOT-23, Handsoldering")
   (tags SOT-23)
   (attr smd)
@@ -27,7 +27,7 @@
   (pad 1 smd rect (at -1.5 -0.95) (size 1.9 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.5 0.95) (size 1.9 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.5 0) (size 1.9 0.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes\SOT-23.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
