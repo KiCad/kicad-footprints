@@ -1,4 +1,4 @@
-(module DirectFET_ME (layer F.Cu) (tedit 5A03011B)
+(module DirectFET_ME (layer F.Cu) (tedit 5A0AAFC5)
   (descr "IRF DirectFET_ME http://www.irf.com/technical-info/appnotes/an-1035.pdf")
   (tags "DirectFET ME Mosfet Infenion")
   (attr smd)
@@ -48,7 +48,7 @@
   (pad 3 smd rect (at 1.375 -0.85) (size 1 1.35) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -0.175 0.85) (size 1 1.35) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.375 0.85) (size 1 1.35) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_IR-DirectFet.3dshapes/DirectFET_ME.wrl
+  (model ${KISYS3DMOD}/Package_DirectFET.3dshapes/DirectFET_ME.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
