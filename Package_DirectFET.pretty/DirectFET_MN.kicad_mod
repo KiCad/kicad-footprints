@@ -1,4 +1,4 @@
-(module DirectFET_MN (layer F.Cu) (tedit 5A03011B)
+(module DirectFET_MN (layer F.Cu) (tedit 5A0AAFC5)
   (descr "DirectFET MN https://www.infineon.com/dgdl/irf6646pbf.pdf?fileId=5546d462533600a4015355ec5f071a55")
   (tags "DirectFET MN Mosfet Infenion")
   (attr smd)
@@ -45,7 +45,7 @@
   (pad 1 smd rect (at 3.2 1.175) (size 0.9 1.85) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.695 -0.7) (size 1.45 0.95) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.695 0.7) (size 1.45 0.95) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_IR-DirectFet.3dshapes/DirectFET_MN.wrl
+  (model ${KISYS3DMOD}/Package_DirectFET.3dshapes/DirectFET_MN.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
