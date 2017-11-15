@@ -96,7 +96,7 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [ ] Connectors
 - [ ] Converters_DCDC_ACDC
 - [ ] Crystals
-- [ ] Diodes_SMD
+- [x] Diodes_SMD
 - [ ] Diodes_THT
 - [x] Displays_7-Segment
 - [x] Displays
