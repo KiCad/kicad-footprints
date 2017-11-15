@@ -1,4 +1,4 @@
-(module QSOP-24_3.9x8.7mm_P0.635mm (layer F.Cu) (tedit 5A02F25C)
+(module QSOP-24_3.9x8.7mm_P0.635mm (layer F.Cu) (tedit 5A0BBDC2)
   (descr "24-Lead Plastic Shrink Small Outline Narrow Body (QR)-.150\" Body [QSOP] (see Microchip Packaging Specification 00000049CH.pdf)")
   (tags "QSOP 0.635")
   (attr smd)
