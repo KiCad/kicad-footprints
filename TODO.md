@@ -131,8 +131,8 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [x] Pin_Headers
 - [ ] Potentiometers
 - [ ] Power_Integrations
-- [ ] Relays_SMD
-- [ ] Relays_THT
+- [x] Relays_SMD
+- [x] Relays_THT
 - [x] Resistors_SMD
 - [ ] Resistors_THT
 - [ ] Resistors_Universal
