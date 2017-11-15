@@ -106,18 +106,18 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [ ] Fuse_Holders_and_Fuses
 - [ ] Hall-Effect_Transducers_LEM
 - [ ] Heatsinks
-- [ ] Housings_BGA
-- [ ] Housings_CSP
-- [ ] Housings_DFN_QFN
-- [ ] Housings_DIP
-- [ ] Housings_LCC
-- [ ] Housings_LGA
-- [ ] Housings_PGA
-- [ ] Housings_QFP
-- [ ] Housings_SIP
-- [ ] Housings_SOIC
-- [ ] Housings_SON
-- [ ] Housings_SSOP
+- [x] Housings_BGA
+- [x] Housings_CSP
+- [x] Housings_DFN_QFN
+- [x] Housings_DIP
+- [x] Housings_LCC
+- [x] Housings_LGA
+- [x] Housings_PGA
+- [x] Housings_QFP
+- [x] Housings_SIP
+- [x] Housings_SOIC
+- [x] Housings_SON
+- [x] Housings_SSOP
 - [x] Inductors_SMD
 - [ ] Inductors_THT
 - [x] LEDs
@@ -127,7 +127,7 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [ ] Mounting_Holes
 - [ ] Opto-Devices
 - [ ] Oscillators
-- [ ] Package_DirectFET
+- [x] Package_DirectFET
 - [x] Pin_Headers
 - [ ] Potentiometers
 - [ ] Power_Integrations
@@ -152,8 +152,8 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
    - [x] PTSM
 - [x] TerminalBlock_RND
 - [x] TerminalBlock_WAGO
-- [ ] TO_SOT_Packages_SMD
-- [ ] TO_SOT_Packages_THT
+- [x] TO_SOT_Packages_SMD
+- [x] TO_SOT_Packages_THT
 - [x] Transformers_SMD
 - [x] Transformers_THT
 - [x] Valves
