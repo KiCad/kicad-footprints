@@ -98,8 +98,8 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [ ] Crystals
 - [ ] Diodes_SMD
 - [ ] Diodes_THT
-- [ ] Displays_7-Segment
-- [ ] Displays
+- [x] Displays_7-Segment
+- [x] Displays
 - [ ] Enclosures
 - [ ] EuroBoard_Outline
 - [x] Fiducials
