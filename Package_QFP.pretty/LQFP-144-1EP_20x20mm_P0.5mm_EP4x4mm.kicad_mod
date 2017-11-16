@@ -191,7 +191,7 @@
     (solder_paste_margin_ratio -0.15))
   (pad 145 smd rect (at -1.34 1.34) (size 1.34 1.34) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.15))
-  (model ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-144_20x20mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-144_20x20mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
