@@ -1,11 +1,11 @@
-(module BGA-256_17.0x17.0mm_Layout16x16_P1.0mm (layer F.Cu) (tedit 5A058D74)
-  (descr "BGA-256, https://www.xilinx.com/support/documentation/package_specs/ft256.pdf")
+(module BGA-256_17.0x17.0mm_Layout16x16_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD (layer F.Cu) (tedit 5A058D74)
+  (descr "BGA-256, dimensions: https://www.xilinx.com/support/documentation/package_specs/ft256.pdf, design rules: https://www.xilinx.com/support/documentation/user_guides/ug1099-bga-device-design-rules.pdf")
   (tags BGA-256)
   (attr smd)
   (fp_text reference REF** (at 0 -9.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BGA-256_17.0x17.0mm_Layout16x16_P1.0mm (at 0 9.7) (layer F.Fab)
+  (fp_text value BGA-256_17.0x17.0mm_Layout16x16_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD (at 0 9.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -282,7 +282,7 @@
   (pad K16 smd circle (at 7.5 1.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad J16 smd circle (at 7.5 0.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad H16 smd circle (at 7.5 -0.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-256_17.0x17.0mm_Layout16x16_P1.0mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-256_17.0x17.0mm_Layout16x16_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
