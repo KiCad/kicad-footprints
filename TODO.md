@@ -1,16 +1,3 @@
-# Housings / Packages
-
-Housings_xxx will be renamed to Package_xxx
-
-Underway: https://github.com/KiCad/kicad-footprints/pull/15
-
-# Connectors
-
-Connectors_xxx will be renamed to Conn_xxx
-
-# Terminal Blocks
-
-New naming convention: TerminalBlock_Manufacturer{_Series}
 
 # Library Checklist
 
