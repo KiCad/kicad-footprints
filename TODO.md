@@ -128,7 +128,7 @@
 - [ ] Shielding_Cabinets
 - [x] Socket_Strips
 - [x] Sockets
-- [ ] Symbols
+- [x] Symbols
 - [x] TerminalBlock_4UCON
 - [x] TerminalBlock_MetzConnect
 - [x] TerminalBlock_Philmore
