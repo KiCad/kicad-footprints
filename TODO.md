@@ -111,7 +111,7 @@
 - [ ] Measurement_Scales
 - [ ] Microwave
 - [ ] Modules
-- [ ] Mounting_Holes
+- [x] Mounting_Holes
 - [ ] Opto-Devices
 - [ ] Oscillators
 - [x] Package_DirectFET
@@ -127,7 +127,7 @@
 - [x] RF_Modules
 - [ ] Shielding_Cabinets
 - [x] Socket_Strips
-- [ ] Sockets
+- [x] Sockets
 - [ ] Symbols
 - [x] TerminalBlock_4UCON
 - [x] TerminalBlock_MetzConnect
