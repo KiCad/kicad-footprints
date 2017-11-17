@@ -127,7 +127,7 @@
 - [x] RF_Modules
 - [ ] Shielding_Cabinets
 - [x] Socket_Strips
-- [ ] Sockets
+- [x] Sockets
 - [ ] Symbols
 - [x] TerminalBlock_4UCON
 - [x] TerminalBlock_MetzConnect
