@@ -144,5 +144,5 @@
 - [x] Transformers_SMD
 - [x] Transformers_THT
 - [x] Valves
-- [ ] Varistors
+- [x] Varistors
 - [ ] Wire_Pads
