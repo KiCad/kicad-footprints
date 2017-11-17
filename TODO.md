@@ -111,7 +111,7 @@
 - [ ] Measurement_Scales
 - [ ] Microwave
 - [ ] Modules
-- [ ] Mounting_Holes
+- [x] Mounting_Holes
 - [ ] Opto-Devices
 - [ ] Oscillators
 - [x] Package_DirectFET
