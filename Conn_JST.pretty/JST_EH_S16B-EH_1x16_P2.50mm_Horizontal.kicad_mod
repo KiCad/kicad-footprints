@@ -1,4 +1,4 @@
-(module JST_EH_S16B-EH_1x16_P2.50mm_Horizontal (layer F.Cu) (tedit 5A0E3FFB)
+(module JST_EH_S16B-EH_1x16_P2.50mm_Horizontal (layer F.Cu) (tedit 5A0EB03C)
   (descr "JST EH series connector, S16B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST EH top entry")
   (fp_text reference REF** (at 18.75 -7.9) (layer F.SilkS)

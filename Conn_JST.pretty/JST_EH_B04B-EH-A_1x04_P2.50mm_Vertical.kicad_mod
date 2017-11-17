@@ -1,4 +1,4 @@
-(module JST_EH_B04B-EH-A_1x04_P2.50mm_Vertical (layer F.Cu) (tedit 5A0E3FFE)
+(module JST_EH_B04B-EH-A_1x04_P2.50mm_Vertical (layer F.Cu) (tedit 5A0EB040)
   (descr "JST EH series connector, B04B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST EH side entry")
   (fp_text reference REF** (at 3.75 -2.8) (layer F.SilkS)
