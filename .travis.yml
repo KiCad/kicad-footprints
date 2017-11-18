@@ -1,7 +1,7 @@
 
 before_install:
-- git clone --depth 1 https://github.com/KiCad/kicad-library-utils $TRAVIS_BUILD_DIR/kicad-library-utils
+- git clone --depth 1 https://github.com/KiCad/kicad-library-utils /home/travis/build/kicad-library-utils
 
 script:
-- bash $TRAVIS_BUILD_DIR/kicad-library-utils/pcb/travis/check_all.sh $TRAVIS_BUILD_DIR
-- python $TRAVIS_BUILD_DIR/kicad-library-utils/check_lib_table.py $TRAVIS_BUILD_DIR/*.pretty --table $TRAVIS_BUILD_DIR/fp-lib-table
+- bash /home/travis/build/kicad-library-utils/pcb/travis/check_all.sh $TRAVIS_BUILD_DIR
+- python /home/travis/build/kicad-library-utils/check_lib_table.py /home/travis/build/*.pretty --table $TRAVIS_BUILD_DIR/fp-lib-table
