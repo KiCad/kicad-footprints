@@ -88,7 +88,7 @@
 - [x] Displays_7-Segment
 - [x] Displays
 - [ ] Enclosures
-- [ ] EuroBoard_Outline
+- [x] EuroBoard_Outline
 - [x] Fiducials
 - [ ] Fuse_Holders_and_Fuses
 - [x] Hall-Effect_Transducers_LEM
