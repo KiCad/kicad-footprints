@@ -88,7 +88,7 @@
 - [x] Displays_7-Segment
 - [x] Displays
 - [ ] Enclosures
-- [ ] EuroBoard_Outline
+- [x] EuroBoard_Outline
 - [x] Fiducials
 - [ ] Fuse_Holders_and_Fuses
 - [x] Hall-Effect_Transducers_LEM
@@ -128,7 +128,7 @@
 - [ ] Shielding_Cabinets
 - [x] Socket_Strips
 - [x] Sockets
-- [ ] Symbols
+- [x] Symbols
 - [x] TerminalBlock_4UCON
 - [x] TerminalBlock_MetzConnect
 - [x] TerminalBlock_Philmore
