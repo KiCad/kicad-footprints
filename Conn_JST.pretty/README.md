@@ -5,17 +5,17 @@ This library contains footprints for JST connectors
 
 Footprints for the following connectors are generated with the generic script:
 
-- 'ACH'
-- 'AUH'
-- 'LEA'
-- 'GH'
-- 'PH' (only SMD version = `*PH-SM4*`)
-- 'SFH'
-- 'SHL'
-- 'SH'
-- 'SUR'
-- 'XAG'
-- 'ZE'
+- ACH
+- AUH
+- LEA
+- GH
+- PH (only SMD version = `*PH-SM4*`)
+- SFH
+- SHL
+- SH
+- SUR
+- XAG
+- ZE
 
 Script details:
 
@@ -28,11 +28,18 @@ Script details:
 ---
 
 Specialized scripts are used to generate the following connectors:
-
-- 'PH' (only THT version = `*PH-K*`)
+- EH
+- J2100
+- JWPF
+- NV
+- PH (only THT version = `*PH-K*`)
+- PUD
+- VH
+- XH
+- ZE
 
 Script details
-- authors: Poeschl Rene, Jan W. Krieger, Oliver Walters
+- authors: Poeschl Rene, Jan W. Krieger, Oliver Walters, evanshultz, Thomas Pointhuber (see git log for details)
 - script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connectors_JST/
 - used config file (where applicable): config_KLCv3.0.yaml
 - python version: 3.6.2
