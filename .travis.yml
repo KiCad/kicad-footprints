@@ -4,5 +4,4 @@ before_install:
 
 script:
 - sudo bash /home/travis/build/kicad-library-utils/pcb/travis/check_all.sh $TRAVIS_BUILD_DIR
-- ls $TRAVIS_BUILD_DIR
 - python /home/travis/build/kicad-library-utils/check_lib_table.py $TRAVIS_BUILD_DIR/*.pretty --table $TRAVIS_BUILD_DIR/fp-lib-table
