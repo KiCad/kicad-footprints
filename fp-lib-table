@@ -92,5 +92,5 @@
   (lib (name Transformer_THT)(type KiCad)(uri ${KISYSMOD}/Transformer_THT.pretty)(options "")(descr "Through hole transformers"))
   (lib (name Valve)(type KiCad)(uri ${KISYSMOD}/Valve.pretty)(options "")(descr "Valve"))
   (lib (name Varistor)(type KiCad)(uri ${KISYSMOD}/Varistor.pretty)(options "")(descr "Varistor"))
-  (lib (name WirePads)(type KiCad)(uri ${KISYSMOD}/WirePads.pretty)(options "")(descr "Direct wire-to-board connection points"))
+  (lib (name WirePad)(type KiCad)(uri ${KISYSMOD}/WirePad.pretty)(options "")(descr "Direct wire-to-board connection points"))
 )
