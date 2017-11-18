@@ -88,4 +88,9 @@
   (pad 14 smd rect (at 4.35 -1.05 90) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 4.35 -2.3 90) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 4.35 -3.45 90) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/Microchip_RN4871.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
