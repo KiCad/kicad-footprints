@@ -1,6 +1,6 @@
-(module Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm (layer F.Cu) (tedit 5A0FCA65)
+(module Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm (layer F.Cu) (tedit 5A0FCF11)
   (descr "Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,")
-  (tags "Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC, Kuehlkoerper,  Strangkuehlkoerper, Loetbefestigung, for TO-220")
+  (tags "Heatsink fischer TO-220")
   (fp_text reference REF** (at -0.025 -4.875) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
