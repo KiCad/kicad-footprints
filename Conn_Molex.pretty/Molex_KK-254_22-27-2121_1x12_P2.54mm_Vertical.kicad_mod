@@ -1,5 +1,5 @@
-(module Molex_KK-254_22-27-2121_1x12_P2.54mm_Vertical (layer F.Cu) (tedit 5A10922F)
-  (descr "Molex KK-254 (6410) series connector, 22-27-2121, 12Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
+(module Molex_KK-254_22-27-2121_1x12_P2.54mm_Vertical (layer F.Cu) (tedit 5A10BFC7)
+  (descr "Molex KK-254 Interconnect System (6410), 22-27-2121, 12 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex KK-254 side entry")
   (fp_text reference REF** (at 13.97 -4.12) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
