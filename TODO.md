@@ -82,7 +82,7 @@
 - [ ] Connectors_USB
 - [ ] Connectors
 - [ ] Converters_DCDC_ACDC
-- [ ] Crystals
+- [x] Crystals
 - [x] Diodes_SMD
 - [ ] Diodes_THT
 - [x] Displays_7-Segment
