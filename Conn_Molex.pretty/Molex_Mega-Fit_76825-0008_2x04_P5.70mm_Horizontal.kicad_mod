@@ -1,4 +1,4 @@
-(module Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal (layer F.Cu) (tedit 5A10D856)
+(module Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal (layer F.Cu) (tedit 5A11601C)
   (descr "Molex Mega-Fit Power Connectors, 76825-0008 (compatible alternatives: 172064-0008, 172064-1008), 4 Pins per row (http://www.molex.com/pdm_docs/sd/1720640002_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Mega-Fit top entry")
   (fp_text reference REF** (at 8.55 -17.1) (layer F.SilkS)
