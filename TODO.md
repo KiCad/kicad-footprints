@@ -88,11 +88,11 @@
 - [x] Relays_SMD
 - [x] Relays_THT
 - [x] Resistors_SMD
-- [ ] Resistors_THT
+- [x] Resistors_THT
 - [x] Resistors_Universal
 - [x] RF_Antennas
 - [x] RF_Modules
-- [ ] Shielding_Cabinets
+- [x] Shielding_Cabinets
 - [x] Socket_Strips
 - [x] Sockets
 - [x] Symbols
