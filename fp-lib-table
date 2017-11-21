@@ -47,6 +47,7 @@
   (lib (name RF_Antenna)(type KiCad)(uri ${KISYSMOD}/RF_Antenna.pretty)(options "")(descr "Radio-frequency / wireless antenna footprints"))
   (lib (name RF_Module)(type KiCad)(uri ${KISYSMOD}/RF_Module.pretty)(options "")(descr "Radio-frequency / wireless modules"))
   (lib (name Sensor_Current)(type KiCad)(uri ${KISYSMOD}/Sensor_Current.pretty)(options "")(descr "Specialied footprints for hall effect current sensors"))
+  (lib (name Shielding)(type KiCad)(uri ${KISYSMOD}/Shielding.pretty)(options "")(descr "Specialied footprints for EMI shields and covers"))
   (lib (name Symbol)(type KiCad)(uri ${KISYSMOD}/Symbol.pretty)(options "")(descr "PCB symbols"))
   (lib (name TerminalBlock_4Ucon)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_4Ucon.pretty)(options "")(descr "4UCON terminal blocks"))
   (lib (name TerminalBlock_MetzConnect)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_MetzConnect.pretty)(options "")(descr "Metz Connect terminal blocks"))
