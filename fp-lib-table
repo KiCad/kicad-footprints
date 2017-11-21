@@ -20,6 +20,7 @@
   (lib (name Conn_PinSocket_2.54mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinSocket_2.54mm.pretty)(options "")(descr "Pin sockets, 2.54mm pitch"))
   (lib (name Conn_Phoenix_MC)(type KiCad)(uri ${KISYSMOD}/Conn_Phoenix_MC.pretty)(options "")(descr "Phoenix MC connector footprints"))
   (lib (name Conn_Phoenix_MSTB)(type KiCad)(uri ${KISYSMOD}/Conn_Phoenix_MSTB.pretty)(options "")(descr "Phoenix MSTB connector footprints"))
+  (lib (name Conn_USB)(type KiCad)(uri ${KISYSMOD}/Conn_USB.pretty)(options "")(descr "USB connector footprints"))
   (lib (name Crystal)(type KiCad)(uri ${KISYSMOD}/Crystal.pretty)(options "")(descr "Crystal footprints"))
   (lib (name Diode_SMD)(type KiCad)(uri ${KISYSMOD}/Diode_SMD.pretty)(options "")(descr "Diode footprints, surface mount"))
   (lib (name Diode_THT)(type KiCad)(uri ${KISYSMOD}/Diode_THT.pretty)(options "")(descr "Diode footprints, through hole"))
