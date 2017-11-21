@@ -92,7 +92,7 @@
 - [x] Resistors_Universal
 - [x] RF_Antennas
 - [x] RF_Modules
-- [ ] Shielding_Cabinets
+- [x] Shielding_Cabinets
 - [x] Socket_Strips
 - [x] Sockets
 - [x] Symbols
