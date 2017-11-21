@@ -88,7 +88,7 @@
 - [x] Relays_SMD
 - [x] Relays_THT
 - [x] Resistors_SMD
-- [ ] Resistors_THT
+- [x] Resistors_THT
 - [x] Resistors_Universal
 - [x] RF_Antennas
 - [x] RF_Modules
