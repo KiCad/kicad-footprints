@@ -7,7 +7,7 @@
 - [x] Buzzers_Beepers
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
-- [ ] Capacitors_THT
+- [x] Capacitors_THT
 - [ ] Connectors_Card
 - [x] Connectors_DSub
 - [ ] Connectors_Harwin
@@ -54,7 +54,7 @@
 - [ ] Diodes_THT
 - [x] Displays_7-Segment
 - [x] Displays
-- [ ] Enclosures
+- [x] Enclosures
 - [x] EuroBoard_Outline
 - [x] Fiducials
 - [ ] Fuse_Holders_and_Fuses
