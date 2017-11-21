@@ -73,7 +73,7 @@
 - [x] Housings_SON
 - [x] Housings_SSOP
 - [x] Inductors_SMD
-- [ ] Inductors_THT
+- [x] Inductors_THT
 - [x] LEDs
 - [ ] Measurement_Scales
 - [ ] Microwave
