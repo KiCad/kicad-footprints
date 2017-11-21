@@ -1,4 +1,4 @@
-(module L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30 (layer F.Cu) (tedit 587E3FCE)
+(module L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30 (layer F.Cu) (tedit 5A1421CD)
   (descr "L, Radial series, Radial, pin pitch=7.62*7.62mm^2, , length*width=10.16*10.16mm^2, Pulse, LP-30, http://datasheet.octopart.com/PE-54044NL-Pulse-datasheet-5313493.pdf")
   (tags "L Radial series Radial pin pitch 7.62*7.62mm^2  length 10.16mm width 10.16mm Pulse LP-30")
   (fp_text reference REF** (at 3.81 -9.95) (layer F.SilkS)
@@ -21,7 +21,7 @@
   (fp_line (start 9.2 -9.2) (end -1.6 -9.2) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1.0) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 7.62 -7.62) (size 2 2) (drill 1.0) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

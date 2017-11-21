@@ -1,4 +1,4 @@
-(module L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm (layer F.Cu) (tedit 5880B84E)
+(module L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm (layer F.Cu) (tedit 5A1421CD)
   (descr "L_Toroid, Vertical series, Radial, pin pitch=7.62mm, , length*width=16*8mm^2")
   (tags "L_Toroid Vertical series Radial pin pitch 7.62mm  length 16mm width 8mm")
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
@@ -37,7 +37,7 @@
   (fp_line (start 8.35 -1.8) (end -8.35 -1.8) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 7.62) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

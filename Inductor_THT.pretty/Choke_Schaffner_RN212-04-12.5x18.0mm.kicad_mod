@@ -1,4 +1,4 @@
-(module Choke_Schaffner_RN212-04-12.5x18.0mm (layer F.Cu) (tedit 59B39B72)
+(module Choke_Schaffner_RN212-04-12.5x18.0mm (layer F.Cu) (tedit 5A1421CD)
   (descr "Current-compensated Chokes, Scaffner, RN212-04, 12.5mmx18.0mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/")
   (tags "chokes schaffner tht")
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
@@ -31,7 +31,7 @@
   (fp_text user %R (at 5 7.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/Choke_Schaffner_RN212-04-12.5x18.0mm.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/Choke_Schaffner_RN212-04-12.5x18.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module L_Toroid_Vertical_L14.0mm_W6.3mm_P4.57mm_Pulse_A (layer F.Cu) (tedit 5880B84E)
+(module L_Toroid_Vertical_L14.0mm_W6.3mm_P4.57mm_Pulse_A (layer F.Cu) (tedit 5A1421CD)
   (descr "L_Toroid, Vertical series, Radial, pin pitch=4.57mm, , length*width=13.97*6.35mm^2, Pulse, A, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf")
   (tags "L_Toroid Vertical series Radial pin pitch 4.57mm  length 13.97mm width 6.35mm Pulse A")
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (fp_line (start 7.3 -1.75) (end -7.3 -1.75) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 4.57) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L14.0mm_W6.3mm_P4.57mm_Pulse_A.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Vertical_L14.0mm_W6.3mm_P4.57mm_Pulse_A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

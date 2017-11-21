@@ -1,4 +1,4 @@
-(module L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2 (layer F.Cu) (tedit 587E3FCE)
+(module L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2 (layer F.Cu) (tedit 5A1421CD)
   (descr "L, Axial series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=6.6*2.7mm^2, Vishay, IM-2, http://www.vishay.com/docs/34030/im.pdf")
   (tags "L Axial series Axial Horizontal pin pitch 10.16mm  length 6.6mm diameter 2.7mm Vishay IM-2")
   (fp_text reference REF** (at 5.08 -2.41) (layer F.SilkS)
@@ -25,7 +25,7 @@
   (fp_line (start 11.25 -1.7) (end -1.05 -1.7) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 10.16 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module L_Radial_D12.0mm_P5.00mm_Fastron_11P (layer F.Cu) (tedit 587E3FCE)
+(module L_Radial_D12.0mm_P5.00mm_Fastron_11P (layer F.Cu) (tedit 5A1421CD)
   (descr "L, Radial series, Radial, pin pitch=5.00mm, , diameter=12.0mm, Fastron, 11P, http://cdn-reichelt.de/documents/datenblatt/B400/DS_11P.pdf")
   (tags "L Radial series Radial pin pitch 5.00mm  diameter 12.0mm Fastron 11P")
   (fp_text reference REF** (at 2.5 -7.06) (layer F.SilkS)
@@ -15,7 +15,7 @@
   (fp_line (start 8.85 -6.35) (end -3.85 -6.35) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5 0) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Radial_D12.0mm_P5.00mm_Fastron_11P.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Radial_D12.0mm_P5.00mm_Fastron_11P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

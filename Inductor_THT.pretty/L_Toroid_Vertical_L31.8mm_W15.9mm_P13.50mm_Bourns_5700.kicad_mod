@@ -1,4 +1,4 @@
-(module L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700 (layer F.Cu) (tedit 5880B84E)
+(module L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700 (layer F.Cu) (tedit 5A1421CD)
   (descr "L_Toroid, Vertical series, Radial, pin pitch=13.50mm, , length*width=31.8*15.9mm^2, Bourns, 5700, http://www.bourns.com/docs/Product-Datasheets/5700_series.pdf")
   (tags "L_Toroid Vertical series Radial pin pitch 13.50mm  length 31.8mm width 15.9mm Bourns 5700")
   (fp_text reference REF** (at 0 -3.05) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (fp_line (start 16.25 -2.1) (end -16.25 -2.1) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 13.5) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
