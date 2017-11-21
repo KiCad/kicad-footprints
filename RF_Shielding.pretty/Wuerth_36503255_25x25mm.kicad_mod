@@ -1,4 +1,4 @@
-(module Wuerth_36503255_25x25mm (layer F.Cu) (tedit 5A142F1B)
+(module Wuerth_36503255_25x25mm (layer F.Cu) (tedit 5A143358)
   (descr "WE-SHC Shielding Cabinet THT 26x26mm")
   (tags "Shielding Cabinet")
   (fp_text reference REF** (at 0 -14.85) (layer F.SilkS)
@@ -66,7 +66,7 @@
   (pad 1 thru_hole circle (at -12.75 -10.16) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -10.16 12.75) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -10.16 -12.75) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Shielding.3dshapes/Wuerth_36503255_25x25mm.wrl
+  (model ${KISYS3DMOD}/RF_Shielding.3dshapes/Wuerth_36503255_25x25mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

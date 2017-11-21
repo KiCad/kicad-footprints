@@ -1,4 +1,4 @@
-(module Wuerth_36103305_30x30mm (layer F.Cu) (tedit 5A142F1B)
+(module Wuerth_36103305_30x30mm (layer F.Cu) (tedit 5A143358)
   (descr "WE-SHC Shielding Cabinet SMD 30x30mm")
   (tags "Shielding Cabinet")
   (attr smd)
@@ -71,7 +71,7 @@
   (pad 1 smd rect (at 15.25 8.75) (size 1 2.6) (layers F.Cu F.Mask))
   (pad 1 smd rect (at -15.25 13.6) (size 1 2.3) (layers F.Cu F.Mask))
   (pad 1 smd rect (at 15.25 13.6) (size 1 2.3) (layers F.Cu F.Mask))
-  (model ${KISYS3DMOD}/Shielding.3dshapes/Wuerth_36103305_30x30mm.wrl
+  (model ${KISYS3DMOD}/RF_Shielding.3dshapes/Wuerth_36103305_30x30mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
