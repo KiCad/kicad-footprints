@@ -90,7 +90,7 @@
   (pad 11 smd rect (at -2.8 15) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 9.5 9.7) (size 1.2 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at -3.05 14.75 45) (size 0.2 0.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connectors_Card.3dshapes/Hirose_DM3BT-DSF-PEJS.wrl
+  (model ${KISYS3DMOD}/Conn_Card.3dshapes/Hirose_DM3BT-DSF-PEJS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
