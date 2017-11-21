@@ -1,4 +1,4 @@
-(module Würth_36503305_30x30mm (layer F.Cu) (tedit 57A3A49C)
+(module Würth_36503305_30x30mm (layer F.Cu) (tedit 5A1428F9)
   (descr "WE-SHC Shielding Cabinet THT 31x31mm")
   (tags "Shielding Cabinet")
   (fp_text reference REF** (at 0 -17.35) (layer F.SilkS)
@@ -71,7 +71,7 @@
   (pad 1 thru_hole circle (at -15.25 -12.7) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -12.7 15.25) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -12.7 -15.25) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
-  (model Shielding_Cabinets.3dshapes/Würth_36503305_30x30mm.wrl
+  (model ${KISYS3DMOD}/Shielding.3dshapes/Würth_36503305_30x30mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
