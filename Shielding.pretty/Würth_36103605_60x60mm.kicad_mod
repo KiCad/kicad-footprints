@@ -1,4 +1,4 @@
-(module Würth_36103605_60x60mm (layer F.Cu) (tedit 57A3A4A0)
+(module Würth_36103605_60x60mm (layer F.Cu) (tedit 5A1428F9)
   (descr "WE-SHC Shielding Cabinet SMD 60x60mm")
   (tags "Shielding Cabinet")
   (attr smd)
@@ -116,7 +116,7 @@
   (pad 1 smd rect (at 30.25 23.75) (size 1 2.6) (layers F.Cu F.Mask))
   (pad 1 smd rect (at -30.25 28.5) (size 1 2.5) (layers F.Cu F.Mask))
   (pad 1 smd rect (at 30.25 28.5) (size 1 2.5) (layers F.Cu F.Mask))
-  (model Shielding_Cabinets.3dshapes/Würth_36103605_60x60mm.wrl
+  (model ${KISYS3DMOD}/Shielding.3dshapes/Würth_36103605_60x60mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
