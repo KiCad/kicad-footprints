@@ -42,6 +42,7 @@
 - [x] Connectors_Phoenix
 - [ ] Connectors_Samtec
 - [ ] Connectors_TE-Connectivity
+- [ ] Connectors_Tab (Tab / Blade connectors)
 - [ ] Connectors_Terminal_Blocks
 - [ ] Connectors_TestPoints
 - [ ] Connectors_WAGO
