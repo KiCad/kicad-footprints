@@ -1,10 +1,10 @@
-(module Würth_36503505_50x50mm (layer F.Cu) (tedit 5A142909)
+(module Wurth_36503505_50x50mm (layer F.Cu) (tedit 5A142949)
   (descr "WE-SHC Shielding Cabinet THT 51x51mm")
   (tags "Shielding Cabinet")
   (fp_text reference REF** (at 0 -27.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Würth_36503505_50x50mm (at 0 27.35) (layer F.Fab)
+  (fp_text value Wurth_36503505_50x50mm (at 0 27.35) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -106,7 +106,7 @@
   (pad 1 thru_hole circle (at -25.25 -22.86) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -22.86 25.25) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -22.86 -25.25) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Shielding.3dshapes/Würth_36503505_50x50mm.wrl
+  (model ${KISYS3DMOD}/Shielding.3dshapes/Wurth_36503505_50x50mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
