@@ -1,5 +1,5 @@
 (module C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal (layer F.Cu) (tedit 5A142A3B)
-  (descr "C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=19*8.0mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf")
+  (descr "C, Axial series, Axial, Horizontal, pin pitch=25mm, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf")
   (tags "C Axial series Axial Horizontal pin pitch 25mm  length 19mm diameter 8.0mm")
   (fp_text reference REF** (at 12.5 -5.06) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

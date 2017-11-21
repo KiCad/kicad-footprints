@@ -1,5 +1,5 @@
 (module C_Rect_L27.0mm_W9.0mm_P23.00mm (layer F.Cu) (tedit 5A142A3B)
-  (descr "C, Rect series, Radial, pin pitch=23.00mm, , length*width=27*9mm^2, Capacitor")
+  (descr "C, Rect series, Radial, pin pitch=23.00mm, length*width=27*9mm^2, Capacitor")
   (tags "C Rect series Radial pin pitch 23.00mm  length 27mm width 9mm Capacitor")
   (fp_text reference REF** (at 11.5 -5.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,5 +1,5 @@
 (module CP_Axial_L42.5mm_D20.0mm_P49.00mm_Horizontal (layer F.Cu) (tedit 5A142A3B)
-  (descr "CP, Axial series, Axial, Horizontal, pin pitch=49mm, , length*diameter=42.5*20mm^2, Electrolytic Capacitor")
+  (descr "CP, Axial series, Axial, Horizontal, pin pitch=49mm, Electrolytic Capacitor")
   (tags "CP Axial series Axial Horizontal pin pitch 49mm  length 42.5mm diameter 20mm Electrolytic Capacitor")
   (fp_text reference REF** (at 24.5 -11.06) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
