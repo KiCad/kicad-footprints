@@ -117,7 +117,7 @@
 - [x] Package_DirectFET
 - [x] Pin_Headers
 - [ ] Potentiometers
-- [ ] Power_Integrations
+- [x] Power_Integrations
 - [x] Relays_SMD
 - [x] Relays_THT
 - [x] Resistors_SMD
