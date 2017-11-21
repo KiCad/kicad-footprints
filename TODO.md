@@ -51,7 +51,7 @@
 - [ ] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
-- [ ] Diodes_THT
+- [x] Diodes_THT
 - [x] Displays_7-Segment
 - [x] Displays
 - [x] Enclosures
