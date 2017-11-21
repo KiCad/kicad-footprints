@@ -8,7 +8,7 @@
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
 - [x] Capacitors_THT
-- [ ] Connectors_Card
+- [x] Connectors_Card
 - [x] Connectors_DSub
 - [ ] Connectors_Harwin
 - [ ] Connectors_HDMI
