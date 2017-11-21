@@ -1,4 +1,4 @@
-(module R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm (layer F.Cu) (tedit 5874F706)
+(module R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm (layer F.Cu) (tedit 5A14247E)
   (descr "Resistor, Axial_Shunt series, Axial, Horizontal, pin pitch=38.1mm, 7W, length*diameter=35.3*9.5mm^2, shunt pin pitch = 25.40mm, http://www.vishay.com/docs/30217/cpsl.pdf")
   (tags "ResistorAxial_ShuntseriesAxialHorizontalpinpitch38.1mm7Wlength35.3mmdiameter9.5mm shuntpinpitch25.40mm")
   (fp_text reference REF** (at 19.05 -5.81) (layer F.SilkS)
@@ -27,7 +27,7 @@
   (pad 2 thru_hole oval (at 6.35 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 31.75 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 38.1 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Resistors_THT.3dshapes/R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm.wrl
+  (model ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))

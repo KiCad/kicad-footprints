@@ -1,4 +1,4 @@
-(module R_Array_SIP8 (layer F.Cu) (tedit 57FA3974)
+(module R_Array_SIP8 (layer F.Cu) (tedit 5A14247E)
   (descr "8-pin Resistor SIP pack")
   (tags R)
   (fp_text reference REF** (at 10.16 -2.4) (layer F.SilkS)
@@ -29,7 +29,7 @@
   (pad 6 thru_hole oval (at 12.7 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 7 thru_hole oval (at 15.24 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 17.78 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Resistors_THT.3dshapes/R_Array_SIP8.wrl
+  (model ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Array_SIP8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))
