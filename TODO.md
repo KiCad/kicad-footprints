@@ -46,7 +46,7 @@
 - [ ] Connectors_Terminal_Blocks
 - [ ] Connectors_TestPoints
 - [ ] Connectors_WAGO
-- [ ] Connectors_USB
+- [x] Connectors_USB
 - [ ] Connectors
 - [ ] Converters_DCDC_ACDC
 - [x] Crystals
