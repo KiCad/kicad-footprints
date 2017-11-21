@@ -7,7 +7,7 @@
 - [x] Buzzers_Beepers
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
-- [ ] Capacitors_THT
+- [x] Capacitors_THT
 - [ ] Connectors_Card
 - [x] Connectors_DSub
 - [ ] Connectors_Harwin
@@ -16,38 +16,7 @@
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
-- [ ] Connectors_JST
-   - [ ] J11_B
-   - [x] ACH_BxxB
-   - [x] ACH_SxxB 
-   - [x] AUH
-   - [x] EH
-   - [x] GH_BMxxB
-   - [x] GH_SMxxB
-   - [x] J2100_BxxB
-   - [x] J2100_SxxB
-   - [x] JWPF
-   - [x] LEA
-   - [x] NV
-   - [x] PH_BxxB
-   - [x] PH_SxxB
-   - [x] PUD_BxxB
-   - [x] PUD_SxxB
-   - [x] SFH
-   - [x] SHL_SMxxB
-   - [x] SH_BMxxB
-   - [x] SH_SMxxB
-   - [x] SUR_SMxxB
-   - [x] SUR_BMxxB
-   - [x] VH_BxP
-   - [x] VH_SxP
-   - [x] XAG
-   - [x] XH_BxxB
-   - [x] XH_SxxB
-   - [x] ZE_BxxB
-   - [x] ZE_BMxxB
-   - [x] ZE_SxxB
-   - [x] ZE_SMxxB
+- [x] Connectors_JST
 - [ ] Connectors_Mini-Universal
 - [ ] Connectors_Molex
   - [x] CLIK-mate
@@ -71,11 +40,9 @@
   - [ ] SlimStack
 - [ ] Connectors_Multicomp
 - [x] Connectors_Phoenix
-  - [x] MC
-  - [x] MSTB
-  - [x] PTSM (moved to terminal blocks)
 - [ ] Connectors_Samtec
 - [ ] Connectors_TE-Connectivity
+- [ ] Connectors_Tab (Tab / Blade connectors)
 - [ ] Connectors_Terminal_Blocks
 - [ ] Connectors_TestPoints
 - [ ] Connectors_WAGO
@@ -87,7 +54,7 @@
 - [ ] Diodes_THT
 - [x] Displays_7-Segment
 - [x] Displays
-- [ ] Enclosures
+- [x] Enclosures
 - [x] EuroBoard_Outline
 - [x] Fiducials
 - [ ] Fuse_Holders_and_Fuses
@@ -117,7 +84,7 @@
 - [x] Package_DirectFET
 - [x] Pin_Headers
 - [ ] Potentiometers
-- [ ] Power_Integrations
+- [x] Power_Integrations
 - [x] Relays_SMD
 - [x] Relays_THT
 - [x] Resistors_SMD
@@ -133,10 +100,6 @@
 - [x] TerminalBlock_MetzConnect
 - [x] TerminalBlock_Philmore
 - [x] TerminalBlock_Phoenix
-   - [x] MKDS-1.5
-   - [x] MPT-2.54
-   - [x] PT-3.5
-   - [x] PTSM
 - [x] TerminalBlock_RND
 - [x] TerminalBlock_WAGO
 - [x] TO_SOT_Packages_SMD
