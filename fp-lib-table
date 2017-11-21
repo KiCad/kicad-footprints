@@ -5,6 +5,7 @@
   (lib (name Buzzer_Beeper)(type KiCad)(uri ${KISYSMOD}/Buzzer_Beeper.pretty)(options "")(descr "Audio signalling devices"))
   (lib (name Capacitor_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_SMD.pretty)(options "")(descr "Capacitor, surface mount"))
   (lib (name Capacitor_Tantalum_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_Tantalum_SMD.pretty)(options "")(descr "Tantalum Capacitor, surface mount"))
+  (lib (name Conn_Card)(type KiCad)(uri ${KISYSMOD}/Conn_Card.pretty)(options "")(descr "Card and card holder footprints"))
   (lib (name Conn_Dsub)(type KiCad)(uri ${KISYSMOD}/Conn_Dsub.pretty)(options "")(descr "Footprints for DSub footprints"))
   (lib (name Conn_IDC)(type KiCad)(uri ${KISYSMOD}/Conn_IDC.pretty)(options "")(descr "IDC connector footprints"))
   (lib (name Conn_JST)(type KiCad)(uri ${KISYSMOD}/Conn_JST.pretty)(options "")(descr "JST connector footprints www.jst.com"))
