@@ -1,4 +1,4 @@
-(module CP_Radial_Tantal_D6.0mm_P5.00mm (layer F.Cu) (tedit 597C781B)
+(module CP_Radial_Tantal_D6.0mm_P5.00mm (layer F.Cu) (tedit 5A142A3B)
   (descr "CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=6.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf")
   (tags "CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 6.0mm Tantal Electrolytic Capacitor")
   (fp_text reference REF** (at 2.5 -4.31) (layer F.SilkS)
@@ -23,7 +23,7 @@
   (fp_text user %R (at 2.5 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/CP_Radial_Tantal_D6.0mm_P5.00mm.wrl
+  (model ${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_Tantal_D6.0mm_P5.00mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
