@@ -1,5 +1,5 @@
 (module C_Rect_L33.0mm_W15.0mm_P27.50mm_MKS4 (layer F.Cu) (tedit 5A142A3B)
-  (descr "C, Rect series, Radial, pin pitch=27.50mm, , length*width=33*15mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf")
+  (descr "C, Rect series, Radial, pin pitch=27.50mm, length*width=33*15mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf")
   (tags "C Rect series Radial pin pitch 27.50mm  length 33mm width 15mm Capacitor")
   (fp_text reference REF** (at 13.75 -8.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

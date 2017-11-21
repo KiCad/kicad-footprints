@@ -1,5 +1,5 @@
 (module CP_Radial_D4.0mm_P1.50mm (layer F.Cu) (tedit 5A142A3B)
-  (descr "CP, Radial series, Radial, pin pitch=1.50mm, , diameter=4mm, Electrolytic Capacitor")
+  (descr "CP, Radial series, Radial, pin pitch=1.50mm, diameter=4mm, Electrolytic Capacitor")
   (tags "CP Radial series Radial pin pitch 1.50mm  diameter 4mm Electrolytic Capacitor")
   (fp_text reference REF** (at 0.75 -3.31) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
