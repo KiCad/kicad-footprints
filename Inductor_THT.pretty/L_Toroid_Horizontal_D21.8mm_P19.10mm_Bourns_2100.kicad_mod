@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D21.8mm_P19.10mm_Bourns_2100 (layer F.Cu) (tedit 5880B84D)
+(module L_Toroid_Horizontal_D21.8mm_P19.10mm_Bourns_2100 (layer F.Cu) (tedit 5A1421CD)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=19.10mm, , diameter=21.8mm, Bourns, 2100, http://www.bourns.com/docs/Product-Datasheets/2100_series.pdf?sfvrsn=3")
   (tags "L_Toroid Horizontal series Radial pin pitch 19.10mm  diameter 21.8mm Bourns 2100")
   (fp_text reference REF** (at 9.55 -12.21) (layer F.SilkS)
@@ -30,7 +30,7 @@
   (fp_line (start 21.15 -11.25) (end -2.1 -11.25) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 19.1 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.10mm_Bourns_2100.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.10mm_Bourns_2100.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

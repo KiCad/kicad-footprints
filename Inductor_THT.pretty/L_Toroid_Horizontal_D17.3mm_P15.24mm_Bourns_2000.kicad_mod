@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000series (layer F.Cu) (tedit 5880B84D)
+(module L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000series (layer F.Cu) (tedit 5A1421CD)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=15.24mm, , diameter=17.3mm, Bourns, 2000series, http://www.bourns.com/docs/Product-Datasheets/2000_series.pdf?sfvrsn=5")
   (tags "L_Toroid Horizontal series Radial pin pitch 15.24mm  diameter 17.3mm Bourns 2000series")
   (fp_text reference REF** (at 7.62 -9.96) (layer F.SilkS)
@@ -30,7 +30,7 @@
   (fp_line (start 17.3 -9) (end -2.05 -9) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 15.24 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000series.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000series.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

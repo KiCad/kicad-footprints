@@ -1,4 +1,4 @@
-(module L_CommonMode_Toroid_Vertical_L41.9mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100 (layer F.Cu) (tedit 5880B84E)
+(module L_CommonMode_Toroid_Vertical_L41.9mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100 (layer F.Cu) (tedit 5A1421CD)
   (descr "L_CommonMode_Toroid, Vertical series, Radial, pin pitch=15.24*22.86mm^2, , length*width=41.91*20.32mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf")
   (tags "L_CommonMode_Toroid Vertical series Radial pin pitch 15.24*22.86mm^2  length 41.91mm width 20.32mm Bourns 8100")
   (fp_text reference REF** (at 11.43 -3.85) (layer F.SilkS)
@@ -37,7 +37,7 @@
   (pad 4 thru_hole circle (at 22.86 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 22.86 15.24) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 15.24) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L41.9mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L41.9mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6 (layer F.Cu) (tedit 5880B84E)
+(module L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6 (layer F.Cu) (tedit 5A1421CD)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=31.00mm, , diameter=35.1mm, Vishay, TJ6, http://www.vishay.com/docs/34079/tj.pdf")
   (tags "L_Toroid Horizontal series Radial pin pitch 31.00mm  diameter 35.1mm Vishay TJ6")
   (fp_text reference REF** (at 15.5 -18.86) (layer F.SilkS)
@@ -30,7 +30,7 @@
   (fp_line (start 33.4 -17.9) (end -2.4 -17.9) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 31 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

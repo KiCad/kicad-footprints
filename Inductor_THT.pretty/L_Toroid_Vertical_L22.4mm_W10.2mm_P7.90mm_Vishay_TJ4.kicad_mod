@@ -1,4 +1,4 @@
-(module L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4 (layer F.Cu) (tedit 5880B84E)
+(module L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4 (layer F.Cu) (tedit 5A1421CD)
   (descr "L_Toroid, Vertical series, Radial, pin pitch=7.90mm, , length*width=22.4*10.2mm^2, Vishay, TJ4, http://www.vishay.com/docs/34079/tj.pdf")
   (tags "L_Toroid Vertical series Radial pin pitch 7.90mm  length 22.4mm width 10.2mm Vishay TJ4")
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (fp_line (start 11.55 -1.75) (end -11.55 -1.75) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 7.9) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

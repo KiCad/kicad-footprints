@@ -1,4 +1,4 @@
-(module L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC (layer F.Cu) (tedit 587E3FCE)
+(module L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC (layer F.Cu) (tedit 5A1421CD)
   (descr "L, Axial series, Axial, Horizontal, pin pitch=27.94mm, , length*diameter=24*7.5mm^2, Fastron, MESC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_MESC.pdf")
   (tags "L Axial series Axial Horizontal pin pitch 27.94mm  length 24mm diameter 7.5mm Fastron MESC")
   (fp_text reference REF** (at 13.97 -4.81) (layer F.SilkS)
@@ -25,7 +25,7 @@
   (fp_line (start 29.4 -4.1) (end -1.45 -4.1) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 27.94 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

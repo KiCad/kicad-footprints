@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D9.5mm_P15.00mm_Diameter10-5mm_Amidon-T37 (layer F.Cu) (tedit 5880B84D)
+(module L_Toroid_Horizontal_D9.5mm_P15.00mm_Diameter10-5mm_Amidon-T37 (layer F.Cu) (tedit 5A1421CD)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=15.00mm, , diameter=9.524999999999999mm, Diameter10-5mm, Amidon-T37")
   (tags "L_Toroid Horizontal series Radial pin pitch 15.00mm  diameter 9.524999999999999mm Diameter10-5mm Amidon-T37")
   (fp_text reference REF** (at 7.5 -6.0725) (layer F.SilkS)
@@ -30,7 +30,7 @@
   (fp_line (start 16.45 -5.1) (end -1.45 -5.1) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 15 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D9.5mm_P15.00mm_Diameter10-5mm_Amidon-T37.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D9.5mm_P15.00mm_Diameter10-5mm_Amidon-T37.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

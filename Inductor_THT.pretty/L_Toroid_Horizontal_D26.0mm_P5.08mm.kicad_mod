@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D26.0mm_P5.08mm (layer F.Cu) (tedit 587E3D5B)
+(module L_Toroid_Horizontal_D26.0mm_P5.08mm (layer F.Cu) (tedit 5A1421CD)
   (descr "inductor 26mm diameter toroid")
   (tags "SELF INDUCTOR")
   (fp_text reference REF** (at 2.44 -30.38) (layer F.SilkS)
@@ -20,7 +20,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.78 1.78) (drill 1.19) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.08 0) (size 1.78 1.78) (drill 1.19) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 2.54 -15.88) (size 4.06 4.06) (drill 3.17) (layers *.Cu *.SilkS *.Mask))
-  (model Inductors_THT.3dshapes\L_Toroid_horizontal_Diameter26mm.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_horizontal_Diameter26mm.wrl
     (at (xyz 0.09842519685039371 0.6181102362204725 0.01968503937007874))
     (scale (xyz 2.7 2.7 2.7))
     (rotate (xyz 0 0 0))
