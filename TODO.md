@@ -122,7 +122,7 @@
 - [x] Relays_THT
 - [x] Resistors_SMD
 - [ ] Resistors_THT
-- [ ] Resistors_Universal
+- [x] Resistors_Universal
 - [x] RF_Antennas
 - [x] RF_Modules
 - [ ] Shielding_Cabinets
