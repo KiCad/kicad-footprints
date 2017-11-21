@@ -144,7 +144,7 @@
   (pad 10 smd rect (at -9.6 9.9) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at -9.6 14.05) (size 1 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at 3.9 14.5) (size 1.3 1.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connectors_Card.3dshapes/Hirose_DM3AT-SF-PEJM5.wrl
+  (model ${KISYS3DMOD}/Conn_Card.3dshapes/Hirose_DM3AT-SF-PEJM5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
