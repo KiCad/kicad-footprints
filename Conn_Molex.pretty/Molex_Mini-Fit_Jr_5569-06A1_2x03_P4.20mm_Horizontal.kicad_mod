@@ -1,5 +1,5 @@
-(module Molex_Mini-Fit_Jr_5569-06A1_2x03_P4.20mm_Horizontal (layer F.Cu) (tedit 5A15ACDD)
-  (descr "Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-06A1, example for new mpn: 39-29-4069 , 3 Pins per row, Mounting: PCB Mounting Flange (http://www.molex.com/pdm_docs/sd/768290004_sd.pdf), generated with kicad-footprint-generator")
+(module Molex_Mini-Fit_Jr_5569-06A1_2x03_P4.20mm_Horizontal (layer F.Cu) (tedit 5A15BABA)
+  (descr "Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-06A1, example for new mpn: 39-29-4069, 3 Pins per row, Mounting: PCB Mounting Flange (http://www.molex.com/pdm_docs/sd/768290004_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Mini-Fit_Jr top entryscrew_flange")
   (fp_text reference REF** (at 4.2 -15.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
