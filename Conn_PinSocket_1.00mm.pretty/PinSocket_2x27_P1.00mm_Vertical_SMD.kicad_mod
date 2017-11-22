@@ -1,5 +1,5 @@
-(module PinSocket_2x27_P1.00mm_Vertical_SMD (layer F.Cu) (tedit 5A1462DC)
-  (descr "surface-mounted straight socket strip, 2x27, 1.00mm pitch, double rows")
+(module PinSocket_2x27_P1.00mm_Vertical_SMD (layer F.Cu) (tedit 5A15F9EC)
+  (descr "surface-mounted straight socket strip, 2x27, 1.00mm pitch, double cols")
   (tags "Surface mounted socket strip SMD 2x27 1.00mm double row")
   (attr smd)
   (fp_text reference REF** (at 0 -15.25) (layer F.SilkS)

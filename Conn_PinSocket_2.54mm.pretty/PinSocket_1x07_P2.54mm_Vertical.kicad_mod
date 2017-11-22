@@ -1,4 +1,4 @@
-(module PinSocket_1x07_P2.54mm_Vertical (layer F.Cu) (tedit 5A1462C9)
+(module PinSocket_1x07_P2.54mm_Vertical (layer F.Cu) (tedit 5A15F9D4)
   (descr "Through hole straight socket strip, 1x07, 2.54mm pitch, single row")
   (tags "Through hole socket strip THT 1x07 2.54mm single row")
   (fp_text reference REF** (at 0 -2.77) (layer F.SilkS)
