@@ -10,8 +10,8 @@
 - [x] Capacitors_THT
 - [x] Connectors_Card
 - [x] Connectors_DSub
-- [ ] Connectors_Harwin
-- [ ] Connectors_HDMI
+- [x] Connectors_Harwin
+- [x] Connectors_HDMI
 - [ ] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
@@ -38,13 +38,13 @@
   - [ ] SPOX
   - [ ] Sabre
   - [ ] SlimStack
-- [ ] Connectors_Multicomp
+- [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
 - [ ] Connectors_Samtec
 - [ ] Connectors_TE-Connectivity
 - [ ] Connectors_Tab (Tab / Blade connectors)
 - [ ] Connectors_Terminal_Blocks
-- [ ] Connectors_TestPoints
+- [x] Connectors_TestPoints
 - [ ] Connectors_WAGO
 - [x] Connectors_USB
 - [ ] Connectors
