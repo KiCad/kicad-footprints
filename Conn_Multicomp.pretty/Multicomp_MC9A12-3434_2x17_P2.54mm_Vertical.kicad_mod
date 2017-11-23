@@ -1,4 +1,4 @@
-(module Multicomp_MC9A12-3434_2x17_P2.54mm_Vertical (layer F.Cu) (tedit 5A16A58A)
+(module Multicomp_MC9A12-3434_2x17_P2.54mm_Vertical (layer F.Cu) (tedit 5A16A5B2)
   (descr http://www.farnell.com/datasheets/1520732.pdf)
   (tags "connector multicomp MC9A MC9A12")
   (fp_text reference REF** (at -3 -7) (layer F.SilkS)
@@ -74,4 +74,9 @@
   (pad 32 thru_hole circle (at 38.1 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 33 thru_hole circle (at 40.64 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 34 thru_hole circle (at 40.64 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Conn_Multicomp.3dshapes/Multicomp_MC9A12-3434_2x17_P2.54mm_Vertical.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
