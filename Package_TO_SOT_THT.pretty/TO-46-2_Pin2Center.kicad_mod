@@ -26,7 +26,7 @@
   (pad 1 thru_hole oval (at 0 0 90) (size 1.5 1) (drill 0.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 1.27 0) (size 1 1) (drill 0.6) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-46-2_Pin2Center.wrl
-    (at (xyz 0.05 0 0))
+    (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))
   )

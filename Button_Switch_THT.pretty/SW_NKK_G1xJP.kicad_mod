@@ -29,7 +29,7 @@
   (pad 5 thru_hole circle (at 2.54 2.54) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_NKK_G1xJP.wrl
-    (at (xyz 0.05 -0.1 0))
+    (at (xyz 0 0 0))
     (scale (xyz 0.33 0.33 0.33))
     (rotate (xyz 0 0 90))
   )

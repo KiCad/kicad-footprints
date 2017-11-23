@@ -33,7 +33,7 @@
   (pad 6 thru_hole circle (at 20.32 -3.81) (size 2.29 2.29) (drill 1.52) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 20.32 -11.43) (size 2.29 2.29) (drill 1.52) (layers *.Cu *.Mask))
   (model model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_Microphone_Lundahl_LL1587.wrl
-    (at (xyz 0.4 0.23 0))
+    (at (xyz 0 0 0))
     (scale (xyz 0.72 0.75 0.75))
     (rotate (xyz 0 0 0))
   )

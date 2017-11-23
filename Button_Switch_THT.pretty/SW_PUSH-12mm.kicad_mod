@@ -32,7 +32,7 @@
   (pad 1 thru_hole oval (at 0 0) (size 3.048 1.7272) (drill 0.8128) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 5) (size 3.048 1.7272) (drill 0.8128) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH-12mm.wrl
-    (at (xyz 0.248 -0.1 0))
+    (at (xyz 0 0 0))
     (scale (xyz 3.93701 3.93701 3.93701))
     (rotate (xyz 0 0 0))
   )
