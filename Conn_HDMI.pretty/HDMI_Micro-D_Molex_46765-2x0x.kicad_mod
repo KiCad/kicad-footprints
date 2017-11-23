@@ -1,4 +1,4 @@
-(module HDMI_Micro-D_Molex_46765-2x0x (layer F.Cu) (tedit 596672E9)
+(module HDMI_Micro-D_Molex_46765-2x0x (layer F.Cu) (tedit 5A16B616)
   (descr "HDMI, Micro, Type D, THT/SMD hybrid, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)")
   (tags "hdmi micro type d right angle tht smd hybrid ")
   (attr smd)
@@ -79,7 +79,7 @@
   (pad 14 smd rect (at -0.8 -3.55) (size 0.23 1) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at -1.2 -3.55) (size 0.23 1) (layers F.Cu F.Paste F.Mask))
   (pad 18 smd rect (at -1.6 -3.55) (size 0.23 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connectors_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-2x0x.wrl
+  (model ${KISYS3DMOD}/Conn_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-2x0x.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
