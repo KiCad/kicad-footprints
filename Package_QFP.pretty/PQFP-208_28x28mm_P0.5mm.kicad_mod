@@ -240,6 +240,6 @@
   (model ${KISYS3DMOD}/Package_QFP.3dshapes/PQFP-208_28x28mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -720))
+    (rotate (xyz 0 0 0))
   )
 )

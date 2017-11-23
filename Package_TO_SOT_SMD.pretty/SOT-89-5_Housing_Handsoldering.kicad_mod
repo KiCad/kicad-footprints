@@ -34,6 +34,6 @@
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-89-5_Housing_Handsoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 0))
   )
 )

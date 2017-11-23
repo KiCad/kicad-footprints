@@ -45,6 +45,6 @@
   (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_DPDT_FRT5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.395 0.395 0.395))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 0))
   )
 )

@@ -29,6 +29,6 @@
   (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-92_Rugged.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -90))
+    (rotate (xyz 0 0 0))
   )
 )
