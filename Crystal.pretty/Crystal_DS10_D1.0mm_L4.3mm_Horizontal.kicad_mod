@@ -34,7 +34,7 @@
   (pad 2 thru_hole circle (at 1.5 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_DS10_D1.0mm_L4.3mm_Horizontal.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

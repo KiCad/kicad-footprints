@@ -30,7 +30,7 @@
   (pad 2 thru_hole oval (at 20.32 0) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

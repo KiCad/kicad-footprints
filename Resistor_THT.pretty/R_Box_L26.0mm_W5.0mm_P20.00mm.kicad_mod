@@ -26,7 +26,7 @@
   (pad 2 thru_hole circle (at 20 0) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Box_L26.0mm_W5.0mm_P20.00mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

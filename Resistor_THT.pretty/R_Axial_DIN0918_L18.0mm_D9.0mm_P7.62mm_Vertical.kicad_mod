@@ -22,7 +22,7 @@
   (pad 2 thru_hole oval (at 7.62 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0918_L18.0mm_D9.0mm_P7.62mm_Vertical.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

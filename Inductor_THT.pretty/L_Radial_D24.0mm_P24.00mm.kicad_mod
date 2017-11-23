@@ -21,7 +21,7 @@
   (pad 2 thru_hole circle (at 24 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Radial_D24.0mm_P24.00mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

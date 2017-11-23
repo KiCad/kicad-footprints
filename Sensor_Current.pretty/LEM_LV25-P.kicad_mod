@@ -29,7 +29,7 @@
   (pad 5 thru_hole circle (at 20.32 7.62 90) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_LV25-P.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.39 0.39 0.39))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

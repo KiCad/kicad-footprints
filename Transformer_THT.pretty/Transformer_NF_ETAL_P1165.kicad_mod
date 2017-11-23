@@ -173,7 +173,7 @@
   (pad 3 thru_hole circle (at 0 10) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (model model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_NF_ETAL_P1165.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.39 0.39 0.39))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
