@@ -11,6 +11,7 @@
   (lib (name Conn_IDC)(type KiCad)(uri ${KISYSMOD}/Conn_IDC.pretty)(options "")(descr "IDC connector footprints"))
   (lib (name Conn_JST)(type KiCad)(uri ${KISYSMOD}/Conn_JST.pretty)(options "")(descr "JST connector footprints www.jst.com"))
   (lib (name Conn_Molex)(type KiCad)(uri ${KISYSMOD}/Conn_Molex.pretty)(options "")(descr "Molex connector foottprints www.molex.com"))
+  (lib (name Conn_Multicomp)(type KiCad)(uri ${KISYSMOD}/Conn_Multicomp.pretty)(options "")(descr "Multicomp connector foottprints"))
   (lib (name Conn_PinHeader_1.00mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinHeader_1.00mm.pretty)(options "")(descr "Pin headers, 1.0mm pitch"))
   (lib (name Conn_PinHeader_1.27mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinHeader_1.27mm.pretty)(options "")(descr "Pin headers, 1.27mm pitch"))
   (lib (name Conn_PinHeader_2.00mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinHeader_2.00mm.pretty)(options "")(descr "Pin headers, 2.0mm pitch"))
