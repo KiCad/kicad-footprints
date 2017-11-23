@@ -8,6 +8,7 @@
   (lib (name Conn_Card)(type KiCad)(uri ${KISYSMOD}/Conn_Card.pretty)(options "")(descr "Card and card holder footprints"))
   (lib (name Capacitor_THT)(type KiCad)(uri ${KISYSMOD}/Capacitor_THT.pretty)(options "")(descr "Capacitor, through hole"))
   (lib (name Conn_Dsub)(type KiCad)(uri ${KISYSMOD}/Conn_Dsub.pretty)(options "")(descr "Footprints for DSub footprints"))
+  (lib (name Conn_Harwin)(type KiCad)(uri ${KISYSMOD}/Conn_Harwin.pretty)(options "")(descr "Harwin connector footprints"))
   (lib (name Conn_IDC)(type KiCad)(uri ${KISYSMOD}/Conn_IDC.pretty)(options "")(descr "IDC connector footprints"))
   (lib (name Conn_JST)(type KiCad)(uri ${KISYSMOD}/Conn_JST.pretty)(options "")(descr "JST connector footprints www.jst.com"))
   (lib (name Conn_Molex)(type KiCad)(uri ${KISYSMOD}/Conn_Molex.pretty)(options "")(descr "Molex connector foottprints www.molex.com"))
