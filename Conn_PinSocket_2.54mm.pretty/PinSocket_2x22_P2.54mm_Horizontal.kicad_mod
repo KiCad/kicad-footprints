@@ -437,6 +437,6 @@
   (model ${KISYS3DMOD}/Conn_PinSocket_2.54mm.3dshapes/PinSocket_2x22_P2.54mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 270))
+    (rotate (xyz 0 0 0))
   )
 )

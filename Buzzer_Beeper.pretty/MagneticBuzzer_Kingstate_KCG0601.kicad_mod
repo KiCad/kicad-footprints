@@ -25,6 +25,6 @@
   (model ${KISYS3DMOD}/Buzzer_Beeper.3dshapes/MagneticBuzzer_Kingstate_KCG0601.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 0))
   )
 )

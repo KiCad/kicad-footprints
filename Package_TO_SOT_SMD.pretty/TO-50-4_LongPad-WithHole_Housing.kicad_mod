@@ -36,6 +36,6 @@
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TO-50-4_LongPad-WithHole_Housing.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -270))
+    (rotate (xyz 0 0 0))
   )
 )

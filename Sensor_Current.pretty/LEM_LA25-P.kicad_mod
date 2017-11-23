@@ -36,6 +36,6 @@
   (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_LA25-P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
-    (rotate (xyz 180 0 0))
+    (rotate (xyz 0 0 0))
   )
 )
