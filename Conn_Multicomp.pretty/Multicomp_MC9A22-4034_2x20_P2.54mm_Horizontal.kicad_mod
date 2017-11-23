@@ -1,4 +1,4 @@
-(module Multicomp_MC9A22-4034_2x20_P2.54mm_Horizontal (layer F.Cu) (tedit 5A16A58A)
+(module Multicomp_MC9A22-4034_2x20_P2.54mm_Horizontal (layer F.Cu) (tedit 5A16A5B3)
   (descr http://www.farnell.com/cad/360651.pdf)
   (tags "connector multicomp MC9A MC9A22")
   (fp_text reference REF** (at -3 -15) (layer F.SilkS)
@@ -154,4 +154,9 @@
   (pad 38 thru_hole circle (at 45.72 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 48.26 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 48.26 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Conn_Multicomp.3dshapes/Multicomp_MC9A22-4034_2x20_P2.54mm_Horizontal.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
