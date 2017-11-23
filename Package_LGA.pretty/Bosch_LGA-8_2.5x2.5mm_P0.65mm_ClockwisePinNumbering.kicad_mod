@@ -1,11 +1,11 @@
-(module Bosch_LGA-8_2.5x2.5mm_Pitch0.65mm_ClockwisePinNumbering (layer F.Cu) (tedit 5A0FA816)
+(module Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering (layer F.Cu) (tedit 5A0FA816)
   (descr LGA-8)
   (tags "lga land grid array")
   (attr smd)
   (fp_text reference REF** (at 0.015 -2.465) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Bosch_LGA-8_2.5x2.5mm_Pitch0.65mm_ClockwisePinNumbering (at 0.015 2.535) (layer F.Fab)
+  (fp_text value Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering (at 0.015 2.535) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0 180) (layer F.Fab)
@@ -35,7 +35,7 @@
   (pad 7 smd rect (at -0.325 1.025 90) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0.325 1.025 90) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0.975 1.025 90) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_LGA.3dshapes/Bosch_LGA-8_2.5x2.5mm_Pitch0.65mm_ClockwisePinNumbering.wrl
+  (model ${KISYS3DMOD}/Package_LGA.3dshapes/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.wrl
     (at (xyz 0.0005905512 -0.0013779528 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
