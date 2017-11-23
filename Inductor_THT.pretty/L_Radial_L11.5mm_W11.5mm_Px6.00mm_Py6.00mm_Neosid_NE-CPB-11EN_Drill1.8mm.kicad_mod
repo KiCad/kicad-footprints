@@ -26,7 +26,7 @@
   (pad 2 thru_hole circle (at 6 -6) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.8mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

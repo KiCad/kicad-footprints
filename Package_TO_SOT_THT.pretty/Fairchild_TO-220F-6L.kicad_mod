@@ -43,7 +43,7 @@
   (pad 6 thru_hole oval (at 7.75 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/Fairchild_TO-220F-6L.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

@@ -22,7 +22,7 @@
   (pad 2 thru_hole circle (at 19.05 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

@@ -39,7 +39,7 @@
   (pad 6 thru_hole oval (at 0 12.7) (size 2.3 1.6) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_SPDT_HJR-4102.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.395 0.395 0.395))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

@@ -31,7 +31,7 @@
   (pad 5 thru_hole oval (at 10.16 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Array_SIP5.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.39 0.39 0.39))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

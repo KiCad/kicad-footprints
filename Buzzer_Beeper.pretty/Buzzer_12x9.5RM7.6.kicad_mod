@@ -24,7 +24,7 @@
   (pad 2 thru_hole circle (at 7.6 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 4 4 4))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

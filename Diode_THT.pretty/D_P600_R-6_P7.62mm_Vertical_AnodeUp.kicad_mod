@@ -29,7 +29,7 @@
   (pad 2 thru_hole oval (at 7.62 0) (size 3.2 3.2) (drill 1.6) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Diode_THT.3dshapes/D_P600_R-6_P7.62mm_Vertical_AnodeUp.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
