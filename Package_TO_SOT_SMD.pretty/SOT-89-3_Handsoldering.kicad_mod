@@ -31,7 +31,7 @@
   (pad 2 smd trapezoid (at -0.37 0 90) (size 1.5 0.75) (layers F.Cu F.Paste F.Mask)
     (rect_delta 0 0.5))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-89-3.wrl
-    (at (xyz 0.0 0 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

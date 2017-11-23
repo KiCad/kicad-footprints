@@ -30,7 +30,7 @@
   (pad 1 thru_hole rect (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 25.4 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Buzzer_Beeper.3dshapes/MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R.wrl
-    (at (xyz 1 0 0))
+    (at (xyz 0 0 0))
     (scale (xyz 0.98 0.98 1))
     (rotate (xyz 0 0 180))
   )
