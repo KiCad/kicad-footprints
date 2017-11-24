@@ -121,7 +121,7 @@
   (pad 1 smd rect (at 30.25 28.5) (size 1 2.5) (layers F.Cu F.Mask))
   (model ${KISYS3DMOD}/RF_Shielding.3dshapes/Wuerth_36103605_60x60mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

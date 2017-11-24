@@ -32,8 +32,8 @@
   (pad 3 thru_hole oval (at 2.54 0 180) (size 0.9 1.5) (drill 0.6) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 180) (size 0.9 1.5) (drill 0.6) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-92_Horizontal2_Inline_Narrow_Oval.wrl
-    (at (xyz 0.05 0 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 0))
   )
 )

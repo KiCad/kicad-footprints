@@ -36,7 +36,7 @@
   (pad 2 thru_hole circle (at 0 20.8) (size 3.4 3.4) (drill 1.7) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

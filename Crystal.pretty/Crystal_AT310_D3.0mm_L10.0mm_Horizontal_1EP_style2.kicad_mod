@@ -36,7 +36,7 @@
   (pad 3 thru_hole rect (at -0.73 8.75) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole rect (at 3.27 8.75) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_AT310_D3.0mm_L10.0mm_Horizontal_1EP_style2.wrl
-    (at (xyz 0.05 0 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

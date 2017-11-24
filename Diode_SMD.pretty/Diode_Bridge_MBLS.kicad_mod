@@ -32,7 +32,7 @@
   (pad 3 smd rect (at 2.975 2) (size 1 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 2.975 -2) (size 1 0.7) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Diode_SMD.3dshapes/Diode_Bridge_MBLS.wrl
-    (at (xyz 0 0.0005905512 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

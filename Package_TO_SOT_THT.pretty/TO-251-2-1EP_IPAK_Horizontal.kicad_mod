@@ -36,7 +36,7 @@
   (pad 2 thru_hole oval (at 4.6 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-251-2-1EP_IPAK_Horizontal.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

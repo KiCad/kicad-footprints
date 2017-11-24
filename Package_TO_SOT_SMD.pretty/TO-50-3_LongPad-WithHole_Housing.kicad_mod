@@ -31,8 +31,8 @@
   (pad 3 smd rect (at 7.5 -3.4 270) (size 1.5 10) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -0.7 -3.4 270) (size 5.5 5.5) (drill 5.5) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TO-50-3_LongPad-WithHole_Housing.wrl
-    (at (xyz -0.03 0.13 -0.03))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -90))
+    (rotate (xyz 0 0 0))
   )
 )

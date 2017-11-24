@@ -24,7 +24,7 @@
   (pad 9 thru_hole oval (at -6.91 0 54) (size 2.03 3.05) (drill oval 1.02 2.03) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -3.45 -4.75) (size 4.5 4.5) (drill 3.1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Valve.3dshapes/Valve_ECC-83-2.wrl
-    (at (xyz -0.14 0.19 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

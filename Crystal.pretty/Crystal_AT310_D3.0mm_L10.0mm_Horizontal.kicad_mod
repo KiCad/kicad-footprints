@@ -33,7 +33,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.54 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_AT310_D3.0mm_L10.0mm_Horizontal.wrl
-    (at (xyz 0.05 0 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

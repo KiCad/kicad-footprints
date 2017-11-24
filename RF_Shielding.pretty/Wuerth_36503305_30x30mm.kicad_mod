@@ -76,7 +76,7 @@
   (pad 1 thru_hole circle (at -12.7 -15.25) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/RF_Shielding.3dshapes/Wuerth_36503305_30x30mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
