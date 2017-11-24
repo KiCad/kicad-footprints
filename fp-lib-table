@@ -6,6 +6,7 @@
   (lib (name Capacitor_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_SMD.pretty)(options "")(descr "Capacitor, surface mount"))
   (lib (name Capacitor_Tantalum_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_Tantalum_SMD.pretty)(options "")(descr "Tantalum Capacitor, surface mount"))
   (lib (name Conn_Card)(type KiCad)(uri ${KISYSMOD}/Conn_Card.pretty)(options "")(descr "Card and card holder footprints"))
+  (lib (name Conn_Coaxial)(type KiCad)(uri ${KISYSMOD}/Conn_Coaxial.pretty)(options "")(descr "Coaxial and RF connector footprints"))
   (lib (name Capacitor_THT)(type KiCad)(uri ${KISYSMOD}/Capacitor_THT.pretty)(options "")(descr "Capacitor, through hole"))
   (lib (name Conn_Dsub)(type KiCad)(uri ${KISYSMOD}/Conn_Dsub.pretty)(options "")(descr "Footprints for DSub footprints"))
   (lib (name Conn_HDMI)(type KiCad)(uri ${KISYSMOD}/Conn_HDMI.pretty)(options "")(descr "HDMI connector footprints"))
