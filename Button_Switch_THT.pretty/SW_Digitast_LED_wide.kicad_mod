@@ -55,7 +55,7 @@
   (pad A1 thru_hole circle (at -5.08 -10.16) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad C1 thru_hole circle (at -2.54 -10.16) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_Digitast_LED_wide.wrl
-    (at (xyz 0 0 0))
+    (at (xyz -0.15 0.2 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
