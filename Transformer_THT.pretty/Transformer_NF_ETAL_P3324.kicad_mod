@@ -153,7 +153,7 @@
   (pad 4 thru_hole circle (at -12.7 7.62) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 7.62) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
-  (model model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_NF_ETAL_P3324.wrl
+  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_NF_ETAL_P3324.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
