@@ -1,4 +1,4 @@
-(module Molex_Picoflex_90325-0004_2x02_P1.27mm_Vertical (layer F.Cu) (tedit 5A175FBC)
+(module Molex_Picoflex_90325-0004_2x02_P1.27mm_Vertical (layer F.Cu) (tedit 5A17697F)
   (descr "Molex Picoflex Ribbon-Cable Connectors, 90325-0004, 4 Pins (http://www.molex.com/pdm_docs/sd/903250004_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Picoflex side entry")
   (fp_text reference REF** (at 1.02 -3.96) (layer F.SilkS)
