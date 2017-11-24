@@ -100,7 +100,7 @@
   (pad 4 thru_hole circle (at 4.755 3) (size 0.6 0.6) (drill 0.3) (layers *.Cu F.Mask))
   (pad 4 thru_hole circle (at 4.755 4.2) (size 0.6 0.6) (drill 0.3) (layers *.Cu F.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/Rohm_HRP7.wrl
-    (at (xyz -0.1687007874 0 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

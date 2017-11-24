@@ -39,7 +39,7 @@
   (pad 2 smd rect (at -6.09 0) (size 3.5 1.5) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3188_HandSoldering.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.39 0.39 0.39))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

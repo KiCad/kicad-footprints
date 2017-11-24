@@ -34,7 +34,7 @@
   (pad 3 smd rect (at 0.95 5.75) (size 2.2 6.5) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style1.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

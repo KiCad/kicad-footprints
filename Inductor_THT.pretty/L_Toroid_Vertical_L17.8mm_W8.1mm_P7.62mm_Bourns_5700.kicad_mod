@@ -38,7 +38,7 @@
   (pad 2 thru_hole circle (at 0 7.62) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Vertical_L17.8mm_W8.1mm_P7.62mm_Bourns_5700.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

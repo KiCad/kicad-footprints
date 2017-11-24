@@ -31,7 +31,7 @@
   (pad 3 thru_hole circle (at 5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Crystal.3dshapes/Resonator-3Pin_W7.0mm_H2.5mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

@@ -34,8 +34,8 @@
   (pad 3 smd rect (at 7.5 0 90) (size 3.5 10) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -0.7 -6.8 90) (size 7 1.5) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/PowerMacro_M234_NoHole.wrl
-    (at (xyz -0.03 0 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -90))
+    (rotate (xyz 0 0 0))
   )
 )

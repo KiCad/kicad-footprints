@@ -25,7 +25,7 @@
   (pad 3 thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm-3.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
