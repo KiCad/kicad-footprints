@@ -1,4 +1,4 @@
-(module D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp (layer F.Cu) (tedit 5A1959A0)
+(module D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp (layer F.Cu) (tedit 5A195B5A)
   (descr "D, DO-41_SOD81 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
   (tags "D DO-41_SOD81 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm")
   (fp_text reference REF** (at 2.54 -2.750635) (layer F.SilkS)
@@ -26,7 +26,7 @@
   (fp_text user K (at 1.8 1.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Diode_THT.3dshapes/D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp.wrl
+  (model ${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module D_DO-27_P5.08mm_Vertical_KathodeUp (layer F.Cu) (tedit 5A19599F)
+(module D_DO-27_P5.08mm_Vertical_KathodeUp (layer F.Cu) (tedit 5A195B5A)
   (descr "D, DO-27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
   (tags "D DO-27 series Axial Vertical pin pitch 5.08mm  length 9.52mm diameter 5.33mm")
   (fp_text reference REF** (at 2.54 -3.785) (layer F.SilkS)
@@ -26,7 +26,7 @@
   (fp_text user K (at 0 2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Diode_THT.3dshapes/D_DO-27_P5.08mm_Vertical_KathodeUp.wrl
+  (model ${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-27_P5.08mm_Vertical_KathodeUp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

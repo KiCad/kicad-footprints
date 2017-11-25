@@ -1,4 +1,4 @@
-(module D_A-405_P2.54mm_Vertical_AnodeUp (layer F.Cu) (tedit 5A1959A0)
+(module D_A-405_P2.54mm_Vertical_AnodeUp (layer F.Cu) (tedit 5A195B5A)
   (descr "D, A-405 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
   (tags "D A-405 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm")
   (fp_text reference REF** (at 1.27 -2.47) (layer F.SilkS)
@@ -25,7 +25,7 @@
   (fp_text user A (at 4.44 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Diode_THT.3dshapes/D_A-405_P2.54mm_Vertical_AnodeUp.wrl
+  (model ${KISYS3DMOD}/Diode_THT.3dshapes/D_A-405_P2.54mm_Vertical_AnodeUp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

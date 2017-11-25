@@ -1,4 +1,4 @@
-(module D_DO-35_SOD27_P7.62mm_Horizontal (layer F.Cu) (tedit 5A1959A0)
+(module D_DO-35_SOD27_P7.62mm_Horizontal (layer F.Cu) (tedit 5A195B5A)
   (descr "D, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
   (tags "D DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
   (fp_text reference REF** (at 3.81 -2.12) (layer F.SilkS)
@@ -40,7 +40,7 @@
   (fp_text user K (at 0 -1.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

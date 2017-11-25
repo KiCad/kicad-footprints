@@ -1,4 +1,4 @@
-(module D_5KPW_P7.62mm_Vertical_AnodeUp (layer F.Cu) (tedit 5A1959A0)
+(module D_5KPW_P7.62mm_Vertical_AnodeUp (layer F.Cu) (tedit 5A195B5A)
   (descr "D, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif")
   (tags "D 5KPW series Axial Vertical pin pitch 7.62mm  length 9mm diameter 8mm")
   (fp_text reference REF** (at 3.81 -5.12) (layer F.SilkS)
@@ -26,7 +26,7 @@
   (fp_text user A (at 7.62 2.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Diode_THT.3dshapes/D_5KPW_P7.62mm_Vertical_AnodeUp.wrl
+  (model ${KISYS3DMOD}/Diode_THT.3dshapes/D_5KPW_P7.62mm_Vertical_AnodeUp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
