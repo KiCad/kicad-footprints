@@ -1,4 +1,4 @@
-(module D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp (layer F.Cu) (tedit 5A1959A0)
+(module D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp (layer F.Cu) (tedit 5A195B5A)
   (descr "D, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
   (tags "D DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")
   (fp_text reference REF** (at 2.54 -2.326371) (layer F.SilkS)
@@ -26,7 +26,7 @@
   (fp_text user A (at 3.58 0.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Diode_THT.3dshapes/D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp.wrl
+  (model ${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
