@@ -1,10 +1,10 @@
-(module Fan_Pin_Header_Straight_1x04 (layer F.Cu) (tedit 5A19DE55)
+(module FanPinHeader_1x04_P2.54mm_Vertical (layer F.Cu) (tedit 5A19DE55)
   (descr "4-pin CPU fan Through hole pin header")
   (tags "pin header 4-pin CPU fan")
   (fp_text reference REF** (at 4 -3.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Fan_Pin_Header_Straight_1x04 (at 4.05 4.35) (layer F.Fab)
+  (fp_text value FanPinHeader_1x04_P2.54mm_Vertical (at 4.05 4.35) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 1.85 -1.75) (layer F.Fab)
@@ -36,7 +36,7 @@
   (pad 3 thru_hole oval (at 5.08 0 90) (size 2.03 1.73) (drill 1.02) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 7.62 0 90) (size 2.03 1.73) (drill 1.02) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 -2.16 90) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes\Fan_Pin_Header_Straight_1x04.wrl
+  (model ${KISYS3DMOD}/Connectors.3dshapes/FanPinHeader_1x04_P2.54mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

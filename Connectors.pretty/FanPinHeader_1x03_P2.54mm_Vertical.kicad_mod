@@ -1,10 +1,10 @@
-(module Fan_Pin_Header_Straight_1x03 (layer F.Cu) (tedit 5A19DCDF)
+(module FanPinHeader_1x03_P2.54mm_Vertical (layer F.Cu) (tedit 5A19DCDF)
   (descr "3-pin CPU fan Through hole pin header")
   (tags "pin header 3-pin CPU fan")
   (fp_text reference REF** (at 2.5 -3.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Fan_Pin_Header_Straight_1x03 (at 2.55 4.5) (layer F.Fab)
+  (fp_text value FanPinHeader_1x03_P2.54mm_Vertical (at 2.55 4.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 2.45 1.8) (layer F.Fab)
@@ -31,7 +31,7 @@
   (pad 1 thru_hole rect (at 0 0 90) (size 2.03 1.73) (drill 1.02) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.54 0 90) (size 2.03 1.73) (drill 1.02) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 5.08 0 90) (size 2.03 1.73) (drill 1.02) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes\Fan_Pin_Header_Straight_1x03.wrl
+  (model ${KISYS3DMOD}/Connectors.3dshapes/FanPinHeader_1x03_P2.54mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
