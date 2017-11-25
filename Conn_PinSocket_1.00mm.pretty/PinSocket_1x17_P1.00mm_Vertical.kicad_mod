@@ -1,5 +1,5 @@
-(module PinSocket_1x17_P1.00mm_Vertical (layer F.Cu) (tedit 5A15F9E9)
-  (descr "Through hole straight socket strip, 1x17, 1.00mm pitch, single row")
+(module PinSocket_1x17_P1.00mm_Vertical (layer F.Cu) (tedit 5A19A41E)
+  (descr "Through hole straight socket strip, 1x17, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated")
   (tags "Through hole socket strip THT 1x17 1.00mm single row")
   (fp_text reference REF** (at -0.29 -2.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

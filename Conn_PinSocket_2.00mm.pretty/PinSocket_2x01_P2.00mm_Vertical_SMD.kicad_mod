@@ -1,5 +1,5 @@
-(module PinSocket_2x01_P2.00mm_Vertical_SMD (layer F.Cu) (tedit 5A15F9DF)
-  (descr "surface-mounted straight socket strip, 2x01, 2.00mm pitch, double cols")
+(module PinSocket_2x01_P2.00mm_Vertical_SMD (layer F.Cu) (tedit 5A19A41E)
+  (descr "surface-mounted straight socket strip, 2x01, 2.00mm pitch, double cols (from Kicad 4.0.7), script generated")
   (tags "Surface mounted socket strip SMD 2x01 2.00mm double row")
   (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
