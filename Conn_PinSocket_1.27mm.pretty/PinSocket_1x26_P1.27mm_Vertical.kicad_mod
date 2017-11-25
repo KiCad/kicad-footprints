@@ -1,5 +1,5 @@
-(module PinSocket_1x26_P1.27mm_Vertical (layer F.Cu) (tedit 5A15F9E4)
-  (descr "Through hole straight socket strip, 1x26, 1.27mm pitch, single row")
+(module PinSocket_1x26_P1.27mm_Vertical (layer F.Cu) (tedit 5A19A422)
+  (descr "Through hole straight socket strip, 1x26, 1.27mm pitch, single row (from Kicad 4.0.7), script generated")
   (tags "Through hole socket strip THT 1x26 1.27mm single row")
   (fp_text reference REF** (at 0 -2.135) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

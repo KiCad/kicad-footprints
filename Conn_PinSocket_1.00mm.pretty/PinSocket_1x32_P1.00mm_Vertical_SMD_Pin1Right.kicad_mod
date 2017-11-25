@@ -1,5 +1,5 @@
-(module PinSocket_1x32_P1.00mm_Vertical_SMD_Pin1Right (layer F.Cu) (tedit 5A15F9EA)
-  (descr "surface-mounted straight socket strip, 1x32, 1.00mm pitch, single row, style 2 (pin 1 right)")
+(module PinSocket_1x32_P1.00mm_Vertical_SMD_Pin1Right (layer F.Cu) (tedit 5A19A422)
+  (descr "surface-mounted straight socket strip, 1x32, 1.00mm pitch, single row, style 2 (pin 1 right) (https://gct.co/files/drawings/bc070.pdf), script generated")
   (tags "Surface mounted socket strip SMD 1x32 1.00mm single row style2 pin1 right")
   (attr smd)
   (fp_text reference REF** (at 0 -17.75) (layer F.SilkS)
