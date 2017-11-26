@@ -1,4 +1,4 @@
-(module Molex_SlimStack_502430-8010_2x40_P0.40mm_Vertical (layer F.Cu) (tedit 5A184FCB)
+(module Molex_SlimStack_502430-8010_2x40_P0.40mm_Vertical (layer F.Cu) (tedit 5A1A83F5)
   (descr "Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 502430-8010, 80 Pins (http://www.molex.com/pdm_docs/sd/5024301410_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex SlimStack side entry")
   (attr smd)
