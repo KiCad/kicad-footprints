@@ -48,6 +48,18 @@
 - [ ] Connectors_WAGO
 - [x] Connectors_USB
 - [ ] Connectors
+  - [ ] Pins
+  - [ ] Fan-Pinheaders
+  - [ ] USBs
+  - [ ] Coaxials
+  - [ ] SATA
+  - [ ] RJ11/45
+  - [ ] HE10
+  - [ ] GS (SolderJumper)
+  - [ ] Batteries
+  - [ ] PCI/ISA/...
+  - [ ] Barreljacks
+  - [ ] Banana Jacks
 - [ ] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
