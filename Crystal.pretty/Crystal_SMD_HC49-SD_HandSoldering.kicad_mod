@@ -1,4 +1,4 @@
-(module Crystal_SMD_HC49-SD_HandSoldering (layer F.Cu) (tedit 58CD2E9D)
+(module Crystal_SMD_HC49-SD_HandSoldering (layer F.Cu) (tedit 5A1AD52C)
   (descr "SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, hand-soldering, 11.4x4.7mm^2 package")
   (tags "SMD SMT crystal hand-soldering")
   (attr smd)
@@ -28,7 +28,7 @@
   (fp_arc (start 3.015 0) (end 3.015 -2.115) (angle 180) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -5.9375 0) (size 7.875 2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 5.9375 0) (size 7.875 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Crystals.3dshapes/Crystal_SMD_HC49-SD_HandSoldering.wrl
+  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_HC49-SD_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
