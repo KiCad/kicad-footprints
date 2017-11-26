@@ -1,4 +1,6 @@
-(module SDCardReceptacle (layer F.Cu) (tedit 5A1AAC69)
+(module SDCardReceptacle (layer F.Cu) (tedit 5A1AB9E7)
+  (descr "SD-Card Receptable")
+  (tags "SD Card Receptable")
   (attr smd)
   (fp_text reference REF** (at 12.8 -13.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
