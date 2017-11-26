@@ -36,7 +36,7 @@
   (pad 3 thru_hole oval (at 5.08 0 90) (size 2.03 1.73) (drill 1.02) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 7.62 0 90) (size 2.03 1.73) (drill 1.02) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 -2.16 90) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connectors.3dshapes/FanPinHeader_1x04_P2.54mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector.3dshapes/FanPinHeader_1x04_P2.54mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
