@@ -37,7 +37,7 @@
   - [x] PicoLock
   - [x] SPOX
   - [x] Sabre
-  - [ ] SlimStack
+  - [x] SlimStack
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
 - [ ] Connectors_Samtec
