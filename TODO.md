@@ -48,18 +48,38 @@
 - [ ] Connectors_WAGO
 - [x] Connectors_USB
 - [ ] Connectors
-  - [ ] Pins
-  - [ ] Fan-Pinheaders
-  - [ ] USBs
-  - [ ] Coaxials
-  - [ ] SATA
-  - [ ] RJ11/45
-  - [ ] HE10
-  - [ ] GS (SolderJumper)
-  - [ ] Batteries
-  - [ ] PCI/ISA/...
-  - [ ] Barreljacks
+  - [ ] 3M
+  - [ ] Audio Jacks
   - [ ] Banana Jacks
+  - [ ] Barrel Jacks
+  - [ ] Batteries (CR1220/CR2032)
+  - [ ] C64/C96
+  - [ ] CNT3BRCMS
+  - [ ] CUI_PD-30
+  - [ ] Coaxials (BNC, SMA, SMB)
+  - [ ] FMC
+  - [ ] Fan-Pinheaders
+  - [ ] GS (SolderJumper)
+  - [ ] GTK2400
+  - [ ] GoldTek
+  - [ ] Grove
+  - [ ] HE10
+  - [ ] IQRF
+  - [ ] JWT
+  - [ ] NMJ6
+  - [ ] PCI/ISA/... EdgeMounted connectors
+  - [ ] Pins
+  - [ ] QMS
+  - [ ] RJ11/45
+  - [ ] SAS
+  - [ ] SATA
+  - [ ] SD/microSD-card receptables
+  - [ ] SOC
+  - [ ] TE_Futurebus+
+  - [ ] Tag-Connect
+  - [ ] USBs
+  - [ ] Wafer
+  - [ ] XLR3/5
 - [ ] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
