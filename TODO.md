@@ -21,22 +21,22 @@
 - [ ] Connectors_Molex
   - [x] CLIK-mate
   - [ ] FFC
-  - [ ] KK
-  - [ ] MegaFit
-  - [ ] MicroFit 3.0
-  - [ ] MicroLatch
-  - [ ] Microfit3 (duplicate of 3.0?)
-  - [ ] MiniFit-JR
-  - [ ] MiniFit-SR
-  - [ ] NanoFit
+  - [x] KK
+  - [x] MegaFit
+  - [x] MicroFit 3.0
+  - [x] MicroLatch
+  - [x] Microfit3 (duplicate of 3.0?)
+  - [x] MiniFit-JR
+  - [x] MiniFit-SR
+  - [x] NanoFit
   - [x] Panelmate
   - [x] Pico-EZMate
   - [x] PicoBlade
   - [x] PicoClasp
-  - [ ] PicoFlex
+  - [x] PicoFlex
   - [x] PicoLock
-  - [ ] SPOX
-  - [ ] Sabre
+  - [x] SPOX
+  - [x] Sabre
   - [ ] SlimStack
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
