@@ -1,4 +1,4 @@
-(module SolderJumper_02x09 (layer F.Cu) (tedit 5A1AB58E)
+(module SolderJumper_02x09 (layer F.Cu) (tedit 5A1C876D)
   (descr "2 x 8 pins solder bridge jumper")
   (tags "solder bridge jumper")
   (attr virtual)
