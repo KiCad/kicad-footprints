@@ -1,16 +1,3 @@
-# Housings / Packages
-
-Housings_xxx will be renamed to Package_xxx
-
-Underway: https://github.com/KiCad/kicad-footprints/pull/15
-
-# Connectors
-
-Connectors_xxx will be renamed to Conn_xxx
-
-# Terminal Blocks
-
-New naming convention: TerminalBlock_Manufacturer{_Series}
 
 # Library Checklist
 
@@ -20,47 +7,16 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
 - [x] Buzzers_Beepers
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
-- [ ] Capacitors_THT
-- [ ] Connectors_Card
+- [x] Capacitors_THT
+- [x] Connectors_Card
 - [x] Connectors_DSub
-- [ ] Connectors_Harwin
-- [ ] Connectors_HDMI
+- [x] Connectors_Harwin
+- [x] Connectors_HDMI
 - [ ] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
-- [ ] Connectors_JST
-   - [ ] J11_B
-   - [x] ACH_BxxB
-   - [ ] ACH_SxxB 
-   - [x] AUH
-   - [ ] EH
-   - [x] GH_BMxxB
-   - [x] GH_SMxxB
-   - [ ] J2100_BxxB
-   - [ ] J2100_SxxB
-   - [ ] JWPF
-   - [x] LEA
-   - [ ] NV
-   - [x] PH_BxxB
-   - [x] PH_SxxB
-   - [ ] PUD_BxxB
-   - [ ] PUD_SxxB
-   - [x] SFH
-   - [x] SHL_SMxxB
-   - [x] SH_BMxxB
-   - [x] SH_SMxxB
-   - [x] SUR_SMxxB
-   - [x] SUR_BMxxB
-   - [ ] VH_BxP
-   - [ ] VH_SxP
-   - [x] XAG
-   - [ ] XH_BxxB
-   - [ ] XH_SxxB
-   - [ ] ZE_BxxB
-   - [x] ZE_BMxxB
-   - [ ] ZE_SxxB
-   - [x] ZE_SMxxB
+- [x] Connectors_JST
 - [ ] Connectors_Mini-Universal
 - [ ] Connectors_Molex
   - [x] CLIK-mate
@@ -82,80 +38,74 @@ New naming convention: TerminalBlock_Manufacturer{_Series}
   - [ ] SPOX
   - [ ] Sabre
   - [ ] SlimStack
-- [ ] Connectors_Multicomp
+- [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
-  - [x] MC
-  - [x] MSTB
-  - [x] PTSM (moved to terminal blocks)
 - [ ] Connectors_Samtec
 - [ ] Connectors_TE-Connectivity
+- [ ] Connectors_Tab (Tab / Blade connectors)
 - [ ] Connectors_Terminal_Blocks
-- [ ] Connectors_TestPoints
+- [x] Connectors_TestPoints
 - [ ] Connectors_WAGO
-- [ ] Connectors_USB
+- [x] Connectors_USB
 - [ ] Connectors
 - [ ] Converters_DCDC_ACDC
-- [ ] Crystals
-- [ ] Diodes_SMD
-- [ ] Diodes_THT
-- [ ] Displays_7-Segment
-- [ ] Displays
-- [ ] Enclosures
-- [ ] EuroBoard_Outline
+- [x] Crystals
+- [x] Diodes_SMD
+- [x] Diodes_THT
+- [x] Displays_7-Segment
+- [x] Displays
+- [x] Enclosures
+- [x] EuroBoard_Outline
 - [x] Fiducials
 - [ ] Fuse_Holders_and_Fuses
-- [ ] Hall-Effect_Transducers_LEM
+- [x] Hall-Effect_Transducers_LEM
 - [ ] Heatsinks
-- [ ] Housings_BGA
-- [ ] Housings_CSP
-- [ ] Housings_DFN_QFN
-- [ ] Housings_DIP
-- [ ] Housings_LCC
-- [ ] Housings_LGA
-- [ ] Housings_PGA
-- [ ] Housings_QFP
-- [ ] Housings_SIP
-- [ ] Housings_SOIC
-- [ ] Housings_SON
-- [ ] Housings_SSOP
+- [x] Housings_BGA
+- [x] Housings_CSP
+- [x] Housings_DFN_QFN
+- [x] Housings_DIP
+- [x] Housings_LCC
+- [x] Housings_LGA
+- [x] Housings_PGA
+- [x] Housings_QFP
+- [x] Housings_SIP
+- [x] Housings_SOIC
+- [x] Housings_SON
+- [x] Housings_SSOP
 - [x] Inductors_SMD
-- [ ] Inductors_THT
+- [x] Inductors_THT
 - [x] LEDs
 - [ ] Measurement_Scales
 - [ ] Microwave
 - [ ] Modules
-- [ ] Mounting_Holes
+- [x] Mounting_Holes
 - [ ] Opto-Devices
 - [ ] Oscillators
-- [ ] Package_DirectFET
+- [x] Package_DirectFET
 - [x] Pin_Headers
 - [ ] Potentiometers
-- [ ] Power_Integrations
-- [ ] Relays_SMD
-- [ ] Relays_THT
+- [x] Power_Integrations
+- [x] Relays_SMD
+- [x] Relays_THT
 - [x] Resistors_SMD
-- [ ] Resistors_THT
-- [ ] Resistors_Universal
+- [x] Resistors_THT
+- [x] Resistors_Universal
 - [x] RF_Antennas
 - [x] RF_Modules
-- [ ] Shielding_Cabinets
+- [x] Shielding_Cabinets
 - [x] Socket_Strips
-- [ ] Sockets
-- [ ] Symbols
+- [x] Sockets
+- [x] Symbols
 - [x] TerminalBlock_4UCON
 - [x] TerminalBlock_MetzConnect
 - [x] TerminalBlock_Philmore
 - [x] TerminalBlock_Phoenix
-   - [x] MKDS-1.5
-   - [x] MPT-2.54
-   - [x] PT-3.5
-   - [x] PTSM
 - [x] TerminalBlock_RND
 - [x] TerminalBlock_WAGO
-- [ ] TO_SOT_Packages_SMD
-- [ ] TO_SOT_Packages_THT
+- [x] TO_SOT_Packages_SMD
+- [x] TO_SOT_Packages_THT
 - [x] Transformers_SMD
 - [x] Transformers_THT
 - [x] Valves
-- [ ] Varistors
+- [x] Varistors
 - [ ] Wire_Pads
