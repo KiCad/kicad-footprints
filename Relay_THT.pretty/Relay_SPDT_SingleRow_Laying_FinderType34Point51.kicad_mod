@@ -62,7 +62,7 @@
   (pad A1 thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad A2 thru_hole circle (at -3.75158 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_SPDT_SingleRow_Laying_FinderType34Point51.wrl
-    (at (xyz 0.3602 0 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

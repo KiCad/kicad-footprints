@@ -21,7 +21,7 @@
   (pad 4 thru_hole circle (at 5 5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/Push_E-Switch_KS01Q01.wrl
-    (at (xyz 0.1 -0.1 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
