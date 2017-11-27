@@ -1,4 +1,4 @@
-(module Fuseholder_Blade_ATO_Littlefuse_Pudenz_2_Pin (layer F.Cu) (tedit 5A1C8B43)
+(module Fuseholder_Blade_ATO_Littlefuse_Pudenz_2_Pin (layer F.Cu) (tedit 5A1C8E73)
   (descr "Fuseholder ATO Blade littlefuse Pudenz 2 Pin")
   (tags "Fuseholder ATO Blade littlefuse Pudenz 2 Pin")
   (fp_text reference REF** (at 4.57 -2.78) (layer F.SilkS)
@@ -25,7 +25,7 @@
   (fp_line (start 14.85 4.45) (end -5.65 4.45) (layer F.CrtYd) (width 0.05))
   (fp_line (start 10.02 -1.8) (end 14.6 -1.8) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
-  (pad "" thru_hole circle (at 4.6 1.2) (size 2.4 2.4) (drill 2.4) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 4.6 1.2) (size 2.4 2.4) (drill 2.4) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 9.2 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Fuse.3dshapes/Fuseholder_Blade_ATO_Littlefuse_Pudenz_2_Pin.wrl
     (at (xyz 0 0 0))
