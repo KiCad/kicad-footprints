@@ -11,6 +11,7 @@
   (lib (name Conn_Dsub)(type KiCad)(uri ${KISYSMOD}/Conn_Dsub.pretty)(options "")(descr "Footprints for DSub footprints"))
   (lib (name Conn_HDMI)(type KiCad)(uri ${KISYSMOD}/Conn_HDMI.pretty)(options "")(descr "HDMI connector footprints"))
   (lib (name Conn_Harwin)(type KiCad)(uri ${KISYSMOD}/Conn_Harwin.pretty)(options "")(descr "Harwin connector footprints"))
+  (lib (name Conn_Hirose)(type KiCad)(uri ${KISYSMOD}/Conn_Hirose.pretty)(options "")(descr "Hirose connector footprints"))
   (lib (name Conn_IDC)(type KiCad)(uri ${KISYSMOD}/Conn_IDC.pretty)(options "")(descr "IDC connector footprints"))
   (lib (name Conn_JST)(type KiCad)(uri ${KISYSMOD}/Conn_JST.pretty)(options "")(descr "JST connector footprints www.jst.com"))
   (lib (name Conn_Molex)(type KiCad)(uri ${KISYSMOD}/Conn_Molex.pretty)(options "")(descr "Molex connector foottprints www.molex.com"))
