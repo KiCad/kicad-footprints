@@ -19,6 +19,7 @@
   (lib (name Conn_PinHeader_1.27mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinHeader_1.27mm.pretty)(options "")(descr "Pin headers, 1.27mm pitch"))
   (lib (name Conn_PinHeader_2.00mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinHeader_2.00mm.pretty)(options "")(descr "Pin headers, 2.0mm pitch"))
   (lib (name Conn_PinHeader_2.54mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinHeader_2.54mm.pretty)(options "")(descr "Pin headers, 2.54mm pitch"))
+  (lib (name Conn_PinSocket_1.00mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinSocket_1.00mm.pretty)(options "")(descr "Pin sockets, 1.00mm pitch"))
   (lib (name Conn_PinSocket_1.27mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinSocket_1.27mm.pretty)(options "")(descr "Pin sockets, 1.27mm pitch"))
   (lib (name Conn_PinSocket_2.00mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinSocket_2.00mm.pretty)(options "")(descr "Pin sockets, 2.0mm pitch"))
   (lib (name Conn_PinSocket_2.54mm)(type KiCad)(uri ${KISYSMOD}/Conn_PinSocket_2.54mm.pretty)(options "")(descr "Pin sockets, 2.54mm pitch"))
