@@ -1,11 +1,11 @@
-(module microSDCardReceptacle_Hirose_DM3BT-DSF-PEJS (layer F.Cu) (tedit 5A1AAC3D)
+(module microSD_HC_Hirose_DM3BT-DSF-PEJS (layer F.Cu) (tedit 5A1C8630)
   (descr "Micro SD, SMD, reverse on-board, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)")
   (tags "Micro SD")
   (attr smd)
   (fp_text reference REF** (at 0.425 -9.525) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value microSDCardReceptacle_Hirose_DM3BT-DSF-PEJS (at 0.425 9.575) (layer F.Fab)
+  (fp_text value microSD_HC_Hirose_DM3BT-DSF-PEJS (at 0.425 9.575) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user KEEPOUT (at 6.85 -3.25 90) (layer Cmts.User)
@@ -90,7 +90,7 @@
   (pad 11 smd rect (at -5.575 8.075) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 6.725 2.775) (size 1.2 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at -5.825 7.825 45) (size 0.2 0.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Conn_Card.3dshapes/microSDCardReceptacle_Hirose_DM3BT-DSF-PEJS.wrl
+  (model ${KISYS3DMOD}/Conn_Card.3dshapes/microSD_HC_Hirose_DM3BT-DSF-PEJS.wrl
     (at (xyz -0.1092519685 0.2726377953 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
