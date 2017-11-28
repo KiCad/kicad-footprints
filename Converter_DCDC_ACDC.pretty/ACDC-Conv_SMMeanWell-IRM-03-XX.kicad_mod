@@ -38,7 +38,7 @@
   (pad 11 smd rect (at -14.35 10.16 270) (size 1.5 2.03) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at -14.35 12.7 270) (size 1.5 2.03) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at -14.35 15.24 270) (size 1.5 2.03) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_SMMeanWell-IRM-03-XX.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/ACDC-Conv_SMMeanWell-IRM-03-XX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

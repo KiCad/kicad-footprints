@@ -36,7 +36,7 @@
   (pad 14 thru_hole oval (at 15.24 25.4) (size 2.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 15.24 22.86) (size 2.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 24 thru_hole oval (at 15.24 0) (size 2.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_BOTHHAND_CFUSxxxx-Serie.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/DCDC-Conv_BOTHHAND_CFUSxxxx-Serie.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
