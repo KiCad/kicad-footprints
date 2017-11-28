@@ -26,6 +26,6 @@ Footprints for the following connectors are script generated:
     - with and without holes for mounting screw
 
 author: Poeschl Rene
-script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/phoenix_contact
+script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector/Connector_PhoenixContact
 used config file: config_KLCv3.0.yaml
 python version: 3.6.2
