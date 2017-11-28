@@ -230,7 +230,7 @@
   (pad 58 thru_hole circle (at 71.12 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 59 thru_hole circle (at 73.66 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 60 thru_hole circle (at 73.66 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_Multicomp.3dshapes/Multicomp_MC9A22-6034_2x30_P2.54mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_Multicomp.3dshapes/Multicomp_MC9A22-6034_2x30_P2.54mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

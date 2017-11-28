@@ -51,7 +51,7 @@
   (pad 2 smd rect (at 0 1.475) (size 2.2 1.05) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.525 0) (size 1.05 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 -1.475) (size 2.2 1.05) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Conn_Coaxial.3dshapes/U.FL_Hirose_U.FL-R-SMT-1_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/U.FL_Hirose_U.FL-R-SMT-1_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

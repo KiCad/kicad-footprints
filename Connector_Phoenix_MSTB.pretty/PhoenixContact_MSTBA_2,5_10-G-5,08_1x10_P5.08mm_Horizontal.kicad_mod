@@ -81,7 +81,7 @@
   (fp_text user %R (at 22.86 3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Conn_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBA_2,5_10-G-5,08_1x10_P5.08mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBA_2,5_10-G-5,08_1x10_P5.08mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
