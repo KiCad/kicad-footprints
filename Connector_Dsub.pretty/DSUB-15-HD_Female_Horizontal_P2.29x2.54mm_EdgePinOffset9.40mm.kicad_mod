@@ -108,7 +108,7 @@
   (fp_text user %R (at -4.315 17.965) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Conn_Dsub.3dshapes/DSUB-15-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KISYS3DMOD}/Connector_Dsub.3dshapes/DSUB-15-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

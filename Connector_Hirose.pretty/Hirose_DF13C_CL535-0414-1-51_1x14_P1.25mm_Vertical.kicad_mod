@@ -45,7 +45,7 @@
   (fp_text user %R (at 0 1.25) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Conn_Hirose.3dshapes/Hirose_DF13C_CL535-0414-1-51_1x14_P1.25mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Hirose.3dshapes/Hirose_DF13C_CL535-0414-1-51_1x14_P1.25mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
