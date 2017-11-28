@@ -41,7 +41,7 @@
   (pad 6 smd rect (at -0.84 1.2) (size 1.175 1.9) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0.84 1.2) (size 1.175 1.9) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Micro-B_Molex_47346-0001.wrl
-    (at (xyz 0 -0.0472440945 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
