@@ -8,36 +8,18 @@
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
 - [x] Capacitors_THT
+- [X] Connectors_Amphenol
 - [x] Connectors_Card
 - [x] Connectors_DSub
 - [x] Connectors_Harwin
 - [x] Connectors_HDMI
-- [ ] Connectors_Hirose
+- [X] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
 - [x] Connectors_JST
 - [ ] Connectors_Mini-Universal
-- [ ] Connectors_Molex
-  - [x] CLIK-mate
-  - [ ] FFC
-  - [ ] KK
-  - [ ] MegaFit
-  - [ ] MicroFit 3.0
-  - [ ] MicroLatch
-  - [ ] Microfit3 (duplicate of 3.0?)
-  - [ ] MiniFit-JR
-  - [ ] MiniFit-SR
-  - [ ] NanoFit
-  - [x] Panelmate
-  - [x] Pico-EZMate
-  - [x] PicoBlade
-  - [x] PicoClasp
-  - [ ] PicoFlex
-  - [x] PicoLock
-  - [ ] SPOX
-  - [ ] Sabre
-  - [ ] SlimStack
+- [x] Connectors_Molex
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
 - [ ] Connectors_Samtec
@@ -48,6 +30,38 @@
 - [ ] Connectors_WAGO
 - [x] Connectors_USB
 - [ ] Connectors
+  - [ ] 3M
+  - [ ] Audio Jacks
+  - [ ] Banana Jacks
+  - [ ] Barrel Jacks
+  - [ ] Batteries (CR1220/CR2032)
+  - [ ] C64/C96
+  - [ ] CNT3BRCMS
+  - [ ] CUI_PD-30
+  - [ ] Coaxials (BNC, SMA, SMB)
+  - [ ] FMC
+  - [ ] Fan-Pinheaders
+  - [ ] GS (SolderJumper)
+  - [ ] GTK2400
+  - [ ] GoldTek
+  - [ ] Grove
+  - [ ] HE10
+  - [ ] IQRF
+  - [ ] JWT
+  - [ ] NMJ6
+  - [ ] PCI/ISA/... EdgeMounted connectors
+  - [ ] Pins
+  - [ ] QMS
+  - [ ] RJ11/45
+  - [ ] SAS
+  - [ ] SATA
+  - [ ] SD/microSD-card receptables
+  - [ ] SOC
+  - [ ] TE_Futurebus+
+  - [ ] Tag-Connect
+  - [ ] USBs
+  - [ ] Wafer
+  - [ ] XLR3/5
 - [ ] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
@@ -57,7 +71,7 @@
 - [x] Enclosures
 - [x] EuroBoard_Outline
 - [x] Fiducials
-- [ ] Fuse_Holders_and_Fuses
+- [x] Fuse_Holders_and_Fuses
 - [x] Hall-Effect_Transducers_LEM
 - [ ] Heatsinks
 - [x] Housings_BGA
@@ -79,7 +93,7 @@
 - [ ] Microwave
 - [ ] Modules
 - [x] Mounting_Holes
-- [ ] Opto-Devices
+- [x] Opto-Devices
 - [ ] Oscillators
 - [x] Package_DirectFET
 - [x] Pin_Headers
