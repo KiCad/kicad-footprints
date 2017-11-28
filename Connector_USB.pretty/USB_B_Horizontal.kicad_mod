@@ -34,8 +34,8 @@
   (pad 5 thru_hole circle (at 4.7 7.27 270) (size 2.7 2.7) (drill 2.3) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 4.7 -4.73 270) (size 2.7 2.7) (drill 2.3) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_B_Horizontal.wrl
-    (at (xyz 116.1287965109 -32.2579990304 0))
-    (scale (xyz 0.39 0.39 0.39))
-    (rotate (xyz 0 0 -90))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
