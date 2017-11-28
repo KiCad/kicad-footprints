@@ -194,7 +194,7 @@
   (pad 39 thru_hole oval (at 15.24 2.54) (size 2 1.44) (drill 1) (layers *.Cu *.Mask))
   (pad 20 thru_hole oval (at 0 48.26) (size 2 1.44) (drill 1) (layers *.Cu *.Mask))
   (pad 40 thru_hole oval (at 15.24 0) (size 2 1.44) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_DIP.3dshapes/3M_Textool_240-1288-00-0602J_2x20_P2.54mm.wrl
+  (model ${KISYS3DMOD}/Socket.3dshapes/3M_Textool_240-1288-00-0602J_2x20_P2.54mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
