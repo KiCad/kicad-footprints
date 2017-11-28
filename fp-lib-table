@@ -27,6 +27,7 @@
   (lib (name Connector_Phoenix_MC)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_MC.pretty)(options "")(descr "Phoenix MC connector footprints"))
   (lib (name Connector_Phoenix_MSTB)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_MSTB.pretty)(options "")(descr "Phoenix MSTB connector footprints"))
   (lib (name Connector_USB)(type KiCad)(uri ${KISYSMOD}/Connector_USB.pretty)(options "")(descr "USB connector footprints"))
+  (lib (name Converter_DCDC_ACDC)(type KiCad)(uri ${KISYSMOD}/Converter_DCDC_ACDC.pretty)(options "")(descr "AC/DC and DC/DC converter footprints"))
   (lib (name Crystal)(type KiCad)(uri ${KISYSMOD}/Crystal.pretty)(options "")(descr "Crystal footprints"))
   (lib (name Diode_SMD)(type KiCad)(uri ${KISYSMOD}/Diode_SMD.pretty)(options "")(descr "Diode footprints, surface mount"))
   (lib (name Diode_THT)(type KiCad)(uri ${KISYSMOD}/Diode_THT.pretty)(options "")(descr "Diode footprints, through hole"))
