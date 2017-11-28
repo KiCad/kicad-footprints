@@ -50,7 +50,7 @@
   (pad 2 smd rect (at 1.27 4.38) (size 0.95 0.46) (layers F.Cu))
   (pad 2 smd rect (at 1.27 -4.38) (size 0.95 0.46) (layers B.Cu))
   (pad 2 smd rect (at 1.27 4.38) (size 0.95 0.46) (layers B.Cu))
-  (model ${KISYS3DMOD}/Conn_Coaxial.3dshapes/SMA_Molex_SMA_73251-1153_EdgeMount_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Molex_SMA_73251-1153_EdgeMount_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
