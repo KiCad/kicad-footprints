@@ -74,7 +74,7 @@
   (pad "" smd rect (at -1.175 2.78) (size 0.85 1.4) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 1.175 2.78) (size 0.85 1.4) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 4.74 1.77) (size 1.22 1.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Conn_Molex.3dshapes/Molex_FFC_502244-1530_1x15_P0.5mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_FFC_502244-1530_1x15_P0.5mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
