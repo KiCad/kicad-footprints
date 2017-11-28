@@ -55,7 +55,7 @@
   (pad B8 thru_hole circle (at -0.8 -3.01) (size 0.65 0.65) (drill 0.4) (layers *.Cu *.Mask))
   (pad B10 thru_hole circle (at -1.6 -3.01) (size 0.65 0.65) (drill 0.4) (layers *.Cu *.Mask))
   (pad B11 thru_hole circle (at -2.4 -3.01) (size 0.65 0.65) (drill 0.4) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_USB.3dshapes/USB_C_Receptacle_Amphenol_12401548E4-2A.wrl
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401548E4-2A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -56,7 +56,7 @@
   (fp_text user %R (at 22.75 3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Conn_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_14-G-3.5_1x14_P3.50mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_14-G-3.5_1x14_P3.50mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -79,7 +79,7 @@
   (pad 14 smd rect (at -0.8 -3.55) (size 0.23 1) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at -1.2 -3.55) (size 0.23 1) (layers F.Cu F.Paste F.Mask))
   (pad 18 smd rect (at -1.6 -3.55) (size 0.23 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Conn_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-2x0x.wrl
+  (model ${KISYS3DMOD}/Connector_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-2x0x.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

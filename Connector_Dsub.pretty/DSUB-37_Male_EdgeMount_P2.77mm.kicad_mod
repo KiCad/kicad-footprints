@@ -241,7 +241,7 @@
   (fp_text user "PCB edge" (at -29.7 1.323333) (layer Dwgs.User)
     (effects (font (size 0.5 0.5) (thickness 0.075)))
   )
-  (model ${KISYS3DMOD}/Conn_Dsub.3dshapes/DSUB-37_Male_EdgeMount_P2.77mm.wrl
+  (model ${KISYS3DMOD}/Connector_Dsub.3dshapes/DSUB-37_Male_EdgeMount_P2.77mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

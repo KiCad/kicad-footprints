@@ -51,7 +51,7 @@
   (pad B10 smd rect (at -1.75 0.04) (size 0.38 1) (layers B.Cu B.Paste B.Mask))
   (pad B11 smd rect (at -2.25 0.04) (size 0.38 1) (layers B.Cu B.Paste B.Mask))
   (pad B12 smd rect (at -2.75 0.04) (size 0.38 1) (layers B.Cu B.Paste B.Mask))
-  (model ${KISYS3DMOD}/Conn_USB.3dshapes/USB_C_Plug_Molex_105444.wrl
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Plug_Molex_105444.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
