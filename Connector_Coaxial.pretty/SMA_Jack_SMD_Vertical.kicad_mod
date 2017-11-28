@@ -1,4 +1,4 @@
-(module SMA_Jack_SMD_Vertical (layer F.Cu) (tedit 5A1A78B8)
+(module SMA_Jack_SMD_Vertical (layer F.Cu) (tedit 5A1DBFC1)
   (descr "SMA pcb surface mount jack")
   (tags "SMA SMD Jack Straight")
   (attr smd)
@@ -46,7 +46,7 @@
   (pad 1 smd circle (at 0 0 90) (size 1.73 1.73) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 -2.8 90) (size 1.51 7.11) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.6 -2.38 90) (size 2.35 1.91) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Conn_Coaxial.3dshapes/SMA_Jack_SMD_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Jack_SMD_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

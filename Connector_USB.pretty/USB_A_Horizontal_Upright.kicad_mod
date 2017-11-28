@@ -1,4 +1,4 @@
-(module USB_A_Horizontal_Upright (layer F.Cu) (tedit 5A1A846D)
+(module USB_A_Horizontal_Upright (layer F.Cu) (tedit 5A1DC0BC)
   (descr "USB A vertical female connector, right angle")
   (tags "USB_A_Vertical female connector angled 73725-0110BLF")
   (fp_text reference REF** (at 3.85 -4.05) (layer F.SilkS)
@@ -40,8 +40,8 @@
   (pad 5 thru_hole circle (at 6.27 -2.72 90) (size 1.85 1.85) (drill 1.35) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at -0.73 2.72 90) (size 1.85 1.85) (drill 1.35) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 6.27 2.72 90) (size 1.85 1.85) (drill 1.35) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_USB.3dshapes/USB_A_Horizontal_Upright.wrl
-    (at (xyz 6.451599806586692 -12.90319961317338 32.25799903039346))
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_A_Horizontal_Upright.wrl
+    (at (xyz 6.4515998066 -12.9031996132 32.2579990304))
     (scale (xyz 0.41 0.41 0.41))
     (rotate (xyz 0 -90 180))
   )

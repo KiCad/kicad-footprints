@@ -1,4 +1,4 @@
-(module USB_Micro-B_Amphenol_10103594-0001LF_Horizontal (layer F.Cu) (tedit 5A1AB690)
+(module USB_Micro-B_Amphenol_10103594-0001LF_Horizontal (layer F.Cu) (tedit 5A1DC0BD)
   (descr "Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf")
   (tags "USB USB_B USB_micro USB_OTG")
   (attr smd)
@@ -50,7 +50,7 @@
   (pad 6 thru_hole oval (at 2.705 1.115 90) (size 1.7 1.35) (drill oval 1.2 0.7) (layers *.Cu *.Mask))
   (pad 6 smd rect (at -0.985 1.385 90) (size 2.5 1.43) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0.935 1.385 90) (size 2.5 1.43) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Conn_USB.3dshapes/USB_Micro-B_Amphenol_10103594-0001LF_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10103594-0001LF_Horizontal.wrl
     (at (xyz -0.0250000004 -1.1349999837 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
