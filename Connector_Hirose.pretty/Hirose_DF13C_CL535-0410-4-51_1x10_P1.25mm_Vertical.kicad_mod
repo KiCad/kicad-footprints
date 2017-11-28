@@ -1,6 +1,7 @@
-(module Hirose_DF13C_CL535-0410-4-51_1x10_P1.25mm_Vertical (layer F.Cu) (tedit 5A1DA6E2)
+(module Hirose_DF13C_CL535-0410-4-51_1x10_P1.25mm_Vertical (layer F.Cu) (tedit 5A1DAF85)
   (descr "Molex DF13C SMD, CL535-0410-4-51, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator")
   (tags "connector Hirose DF13C side entry")
+  (attr smd)
   (fp_text reference REF** (at 0 -3.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
