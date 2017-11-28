@@ -1,5 +1,5 @@
 (module FanPinHeader_1x04_P2.54mm_Vertical (layer F.Cu) (tedit 5A19DE55)
-  (descr "4-pin CPU fan Through hole pin header")
+  (descr "4-pin CPU fan Through hole pin header, e.g. for Wieson part number 2366C888-007 Molex 47053-1000, Foxconn HF27040-M1, Tyco 1470947-1 or equivalent, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf")
   (tags "pin header 4-pin CPU fan")
   (fp_text reference REF** (at 4 -3.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
