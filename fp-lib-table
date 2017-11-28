@@ -5,6 +5,7 @@
   (lib (name Button_Switch_THT)(type KiCad)(uri ${KISYSMOD}/Button_Switch_THT.pretty)(options "")(descr "Buttons and switches, through hole"))
   (lib (name Buzzer_Beeper)(type KiCad)(uri ${KISYSMOD}/Buzzer_Beeper.pretty)(options "")(descr "Audio signalling devices"))
   (lib (name Capacitor_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_SMD.pretty)(options "")(descr "Capacitor, surface mount"))
+  (lib (name Capacitor_THT)(type KiCad)(uri ${KISYSMOD}/Capacitor_THT.pretty)(options "")(descr "Capacitor, through hole"))
   (lib (name Capacitor_Tantalum_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_Tantalum_SMD.pretty)(options "")(descr "Tantalum Capacitor, surface mount"))
   (lib (name Connector_Audio)(type KiCad)(uri ${KISYSMOD}/Connector_Audio.pretty)(options "")(descr "Audio connector footprints"))
   (lib (name Connector_BarrelJack)(type KiCad)(uri ${KISYSMOD}/Connector_BarrelJack.pretty)(options "")(descr "(DC) barrel jack connector footprints"))
@@ -12,7 +13,6 @@
   (lib (name Connector_Coaxial)(type KiCad)(uri ${KISYSMOD}/Connector_Coaxial.pretty)(options "")(descr "Coaxial and RF connector footprints"))
   (lib (name Connector_Card)(type KiCad)(uri ${KISYSMOD}/Connector_Card.pretty)(options "")(descr "Card and card holder footprints"))
   (lib (name Connector_Coaxial)(type KiCad)(uri ${KISYSMOD}/Connector_Coaxial.pretty)(options "")(descr "Coaxial and RF connector footprints"))
-  (lib (name Capacitor_THT)(type KiCad)(uri ${KISYSMOD}/Capacitor_THT.pretty)(options "")(descr "Capacitor, through hole"))
   (lib (name Connector_Dsub)(type KiCad)(uri ${KISYSMOD}/Connector_Dsub.pretty)(options "")(descr "Footprints for DSub footprints"))
   (lib (name Connector_HDMI)(type KiCad)(uri ${KISYSMOD}/Connector_HDMI.pretty)(options "")(descr "HDMI connector footprints"))
   (lib (name Connector_Harwin)(type KiCad)(uri ${KISYSMOD}/Connector_Harwin.pretty)(options "")(descr "Harwin connector footprints"))
@@ -34,7 +34,6 @@
   (lib (name Connector_USB)(type KiCad)(uri ${KISYSMOD}/Connector_USB.pretty)(options "")(descr "USB connector footprints"))
   (lib (name Connector_SATA_SAS)(type KiCad)(uri ${KISYSMOD}/Connector_SATA_SAS.pretty)(options "")(descr "SATA/SAS connector footprints"))
   (lib (name Connector_USB)(type KiCad)(uri ${KISYSMOD}/Connector_USB.pretty)(options "")(descr "USB connector footprints"))
-
   (lib (name Connector)(type KiCad)(uri ${KISYSMOD}/Connector.pretty)(options "")(descr "generic/unsorted connector footprints"))
   (lib (name Crystal)(type KiCad)(uri ${KISYSMOD}/Crystal.pretty)(options "")(descr "Crystal footprints"))
   (lib (name Diode_SMD)(type KiCad)(uri ${KISYSMOD}/Diode_SMD.pretty)(options "")(descr "Diode footprints, surface mount"))
