@@ -12,7 +12,7 @@ Footprints for connectors by Molex
 
 Script details:
 - author: Poeschl Rene
-- script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector_SMD_single_row_plus_mounting_pad/
+- script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector/Connector_SMD_single_row_plus_mounting_pad/
 - used config file: config_KLCv3.0.yaml
 - series description file: conn_Molex.yaml
 - python version: 3.6.2
@@ -35,6 +35,6 @@ Script details:
  Script details
  - original authors: Poeschl Rene, Jan W. Krieger, Oliver Walters, Thomas Pointhuber, evanshulz, misca1234
  - scripts updated by Poeschl Rene to fit KLCv3.
- - script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connectors_Molex/
+ - script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector/Connector_Molex/
  - used config file (where applicable): config_KLCv3.0.yaml
  - python version: 3.6.2
