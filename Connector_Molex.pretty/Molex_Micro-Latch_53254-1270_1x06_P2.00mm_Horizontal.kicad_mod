@@ -90,7 +90,7 @@
   (fp_text user %R (at 5 -5.3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Conn_Molex.3dshapes/Molex_Micro-Latch_53254-1270_1x06_P2.00mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_Micro-Latch_53254-1270_1x06_P2.00mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

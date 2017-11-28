@@ -94,7 +94,7 @@
   (pad 24 thru_hole oval (at 2.54 27.94) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 25 thru_hole oval (at 0 30.48) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 26 thru_hole oval (at 2.54 30.48) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_IDC.3dshapes/IDC-Header_2x13_P2.54mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_IDC.3dshapes/IDC-Header_2x13_P2.54mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
