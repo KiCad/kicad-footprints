@@ -19,26 +19,7 @@
 - [ ] Connectors_JAE
 - [x] Connectors_JST
 - [ ] Connectors_Mini-Universal
-- [ ] Connectors_Molex
-  - [x] CLIK-mate
-  - [ ] FFC
-  - [x] KK
-  - [x] MegaFit
-  - [x] MicroFit 3.0
-  - [x] MicroLatch
-  - [x] Microfit3 (duplicate of 3.0?)
-  - [x] MiniFit-JR
-  - [x] MiniFit-SR
-  - [x] NanoFit
-  - [x] Panelmate
-  - [x] Pico-EZMate
-  - [x] PicoBlade
-  - [x] PicoClasp
-  - [x] PicoFlex
-  - [x] PicoLock
-  - [x] SPOX
-  - [x] Sabre
-  - [x] SlimStack
+- [x] Connectors_Molex
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
 - [ ] Connectors_Samtec
@@ -90,7 +71,7 @@
 - [x] Enclosures
 - [x] EuroBoard_Outline
 - [x] Fiducials
-- [ ] Fuse_Holders_and_Fuses
+- [x] Fuse_Holders_and_Fuses
 - [x] Hall-Effect_Transducers_LEM
 - [ ] Heatsinks
 - [x] Housings_BGA
