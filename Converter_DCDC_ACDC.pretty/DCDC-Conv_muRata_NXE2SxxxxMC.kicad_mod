@@ -43,7 +43,7 @@
   (pad 7 smd rect (at -4.7 3.81 270) (size 1 2.3) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at 4.7 -3.81 270) (size 1 2.3) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 4.7 3.81 270) (size 1 2.3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_NXE2SxxxxMC.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_NXE2SxxxxMC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

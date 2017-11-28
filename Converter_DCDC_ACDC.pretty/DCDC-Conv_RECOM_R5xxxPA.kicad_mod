@@ -48,7 +48,7 @@
   (pad 10 thru_hole oval (at 22.86 0) (size 1.5 2.3) (drill 1) (layers *.Cu *.Mask))
   (pad 11 thru_hole oval (at 25.4 0) (size 1.5 2.3) (drill 1) (layers *.Cu *.Mask))
   (pad 12 thru_hole oval (at 27.94 0) (size 1.5 2.3) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_RECOM_R5xxxPA.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/DCDC-Conv_RECOM_R5xxxPA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

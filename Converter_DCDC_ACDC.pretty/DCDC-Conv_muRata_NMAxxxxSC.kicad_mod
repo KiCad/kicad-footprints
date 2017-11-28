@@ -30,7 +30,7 @@
   (pad 4 thru_hole oval (at 0 7.62) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 0 10.16) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 0 12.7) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_NMAxxxxSC.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_NMAxxxxSC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
