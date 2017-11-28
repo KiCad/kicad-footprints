@@ -1,4 +1,4 @@
-(module RJ45_Tranformer_ver2 (layer F.Cu) (tedit 5A1AB053)
+(module RJ45_Tranformer_ver2 (layer F.Cu) (tedit 5A1DC098)
   (descr "RJ45 connector with Tranformerrmer and LEDs")
   (tags RJ45)
   (fp_text reference REF** (at 3.59 -8.9) (layer F.SilkS)
@@ -42,7 +42,7 @@
   (pad "" np_thru_hole circle (at 6.63 -7.62) (size 1.51 1.51) (drill 0.9) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -2 -7.62) (size 1.51 1.51) (drill 0.9) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 9.17 -7.62) (size 1.51 1.51) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_RJ.3dshapes/RJ45_Tranformer_ver2.wrl
+  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Tranformer_ver2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

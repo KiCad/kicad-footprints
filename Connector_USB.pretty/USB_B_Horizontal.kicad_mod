@@ -1,4 +1,4 @@
-(module USB_B_Horizontal (layer F.Cu) (tedit 5A1A84AC)
+(module USB_B_Horizontal (layer F.Cu) (tedit 5A1DC0BD)
   (descr "USB B connector")
   (tags "USB_B USB_DEV")
   (fp_text reference REF** (at 1.05 -6.1) (layer F.SilkS)
@@ -33,8 +33,8 @@
   (pad 3 thru_hole circle (at 2 2.54 270) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 4.7 7.27 270) (size 2.7 2.7) (drill 2.3) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 4.7 -4.73 270) (size 2.7 2.7) (drill 2.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_USB.3dshapes/USB_B_Horizontal.wrl
-    (at (xyz 116.1287965109404 -32.25799903039346 0))
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_B_Horizontal.wrl
+    (at (xyz 116.1287965109 -32.2579990304 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 -90))
   )

@@ -1,4 +1,4 @@
-(module USB_B_Amphenol_MUSB-D511_Vertical_Rugged (layer F.Cu) (tedit 5A1A9D16)
+(module USB_B_Amphenol_MUSB-D511_Vertical_Rugged (layer F.Cu) (tedit 5A1DC0BC)
   (descr "A,phenol MUSB_D511, USB B female connector, straight, rugged, https://www.amphenolcanada.com/ProductSearch/drawings/AC/MUSBD511XX.pdf")
   (tags "USB_B_MUSB_Straight female connector straight rugged MUSB D511")
   (fp_text reference REF** (at -5.8 -4.55) (layer F.SilkS)
@@ -36,7 +36,7 @@
   (pad 1 thru_hole rect (at 0 0) (size 1.4 1.4) (drill 0.92) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at -7.27 2.71) (size 3 3) (drill 2.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.5 0) (size 1.4 1.4) (drill 0.92) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_USB.3dshapes/USB_B_Amphenol_MUSB-D511_Vertical_Rugged.wrl
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_B_Amphenol_MUSB-D511_Vertical_Rugged.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

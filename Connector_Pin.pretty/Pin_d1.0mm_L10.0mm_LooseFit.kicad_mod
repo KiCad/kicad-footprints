@@ -1,4 +1,4 @@
-(module Pin_d1.0mm_L10.0mm_LooseFit (layer F.Cu) (tedit 5A1A7990)
+(module Pin_d1.0mm_L10.0mm_LooseFit (layer F.Cu) (tedit 5A1DC085)
   (descr "solder Pin_ diameter 1.0mm, hole diameter 1.2mm (loose fit), length 10.0mm")
   (tags "solder Pin_ loose fit")
   (fp_text reference REF** (at 0 2.25) (layer F.SilkS)
@@ -15,7 +15,7 @@
   (fp_circle (center 0 0) (end 1.2 0) (layer F.Fab) (width 0.12))
   (fp_circle (center 0 0) (end 1.5 0.05) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_Pin.3dshapes/Pin_d1.0mm_L10.0mm_LooseFit.wrl
+  (model ${KISYS3DMOD}/Connector_Pin.3dshapes/Pin_d1.0mm_L10.0mm_LooseFit.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

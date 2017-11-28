@@ -1,4 +1,4 @@
-(module RJ12_E (layer F.Cu) (tedit 5A1AB01E)
+(module RJ12_E (layer F.Cu) (tedit 5A1DC098)
   (descr "RJ12 connector")
   (tags "RJ12 connector")
   (fp_text reference REF** (at 7.95 -5.35) (layer F.SilkS)
@@ -37,7 +37,7 @@
   (pad 5 thru_hole circle (at 5.08 0) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 9.91 2.03) (size 3 3) (drill 0.81) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at -3.56 2.03) (size 3 3) (drill 0.81) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_RJ.3dshapes/RJ12_E.wrl
+  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ12_E.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

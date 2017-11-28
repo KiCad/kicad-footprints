@@ -1,4 +1,4 @@
-(module TE_1478204_Vertical (layer F.Cu) (tedit 5A1A78E2)
+(module TE_1478204_Vertical (layer F.Cu) (tedit 5A1DBFC1)
   (descr "BNC female PCB mount 4 pin straight chassis connector http://img-asia.electrocomponents.com/largeimages/L457024-02.gif")
   (tags "BNC female PCB mount 4 pin straight chassis connector ")
   (fp_text reference REF** (at -0.25 -6.25) (layer F.SilkS)
@@ -24,7 +24,7 @@
   (pad 2 thru_hole circle (at 3.175 -3.175) (size 3.81 3.81) (drill 1.524) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -3.175 3.175) (size 3.81 3.81) (drill 1.524) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.175 3.175) (size 3.81 3.81) (drill 1.524) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_Coaxial.3dshapes/TE_1478204_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/TE_1478204_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

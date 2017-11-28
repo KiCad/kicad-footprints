@@ -1,4 +1,4 @@
-(module USB_Mini-B_Lumber_2486_Horizontal (layer F.Cu) (tedit 5A1AB690)
+(module USB_Mini-B_Lumber_2486_Horizontal (layer F.Cu) (tedit 5A1DC0BD)
   (descr "USB Mini-B 5-pin SMD connector, http://cdn-reichelt.de/documents/datenblatt/C160/DS_2486_01.pdf")
   (tags "USB USB_B USB_Mini connector")
   (attr smd)
@@ -40,7 +40,7 @@
   (pad 6 smd rect (at 4.45 2.75 90) (size 2.5 2) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -2.2 -0.25 90) (size 0.9 0.9) (drill 0.9) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.2 -0.25 90) (size 0.9 0.9) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_USB.3dshapes/USB_Mini-B_Lumber_2486_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Mini-B_Lumber_2486_Horizontal.wrl
     (at (xyz 0.0090099996 -0.0246660006 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

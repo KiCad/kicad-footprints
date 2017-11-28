@@ -1,4 +1,4 @@
-(module RJ45_8 (layer F.Cu) (tedit 5A1AB033)
+(module RJ45_8 (layer F.Cu) (tedit 5A1DC098)
   (descr "RJ45 connector, 8-pin")
   (tags RJ45)
   (fp_text reference REF** (at 4.7 -4.95) (layer F.SilkS)
@@ -38,8 +38,8 @@
   (pad 6 thru_hole circle (at 6.35 -2.54) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 7.62 0) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 8.89 -2.54) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Conn_RJ.3dshapes/RJ45_8.wrl
-    (at (xyz 116.1287965109404 -161.2899951545073 0))
+  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_8.wrl
+    (at (xyz 116.1287965109 -161.2899951545 0))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 0))
   )

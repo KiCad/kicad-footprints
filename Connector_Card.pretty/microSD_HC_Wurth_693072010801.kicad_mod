@@ -1,4 +1,4 @@
-(module microSD_HC_Wurth_693072010801 (layer F.Cu) (tedit 5A1C8630)
+(module microSD_HC_Wurth_693072010801 (layer F.Cu) (tedit 5A1DBFB5)
   (descr "Wurth Elektronik MicroSD Card Holder with Lid 693072010801 http://katalog.we-online.de/em/datasheet/693072010801.pdf")
   (tags "socket slot microsd sdcard card")
   (attr smd)
@@ -54,7 +54,7 @@
   (pad 9 smd rect (at 6.875 4.15) (size 1.45 2) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at -6.875 -4.15) (size 1.45 2) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at -6.875 4.15) (size 1.45 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Conn_Card.3dshapes/microSD_HC_Wurth_693072010801.wrl
+  (model ${KISYS3DMOD}/Connector_Card.3dshapes/microSD_HC_Wurth_693072010801.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
