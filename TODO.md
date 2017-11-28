@@ -112,7 +112,7 @@
 - [ ] Microwave
 - [ ] Modules
 - [x] Mounting_Holes
-- [ ] Opto-Devices
+- [x] Opto-Devices
 - [ ] Oscillators
 - [x] Package_DirectFET
 - [x] Pin_Headers
