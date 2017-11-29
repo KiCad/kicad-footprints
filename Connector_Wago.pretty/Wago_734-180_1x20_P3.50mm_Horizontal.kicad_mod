@@ -1,5 +1,5 @@
-(module Wago_734-180_1x20_P3.50mm_Horizontal (layer F.Cu) (tedit 5A1F4232)
-  (descr "Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-180 , 20 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator")
+(module Wago_734-180_1x20_P3.50mm_Horizontal (layer F.Cu) (tedit 5A1F4400)
+  (descr "Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-180 , 20 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator")
   (tags "connector Wago  top entry")
   (fp_text reference REF** (at 33.4 -2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
