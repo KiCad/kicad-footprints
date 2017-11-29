@@ -24,7 +24,7 @@
 - [x] Connectors_Phoenix
 - [ ] Connectors_Samtec
 - [ ] Connectors_TE-Connectivity
-- [ ] Connectors_Tab (Tab / Blade connectors)
+- [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
 - [ ] Connectors_Terminal_Blocks
 - [x] Connectors_TestPoints
 - [ ] Connectors_WAGO
