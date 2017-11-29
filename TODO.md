@@ -31,17 +31,17 @@
 - [x] Connectors_USB
 - [ ] Connectors
   - [ ] 3M
-  - [ ] Audio Jacks
-  - [ ] Banana Jacks
-  - [ ] Barrel Jacks
-  - [ ] Batteries (CR1220/CR2032)
+  - [x] Audio Jacks
+  - [x] Banana Jacks
+  - [x] Barrel Jacks
+  - [x] Batteries (CR1220/CR2032)
   - [ ] C64/C96
   - [ ] CNT3BRCMS
   - [ ] CUI_PD-30
   - [ ] Coaxials (BNC, SMA, SMB)
   - [ ] FMC
-  - [ ] Fan-Pinheaders
-  - [ ] GS (SolderJumper)
+  - [x] Fan-Pinheaders
+  - [x] GS (SolderJumper)
   - [ ] GTK2400
   - [ ] GoldTek
   - [ ] Grove
@@ -49,11 +49,11 @@
   - [ ] IQRF
   - [ ] JWT
   - [ ] NMJ6
-  - [ ] PCI/ISA/... EdgeMounted connectors
+  - [x] PCI/ISA/... EdgeMounted connectors
   - [ ] Pins
   - [ ] QMS
-  - [ ] RJ11/45
-  - [ ] SAS
+  - [x] RJ11/45
+  - [x] SAS
   - [ ] SATA
   - [ ] SD/microSD-card receptables
   - [ ] SOC
