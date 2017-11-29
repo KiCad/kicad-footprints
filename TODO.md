@@ -37,7 +37,7 @@
   - [x] Batteries (CR1220/CR2032)
   - [ ] C64/C96
   - [ ] CNT3BRCMS
-  - [ ] CUI_PD-30
+  - [x] CUI_PD-30
   - [x] Coaxials (BNC, SMA, SMB)
   - [ ] FMC
   - [x] Fan-Pinheaders
