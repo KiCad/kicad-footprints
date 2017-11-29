@@ -1,6 +1,6 @@
 
 # Library Checklist
-
+- [x] Batteries
 - [x] Buttons_Switches_Keyboard
 - [x] Buttons_Switches_SMD
 - [x] Buttons_Switches_THT
@@ -8,12 +8,12 @@
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
 - [x] Capacitors_THT
-- [X] Connectors_Amphenol
+- [x] Connectors_Amphenol
 - [x] Connectors_Card
 - [x] Connectors_DSub
 - [x] Connectors_Harwin
 - [x] Connectors_HDMI
-- [X] Connectors_Hirose
+- [x] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
@@ -38,7 +38,7 @@
   - [ ] C64/C96
   - [ ] CNT3BRCMS
   - [ ] CUI_PD-30
-  - [ ] Coaxials (BNC, SMA, SMB)
+  - [x] Coaxials (BNC, SMA, SMB)
   - [ ] FMC
   - [x] Fan-Pinheaders
   - [x] GS (SolderJumper)
@@ -50,16 +50,16 @@
   - [ ] JWT
   - [ ] NMJ6
   - [x] PCI/ISA/... EdgeMounted connectors
-  - [ ] Pins
+  - [x] Pins
   - [ ] QMS
   - [x] RJ11/45
   - [x] SAS
-  - [ ] SATA
-  - [ ] SD/microSD-card receptables
+  - [x] SATA
+  - [x] SD/microSD-card receptables
   - [ ] SOC
   - [ ] TE_Futurebus+
   - [ ] Tag-Connect
-  - [ ] USBs
+  - [x] USBs
   - [ ] Wafer
   - [ ] XLR3/5
 - [ ] Converters_DCDC_ACDC
