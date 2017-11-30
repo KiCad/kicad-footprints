@@ -1,4 +1,4 @@
-(module TO-92Mini-2 (layer F.Cu) (tedit 5A1DD15D)
+(module TO-92Mini-2 (layer F.Cu) (tedit 5A206982)
   (descr "TO-92Mini package, drill 0.6mm (https://media.digikey.com/pdf/Data%20Sheets/Infineon%20PDFs/KT,KTY.pdf)")
   (tags "to-92Mini transistor ")
   (fp_text reference REF** (at 1.27 -2.06) (layer F.SilkS)
