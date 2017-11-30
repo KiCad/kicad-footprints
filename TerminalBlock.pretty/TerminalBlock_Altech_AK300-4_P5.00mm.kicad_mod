@@ -159,7 +159,7 @@
   (pad 2 thru_hole oval (at 5 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 15 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 10 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Terminal_Block.3dshapes/TerminalBlock_Altech_AK300-4_P5.00mm.wrl
+  (model ${KISYS3DMOD}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-4_P5.00mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
