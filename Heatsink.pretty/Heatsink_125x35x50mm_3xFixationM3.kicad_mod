@@ -164,4 +164,9 @@
   (pad "" np_thru_hole circle (at -48 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.SilkS *.Mask))
   (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.SilkS *.Mask))
   (pad "" np_thru_hole circle (at 48.006 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.SilkS *.Mask))
+  (model ${KISYS3DMOD}/Heatsink.3dshapes/Heatsink_125x35x50mm_3xFixationM3.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
