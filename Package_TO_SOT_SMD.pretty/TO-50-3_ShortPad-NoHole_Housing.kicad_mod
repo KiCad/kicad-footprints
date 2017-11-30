@@ -31,8 +31,8 @@
   (pad 2 smd rect (at -0.4 2.6 270) (size 4 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 5.6 -2.6 270) (size 1.5 5.5) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TO-50-3_ShortPad-NoHole_Housing.wrl
-    (at (xyz -0.02 0.1 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -90))
+    (rotate (xyz 0 0 0))
   )
 )

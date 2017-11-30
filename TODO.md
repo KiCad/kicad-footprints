@@ -1,96 +1,77 @@
 
 # Library Checklist
-
+- [x] Batteries
 - [x] Buttons_Switches_Keyboard
 - [x] Buttons_Switches_SMD
 - [x] Buttons_Switches_THT
 - [x] Buzzers_Beepers
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
-- [ ] Capacitors_THT
-- [ ] Connectors_Card
+- [x] Capacitors_THT
+- [x] Connectors_Amphenol
+- [x] Connectors_Card
 - [x] Connectors_DSub
-- [ ] Connectors_Harwin
-- [ ] Connectors_HDMI
-- [ ] Connectors_Hirose
+- [x] Connectors_Harwin
+- [x] Connectors_HDMI
+- [x] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
-- [ ] Connectors_JST
-   - [ ] J11_B
-   - [x] ACH_BxxB
-   - [ ] ACH_SxxB 
-   - [x] AUH
-   - [ ] EH
-   - [x] GH_BMxxB
-   - [x] GH_SMxxB
-   - [ ] J2100_BxxB
-   - [ ] J2100_SxxB
-   - [ ] JWPF
-   - [x] LEA
-   - [ ] NV
-   - [x] PH_BxxB
-   - [x] PH_SxxB
-   - [ ] PUD_BxxB
-   - [ ] PUD_SxxB
-   - [x] SFH
-   - [x] SHL_SMxxB
-   - [x] SH_BMxxB
-   - [x] SH_SMxxB
-   - [x] SUR_SMxxB
-   - [x] SUR_BMxxB
-   - [ ] VH_BxP
-   - [ ] VH_SxP
-   - [x] XAG
-   - [ ] XH_BxxB
-   - [ ] XH_SxxB
-   - [ ] ZE_BxxB
-   - [x] ZE_BMxxB
-   - [ ] ZE_SxxB
-   - [x] ZE_SMxxB
+- [x] Connectors_JST
 - [ ] Connectors_Mini-Universal
-- [ ] Connectors_Molex
-  - [x] CLIK-mate
-  - [ ] FFC
-  - [ ] KK
-  - [ ] MegaFit
-  - [ ] MicroFit 3.0
-  - [ ] MicroLatch
-  - [ ] Microfit3 (duplicate of 3.0?)
-  - [ ] MiniFit-JR
-  - [ ] MiniFit-SR
-  - [ ] NanoFit
-  - [x] Panelmate
-  - [x] Pico-EZMate
-  - [x] PicoBlade
-  - [x] PicoClasp
-  - [ ] PicoFlex
-  - [x] PicoLock
-  - [ ] SPOX
-  - [ ] Sabre
-  - [ ] SlimStack
-- [ ] Connectors_Multicomp
+- [x] Connectors_Molex
+- [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
-  - [x] MC
-  - [x] MSTB
-  - [x] PTSM (moved to terminal blocks)
 - [ ] Connectors_Samtec
 - [ ] Connectors_TE-Connectivity
+- [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
 - [ ] Connectors_Terminal_Blocks
-- [ ] Connectors_TestPoints
+- [x] Connectors_TestPoints
 - [ ] Connectors_WAGO
-- [ ] Connectors_USB
+- [x] Connectors_USB
 - [ ] Connectors
+  - [ ] 3M
+  - [x] Audio Jacks
+  - [x] Banana Jacks
+  - [x] Barrel Jacks
+  - [x] Batteries (CR1220/CR2032)
+  - [ ] C64/C96
+  - [ ] CNT3BRCMS
+  - [x] CUI_PD-30
+  - [x] Coaxials (BNC, SMA, SMB)
+  - [ ] FMC
+  - [x] Fan-Pinheaders
+  - [x] GS (SolderJumper)
+  - [ ] GTK2400
+  - [ ] GoldTek
+  - [ ] Grove
+  - [ ] HE10
+  - [ ] IQRF
+  - [ ] JWT
+  - [ ] NMJ6
+  - [x] PCI/ISA/... EdgeMounted connectors
+  - [x] Pins
+  - [ ] QMS
+  - [x] RJ11/45
+  - [x] SAS
+  - [x] SATA
+  - [x] SD/microSD-card receptables
+  - [ ] SOC
+  - [ ] TE_Futurebus+
+  - [ ] Tag-Connect
+  - [x] USBs
+  - [ ] Wafer
+  - [ ] XLR3/5
 - [ ] Converters_DCDC_ACDC
-- [ ] Crystals
+- [x] Crystals
 - [x] Diodes_SMD
-- [ ] Diodes_THT
+- [x] Diodes_THT
 - [x] Displays_7-Segment
 - [x] Displays
-- [ ] Enclosures
+- [x] Enclosures
 - [x] EuroBoard_Outline
 - [x] Fiducials
-- [ ] Fuse_Holders_and_Fuses
+- [x] Fuse_Holders_and_Fuses
 - [x] Hall-Effect_Transducers_LEM
 - [ ] Heatsinks
 - [x] Housings_BGA
@@ -106,26 +87,26 @@
 - [x] Housings_SON
 - [x] Housings_SSOP
 - [x] Inductors_SMD
-- [ ] Inductors_THT
+- [x] Inductors_THT
 - [x] LEDs
 - [ ] Measurement_Scales
 - [ ] Microwave
 - [ ] Modules
 - [x] Mounting_Holes
-- [ ] Opto-Devices
+- [x] Opto-Devices
 - [ ] Oscillators
 - [x] Package_DirectFET
 - [x] Pin_Headers
 - [ ] Potentiometers
-- [ ] Power_Integrations
+- [x] Power_Integrations
 - [x] Relays_SMD
 - [x] Relays_THT
 - [x] Resistors_SMD
-- [ ] Resistors_THT
-- [ ] Resistors_Universal
+- [x] Resistors_THT
+- [x] Resistors_Universal
 - [x] RF_Antennas
 - [x] RF_Modules
-- [ ] Shielding_Cabinets
+- [x] Shielding_Cabinets
 - [x] Socket_Strips
 - [x] Sockets
 - [x] Symbols
@@ -133,10 +114,6 @@
 - [x] TerminalBlock_MetzConnect
 - [x] TerminalBlock_Philmore
 - [x] TerminalBlock_Phoenix
-   - [x] MKDS-1.5
-   - [x] MPT-2.54
-   - [x] PT-3.5
-   - [x] PTSM
 - [x] TerminalBlock_RND
 - [x] TerminalBlock_WAGO
 - [x] TO_SOT_Packages_SMD
