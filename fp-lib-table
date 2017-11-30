@@ -33,6 +33,7 @@
   (lib (name Connector_Phoenix_MSTB)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_MSTB.pretty)(options "")(descr "Phoenix MSTB connector footprints"))
   (lib (name Connector_RJ)(type KiCad)(uri ${KISYSMOD}/Connector_RJ.pretty)(options "")(descr "Registered Jack (RJ) connector footprints (e.g. RJ11, RJ45, ...)"))
   (lib (name Connector_USB)(type KiCad)(uri ${KISYSMOD}/Connector_USB.pretty)(options "")(descr "USB connector footprints"))
+  (lib (name Connector_Wago)(type KiCad)(uri ${KISYSMOD}/Connector_Wago.pretty)(options "")(descr "Wago connector footprints"))
   (lib (name Connector_SATA_SAS)(type KiCad)(uri ${KISYSMOD}/Connector_SATA_SAS.pretty)(options "")(descr "SATA/SAS connector footprints"))
   (lib (name Connector)(type KiCad)(uri ${KISYSMOD}/Connector.pretty)(options "")(descr "generic/unsorted connector footprints"))
   (lib (name Crystal)(type KiCad)(uri ${KISYSMOD}/Crystal.pretty)(options "")(descr "Crystal footprints"))
