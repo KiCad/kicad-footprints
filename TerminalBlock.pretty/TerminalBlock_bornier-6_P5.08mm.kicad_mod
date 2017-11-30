@@ -30,7 +30,7 @@
   (pad 4 thru_hole circle (at 15.24 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 20.32 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 25.4 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_bornier-6_P5.08mm.wrl
+  (model ${KISYS3DMOD}/Terminal_Block.3dshapes/TerminalBlock_bornier-6_P5.08mm.wrl
     (at (xyz 0.5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
