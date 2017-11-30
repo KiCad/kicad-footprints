@@ -1,6 +1,7 @@
-(module Samtec_LSHM-150-xx.x-x-DV-S_2x50_P0.50mm_Vertical_Shielded (layer F.Cu) (tedit 5A205226)
+(module Samtec_LSHM-150-xx.x-x-DV-S_2x50_P0.50mm_Vertical_Shielded (layer F.Cu) (tedit 5A2071E8)
   (descr "Molex LSHM 0.50 mm Razor Beam High-Speed Hermaphroditic Terminal/Socket Strip, LSHM-150-xx.x-x-DV-S, 50 Pins per row (http://suddendocs.samtec.com/prints/lshm-1xx-xx.x-x-dv-a-x-x-tr-footprint.pdf), generated with kicad-footprint-generator")
   (tags "connector Samtec  side entry")
+  (attr smd)
   (fp_text reference REF** (at 0 -3.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
