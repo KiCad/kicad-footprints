@@ -1,10 +1,10 @@
-(module DCDC-Conv_TRACO_TEN10-XXXX_Dual (layer F.Cu) (tedit 59FF016C)
+(module Converter_DCDC_TRACO_TEN10-XXXX_Dual_THT (layer F.Cu) (tedit 59FF016C)
   (descr "DCDC-Converter, TRACO, TEN10-xxxx, single output, https://assets.tracopower.com/20171102100522/TEN10/documents/ten10-datasheet.pdf")
   (tags "DCDC-Converter TRACO TEN10-xxxx single output")
   (fp_text reference REF** (at -8.16 -16.22 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DCDC-Conv_TRACO_TEN10-XXXX_Dual (at 2.63 37.41) (layer F.Fab)
+  (fp_text value Converter_DCDC_TRACO_TEN10-XXXX_Dual_THT (at 2.63 37.41) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 2.539981 9.65187) (layer F.Fab)
@@ -31,7 +31,7 @@
   (pad 2 thru_hole oval (at 5.08 0 90) (size 6 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at -7.62 20.32 90) (size 6 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 12.7 20.32 90) (size 6 2.5) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TEN10-XXXX_Dual.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_DCDC_TRACO_TEN10-XXXX_Dual_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

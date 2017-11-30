@@ -1,10 +1,10 @@
-(module DCDC-Conv_MeanWell_NID60 (layer F.Cu) (tedit 59FDE8AE)
+(module Converter_DCDC_MeanWell_NID60_THT (layer F.Cu) (tedit 59FDE8AE)
   (descr "MeanWell NID60, http://www.meanwell.com/Upload/PDF/NID60/NID60-SPEC.PDF")
   (tags "MeanWell NID60")
   (fp_text reference REF** (at -1.98 -2.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DCDC-Conv_MeanWell_NID60 (at 0.96 50.78) (layer F.Fab)
+  (fp_text value Converter_DCDC_MeanWell_NID60_THT (at 0.96 50.78) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -4.25 -1.45) (end -4.25 49.85) (layer F.CrtYd) (width 0.05))
@@ -37,7 +37,7 @@
   (pad 9 thru_hole oval (at 0 43.18) (size 4 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 0 45.72) (size 4 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 11 thru_hole oval (at 0 48.26) (size 4 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/DCDC-Conv_MeanWell_NID60.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_DCDC_MeanWell_NID60_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

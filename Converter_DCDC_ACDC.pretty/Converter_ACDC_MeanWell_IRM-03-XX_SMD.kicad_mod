@@ -1,11 +1,11 @@
-(module ACDC-Conv_SMMeanWell-IRM-03-XX (layer F.Cu) (tedit 59FF0AB3)
+(module Converter_ACDC_MeanWell_IRM-03-XX_SMD (layer F.Cu) (tedit 59FF0AB3)
   (descr "ACDC-Converter, 3W, Meanwell, IRM-03, SMD, http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-03")
   (tags "ACDC-Converter 3W")
   (attr smd)
   (fp_text reference REF** (at -13.37 -20.02) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value ACDC-Conv_SMMeanWell-IRM-03-XX (at 0.02 20.72) (layer F.Fab)
+  (fp_text value Converter_ACDC_MeanWell_IRM-03-XX_SMD (at 0.02 20.72) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 12.12 -18.62) (end 12.12 18.62) (layer F.SilkS) (width 0.12))
@@ -38,7 +38,7 @@
   (pad 11 smd rect (at -14.35 10.16 270) (size 1.5 2.03) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at -14.35 12.7 270) (size 1.5 2.03) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at -14.35 15.24 270) (size 1.5 2.03) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/ACDC-Conv_SMMeanWell-IRM-03-XX.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-XX_SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
