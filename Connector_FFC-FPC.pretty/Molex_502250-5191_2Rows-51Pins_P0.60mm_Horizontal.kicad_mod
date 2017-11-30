@@ -1,11 +1,11 @@
-(module Molex_502250-5191_2Rows-51Pins_P0.30mm_Horizontal (layer F.Cu) (tedit 5A20212B)
+(module Molex_502250-5191_2Rows-51Pins_P0.60mm_Horizontal (layer F.Cu) (tedit 5A207915)
   (descr "Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-5191, 51 Circuits (http://www.molex.com/pdm_docs/sd/5022505191_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex  top entry")
   (attr smd)
   (fp_text reference REF** (at -0.07 -9.82) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Molex_502250-5191_2Rows-51Pins_P0.30mm_Horizontal (at -0.07 9.82) (layer F.Fab)
+  (fp_text value Molex_502250-5191_2Rows-51Pins_P0.60mm_Horizontal (at -0.07 9.82) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.71 0) (end -1.71 8.55) (layer F.Fab) (width 0.1))
@@ -108,7 +108,7 @@
   (fp_text user %R (at 0.96 0 90) (layer F.Fab)
     (effects (font (size 0.82 0.82) (thickness 0.12)))
   )
-  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_502250-5191_2Rows-51Pins_P0.30mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_502250-5191_2Rows-51Pins_P0.60mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
