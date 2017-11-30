@@ -57,7 +57,7 @@
   (pad 9 thru_hole oval (at 7.76 0) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-9_Horizontal_StaggeredType1.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

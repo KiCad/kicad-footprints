@@ -41,7 +41,7 @@
   (pad 9 thru_hole oval (at 20.32 0 90) (size 2.7 1.6) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Package_SIP.3dshapes/SIP9_Housing_BigPads.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
