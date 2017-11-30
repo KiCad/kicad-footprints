@@ -73,7 +73,7 @@
 - [x] Fiducials
 - [x] Fuse_Holders_and_Fuses
 - [x] Hall-Effect_Transducers_LEM
-- [ ] Heatsinks
+- [x] Heatsinks
 - [x] Housings_BGA
 - [x] Housings_CSP
 - [x] Housings_DFN_QFN
