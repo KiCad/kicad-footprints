@@ -35,6 +35,7 @@
   (lib (name Connector_USB)(type KiCad)(uri ${KISYSMOD}/Connector_USB.pretty)(options "")(descr "USB connector footprints"))
   (lib (name Connector_Wago)(type KiCad)(uri ${KISYSMOD}/Connector_Wago.pretty)(options "")(descr "Wago connector footprints"))
   (lib (name Connector_SATA_SAS)(type KiCad)(uri ${KISYSMOD}/Connector_SATA_SAS.pretty)(options "")(descr "SATA/SAS connector footprints"))
+  (lib (name Connector_Samtec)(type KiCad)(uri ${KISYSMOD}/Connector_Samtec.pretty)(options "")(descr "Samtec connector footprints"))
   (lib (name Connector)(type KiCad)(uri ${KISYSMOD}/Connector.pretty)(options "")(descr "generic/unsorted connector footprints"))
   (lib (name Crystal)(type KiCad)(uri ${KISYSMOD}/Crystal.pretty)(options "")(descr "Crystal footprints"))
   (lib (name Diode_SMD)(type KiCad)(uri ${KISYSMOD}/Diode_SMD.pretty)(options "")(descr "Diode footprints, surface mount"))
