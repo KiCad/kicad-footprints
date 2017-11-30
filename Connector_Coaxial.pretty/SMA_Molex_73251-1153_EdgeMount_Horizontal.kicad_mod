@@ -1,11 +1,11 @@
-(module SMA_Molex_SMA_73251-1153_EdgeMount_Horizontal (layer F.Cu) (tedit 5A1B666F)
+(module SMA_Molex_73251-1153_EdgeMount_Horizontal (layer F.Cu) (tedit 5A1B666F)
   (descr "Molex SMA RF Connectors, Edge Mount, (http://www.molex.com/pdm_docs/sd/732511150_sd.pdf)")
   (tags "sma edge")
   (attr smd)
   (fp_text reference REF** (at -1.5 7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SMA_Molex_SMA_73251-1153_EdgeMount_Horizontal (at -1.72 -7.11) (layer F.Fab)
+  (fp_text value SMA_Molex_73251-1153_EdgeMount_Horizontal (at -1.72 -7.11) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at -1.5 7) (layer F.Fab)
@@ -50,7 +50,7 @@
   (pad 2 smd rect (at 1.27 4.38) (size 0.95 0.46) (layers F.Cu))
   (pad 2 smd rect (at 1.27 -4.38) (size 0.95 0.46) (layers B.Cu))
   (pad 2 smd rect (at 1.27 4.38) (size 0.95 0.46) (layers B.Cu))
-  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Molex_SMA_73251-1153_EdgeMount_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Molex_73251-1153_EdgeMount_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

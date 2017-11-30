@@ -1,11 +1,11 @@
-(module SAS-mini_TEConnectovity_1888174_Vertical (layer F.Cu) (tedit 5A1DC09F)
+(module SAS-mini_TEConnectivity_1888174_Vertical (layer F.Cu) (tedit 5A1DC09F)
   (descr "36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English")
   (tags "SAS mini connector")
   (attr smd)
   (fp_text reference REF** (at 4 -6.29) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SAS-mini_TEConnectovity_1888174_Vertical (at 2.3 8.6) (layer F.Fab)
+  (fp_text value SAS-mini_TEConnectivity_1888174_Vertical (at 2.3 8.6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at -0.025 1.1) (layer F.Fab)
@@ -81,7 +81,7 @@
   (pad 7 thru_hole circle (at 8.9 3.1) (size 1.55 1.55) (drill 0.8) (layers *.Cu *.Mask))
   (pad B18 smd oval (at 6.6 -1.8) (size 0.35 1.8) (layers F.Cu F.Paste F.Mask))
   (pad A18 smd oval (at 7.1 4.01) (size 0.35 1.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_SATA_SAS.3dshapes/SAS-mini_TEConnectovity_1888174_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_SATA_SAS.3dshapes/SAS-mini_TEConnectivity_1888174_Vertical.wrl
     (at (xyz 0 -1.0159999847 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
