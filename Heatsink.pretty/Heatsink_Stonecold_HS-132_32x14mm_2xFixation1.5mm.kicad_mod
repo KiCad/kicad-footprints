@@ -1,4 +1,4 @@
-(module Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm (layer F.Cu) (tedit 5A0FCE29)
+(module Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm (layer F.Cu) (tedit 5A1FFA20)
   (descr "Heatsink, StoneCold HS")
   (tags heatsink)
   (fp_text reference REF** (at 0 -6) (layer F.SilkS)
@@ -90,4 +90,9 @@
   (fp_line (start 15.75 -4.75) (end -15.75 -4.75) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole circle (at -8.9 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 8.9 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Heatsink.3dshapes/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
