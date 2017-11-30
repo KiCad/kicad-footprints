@@ -1,11 +1,11 @@
-(module Molex_FFC_502244-3330_1x33_P0.5mm_Horizontal (layer F.Cu) (tedit 5A1B5A48)
+(module Molex_502244-3330_1x33_P0.5mm_Horizontal (layer F.Cu) (tedit 5A1B5A48)
   (descr "Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 2.33mm Height, Right Angle, Surface Mount, ZIF, Bottom Contact Style, 33 Circuits (http://www.molex.com/pdm_docs/sd/5022441530_sd.pdf)")
   (tags "molex FFC/FPC connector Pitch 0.5mm right angle")
   (attr smd)
   (fp_text reference REF** (at 0 -4.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Molex_FFC_502244-3330_1x33_P0.5mm_Horizontal (at 0 4.7) (layer F.Fab)
+  (fp_text value Molex_502244-3330_1x33_P0.5mm_Horizontal (at 0 4.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8 -2.31) (end -7.7 -2.71) (layer F.Fab) (width 0.1))
@@ -104,7 +104,7 @@
   (pad "" smd rect (at -3.325 2.78) (size 0.85 1.4) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 5.675 2.78) (size 0.85 1.4) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 3.325 2.78) (size 0.85 1.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_FFC_502244-3330_1x33_P0.5mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_502244-3330_1x33_P0.5mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
