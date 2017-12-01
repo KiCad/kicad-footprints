@@ -16,6 +16,7 @@
   (lib (name Connector_Harwin)(type KiCad)(uri ${KISYSMOD}/Connector_Harwin.pretty)(options "")(descr "Harwin connector footprints"))
   (lib (name Connector_Hirose)(type KiCad)(uri ${KISYSMOD}/Connector_Hirose.pretty)(options "")(descr "Hirose connector footprints"))
   (lib (name Connector_IDC)(type KiCad)(uri ${KISYSMOD}/Connector_IDC.pretty)(options "")(descr "IDC connector footprints"))
+  (lib (name Connector_JAE)(type KiCad)(uri ${KISYSMOD}/Connector_JAE.pretty)(options "")(descr "JAE connector footprints"))
   (lib (name Connector_JST)(type KiCad)(uri ${KISYSMOD}/Connector_JST.pretty)(options "")(descr "JST connector footprints www.jst.com"))
   (lib (name Connector_Molex)(type KiCad)(uri ${KISYSMOD}/Connector_Molex.pretty)(options "")(descr "Molex connector foottprints www.molex.com"))
   (lib (name Connector_Multicomp)(type KiCad)(uri ${KISYSMOD}/Connector_Multicomp.pretty)(options "")(descr "Multicomp connector foottprints"))
