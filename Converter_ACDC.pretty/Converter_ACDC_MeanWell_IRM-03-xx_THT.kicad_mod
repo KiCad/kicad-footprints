@@ -31,7 +31,7 @@
   (pad 3 thru_hole circle (at 5.08 0) (size 2.3 2.3) (drill 0.8) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 30.48 17.18) (size 2.3 2.3) (drill 0.76) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 25.4 17.18) (size 2.3 2.3) (drill 0.76) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-xx_THT.wrl
+  (model ${KISYS3DMOD}/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-xx_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

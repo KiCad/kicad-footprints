@@ -30,7 +30,7 @@
   (pad 2 thru_hole oval (at 5.08 0 90) (size 6 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at -7.62 20.32 90) (size 6 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 12.7 20.32 90) (size 6 2.5) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_DCDC_TRACO_TEN10-xxxx_Single_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TEN10-xxxx_Single_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

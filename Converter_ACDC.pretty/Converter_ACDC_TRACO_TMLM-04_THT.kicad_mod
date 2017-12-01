@@ -33,7 +33,7 @@
   (pad 3 thru_hole circle (at 25.25 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 29 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 29 21) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_ACDC_TRACO_TMLM-04_THT.wrl
+  (model ${KISYS3DMOD}/Converter_ACDC.3dshapes/Converter_ACDC_TRACO_TMLM-04_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
