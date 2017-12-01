@@ -1,10 +1,10 @@
-(module Converter_ACDC_MeanWell_IRM-03-XX_THT (layer F.Cu) (tedit 59FF00A2)
+(module Converter_ACDC_MeanWell_IRM-03-xx_THT (layer F.Cu) (tedit 59FF00A2)
   (descr "ACDC-Converter, 2W, Meanwell, IRM-02, THT, https://www.meanwell.co.uk/media/productPDF/IRM-02-spec.pdf")
   (tags "ACDC-Converter 2W THT")
   (fp_text reference REF** (at -0.8 -4.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_ACDC_MeanWell_IRM-03-XX_THT (at 15.12 22.24) (layer F.Fab)
+  (fp_text value Converter_ACDC_MeanWell_IRM-03-xx_THT (at 15.12 22.24) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.51 21.14) (end -3.51 -3.36) (layer F.CrtYd) (width 0.05))
@@ -31,7 +31,7 @@
   (pad 3 thru_hole circle (at 5.08 0) (size 2.3 2.3) (drill 0.8) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 30.48 17.18) (size 2.3 2.3) (drill 0.76) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 25.4 17.18) (size 2.3 2.3) (drill 0.76) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-XX_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-xx_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
