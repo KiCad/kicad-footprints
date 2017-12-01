@@ -39,3 +39,14 @@ Script details
 - script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector/Connector_TE-Connectivity/
 - used config file (where applicable): config_KLCv3.0.yaml
 - python version: 3.6.2
+
+---
+
+JAE
+- FF08
+
+Script details
+- author: Poeschl Rene
+- script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector/Connector_JAE/
+- used config file (where applicable): config_KLCv3.0.yaml
+- python version: 3.6.2
