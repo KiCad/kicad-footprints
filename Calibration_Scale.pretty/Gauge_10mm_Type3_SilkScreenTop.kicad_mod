@@ -1,7 +1,7 @@
 (module Gauge_10mm_Type3_SilkScreenTop (layer F.Cu)
   (at 0 0)
   (descr "Gauge, Massstab, 10mm, SilkScreenTop, Type 3,")
-  (tags "Gauge, Massstab, 10mm, SilkScreenTop, Type 3,")
+  (tags "Gauge Massstab 10mm SilkScreenTop Type 3")
   (attr virtual)
   (fp_text reference REF** (at -13.97 -8.89) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
