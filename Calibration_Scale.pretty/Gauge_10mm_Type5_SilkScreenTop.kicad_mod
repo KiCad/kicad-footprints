@@ -2,6 +2,7 @@
   (at 0 0)
   (descr "Gauge, Massstab, 10mm, SilkScreenTop, Type 5,")
   (tags "Gauge, Massstab, 10mm, SilkScreenTop, Type 5,")
+  (attr virtual)
   (fp_text reference REF** (at -0.8001 -14.00048) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

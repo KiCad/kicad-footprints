@@ -2,6 +2,7 @@
   (at 0 0)
   (descr "Gauge, Massstab, 10mm, CopperTop, Type 2,")
   (tags "Gauge, Massstab, 10mm, CopperTop, Type 2,")
+  (attr virtual)
   (fp_text reference REF** (at -7.69874 -0.20066) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
