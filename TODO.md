@@ -27,7 +27,7 @@
   - [ ] LSHM
 - [ ] Connectors_TE-Connectivity
 - [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
-- [ ] Connectors_Terminal_Blocks
+- [x] Connectors_Terminal_Blocks
 - [x] Connectors_TestPoints
 - [x] Connectors_WAGO
 - [x] Connectors_USB
