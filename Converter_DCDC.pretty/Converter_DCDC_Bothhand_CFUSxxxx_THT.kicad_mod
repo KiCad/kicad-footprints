@@ -1,10 +1,10 @@
-(module Converter_DCDC_Bothhand_CFUSXXXX_THT (layer F.Cu) (tedit 59FEFBED)
+(module Converter_DCDC_Bothhand_CFUSxxxx_THT (layer F.Cu) (tedit 59FEFBED)
   (descr "DCDC-Converter, BOTHHAND, Type CFxxxx-Serie,  (Very dodgy url but was the only at hand), ")
   (tags "DCDC-Converter BOTHHAND Type CFxxxx-Serie")
   (fp_text reference REF** (at 1.99 -3.68) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_DCDC_Bothhand_CFUSXXXX_THT (at 7.95 31.35) (layer F.Fab)
+  (fp_text value Converter_DCDC_Bothhand_CFUSxxxx_THT (at 7.95 31.35) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.5 -2.9) (end -1.5 30.2) (layer F.CrtYd) (width 0.05))
@@ -36,7 +36,7 @@
   (pad 14 thru_hole oval (at 15.24 25.4) (size 2.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 15.24 22.86) (size 2.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 24 thru_hole oval (at 15.24 0) (size 2.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_DCDC_Bothhand_CFUSXXXX_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_DCDC_Bothhand_CFUSxxxx_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

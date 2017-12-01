@@ -1,10 +1,10 @@
-(module Converter_DCDC_RECOM_R5XXXDA_THT (layer F.Cu) (tedit 59FE0BCB)
+(module Converter_DCDC_RECOM_R5xxxDA_THT (layer F.Cu) (tedit 59FE0BCB)
   (descr "DCDC-Converter, RECOM, RECOM_R5xxxDA, SIP-12, Horizontally Mounted, pitch 2.54mm, package size 32.2x9.1x15mm^3, https://www.recom-power.com/pdf/Innoline/R-5xxxPA_DA.pdf")
   (tags "dc-dc recom buck sip-12 pitch 2.54mm")
   (fp_text reference REF** (at 13.97 -16.56) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_DCDC_RECOM_R5XXXDA_THT (at 13.97 2.15) (layer F.Fab)
+  (fp_text value Converter_DCDC_RECOM_R5xxxDA_THT (at 13.97 2.15) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.13 -15.5) (end 30.07 -15.5) (layer F.Fab) (width 0.1))
@@ -51,7 +51,7 @@
   (pad 10 thru_hole oval (at 22.86 0) (size 1.5 2.3) (drill 1) (layers *.Cu *.Mask))
   (pad 11 thru_hole oval (at 25.4 0) (size 1.5 2.3) (drill 1) (layers *.Cu *.Mask))
   (pad 12 thru_hole oval (at 27.94 0) (size 1.5 2.3) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_DCDC_RECOM_R5XXXDA_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_DCDC_RECOM_R5xxxDA_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

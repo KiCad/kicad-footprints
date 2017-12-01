@@ -1,10 +1,10 @@
-(module Converter_DCDC_Cincon_EC5BEXX_Dual_THT (layer F.Cu) (tedit 59FF0101)
-  (descr "DCDC-Converter, CINCON, EC5BEXX, 18-36VDC to Dual output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/B%20CASE/SPEC-EC5BE-V24.pdf")
-  (tags "DCDC-Converter CINCON EC5BEXX 18-36VDC to Dual output")
+(module Converter_DCDC_Cincon_EC5BExx_Dual_THT (layer F.Cu) (tedit 59FF0101)
+  (descr "DCDC-Converter, CINCON, EC5BExx, 18-36VDC to Dual output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/B%20CASE/SPEC-EC5BE-V24.pdf")
+  (tags "DCDC-Converter CINCON EC5BExx 18-36VDC to Dual output")
   (fp_text reference REF** (at -8.39 -16.37 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_DCDC_Cincon_EC5BEXX_Dual_THT (at 2.55 37.5) (layer F.Fab)
+  (fp_text value Converter_DCDC_Cincon_EC5BExx_Dual_THT (at 2.55 37.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -10.41 35.81) (end 15.49 35.81) (layer F.CrtYd) (width 0.05))
@@ -33,7 +33,7 @@
   (pad 2 thru_hole oval (at 5.08 0 90) (size 6 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at -7.62 20.32 90) (size 6 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 12.7 20.32 90) (size 6 2.5) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_DCDC_Cincon_EC5BEXX_Dual_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_DCDC_Cincon_EC5BExx_Dual_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
