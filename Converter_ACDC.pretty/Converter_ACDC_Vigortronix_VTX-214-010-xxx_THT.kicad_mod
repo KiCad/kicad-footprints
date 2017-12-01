@@ -1,10 +1,10 @@
-(module Converter_ACDC_Vigortronix_VTX-214-010-XXX_THT (layer F.Cu) (tedit 59FA2DE8)
-  (descr "Vigortronix VTX-214-010-XXX serie of ACDC converter, http://www.vigortronix.com/10WattACDCPCBPowerModule.aspx")
-  (tags "Vigortronix VTX-214-010-XXX serie of ACDC converter")
+(module Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT (layer F.Cu) (tedit 59FA2DE8)
+  (descr "Vigortronix VTX-214-010-xxx serie of ACDC converter, http://www.vigortronix.com/10WattACDCPCBPowerModule.aspx")
+  (tags "Vigortronix VTX-214-010-xxx serie of ACDC converter")
   (fp_text reference REF** (at -10 -5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_ACDC_Vigortronix_VTX-214-010-XXX_THT (at 6 54) (layer F.Fab)
+  (fp_text value Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT (at 6 54) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -12 -4) (end -1 -4) (layer F.Fab) (width 0.1))
@@ -30,7 +30,7 @@
   (pad 2 thru_hole circle (at 12 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 48) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 5 48) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_ACDC_Vigortronix_VTX-214-010-XXX_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC_ACDC.3dshapes/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
