@@ -1,4 +1,4 @@
-(module Relay_DPDT_AXICOM_IMSeries_JLeg (layer F.Cu) (tedit 5A22B24C)
+(module Relay_DPDT_AXICOM_IMSeries_JLeg (layer F.Cu) (tedit 5A23F84C)
   (descr http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf)
   (tags "AXICOM IM-Series Relay J JLeg")
   (attr smd)
@@ -40,4 +40,9 @@
   (pad 3 smd rect (at -2.2 1.6) (size 2 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.2 -0.6) (size 2 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.2 -3.8) (size 2 0.7) (layers F.Cu F.Paste F.Mask))
+  (model C:/Users/Auri/Documents/GitHub/kicad-packages3D/Relay_SMD.3dshapes/Relay_DPDT_AXICOM_IMSeries_JLeg.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
