@@ -1,4 +1,4 @@
-(module R_Axial_DIN0414_L11.9mm_D4.5mm_P25.40mm_Horizontal (layer F.Cu) (tedit 5A24EBE6)
+(module R_Axial_DIN0414_L11.9mm_D4.5mm_P25.40mm_Horizontal (layer F.Cu) (tedit 5A24F4B6)
   (descr "Resistor, Axial_DIN0414 series, Axial, Horizontal, pin pitch=25.4mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
   (tags "Resistor Axial_DIN0414 series Axial Horizontal pin pitch 25.4mm 2W length 11.9mm diameter 4.5mm")
   (fp_text reference REF** (at 12.7 -3.37) (layer F.SilkS)

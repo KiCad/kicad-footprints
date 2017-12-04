@@ -1,4 +1,4 @@
-(module R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal (layer F.Cu) (tedit 5A24EBE6)
+(module R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal (layer F.Cu) (tedit 5A24F4B6)
   (descr "Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=25.4mm, 1W, length*diameter=9.9*3.6mm^2")
   (tags "Resistor Axial_DIN0411 series Axial Horizontal pin pitch 25.4mm 1W length 9.9mm diameter 3.6mm")
   (fp_text reference REF** (at 12.7 -2.92) (layer F.SilkS)

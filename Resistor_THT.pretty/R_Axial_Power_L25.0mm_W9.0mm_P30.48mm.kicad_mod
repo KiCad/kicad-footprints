@@ -1,4 +1,4 @@
-(module R_Axial_Power_L25.0mm_W9.0mm_P30.48mm (layer F.Cu) (tedit 5A24EBE7)
+(module R_Axial_Power_L25.0mm_W9.0mm_P30.48mm (layer F.Cu) (tedit 5A24F4B8)
   (descr "Resistor, Axial_Power series, Box, pin pitch=30.48mm, 7W, length*width*height=25*9*9mm^3, http://cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf")
   (tags "Resistor Axial_Power series Box pin pitch 30.48mm 7W length 25mm width 9mm height 9mm")
   (fp_text reference REF** (at 15.24 -5.62) (layer F.SilkS)
