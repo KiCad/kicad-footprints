@@ -80,7 +80,6 @@
   (lib (name RF_Shielding)(type KiCad)(uri ${KISYSMOD}/RF_Shielding.pretty)(options "")(descr "Specialied footprints for EMI shields and covers"))
   (lib (name Sensor_Current)(type KiCad)(uri ${KISYSMOD}/Sensor_Current.pretty)(options "")(descr "Specialied footprints for hall effect current sensors"))
   (lib (name Sensor_Pressure)(type KiCad)(uri ${KISYSMOD}/Sensor_Pressure.pretty)(options "")(descr "Specialied footprints for pressure sensors"))
-  (lib (name Symbol)(type KiCad)(uri ${KISYSMOD}/Symbol.pretty)(options "")(descr "PCB symbols"))
   (lib (name Socket)(type KiCad)(uri ${KISYSMOD}/Socket.pretty)(options "")(descr "Sockets"))
   (lib (name Symbol)(type KiCad)(uri ${KISYSMOD}/Symbol.pretty)(options "")(descr "PCB symbols"))
   (lib (name TerminalBlock)(type KiCad)(uri ${KISYSMOD}/TerminalBlock.pretty)(options "")(descr "Footprints for terminal blocks that do not have their own manufacturer specific library."))
