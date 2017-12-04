@@ -16,9 +16,7 @@
 - [x] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
-- [ ] Connectors_JAE
-  - [ ] FF0825SA1
-  - [x] LY20
+- [x] Connectors_JAE
 - [x] Connectors_JST
 - [ ] Connectors_Mini-Universal
 - [x] Connectors_Molex
@@ -27,7 +25,7 @@
 - [ ] Connectors_Samtec
   - [x] MECF
   - [ ] LSHM
-- [ ] Connectors_TE-Connectivity
+- [x] Connectors_TE-Connectivity
 - [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
 - [x] Connectors_Terminal_Blocks
 - [x] Connectors_TestPoints
