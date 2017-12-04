@@ -1,4 +1,4 @@
-(module R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal (layer F.Cu) (tedit 5A24EBE6)
+(module R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal (layer F.Cu) (tedit 5A24F4B6)
   (descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=15.24mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
   (tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 15.24mm 0.5W = 1/2W length 9mm diameter 3.2mm")
   (fp_text reference REF** (at 7.62 -2.72) (layer F.SilkS)

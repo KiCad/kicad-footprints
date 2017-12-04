@@ -1,4 +1,4 @@
-(module R_Box_L13.0mm_W4.0mm_P9.00mm (layer F.Cu) (tedit 5A24EBE8)
+(module R_Box_L13.0mm_W4.0mm_P9.00mm (layer F.Cu) (tedit 5A24F4B8)
   (descr "Resistor, Box series, Radial, pin pitch=9.00mm, 2W, length*width=13*4mm^2, http://www.produktinfo.conrad.com/datenblaetter/425000-449999/443860-da-01-de-METALLBAND_WIDERSTAND_0_1_OHM_5W_5Pr.pdf")
   (tags "Resistor Box series Radial pin pitch 9.00mm 2W length 13mm width 4mm")
   (fp_text reference REF** (at 4 -3.37) (layer F.SilkS)

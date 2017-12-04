@@ -1,4 +1,4 @@
-(module R_Axial_DIN0614_L14.3mm_D5.7mm_P15.24mm_Horizontal (layer F.Cu) (tedit 5A24EBE6)
+(module R_Axial_DIN0614_L14.3mm_D5.7mm_P15.24mm_Horizontal (layer F.Cu) (tedit 5A24F4B7)
   (descr "Resistor, Axial_DIN0614 series, Axial, Horizontal, pin pitch=15.24mm, 1.5W, length*diameter=14.3*5.7mm^2")
   (tags "Resistor Axial_DIN0614 series Axial Horizontal pin pitch 15.24mm 1.5W length 14.3mm diameter 5.7mm")
   (fp_text reference REF** (at 7.62 -3.97) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm (layer F.Cu) (tedit 5A24EBE8)
+(module R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm (layer F.Cu) (tedit 5A24F4B8)
   (descr "Resistor, Bare_Metal_Element series, Bare Metal Strip/Wire, Horizontal, pin pitch=15.3mm, 3W, length*width=16.3*4.8mm^2, https://www.bourns.com/pdfs/PWR4412-2S.pdf")
   (tags "Resistor Bare_Metal_Element series Bare Metal Strip Wire Horizontal pin pitch 15.3mm 3W length 16.3mm width 4.8mm ")
   (fp_text reference REF** (at 7.65 -3.52) (layer F.SilkS)

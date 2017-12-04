@@ -1,4 +1,4 @@
-(module R_Axial_DIN0918_L18.0mm_D9.0mm_P7.62mm_Vertical (layer F.Cu) (tedit 5A24EBE7)
+(module R_Axial_DIN0918_L18.0mm_D9.0mm_P7.62mm_Vertical (layer F.Cu) (tedit 5A24F4B7)
   (descr "Resistor, Axial_DIN0918 series, Axial, Vertical, pin pitch=7.62mm, 4W, length*diameter=18*9mm^2")
   (tags "Resistor Axial_DIN0918 series Axial Vertical pin pitch 7.62mm 4W length 18mm diameter 9mm")
   (fp_text reference REF** (at 3.81 -5.62) (layer F.SilkS)
