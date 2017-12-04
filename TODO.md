@@ -91,7 +91,7 @@
 - [x] Inductors_SMD
 - [x] Inductors_THT
 - [x] LEDs
-- [ ] Measurement_Scales
+- [x] Measurement_Scales
 - [ ] Microwave
 - [ ] Modules
 - [x] Mounting_Holes
