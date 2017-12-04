@@ -1,4 +1,4 @@
-(module R_Radial_Power_L7.0mm_W8.0mm_Px2.40mm_Py2.30mm (layer F.Cu) (tedit 5A24F4B8)
+(module R_Radial_Power_L7.0mm_W8.0mm_Px2.40mm_Py2.30mm (layer F.Cu) (tedit 5A250011)
   (descr "Resistor, Radial_Power series, Radial, pin pitch=2.40*2.30mm^2, 7W, length*width=7*8mm^2, http://www.vitrohm.com/content/files/vitrohm_series_kv_-_201601.pdf")
   (tags "Resistor Radial_Power series Radial pin pitch 2.40*2.30mm^2 7W length 7mm width 8mm")
   (fp_text reference REF** (at 0 -5.37) (layer F.SilkS)
