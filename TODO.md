@@ -1,6 +1,6 @@
 
 # Library Checklist
-
+- [x] Batteries
 - [x] Buttons_Switches_Keyboard
 - [x] Buttons_Switches_SMD
 - [x] Buttons_Switches_THT
@@ -8,12 +8,12 @@
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
 - [x] Capacitors_THT
-- [X] Connectors_Amphenol
+- [x] Connectors_Amphenol
 - [x] Connectors_Card
 - [x] Connectors_DSub
 - [x] Connectors_Harwin
 - [x] Connectors_HDMI
-- [X] Connectors_Hirose
+- [x] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
@@ -23,25 +23,27 @@
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
 - [ ] Connectors_Samtec
+  - [x] MECF
+  - [ ] LSHM
 - [ ] Connectors_TE-Connectivity
-- [ ] Connectors_Tab (Tab / Blade connectors)
-- [ ] Connectors_Terminal_Blocks
+- [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
+- [x] Connectors_Terminal_Blocks
 - [x] Connectors_TestPoints
-- [ ] Connectors_WAGO
+- [x] Connectors_WAGO
 - [x] Connectors_USB
 - [ ] Connectors
   - [ ] 3M
-  - [ ] Audio Jacks
-  - [ ] Banana Jacks
-  - [ ] Barrel Jacks
-  - [ ] Batteries (CR1220/CR2032)
+  - [x] Audio Jacks
+  - [x] Banana Jacks
+  - [x] Barrel Jacks
+  - [x] Batteries (CR1220/CR2032)
   - [ ] C64/C96
   - [ ] CNT3BRCMS
-  - [ ] CUI_PD-30
-  - [ ] Coaxials (BNC, SMA, SMB)
+  - [x] CUI_PD-30
+  - [x] Coaxials (BNC, SMA, SMB)
   - [ ] FMC
-  - [ ] Fan-Pinheaders
-  - [ ] GS (SolderJumper)
+  - [x] Fan-Pinheaders
+  - [x] GS (SolderJumper)
   - [ ] GTK2400
   - [ ] GoldTek
   - [ ] Grove
@@ -49,17 +51,17 @@
   - [ ] IQRF
   - [ ] JWT
   - [ ] NMJ6
-  - [ ] PCI/ISA/... EdgeMounted connectors
-  - [ ] Pins
+  - [x] PCI/ISA/... EdgeMounted connectors
+  - [x] Pins
   - [ ] QMS
-  - [ ] RJ11/45
-  - [ ] SAS
-  - [ ] SATA
-  - [ ] SD/microSD-card receptables
+  - [x] RJ11/45
+  - [x] SAS
+  - [x] SATA
+  - [x] SD/microSD-card receptables
   - [ ] SOC
   - [ ] TE_Futurebus+
   - [ ] Tag-Connect
-  - [ ] USBs
+  - [x] USBs
   - [ ] Wafer
   - [ ] XLR3/5
 - [ ] Converters_DCDC_ACDC
@@ -73,7 +75,7 @@
 - [x] Fiducials
 - [x] Fuse_Holders_and_Fuses
 - [x] Hall-Effect_Transducers_LEM
-- [ ] Heatsinks
+- [x] Heatsinks
 - [x] Housings_BGA
 - [x] Housings_CSP
 - [x] Housings_DFN_QFN
@@ -89,7 +91,7 @@
 - [x] Inductors_SMD
 - [x] Inductors_THT
 - [x] LEDs
-- [ ] Measurement_Scales
+- [x] Measurement_Scales
 - [ ] Microwave
 - [ ] Modules
 - [x] Mounting_Holes
