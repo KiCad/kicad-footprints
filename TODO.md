@@ -17,6 +17,8 @@
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
+  - [ ] FF0825SA1
+  - [x] LY20
 - [x] Connectors_JST
 - [ ] Connectors_Mini-Universal
 - [x] Connectors_Molex
