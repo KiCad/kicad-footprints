@@ -124,4 +124,4 @@
 - [x] Transformers_THT
 - [x] Valves
 - [x] Varistors
-- [ ] Wire_Pads
+- [x] Wire_Pads
