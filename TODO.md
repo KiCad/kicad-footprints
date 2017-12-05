@@ -93,7 +93,7 @@
 - [x] LEDs
 - [x] Measurement_Scales
 - [ ] Microwave
-- [ ] Modules
+- [x] Modules
 - [x] Mounting_Holes
 - [x] Opto-Devices
 - [ ] Oscillators
