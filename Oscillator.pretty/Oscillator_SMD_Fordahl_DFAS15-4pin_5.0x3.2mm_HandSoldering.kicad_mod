@@ -38,7 +38,7 @@
   (pad 2 smd rect (at 2.425 1.7) (size 2.25 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.425 -1.7) (size 2.25 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -2.425 -1.7) (size 2.25 1.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Oscillators.3dshapes/Oscillator_SMD_Fordahl_DFAS15-4pin_5.0x3.2mm_HandSoldering.wrl
+  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_Fordahl_DFAS15-4pin_5.0x3.2mm_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

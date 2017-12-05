@@ -30,7 +30,7 @@
   (pad 2 smd rect (at 1.125 0.875) (size 1.65 1.35) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.125 -0.875) (size 1.65 1.35) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -1.125 -0.875) (size 1.65 1.35) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Oscillators.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4pin_2.5x2.0mm_HandSoldering.wrl
+  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4pin_2.5x2.0mm_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
