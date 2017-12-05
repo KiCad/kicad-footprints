@@ -2,7 +2,7 @@
   (descr "A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet")
   (tags "A20 Olimex Olinuxino LIME2 development board")
   (attr smd)
-  (fp_text reference **REF (at 2 -31) (layer F.SilkS)
+  (fp_text reference REF (at 2 -31) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value A20_OLINUXINO_LIME2 (at 3.77 31.65) (layer F.Fab)
