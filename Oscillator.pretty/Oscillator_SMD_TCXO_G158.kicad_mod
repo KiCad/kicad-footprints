@@ -34,7 +34,7 @@
   (pad 2 smd rect (at 9.02 3.75) (size 3.81 1.91) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 9.02 -3.75) (size 3.81 1.91) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -9.02 -3.75) (size 3.81 1.91) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Oscillators.3dshapes/Oscillator_SMD_TCXO_G158.wrl
+  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_TCXO_G158.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.95 1.08 1))
     (rotate (xyz 0 0 0))

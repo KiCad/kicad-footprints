@@ -39,9 +39,9 @@
   (pad 8 thru_hole circle (at 0 -7.62) (size 2.5 2.5) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 7.62 -7.62) (size 2.5 2.5) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 7.62 0) (size 2.5 2.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Oscillators.3dshapes\Oscillator_DIP-8_LargePads.wrl
+  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_DIP-8_LargePads.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

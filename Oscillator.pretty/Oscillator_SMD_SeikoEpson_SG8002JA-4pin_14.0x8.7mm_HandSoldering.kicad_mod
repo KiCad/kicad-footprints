@@ -35,7 +35,7 @@
   (pad 2 smd rect (at 2.6 5.15) (size 1.43 4.5) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.6 -5.15) (size 1.43 4.5) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -2.6 -5.15) (size 1.43 4.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Oscillators.3dshapes\Oscillator_SMD_SeikoEpson_SG8002JA-4pin_14.0x8.7mm_HandSoldering.wrl
+  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG8002JA-4pin_14.0x8.7mm_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
