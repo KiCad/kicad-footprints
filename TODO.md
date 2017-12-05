@@ -96,7 +96,7 @@
 - [x] Modules
 - [x] Mounting_Holes
 - [x] Opto-Devices
-- [ ] Oscillators
+- [x] Oscillators
 - [x] Package_DirectFET
 - [x] Pin_Headers
 - [ ] Potentiometers
