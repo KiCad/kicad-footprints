@@ -1,4 +1,4 @@
-(module SolderWirePad_3x_0-8mmDrill (layer F.Cu
+(module SolderWirePad_3x_0-8mmDrill (layer F.Cu)
   (attr virtual)
   (at 0 0)
   (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
