@@ -1,5 +1,5 @@
 (module TO-92_Inline_Horizontal1 (layer F.Cu) (tedit 5A27990F)
-  (descr "TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)")
+  (descr "TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
   (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
   (fp_text reference REF** (at 1.27 -1.78) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

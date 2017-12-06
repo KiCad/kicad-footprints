@@ -1,5 +1,5 @@
 (module Heraeus_TO-92-2 (layer F.Cu) (tedit 5A119F96)
-  (descr "TO-92 2-pin variant by Heraeus, drill 0.6mm (http://www.produktinfo.conrad.com/datenblaetter/175000-199999/181293-da-01-de-TO92_Temperatursensor_PT1000_32209225.pdf)")
+  (descr "TO-92 2-pin variant by Heraeus, drill 0.75mm (http://www.produktinfo.conrad.com/datenblaetter/175000-199999/181293-da-01-de-TO92_Temperatursensor_PT1000_32209225.pdf)")
   (tags "to-92 ")
   (fp_text reference REF** (at 1.25 -2.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

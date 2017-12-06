@@ -1,5 +1,5 @@
 (module TO-92S_Wide (layer F.Cu) (tedit 5A279587)
-  (descr "TO-92S_Wide package, drill 0.6mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)")
+  (descr "TO-92S_Wide package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)")
   (tags "TO-92S_Wide transistor")
   (fp_text reference REF** (at 2.54 -2.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

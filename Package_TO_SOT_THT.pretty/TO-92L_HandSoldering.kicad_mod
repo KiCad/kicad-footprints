@@ -1,5 +1,5 @@
 (module TO-92L_HandSoldering (layer F.Cu) (tedit 5A27975A)
-  (descr "TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.8mm, hand-soldering variant with enlarged pads (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)")
+  (descr "TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm, hand-soldering variant with enlarged pads (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)")
   (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
   (fp_text reference REF** (at 1.27 -3.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

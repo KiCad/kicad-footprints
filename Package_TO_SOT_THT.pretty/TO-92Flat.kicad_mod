@@ -1,5 +1,5 @@
 (module TO-92Flat (layer F.Cu) (tedit 5A279D57)
-  (descr "TO-92Flat package, often used for hall sensors, drill 0.6mm (see e.g. http://www.ti.com/lit/ds/symlink/drv5023.pdf)")
+  (descr "TO-92Flat package, often used for hall sensors, drill 0.75mm (see e.g. http://www.ti.com/lit/ds/symlink/drv5023.pdf)")
   (tags "to-92Flat hall sensor")
   (fp_text reference REF** (at 1.27 -2.06) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
