@@ -1,5 +1,5 @@
 (module TO-92L_Wide (layer F.Cu) (tedit 5A152D5B)
-  (descr "TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.8mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)")
+  (descr "TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)")
   (tags "TO-92L Molded Wide transistor")
   (fp_text reference REF** (at 2.55 -4.15) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

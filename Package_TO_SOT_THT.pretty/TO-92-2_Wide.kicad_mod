@@ -1,5 +1,5 @@
 (module TO-92-2_Wide (layer F.Cu) (tedit 5A1DD157)
-  (descr "TO-92 2-pin leads in-line, wide, drill 0.8mm")
+  (descr "TO-92 2-pin leads in-line, wide, drill 0.75mm")
   (tags "to-92 sc-43 sc-43a sot54 PA33 diode SOD70")
   (fp_text reference REF** (at 2.54 -3.43) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

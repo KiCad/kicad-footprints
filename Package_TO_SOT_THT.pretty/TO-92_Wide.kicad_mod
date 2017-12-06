@@ -1,5 +1,5 @@
 (module TO-92_Wide (layer F.Cu) (tedit 5A2795B7)
-  (descr "TO-92 leads molded, wide, drill 0.8mm (see NXP sot054_po.pdf)")
+  (descr "TO-92 leads molded, wide, drill 0.75mm (see NXP sot054_po.pdf)")
   (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
   (fp_text reference REF** (at 2.55 -4.19) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
