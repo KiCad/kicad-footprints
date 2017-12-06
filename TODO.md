@@ -16,7 +16,7 @@
 - [x] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
-- [ ] Connectors_JAE
+- [x] Connectors_JAE
 - [x] Connectors_JST
 - [ ] Connectors_Mini-Universal
 - [x] Connectors_Molex
@@ -25,9 +25,9 @@
 - [ ] Connectors_Samtec
   - [x] MECF
   - [ ] LSHM
-- [ ] Connectors_TE-Connectivity
+- [x] Connectors_TE-Connectivity
 - [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
-- [ ] Connectors_Terminal_Blocks
+- [x] Connectors_Terminal_Blocks
 - [x] Connectors_TestPoints
 - [x] Connectors_WAGO
 - [x] Connectors_USB
@@ -64,7 +64,7 @@
   - [x] USBs
   - [ ] Wafer
   - [ ] XLR3/5
-- [ ] Converters_DCDC_ACDC
+- [x] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
 - [x] Diodes_THT
@@ -91,12 +91,12 @@
 - [x] Inductors_SMD
 - [x] Inductors_THT
 - [x] LEDs
-- [ ] Measurement_Scales
+- [x] Measurement_Scales
 - [ ] Microwave
-- [ ] Modules
+- [x] Modules
 - [x] Mounting_Holes
 - [x] Opto-Devices
-- [ ] Oscillators
+- [x] Oscillators
 - [x] Package_DirectFET
 - [x] Pin_Headers
 - [ ] Potentiometers
@@ -124,4 +124,4 @@
 - [x] Transformers_THT
 - [x] Valves
 - [x] Varistors
-- [ ] Wire_Pads
+- [x] Wire_Pads

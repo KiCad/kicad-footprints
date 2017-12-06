@@ -32,7 +32,6 @@ Script details
 
 Specialized scripts are used to generate the following connectors:
 - DF13C
-- FH12
 
 Script details
 - author: Poeschl Rene
