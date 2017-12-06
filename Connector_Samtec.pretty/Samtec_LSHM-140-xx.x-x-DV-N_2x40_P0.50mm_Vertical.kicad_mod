@@ -1,4 +1,4 @@
-(module Samtec_LSHM-140-xx.x-x-DV-N_2x40_P0.50mm_Vertical (layer F.Cu) (tedit 5A2071E8)
+(module Samtec_LSHM-140-xx.x-x-DV-N_2x40_P0.50mm_Vertical (layer F.Cu) (tedit 5A273B50)
   (descr "Molex LSHM 0.50 mm Razor Beam High-Speed Hermaphroditic Terminal/Socket Strip, LSHM-140-xx.x-x-DV-N, 40 Pins per row (http://suddendocs.samtec.com/prints/lshm-1xx-xx.x-x-dv-a-x-x-tr-footprint.pdf), generated with kicad-footprint-generator")
   (tags "connector Samtec  side entry")
   (attr smd)
