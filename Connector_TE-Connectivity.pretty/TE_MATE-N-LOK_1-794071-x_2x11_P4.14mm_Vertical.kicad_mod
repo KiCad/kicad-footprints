@@ -1,4 +1,4 @@
-(module TE_MATE-N-LOK_1-794071-x_2x11_P4.14mm_Vertical (layer F.Cu) (tedit 5A28AA36)
+(module TE_MATE-N-LOK_1-794071-x_2x11_P4.14mm_Vertical (layer F.Cu) (tedit 5A2930A5)
   (descr "Molex Mini-Universal MATE-N-LOK, old mpn/engineering number: 1-794071-x, 11 Pins per row (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82181_SOFTSHELL_HIGH_DENSITY&DocType=CS&DocLang=EN), generated with kicad-footprint-generator")
   (tags "connector TE MATE-N-LOK side entry")
   (fp_text reference REF** (at 2.07 -7.23) (layer F.SilkS)
