@@ -35,7 +35,7 @@
   - [x] Banana Jacks
   - [x] Barrel Jacks
   - [x] Batteries (CR1220/CR2032)
-  - [ ] C64/C96
+  - [ ] <s>C64/C96</s> duplicates of footprints found in Connectors_IEC_DIN
   - [ ] CNT3BRCMS
   - [x] CUI_PD-30
   - [x] Coaxials (BNC, SMA, SMB)
