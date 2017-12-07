@@ -1,4 +1,4 @@
-(module IDC-Header_2x08_P2.54mm_Horizontal_Lock (layer F.Cu) (tedit 5A29A4FF)
+(module IDC-Header_2x08_P2.54mm_Horizontal_Lock (layer F.Cu) (tedit 5A29A8A3)
   (descr "Connecteur HE10 16 contacts couche")
   (tags "CONN HE10")
   (fp_text reference REF** (at 12.55 8.9 90) (layer F.SilkS)
@@ -67,4 +67,9 @@
   (pad 14 thru_hole circle (at 2.54 15.24 90) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 0 17.78 90) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 2.54 17.78 90) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_IDC.3dshapes/IDC-Header_2x08_P2.54mm_Horizontal_Lock.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

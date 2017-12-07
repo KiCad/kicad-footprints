@@ -1,4 +1,4 @@
-(module IDC-Header_2x13_P2.54mm_Horizontal_Lock (layer F.Cu) (tedit 5A29A605)
+(module IDC-Header_2x13_P2.54mm_Horizontal_Lock (layer F.Cu) (tedit 5A29A8A3)
   (descr "Connecteur HE10 26 contacts couche")
   (tags "CONN HE10")
   (fp_text reference REF** (at 13.1 15.75 90) (layer F.SilkS)
@@ -77,4 +77,9 @@
   (pad 24 thru_hole circle (at 2.54 27.94 90) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (pad 25 thru_hole circle (at 0 30.48 90) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (pad 26 thru_hole circle (at 2.54 30.48 90) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_IDC.3dshapes/IDC-Header_2x13_P2.54mm_Horizontal_Lock.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
