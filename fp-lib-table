@@ -37,6 +37,7 @@
   (lib (name Connector_Phoenix_MSTB)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_MSTB.pretty)(options "")(descr "Phoenix MSTB connector footprints"))
   (lib (name Connector_RJ)(type KiCad)(uri ${KISYSMOD}/Connector_RJ.pretty)(options "")(descr "Registered Jack (RJ) connector footprints (e.g. RJ11, RJ45, ...)"))
   (lib (name Connector_SATA_SAS)(type KiCad)(uri ${KISYSMOD}/Connector_SATA_SAS.pretty)(options "")(descr "SATA/SAS connector footprints"))
+  (lib (name Connector_TE-Connectivity)(type KiCad)(uri ${KISYSMOD}/Connector_TE-Connectivity.pretty)(options "")(descr "Footprints for connectors by TE Connectivity"))
   (lib (name Connector_USB)(type KiCad)(uri ${KISYSMOD}/Connector_USB.pretty)(options "")(descr "USB connector footprints"))
   (lib (name Connector_Wago)(type KiCad)(uri ${KISYSMOD}/Connector_Wago.pretty)(options "")(descr "Wago connector footprints"))
   (lib (name Connector_Wire)(type KiCad)(uri ${KISYSMOD}/Connector_Wire.pretty)(options "")(descr "Footprints for solder wire pads."))
