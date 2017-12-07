@@ -58,7 +58,7 @@
   - [x] SD/microSD-card receptables
   - [ ] SOC
   - [ ] TE_Futurebus+
-  - [ ] Tag-Connect
+  - [x] Tag-Connect
   - [x] USBs
   - [ ] Wafer
   - [ ] XLR3/5
