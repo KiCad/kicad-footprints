@@ -36,17 +36,17 @@
   - [x] Barrel Jacks
   - [x] Batteries (CR1220/CR2032)
   - [ ] <s>C64/C96</s> duplicates of footprints found in Connectors_IEC_DIN
-  - [ ] CNT3BRCMS
+  - [ ] <s>CNT3BRCMS</> no corresponding part found, dropped
   - [x] CUI_PD-30
   - [x] Coaxials (BNC, SMA, SMB)
   - [ ] FMC
   - [x] Fan-Pinheaders
   - [x] GS (SolderJumper)
-  - [ ] GTK2400
-  - [ ] GoldTek
+  - [ ] <s>GTK2400</s> no part found
+  - [ ] <s>GoldTek</s> no part found
   - [ ] Grove
   - [ ] HE10
-  - [ ] IQRF
+  - [ ] <s>IQRF</s> no part found
   - [ ] JWT
   - [ ] NMJ6
   - [x] PCI/ISA/... EdgeMounted connectors
