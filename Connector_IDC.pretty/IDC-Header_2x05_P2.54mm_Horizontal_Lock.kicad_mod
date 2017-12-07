@@ -1,5 +1,5 @@
 (module IDC-Header_2x05_P2.54mm_Horizontal_Lock (layer F.Cu) (tedit 5A29916D)
-  (descr "Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50,, (https://www.reboul.fr/storage/00003af6.pdf)")
+  (descr "Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)")
   (tags "connector idc locked")
   (fp_text reference REF** (at 12.6 4.75 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
