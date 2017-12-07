@@ -36,7 +36,7 @@
   - [x] Barrel Jacks
   - [x] Batteries (CR1220/CR2032)
   - [ ] <s>C64/C96</s> duplicates of footprints found in Connectors_IEC_DIN
-  - [ ] <s>CNT3BRCMS</> no corresponding part found, dropped
+  - [ ] <s>CNT3BRCMS<s/> no corresponding part found, dropped
   - [x] CUI_PD-30
   - [x] Coaxials (BNC, SMA, SMB)
   - [ ] FMC
