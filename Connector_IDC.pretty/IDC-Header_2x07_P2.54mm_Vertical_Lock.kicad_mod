@@ -1,4 +1,4 @@
-(module IDC-Header_2x07_P2.54mm_Vertical_Lock (layer F.Cu) (tedit 5A29A32E)
+(module IDC-Header_2x07_P2.54mm_Vertical_Lock (layer F.Cu) (tedit 5A29A8A3)
   (descr "Connecteur HE10 14 contacts droit")
   (tags "CONN HE10")
   (fp_text reference REF** (at 7.11 7.62 270) (layer F.SilkS)
@@ -50,4 +50,9 @@
   (pad 12 thru_hole circle (at 2.54 12.7 270) (size 1.52 1.52) (drill 0.91) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 0 15.24 270) (size 1.52 1.52) (drill 0.91) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 2.54 15.24 270) (size 1.52 1.52) (drill 0.91) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Vertical_Lock.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
