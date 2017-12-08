@@ -30,7 +30,7 @@
 - [x] Connectors_WAGO
 - [x] Connectors_USB
 - [ ] Connectors
-  - [ ] 3M
+  - [x] 3M
   - [x] Audio Jacks
   - [x] Banana Jacks
   - [x] Barrel Jacks
@@ -39,16 +39,16 @@
   - [ ] <s>CNT3BRCMS</s> no corresponding part found, dropped
   - [x] CUI_PD-30
   - [x] Coaxials (BNC, SMA, SMB)
-  - [ ] FMC
+  - [x] FMC
   - [x] Fan-Pinheaders
   - [x] GS (SolderJumper)
   - [ ] <s>GTK2400</s> no part found
   - [ ] <s>GoldTek</s> no part found
-  - [ ] Grove
+  - [x] Grove
   - [ ] HE10
   - [ ] <s>IQRF</s> no part found
-  - [ ] JWT
-  - [ ] NMJ6
+  - [x] JWT
+  - [x] NMJ6
   - [x] PCI/ISA/... EdgeMounted connectors
   - [x] Pins
   - [ ] QMS -> needs major rework and checking against datasheet.
