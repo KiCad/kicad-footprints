@@ -51,17 +51,17 @@
   - [ ] NMJ6
   - [x] PCI/ISA/... EdgeMounted connectors
   - [x] Pins
-  - [ ] QMS
+  - [ ] QMS -> needs major rework and checking against datasheet.
   - [x] RJ11/45
   - [x] SAS
   - [x] SATA
   - [x] SD/microSD-card receptables
-  - [ ] SOC
+  - [ ] <s>SOC</s> no part found
   - [ ] TE_Futurebus+
   - [x] Tag-Connect
   - [x] USBs
-  - [ ] Wafer
-  - [ ] XLR3/5
+  - [ ] <s>Wafer</s> no part found
+  - [ ] <s>XLR3/5</s> no part found
 - [x] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
