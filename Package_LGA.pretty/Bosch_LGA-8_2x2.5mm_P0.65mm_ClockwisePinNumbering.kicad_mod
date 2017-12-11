@@ -1,11 +1,11 @@
-(module Bosch_LGA-8_2x2.5mm_P0.65mm (layer F.Cu) (tedit 5A01D975)
+(module Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering (layer F.Cu) (tedit 5A01D975)
   (descr "LGA-8, https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-18.pdf")
   (tags "lga land grid array")
   (attr smd)
   (fp_text reference REF** (at 0 -3.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Bosch_LGA-8_2x2.5mm_P0.65mm (at 0 3.1) (layer F.Fab)
+  (fp_text value Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering (at 0 3.1) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.35 1.1) (end -0.87 1.1) (layer F.SilkS) (width 0.1))
@@ -35,7 +35,7 @@
   (pad 3 smd rect (at 0.325 -0.8 90) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.325 -0.8 90) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -0.975 0.8 90) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_LGA.3dshapes/Bosch_LGA-8_2x2.5mm_P0.65mm.wrl
+  (model ${KISYS3DMOD}/Package_LGA.3dshapes/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
