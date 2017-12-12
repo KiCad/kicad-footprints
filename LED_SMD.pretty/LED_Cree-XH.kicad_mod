@@ -39,7 +39,7 @@
   (pad 2 smd rect (at 1.1 -0.75) (size 0.7 1.2) (layers F.Paste))
   (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Cree-XH.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.39 0.39 0.39))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

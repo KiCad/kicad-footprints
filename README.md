@@ -1,5 +1,16 @@
 # KiCad Footprint Libraries
 
-This repository *will be* where KiCad footprint libraries are located. 
+This repository contains the official KiCad footprint libraries.
 
-Currently, each footprint library is hosted on GitHub as an [individual repository](https://github.com/KiCad?utf8=%E2%9C%93&q=.pretty&type=&language=). This is unmaintainable and these libraries will be merged (here) for the v5 KiCad release.
+Each footprint library is stored as a directory with the `.pretty` suffix. The footprint files are `.kicad_mod` files within 
+
+Weekly builds can be found at https://kicad.github.io/footprints
+
+Contribution guidelines can be found at http://kicad-pcb.org/libraries/contribute
+
+Other KiCad library repositories are located:
+
+* **Symbols:** https://github.com/kicad/kicad-symbols
+* **3D Models:** https://github.com/kicad/kicad-packages3d
+* **Templates:** https://github.com/kicad/kicad-templates
+

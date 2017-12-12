@@ -23,7 +23,7 @@
   (pad 8 thru_hole circle (at -9.06 -2.97) (size 2.03 2.03) (drill 1.02) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at -6.91 0) (size 2.03 2.03) (drill 1.02) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Valve.3dshapes/Valve_ECC-83-1.wrl
-    (at (xyz -0.14 0.19 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

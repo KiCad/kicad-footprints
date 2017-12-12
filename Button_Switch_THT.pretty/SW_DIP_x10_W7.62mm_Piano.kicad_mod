@@ -128,6 +128,6 @@
   (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_DIP_x10_W7.62mm_Piano.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 0))
   )
 )
