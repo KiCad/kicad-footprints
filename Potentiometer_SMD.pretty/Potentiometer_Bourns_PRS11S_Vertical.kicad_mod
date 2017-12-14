@@ -1,4 +1,4 @@
-(module Potentiometer_Bourns_PRS11S_Vertical (layer F.Cu) (tedit 5A318B6B)
+(module Potentiometer_Bourns_PRS11S_Vertical (layer F.Cu) (tedit 5A32C666)
   (descr "Potentiometer, vertical, Bourns PRS11S, http://www.bourns.com/docs/Product-Datasheets/prs11s.pdf?sfvrsn=2")
   (tags "Potentiometer vertical Bourns PRS11S")
   (attr smd)
@@ -38,7 +38,7 @@
   (fp_text user REF** (at 11 0 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Potentiometer_SMD.3dshapes/Potentiometer_Bourns_PRS11S_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_PRS11S_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
