@@ -1,4 +1,4 @@
-(module Potentiometer_ACP_CA9-VSMD_Vertical_Hole (layer F.Cu) (tedit 5A318B6B)
+(module Potentiometer_ACP_CA9-VSMD_Vertical_Hole (layer F.Cu) (tedit 5A32C666)
   (descr "Potentiometer, vertical, shaft hole, ACP CA9-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf")
   (tags "Potentiometer vertical hole ACP CA9-VSMD")
   (attr smd)
@@ -30,7 +30,7 @@
   (fp_text user REF** (at -3.875 0 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Potentiometer_SMD.3dshapes/Potentiometer_ACP_CA9-VSMD_Vertical_Hole.wrl
+  (model ${KISYS3DMOD}/Potentiometer_SMD.3dshapes/Potentiometer_ACP_CA9-VSMD_Vertical_Hole.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
