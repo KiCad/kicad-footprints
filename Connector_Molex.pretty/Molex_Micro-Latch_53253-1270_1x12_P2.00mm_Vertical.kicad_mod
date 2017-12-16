@@ -1,10 +1,10 @@
-(module Molex_Micro-Latch_53253-2470_1x12_P2.00mm_Vertical (layer F.Cu) (tedit 5A12BB3C)
-  (descr "Molex Micro-Latch Wire-to-Board Connector System, 53253-2470 (compatible alternatives: 53253-2450), 12 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator")
+(module Molex_Micro-Latch_53253-1270_1x12_P2.00mm_Vertical (layer F.Cu) (tedit 5A354770)
+  (descr "Molex Micro-Latch Wire-to-Board Connector System, 53253-1270 (compatible alternatives: 53253-1250), 12 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Micro-Latch side entry")
   (fp_text reference REF** (at 11 -2.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Molex_Micro-Latch_53253-2470_1x12_P2.00mm_Vertical (at 11 3.35) (layer F.Fab)
+  (fp_text value Molex_Micro-Latch_53253-1270_1x12_P2.00mm_Vertical (at 11 3.35) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2 -1.5) (end -2 2.15) (layer F.Fab) (width 0.1))
@@ -52,7 +52,7 @@
   (fp_text user %R (at 11 1.45) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_Micro-Latch_53253-2470_1x12_P2.00mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_Micro-Latch_53253-1270_1x12_P2.00mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
