@@ -45,7 +45,7 @@
   - [ ] <s>GTK2400</s> no part found
   - [ ] <s>GoldTek</s> no part found
   - [x] Grove
-  - [ ] HE10
+  - [x] HE10
   - [ ] <s>IQRF</s> no part found
   - [x] JWT
   - [x] NMJ6
