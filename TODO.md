@@ -15,10 +15,10 @@
 - [x] Connectors_HDMI
 - [x] Connectors_Hirose
 - [x] Connectors_IDC
-- [ ] Connectors_IEC_DIN
+- [ ] Connectors_IEC_DIN - waiting for script merge. See https://github.com/KiCad/Connectors_IEC_DIN.pretty/pull/7
 - [x] Connectors_JAE
 - [x] Connectors_JST
-- [ ] Connectors_Mini-Universal
+- [x] Connectors_Mini-Universal
 - [x] Connectors_Molex
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
