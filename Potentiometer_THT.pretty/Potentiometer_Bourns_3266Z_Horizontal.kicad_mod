@@ -1,4 +1,4 @@
-(module Potentiometer_Bourns_3266Z_Horizontal (layer F.Cu) (tedit 5A3C511D)
+(module Potentiometer_Bourns_3266Z_Horizontal (layer F.Cu) (tedit 5A3D4994)
   (descr "Potentiometer, horizontal, Bourns 3266Z, https://www.bourns.com/docs/Product-Datasheets/3266.pdf")
   (tags "Potentiometer horizontal Bourns 3266Z")
   (fp_text reference REF** (at -3.3 -3.41) (layer F.SilkS)
@@ -34,7 +34,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.54 0) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -5.08 0) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask))
-  (fp_text user REF** (at -2.54 0.09) (layer F.Fab)
+  (fp_text user %R (at -2.54 0.09) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (model ${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3266Z_Horizontal.wrl
