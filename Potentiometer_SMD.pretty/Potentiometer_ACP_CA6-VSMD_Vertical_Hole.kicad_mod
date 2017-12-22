@@ -1,4 +1,4 @@
-(module Potentiometer_ACP_CA6-VSMD_Vertical_Hole (layer F.Cu) (tedit 5A3D49C2)
+(module Potentiometer_ACP_CA6-VSMD_Vertical_Hole (layer F.Cu) (tedit 5A3D7171)
   (descr "Potentiometer, vertical, shaft hole, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf")
   (tags "Potentiometer vertical hole ACP CA6-VSMD")
   (attr smd)

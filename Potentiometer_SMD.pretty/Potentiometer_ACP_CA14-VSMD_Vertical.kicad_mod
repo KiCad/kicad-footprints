@@ -1,4 +1,4 @@
-(module Potentiometer_ACP_CA14-VSMD_Vertical (layer F.Cu) (tedit 5A3D49C2)
+(module Potentiometer_ACP_CA14-VSMD_Vertical (layer F.Cu) (tedit 5A3D7171)
   (descr "Potentiometer, vertical, ACP CA14-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf")
   (tags "Potentiometer vertical ACP CA14-VSMD")
   (attr smd)
