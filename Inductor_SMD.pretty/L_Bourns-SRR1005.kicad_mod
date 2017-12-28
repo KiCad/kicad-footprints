@@ -1,4 +1,4 @@
-(module L_Bourns-SRR1005 (layer F.Cu) (tedit 5A43C520)
+(module L_Bourns-SRR1005 (layer F.Cu) (tedit 5A44CA94)
   (descr "Bourns SRR1005 series SMD inductor")
   (tags "Bourns SRR1005 SMD inductor")
   (attr smd)
@@ -30,4 +30,9 @@
   (fp_line (start 6.6 2.65) (end 2.2 4.7) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -5.15 0) (size 3 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 5.15 0) (size 3 2.8) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Bourns-SRR1005.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
