@@ -1,11 +1,11 @@
-(module Converter_DCDC_TRACO_TMR-1SM_THT (layer F.Cu) (tedit 59F5F6B5)
+(module Converter_DCDC_TRACO_TMR-1SM_SMD (layer F.Cu) (tedit 5A458967)
   (descr http://assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf)
   (tags "DCDC SMD TRACO TMR-1SM")
   (attr smd)
   (fp_text reference REF** (at -7 -11) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_DCDC_TRACO_TMR-1SM_THT (at 0 11 180) (layer F.Fab)
+  (fp_text value Converter_DCDC_TRACO_TMR-1SM_SMD (at 0 11) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -6.85 9.6) (end 6.85 9.6) (layer F.SilkS) (width 0.12))
@@ -28,7 +28,7 @@
   (pad 8 smd rect (at 8.075 7.62) (size 2.4 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 8.075 5.08) (size 2.4 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at 8.075 -7.62) (size 2.4 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TMR-1SM_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TMR-1SM_SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
