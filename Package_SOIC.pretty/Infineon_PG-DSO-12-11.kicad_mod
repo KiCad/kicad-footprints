@@ -1,10 +1,10 @@
-(module Infineon_PG-DSO-12-9 (layer F.Cu) (tedit 5A47FBB8)
-  (descr "Infineon PG-DSO 12 pin, exposed pad: 4.5x8.1mm, with thermal vias (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-9/)")
+(module Infineon_PG-DSO-12-11 (layer F.Cu) (tedit 5A480096)
+  (descr "Infineon PG-DSO 12 pin, exposed pad: 4.5x8.1mm, with thermal vias (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-11/)")
   (tags PG-DSO)
   (fp_text reference REF** (at 0 -5.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Infineon_PG-DSO-12-9 (at 0 6) (layer F.Fab)
+  (fp_text value Infineon_PG-DSO-12-11 (at 0 6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -6.05 4.3) (end -6.05 -4.3) (layer F.CrtYd) (width 0.05))
@@ -57,7 +57,7 @@
   (pad "" smd rect (at -1.125 1.46) (size 1.95 1.16) (layers F.Paste))
   (pad "" smd rect (at 1.125 2.92) (size 1.95 1.16) (layers F.Paste))
   (pad "" smd rect (at -1.125 2.92) (size 1.95 1.16) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_SOIC.3dshapes/Infineon_PG-DSO-12-9.wrl
+  (model ${KISYS3DMOD}/Package_SOIC.3dshapes/Infineon_PG-DSO-12-11.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
