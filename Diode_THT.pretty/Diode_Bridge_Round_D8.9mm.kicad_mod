@@ -20,9 +20,9 @@
   (fp_arc (start 2.54 2.54) (end 6.35 0.254) (angle 62) (layer F.SilkS) (width 0.12))
   (fp_arc (start 2.54 2.54) (end 0 -1.143) (angle 70) (layer F.SilkS) (width 0.12))
   (fp_arc (start 2.54 2.54) (end -0.9 -0.2) (angle 283) (layer F.Fab) (width 0.12))
-  (pad 4 thru_hole oval (at 5.08 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 3 thru_hole oval (at 5.08 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (pad 3 thru_hole oval (at 5.08 5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 4 thru_hole oval (at 5.08 5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Diode_THT.3dshapes/Diode_Bridge_Round_D8.9mm.wrl
     (at (xyz 0 0 0))
