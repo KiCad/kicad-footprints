@@ -1,6 +1,7 @@
 (module Infineon_PG-DSO-12-11 (layer F.Cu) (tedit 5A480096)
   (descr "Infineon PG-DSO 12 pin, exposed pad: 4.5x8.1mm, with thermal vias (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-11/)")
   (tags PG-DSO)
+  (attr smd)
   (fp_text reference REF** (at 0 -5.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
