@@ -1,6 +1,7 @@
 (module Infineon_PG-DSO-20-30 (layer F.Cu) (tedit 5A480925)
   (descr "Infineon SO package 20pin, exposed pad 4.5x7mm (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-71/)")
   (tags DSO-20)
+  (attr smd)
   (fp_text reference REF** (at 0 -7.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
