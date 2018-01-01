@@ -1,4 +1,4 @@
-(module Infineon_PG-DSO-20-30_ThermalVias (layer F.Cu) (tedit 5A480A98)
+(module Infineon_PG-DSO-20-30_ThermalVias (layer F.Cu) (tedit 5A4A7A6A)
   (descr "Infineon SO package 20pin, exposed pad 4.5x7mm (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-71/)")
   (tags DSO-20)
   (attr smd)
@@ -71,6 +71,7 @@
   (pad "" smd rect (at -1 0.775) (size 1.7 1.25) (layers F.Paste))
   (pad "" smd rect (at 1 2.325) (size 1.7 1.25) (layers F.Paste))
   (pad "" smd rect (at -1 2.325) (size 1.7 1.25) (layers F.Paste))
+  (pad 21 smd rect (at 0 0) (size 4.8 7) (layers B.Cu))
   (model ${KISYS3DMOD}/Package_SOIC.3dshapes/Infineon_PG-DSO-20-30.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
