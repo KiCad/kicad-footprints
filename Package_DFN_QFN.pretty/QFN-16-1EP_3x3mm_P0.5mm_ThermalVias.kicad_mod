@@ -43,6 +43,7 @@
   (pad 14 smd oval (at 0.25 -1.475 90) (size 0.75 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd oval (at -0.25 -1.475 90) (size 0.75 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd oval (at -0.75 -1.475 90) (size 0.75 0.3) (layers F.Cu F.Paste F.Mask))
+  (pad 17 smd rect (at 0.0 0.0) (size 1.8 1.8) (layers B.Cu))
   (pad 17 smd rect (at 0.45 0.45) (size 0.9 0.9) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
   (pad 17 smd rect (at 0.45 -0.45) (size 0.9 0.9) (layers F.Cu F.Paste F.Mask)
