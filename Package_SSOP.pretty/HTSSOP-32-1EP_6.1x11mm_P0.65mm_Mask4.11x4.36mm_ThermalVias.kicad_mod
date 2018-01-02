@@ -1,4 +1,4 @@
-(module HTSSOP-32-1EP_6.1x11mm_P0.65mm_Mask4.11x4.36mm_ThermalVias (layer F.Cu) (tedit 5A4B60C2)
+(module HTSSOP-32-1EP_6.1x11mm_P0.65mm_Mask4.11x4.36mm_ThermalVias (layer F.Cu) (tedit 5A4B65E8)
   (descr "HTSSOP32: plastic thin shrink small outline package; 32 leads; body width 6.1 mm; lead pitch 0.65 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot487-1_po.pdf)")
   (tags "SSOP 0.65 PowerPAD")
   (attr smd)
@@ -109,6 +109,7 @@
   (pad "" smd rect (at 1.365 1.725) (size 0.93 0.55) (layers F.Paste))
   (pad "" smd rect (at -1.365 1.725) (size 0.93 0.55) (layers F.Paste))
   (pad "" smd rect (at -1.365 -1.725) (size 0.93 0.55) (layers F.Paste))
+  (pad 33 smd rect (at 0 0) (size 5.2 11) (layers B.Cu))
   (model ${KISYS3DMOD}/Package_SSOP.3dshapes/HTSSOP-32-1EP_6.1x11mm_P0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
