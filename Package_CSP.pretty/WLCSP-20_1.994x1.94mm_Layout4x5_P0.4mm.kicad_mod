@@ -46,7 +46,7 @@
   (pad C4 smd circle (at 0.6 0) (size 0.258 0.258) (layers F.Cu F.Paste F.Mask))
   (pad D4 smd circle (at 0.6 0.4) (size 0.258 0.258) (layers F.Cu F.Paste F.Mask))
   (pad E4 smd circle (at 0.6 0.8) (size 0.258 0.258) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm.wrl
+  (model ${KISYS3DMOD}/Package_CSP.3dshapes/WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
