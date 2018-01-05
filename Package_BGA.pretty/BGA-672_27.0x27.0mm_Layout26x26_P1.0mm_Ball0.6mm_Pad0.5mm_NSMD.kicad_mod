@@ -29,7 +29,6 @@
   (fp_line (start -6.9 -13.65) (end -12.5 -13.65) (layer F.SilkS) (width 0.15))
   (fp_line (start -12.5 -13.65) (end -13.65 -12.5) (layer F.SilkS) (width 0.15))
   (fp_line (start -13.65 -12.5) (end -13.65 -6.9) (layer F.SilkS) (width 0.15))
-  (fp_circle (center -13.5 -13.5) (end -13.5 -13.4) (layer F.SilkS) (width 0.2))
   (fp_line (start -13.75 -13.75) (end 13.75 -13.75) (layer F.CrtYd) (width 0.05))
   (fp_line (start 13.75 -13.75) (end 13.75 13.75) (layer F.CrtYd) (width 0.05))
   (fp_line (start 13.75 13.75) (end -13.75 13.75) (layer F.CrtYd) (width 0.05))
