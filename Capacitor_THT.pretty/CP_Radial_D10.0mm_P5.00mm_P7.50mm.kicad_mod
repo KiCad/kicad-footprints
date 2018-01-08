@@ -1,4 +1,4 @@
-(module CP_Radial_D10.0mm_P5.00mm_P7.50mm (layer F.Cu) (tedit 5A532CE4)
+(module CP_Radial_D10.0mm_P5.00mm_P7.50mm (layer F.Cu) (tedit 5A533290)
   (descr "CP, Radial series, Radial, pin pitch=5.00mm 7.50mm, , diameter=10mm, Electrolytic Capacitor")
   (tags "CP Radial series Radial pin pitch 5.00mm 7.50mm  diameter 10mm Electrolytic Capacitor")
   (fp_text reference REF** (at 2.5 -6.37) (layer F.SilkS)
