@@ -23,7 +23,7 @@
   (fp_line (start 10.9 2.2) (end -3 2.2) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole oval (at 0 0) (size 5.5 3.8) (drill oval 3.5 2) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 8 0) (size 5.3 3.8) (drill oval 3.5 2) (layers *.Cu *.Mask))
-  (model Fuse.3dshapes/Fuse_Blade_Mini_directSolder.wrl
+  (model ${KISYS3DMOD}/Fuse.3dshapes/Fuse_Blade_Mini_directSolder.wrl
     (at (xyz 0.16 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))
