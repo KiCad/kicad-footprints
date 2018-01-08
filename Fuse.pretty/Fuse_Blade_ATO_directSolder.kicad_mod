@@ -29,7 +29,7 @@
   (fp_line (start 14.77 3.12) (end -5.47 3.12) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole oval (at 0 0) (size 8 3.8) (drill oval 6 2) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 9.3 0) (size 8 3.8) (drill oval 6 2) (layers *.Cu *.Mask))
-  (model Fuse.3dshapes/Fuse_Blade_ATO_directSolder.wrl
+  (model ${KISYS3DMOD}/Fuse.3dshapes/Fuse_Blade_ATO_directSolder.wrl
     (at (xyz 0.18 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))
