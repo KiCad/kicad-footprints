@@ -1,4 +1,4 @@
-(module BLM-BH18650-PC2 (layer F.Cu) (tedit 5A552282)
+(module BLM-BH18650-PC2 (layer F.Cu) (tedit 5A55270E)
   (descr "18650 Battery Holder")
   (tags 18650)
   (fp_text reference REF** (at 0.1 1) (layer F.SilkS)
@@ -19,6 +19,9 @@
   (fp_line (start 39.2 10.25) (end -39.2 10.25) (layer F.CrtYd) (width 0.05))
   (fp_line (start 39.2 -10.25) (end 39.2 10.25) (layer F.CrtYd) (width 0.05))
   (fp_line (start -39.2 -10.25) (end 39.2 -10.25) (layer F.CrtYd) (width 0.05))
+  (fp_text user %R (at 0 -2.4) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (pad 2 thru_hole circle (at 36 0) (size 2.8 2.8) (drill 2) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -36 0) (size 2.8 2.8) (drill 2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/BLM-BH18650-PC2.img
