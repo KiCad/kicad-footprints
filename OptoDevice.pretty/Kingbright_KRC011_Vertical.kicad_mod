@@ -1,11 +1,11 @@
-(module Kingbright_KRC011 (layer F.Cu) (tedit 5A4AA328)
+(module Kingbright_KRC011_Vertical (layer F.Cu) (tedit 5A4FE17E)
   (descr "Subminiature Reflective Optical Sensor, http://www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf")
   (tags "Subminiature Reflective Optical Sensor")
   (attr smd)
   (fp_text reference REF** (at 0 -2.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Kingbright_KRC011 (at 0 2.8) (layer F.Fab)
+  (fp_text value Kingbright_KRC011_Vertical (at 0 2.8) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.8 1.5) (end -2.8 1.9) (layer F.SilkS) (width 0.1))
@@ -31,7 +31,7 @@
   (pad 3 smd rect (at 0.7 0.975) (size 0.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.7 0.975) (size 0.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.1 0.975) (size 0.8 1.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Kingbright_KRC011.wrl
+  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Kingbright_KRC011_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
