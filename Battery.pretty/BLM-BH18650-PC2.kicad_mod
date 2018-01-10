@@ -1,6 +1,6 @@
-(module BLM-BH18650-PC2 (layer F.Cu) (tedit 5A552FC1)
+(module BLM-BH18650-PC2 (layer F.Cu) (tedit 5A56232F)
   (descr "18650 Battery Holder")
-  (tags 18650)
+  (tags "18650 Battery Holder")
   (fp_text reference REF** (at 36 1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
