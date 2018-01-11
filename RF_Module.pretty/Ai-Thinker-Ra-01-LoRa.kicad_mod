@@ -1,6 +1,7 @@
-(module Ai-Thinker-Ra-01-LoRa (layer F.Cu) (tedit 5A564785)
+(module Ai-Thinker-Ra-01-LoRa (layer F.Cu) (tedit 5A57CAF2)
   (descr "Ai Thinker Ra-01 LoRa")
   (tags "LoRa Ra-01")
+  (attr smd)
   (fp_text reference REF** (at 8.25 5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
