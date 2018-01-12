@@ -97,7 +97,7 @@
 - [x] Oscillators
 - [x] Package_DirectFET
 - [x] Pin_Headers
-- [ ] Potentiometers
+- [x] Potentiometers
 - [x] Power_Integrations
 - [x] Relays_SMD
 - [x] Relays_THT
