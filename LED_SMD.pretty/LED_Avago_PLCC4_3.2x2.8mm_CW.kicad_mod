@@ -1,11 +1,11 @@
-(module LED_Avago_PLCC4_4.5x2.6mm_CW (layer F.Cu) (tedit 5A643A81)
+(module LED_Avago_PLCC4_3.2x2.8mm_CW (layer F.Cu) (tedit 5A643BA3)
   (descr https://docs.broadcom.com/docs/AV02-4186EN)
   (tags "LED Avago PLCC-4 ASMB-MTB0-0A3A2")
   (attr smd)
   (fp_text reference REF** (at 0 -2.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LED_Avago_PLCC4_4.5x2.6mm_CW (at 0 2.65) (layer F.Fab)
+  (fp_text value LED_Avago_PLCC4_3.2x2.8mm_CW (at 0 2.65) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -28,7 +28,7 @@
   (pad 2 smd rect (at 1.5 -0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.5 0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -1.5 0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Avago_PLCC4_4.5x2.6mm_CW.wrl
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Avago_PLCC4_3.2x2.8mm_CW.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
