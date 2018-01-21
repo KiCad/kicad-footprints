@@ -1,4 +1,4 @@
-(module Maxim_OLGA-14_3.3x5.6mm_P0.8mm (layer F.Cu) (tedit 5A6430E3)
+(module Maxim_OLGA-14_3.3x5.6mm_P0.8mm (layer F.Cu) (tedit 5A643364)
   (descr https://pdfserv.maximintegrated.com/land_patterns/90-0602.PDF)
   (tags "OLGA-14 OESIP-14")
   (attr smd)
@@ -40,7 +40,7 @@
   (pad 12 smd rect (at 1.2 -0.8) (size 0.75 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at 1.2 -1.6) (size 0.75 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at 1.2 -2.4) (size 0.75 0.35) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Sensor.3dshapes/Maxim_OLGA-14_3.3x5.6mm_P0.8mm.wrl
+  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Maxim_OLGA-14_3.3x5.6mm_P0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
