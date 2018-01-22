@@ -1,11 +1,11 @@
-(module LQFP-32-1EP_5x5mm_P0.5mm (layer F.Cu) (tedit 5A0AB0BD)
+(module LQFP-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm (layer F.Cu) (tedit 5A65E5EF)
   (descr "LQFP32: plastic low profile quad flat package; 32 leads; body 5 x 5 x 1.4 mm (see NXP sot401-1_fr.pdf and sot401-1_po.pdf)")
   (tags "QFP 0.5")
   (attr smd)
   (fp_text reference REF** (at 0 -4.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LQFP-32-1EP_5x5mm_P0.5mm (at 0 4.85) (layer F.Fab)
+  (fp_text value LQFP-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm (at 0 4.85) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -66,7 +66,7 @@
   (pad "" smd rect (at 0.87 -0.87) (size 1.34 1.34) (layers F.Paste))
   (pad "" smd rect (at -0.87 0.87) (size 1.34 1.34) (layers F.Paste))
   (pad "" smd rect (at 0.87 0.87) (size 1.34 1.34) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm.wrl
+  (model ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm_EP3.45x3.45mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
