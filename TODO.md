@@ -15,10 +15,10 @@
 - [x] Connectors_HDMI
 - [x] Connectors_Hirose
 - [x] Connectors_IDC
-- [ ] Connectors_IEC_DIN
+- [ ] Connectors_IEC_DIN - waiting for script merge. See https://github.com/KiCad/Connectors_IEC_DIN.pretty/pull/7
 - [x] Connectors_JAE
 - [x] Connectors_JST
-- [ ] Connectors_Mini-Universal
+- [x] Connectors_Mini-Universal
 - [x] Connectors_Molex
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
@@ -45,7 +45,7 @@
   - [ ] <s>GTK2400</s> no part found
   - [ ] <s>GoldTek</s> no part found
   - [x] Grove
-  - [ ] HE10
+  - [x] HE10
   - [ ] <s>IQRF</s> no part found
   - [x] JWT
   - [x] NMJ6
@@ -97,7 +97,7 @@
 - [x] Oscillators
 - [x] Package_DirectFET
 - [x] Pin_Headers
-- [ ] Potentiometers
+- [x] Potentiometers
 - [x] Power_Integrations
 - [x] Relays_SMD
 - [x] Relays_THT
