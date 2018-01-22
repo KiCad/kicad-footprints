@@ -1,4 +1,4 @@
-(module Fuse:Fuse_SunFuse-6HP (layer F.Cu) (tedit 5A64049B)
+(module Fuse_SunFuse-6HP (layer F.Cu) (tedit 5A64049B)
   (descr "SunFuse Ceramic Slow Blow Fuse 6H_6HP.PDF")
   (tags "UL/CSA 6x32mm Ceramic Slow Blow Fuse")
   (fp_text reference REF** (at 17.78 5.08) (layer F.SilkS)
