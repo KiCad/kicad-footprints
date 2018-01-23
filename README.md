@@ -2,7 +2,7 @@
 
 This repository contains the official KiCad footprint libraries.
 
-The is intended to be used with KiCad version 5 or with a nightly that supports rounded rectangle and polygon pads.
+The libraries in this repository are intended to be used with KiCad version 5 or with a nightly that supports rounded rectangle and polygon pads.
 
 Each footprint library is stored as a directory with the `.pretty` suffix. The footprint files are `.kicad_mod` files within 
 
