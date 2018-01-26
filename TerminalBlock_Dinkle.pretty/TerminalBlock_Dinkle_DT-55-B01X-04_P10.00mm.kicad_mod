@@ -1,4 +1,4 @@
-(module TerminalBlock_Dinkle_DT-55-B01X-04_P10.00mm (layer F.Cu) (tedit 5A6AF356)
+(module TerminalBlock_Dinkle_DT-55-B01X-04_P10.00mm (layer F.Cu) (tedit 5A6AF8C1)
   (descr "Dinkle DT-55-B01X Terminal Block  pitch 10.00mm https://www.dinkle.com/en/terminal/DT-55-B01W-XX")
   (tags "Dinkle DT-55-B01X Terminal Block  pitch 10.00mm")
   (fp_text reference REF** (at 15.24 -8.89) (layer F.SilkS)
@@ -137,7 +137,7 @@
   (pad 4 thru_hole oval (at 30 0) (size 4.4 8.8) (drill 2.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 20 0) (size 4.4 8.8) (drill 2.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 10 0) (size 4.4 8.8) (drill 2.2) (layers *.Cu *.Mask))
-  (pad 1 thru_hole oval (at 0 0) (size 4.4 8.8) (drill 2.2) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 4.4 8.8) (drill 2.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/TerminalBlock_Dinkle.3dshapes/TerminalBlock_Dinkle_DT-55-B01X-04_P10.00mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
