@@ -1,11 +1,11 @@
-(module PhotoDiode_SMD-DIL2_4.5x4 (layer F.Cu) (tedit 5A1ABC5C)
+(module Osram_SMD-DIL2_4.5x4 (layer F.Cu) (tedit 5A6C990C)
   (descr "PhotoDiode, plastic SMD DIL, 4.5x4mm²")
   (tags "PhotoDiode plastic SMD DIL")
   (attr smd)
   (fp_text reference REF** (at 0.01 -3.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value PhotoDiode_SMD-DIL2_4.5x4 (at 0 3.17) (layer F.Fab)
+  (fp_text value Osram_SMD-DIL2_4.5x4 (at 0 3.17) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -41,7 +41,7 @@
   (fp_line (start 3.89 2.25) (end -3.89 2.25) (layer F.CrtYd) (width 0.05))
   (pad 2 smd rect (at 2.54 0 180) (size 2.2 2) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.54 0 180) (size 2.2 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/PhotoDiode_SMD-DIL2_4.5x4.wrl
+  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Osram_SMD-DIL2_4.5x4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
