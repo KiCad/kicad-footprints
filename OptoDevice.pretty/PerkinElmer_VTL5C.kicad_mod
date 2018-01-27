@@ -1,10 +1,10 @@
-(module Optoisolator_VTL5C (layer F.Cu) (tedit 5A1ABC5C)
+(module PerkinElmer_VTL5C (layer F.Cu) (tedit 5A6C990D)
   (descr "Axial Vactrol (http://www.qsl.net/wa1ion/vactrol/vactrol.pdf)")
   (tags vactrol)
   (fp_text reference REF** (at 7.5 -4.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Optoisolator_VTL5C (at 7.5 7.9) (layer F.Fab)
+  (fp_text value PerkinElmer_VTL5C (at 7.5 7.9) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 7.5 1.9) (layer F.Fab)
@@ -33,7 +33,7 @@
   (pad 3 thru_hole circle (at 15 -0.64) (size 1.15 1.15) (drill 0.55) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 15 4.44) (size 1.15 1.15) (drill 0.55) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 3.8) (size 1.15 1.15) (drill 0.55) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Optoisolator_VTL5C.wrl
+  (model ${KISYS3DMOD}/OptoDevice.3dshapes/PerkinElmer_VTL5C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

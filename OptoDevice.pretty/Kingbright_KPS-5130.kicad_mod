@@ -1,11 +1,11 @@
-(module ColorSensor_Kingbright_KPS-5130 (layer F.Cu) (tedit 5A1ABC5B)
+(module Kingbright_KPS-5130 (layer F.Cu) (tedit 5A6C94DC)
   (descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf")
   (tags "KPS-5130 photodiode RGB sensor")
   (attr smd)
   (fp_text reference REF** (at -1.3 -2.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value ColorSensor_Kingbright_KPS-5130 (at 0.6 2.6) (layer F.Fab)
+  (fp_text value Kingbright_KPS-5130 (at 0.6 2.6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -39,7 +39,7 @@
   (pad 4 smd rect (at 2.56 0.85) (size 1.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.56 -0.85) (size 1.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.56 -0.85) (size 1.5 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/ColorSensor_Kingbright_KPS-5130.wrl
+  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Kingbright_KPS-5130.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
