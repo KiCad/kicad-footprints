@@ -1,10 +1,10 @@
-(module Osram_DIL2_4.3x4.65_RM5.08 (layer F.Cu) (tedit 5A6C99CB)
+(module Osram_DIL2_4.3x4.65mm_P5.08mm (layer F.Cu) (tedit 5A6C99CB)
   (descr "PhotoDiode, plastic DIL, 4.3x4.65mm², RM5.08")
   (tags "PhotoDiode plastic DIL RM5.08")
   (fp_text reference REF** (at 2.54 -3.17) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Osram_DIL2_4.3x4.65_RM5.08 (at 2.54 3.17) (layer F.Fab)
+  (fp_text value Osram_DIL2_4.3x4.65mm_P5.08mm (at 2.54 3.17) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.1 1.05) (end -0.1 2.2) (layer F.SilkS) (width 0.12))
@@ -50,7 +50,7 @@
   (fp_line (start 6.18 2.4) (end -1.1 2.4) (layer F.CrtYd) (width 0.05))
   (pad 2 thru_hole circle (at 5.08 0 180) (size 1.7 1.7) (drill 0.7) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 180) (size 1.7 1.7) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Osram_DIL2_4.3x4.65_RM5.08.wrl
+  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Osram_DIL2_4.3x4.65mm_P5.08mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
