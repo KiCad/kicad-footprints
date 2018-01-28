@@ -1,4 +1,4 @@
-(module ST_HLGA-6_3.76x4.72mm_P1.65mm (layer F.Cu) (tedit 5A6E1061)
+(module ST_HLGA-6_3.76x4.72mm_P1.65mm (layer F.Cu) (tedit 5A6E2864)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/27/62/48/98/44/54/4d/36/DM00303211/files/DM00303211.pdf/jcr:content/translations/en.DM00303211.pdf)
   (tags "HLGA Sensor Audio")
   (attr smd)
@@ -29,8 +29,8 @@
   (pad 3 smd circle (at -1.17 1.65) (size 0.91 0.91) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd circle (at 1.17 1.65) (size 0.91 0.91) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd circle (at 1.17 0) (size 0.91 0.91) (layers F.Cu F.Paste F.Mask))
-  (pad 6 smd oval (at 1.17 -1.65 45) (size 1.051421 0.91) (drill (offset -0.070711 0)) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Sensor_Audio.3dshapes/HLGA-6.wrl
+  (pad 6 smd oval (at 1.17 -1.65 45) (size 1.192843 0.91) (drill (offset -0.141421 0)) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Sensor_Audio.3dshapes/ST_HLGA-6_3.76x4.72mm_P1.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
