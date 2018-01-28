@@ -1,4 +1,4 @@
-(module WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm (layer F.Cu) (tedit 5A6DCE12)
+(module WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm (layer F.Cu) (tedit 5A6E08F6)
   (descr "8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf")
   (tags "WSON 8 1EP")
   (attr smd)
@@ -31,9 +31,11 @@
   (pad 4 smd rect (at -1.4 0.75) (size 0.6 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.4 0.75) (size 0.6 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 1.4 0.25) (size 0.6 0.25) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at 0 0.4) (size 0.75 0.65) (layers F.Paste))
-  (pad "" smd rect (at 0 -0.4) (size 0.75 0.65) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_SON.3dshapes/WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm.wrl
+  (pad "" smd rect (at -0.475 -0.575) (size 0.65 0.85) (layers F.Paste))
+  (pad "" smd rect (at 0.475 -0.575) (size 0.65 0.85) (layers F.Paste))
+  (pad "" smd rect (at -0.475 0.575) (size 0.65 0.85) (layers F.Paste))
+  (pad "" smd rect (at 0.475 0.575) (size 0.65 0.85) (layers F.Paste))
+  (model ${KISYS3DMOD}/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
