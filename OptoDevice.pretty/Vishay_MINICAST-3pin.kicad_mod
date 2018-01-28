@@ -1,5 +1,5 @@
 (module Vishay_MINICAST-3pin (layer F.Cu) (tedit 5A6C9AF6)
-  (descr "IR Receiver Vishay TSOP-xxxx, MINICAST package")
+  (descr "IR Receiver Vishay TSOP-xxxx, MINICAST package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf")
   (tags "IR Receiver Vishay TSOP-xxxx MINICAST")
   (fp_text reference REF** (at 2.5 -2.4 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

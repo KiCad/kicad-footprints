@@ -1,6 +1,6 @@
 (module R_LDR_D20mm_P17.5mm_Vertical (layer F.Cu) (tedit 5A6C749D)
-  (descr "Resistor, LDR 12x10.8mm")
-  (tags "Resistor LDR12x10.8mm")
+  (descr "Resistor, LDR 20mm diameter, pin pitch 17.5mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf")
+  (tags "Resistor LDR")
   (fp_text reference REF** (at 8.6 -11.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

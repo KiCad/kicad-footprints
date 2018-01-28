@@ -1,5 +1,5 @@
 (module Vishay_MOLD-3pin (layer F.Cu) (tedit 5A6C9B1D)
-  (descr "IR Receiver Vishay TSOP-xxxx, MOLD package")
+  (descr "IR Receiver Vishay TSOP-xxxx, MOLD package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf")
   (tags "IR Receiver Vishay TSOP-xxxx MOLD")
   (fp_text reference REF** (at 8.8 0.1 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
