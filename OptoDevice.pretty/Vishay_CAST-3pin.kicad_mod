@@ -1,5 +1,5 @@
 (module Vishay_CAST-3pin (layer F.Cu) (tedit 5A6C9AD7)
-  (descr "IR Receiver Vishay TSOP-xxxx, CAST package")
+  (descr "IR Receiver Vishay TSOP-xxxx, CAST package, see https://www.vishay.com/docs/82493/tsop311.pdf")
   (tags "IRReceiverVishayTSOP-xxxx CAST")
   (fp_text reference REF** (at 3.8 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

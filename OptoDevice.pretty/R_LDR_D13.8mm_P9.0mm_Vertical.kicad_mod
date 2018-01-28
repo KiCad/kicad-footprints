@@ -1,5 +1,5 @@
 (module R_LDR_D13.8mm_P9.0mm_Vertical (layer F.Cu) (tedit 5A6C9160)
-  (descr "Resistor, diameter 13.8mm pitch 9mm")
+  (descr "Resistor, diameter 13.8mm pitch 9mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf")
   (tags "Resistor LDR ")
   (fp_text reference REF** (at 4.6 -7.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,5 +1,5 @@
 (module R_LDR_5.1x4.3mm_P3.4mm_Vertical (layer F.Cu) (tedit 5A6C6585)
-  (descr "Resistor, LDR 5.1x3.4mm")
+  (descr "Resistor, LDR 5.1x3.4mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf")
   (tags "Resistor LDR5.1x3.4mm")
   (fp_text reference REF** (at 1.7 -2.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

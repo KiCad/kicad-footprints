@@ -1,5 +1,5 @@
 (module Sharp_IS471F (layer F.Cu) (tedit 5A6C9A4F)
-  (descr "Sharp OPIC IS471F")
+  (descr "Sharp OPIC IS471F, see http://pdf.datasheetcatalog.com/datasheet/Sharp/mXvrzty.pdf")
   (tags "Sharp OPIC IS471F")
   (fp_text reference REF** (at 1.91 -1.63) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

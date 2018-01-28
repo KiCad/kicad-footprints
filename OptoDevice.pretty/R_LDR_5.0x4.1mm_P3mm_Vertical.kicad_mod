@@ -1,5 +1,5 @@
 (module R_LDR_5.0x4.1mm_P3mm_Vertical (layer F.Cu) (tedit 5A6C6585)
-  (descr "Resistor, LDR 5x4.1mm")
+  (descr "Resistor, LDR 5x4.1mm, see http://cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf")
   (tags "Resistor LDR5x4.1mm")
   (fp_text reference REF** (at 1.5 -2.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

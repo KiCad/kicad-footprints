@@ -1,5 +1,5 @@
 (module Sharp_IS485 (layer F.Cu) (tedit 5A6C9A60)
-  (descr "Sharp OPIC, IS485, IS486")
+  (descr "Sharp OPIC, IS485, IS486, see http://microrato.ua.pt/main/Actividades/Estagios/Docs/IS485_6.pdf")
   (tags "Sharp OPIC IS485 IS486")
   (fp_text reference REF** (at 1.17 -2.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

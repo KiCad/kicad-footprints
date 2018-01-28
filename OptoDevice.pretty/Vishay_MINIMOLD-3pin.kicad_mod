@@ -1,5 +1,5 @@
 (module Vishay_MINIMOLD-3pin (layer F.Cu) (tedit 5A6C9B0C)
-  (descr "IR Receiver Vishay TSOP-xxxx, MINIMOLD package")
+  (descr "IR Receiver Vishay TSOP-xxxx, MINIMOLD package, see https://www.vishay.com/docs/82742/tsop331.pdf")
   (tags "IR Receiver Vishay TSOP-xxxx MINIMOLD")
   (fp_text reference REF** (at 2.6 -1.9 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
