@@ -1,7 +1,6 @@
 (module DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm (layer F.Cu) (tedit 5A7093C5)
   (descr "8-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "DFN 0.65")
-  (solder_mask_margin 0.2)
   (attr smd)
   (fp_text reference REF** (at 0 -2.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
