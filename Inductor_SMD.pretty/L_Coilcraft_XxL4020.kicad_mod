@@ -1,5 +1,5 @@
 (module L_Coilcraft_XxL4020 (layer F.Cu) (tedit 5A44C862)
-  (descr L_Coilcraft_XxL4020 https://www.coilcraft.com/pdfs/xfl4020.pdf)
+  (descr "L_Coilcraft_XxL4020 https://www.coilcraft.com/pdfs/xfl4020.pdf")
   (tags "L Coilcraft XxL4020")
   (attr smd)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
