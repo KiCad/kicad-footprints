@@ -1,4 +1,4 @@
-(module TO-252-2_Rectifier (layer F.Cu) (tedit 5A0AB76C)
+(module TO-252-2_Rectifier (layer F.Cu) (tedit 5A70F4A0)
   (descr TO-252-2)
   (tags "TO-252-2 Rectifier")
   (attr smd)
@@ -35,7 +35,11 @@
   (fp_line (start -6.58 3.75) (end -6.58 -3.75) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -4.575 -2.3 270) (size 2 3.5) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -4.575 2.28 270) (size 2 3.5) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 2.825 0 270) (size 7 7) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 2.825 0 270) (size 7 7) (layers F.Cu F.Mask))
+  (pad "" smd rect (at 1.05 -1.8 270) (size 3.3 3.3) (layers F.Paste))
+  (pad "" smd rect (at 4.6 -1.8 270) (size 3.3 3.3) (layers F.Paste))
+  (pad "" smd rect (at 1.05 1.8 270) (size 3.3 3.3) (layers F.Paste))
+  (pad "" smd rect (at 4.6 1.8 270) (size 3.3 3.3) (layers F.Paste))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TO-252-2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
