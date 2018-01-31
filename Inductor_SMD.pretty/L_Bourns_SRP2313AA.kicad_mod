@@ -1,5 +1,5 @@
-(module L_Bourns_SRP2313AA (layer F.Cu) (tedit 5A71B20B)
-  (descr "Bourns SRR1260 series SMD inductor")
+(module L_Bourns_SRP2313AA (layer F.Cu) (tedit 5A722DFA)
+  (descr "Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/product-datasheets/srp2313aa.pdf")
   (tags "Bourns SRR1260 SMD inductor")
   (attr smd)
   (fp_text reference REF** (at 0 -11.9) (layer F.SilkS)
