@@ -15,7 +15,7 @@
   (fp_circle (center 0 0) (end 1.25 -0.05) (layer F.Fab) (width 0.12))
   (fp_circle (center 0 0) (end 1.6 0.05) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Pin.3dshapes/Pin_d1.3mm_L11.0mm.wrl
+  (model ${KISYS3DMOD}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
