@@ -81,7 +81,7 @@
   (pad 54 smd rect (at 3.75 -5.75) (size 1 0.285) (layers F.Cu F.Paste F.Mask))
   (pad 55 smd rect (at 3.75 -6.25) (size 1 0.285) (layers F.Cu F.Paste F.Mask))
   (pad 56 smd rect (at 3.75 -6.75) (size 1 0.285) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_SSOP.3dshapes/TSSOP-56_6.1x14mm_P0.5mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/TSSOP-56_6.1x14mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

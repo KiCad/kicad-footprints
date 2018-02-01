@@ -67,7 +67,7 @@
   (pad 38 smd rect (at 5.2 -5.715) (size 2.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 39 smd rect (at 5.2 -6.477) (size 2.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 40 smd rect (at 5.2 -7.239) (size 2.2 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_SSOP.3dshapes/VSO-40_7.6x15.4mm_P0.762mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/VSO-40_7.6x15.4mm_P0.762mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

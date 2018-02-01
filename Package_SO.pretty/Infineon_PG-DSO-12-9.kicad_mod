@@ -58,7 +58,7 @@
   (pad "" smd rect (at -1.125 1.46) (size 1.95 1.16) (layers F.Paste))
   (pad "" smd rect (at 1.125 2.92) (size 1.95 1.16) (layers F.Paste))
   (pad "" smd rect (at -1.125 2.92) (size 1.95 1.16) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_SOIC.3dshapes/Infineon_PG-DSO-12-9.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/Infineon_PG-DSO-12-9.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

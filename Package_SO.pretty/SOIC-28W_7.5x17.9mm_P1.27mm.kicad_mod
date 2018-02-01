@@ -55,7 +55,7 @@
   (pad 26 smd rect (at 4.7 -5.715) (size 2 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 27 smd rect (at 4.7 -6.985) (size 2 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 28 smd rect (at 4.7 -8.255) (size 2 0.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_SOIC.3dshapes/SOIC-28W_7.5x17.9mm_P1.27mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-28W_7.5x17.9mm_P1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
