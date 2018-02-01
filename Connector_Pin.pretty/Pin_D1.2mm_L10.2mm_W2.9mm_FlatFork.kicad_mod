@@ -23,7 +23,7 @@
   (fp_line (start 1.95 1.7) (end 1.95 -1.7) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.95 1.7) (end -1.95 1.7) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Pin.3dshapes/Pin_d1.2mm_L10.2mm_W2.9mm_FlatFork.wrl
+  (model ${KISYS3DMOD}/Connector_Pin.3dshapes/Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
