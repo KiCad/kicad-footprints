@@ -40,7 +40,7 @@
   (pad "" smd rect (at -0.5875 0.5875) (size 0.95 0.95) (layers F.Paste))
   (pad "" smd rect (at -0.5875 -0.5875) (size 0.95 0.95) (layers F.Paste))
   (pad "" smd rect (at 0.5875 -0.5875) (size 0.95 0.95) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_SOIC.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -63,7 +63,7 @@
   (pad 30 smd rect (at 9.125 -7 270) (size 0.66 1.35) (layers F.Cu F.Paste F.Mask))
   (pad 31 smd rect (at -3.05 0) (size 5.25 10.3) (layers F.Cu F.Paste F.Mask))
   (pad 33 smd rect (at 3.05 -4.165) (size 5.25 6.23) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_SSOP.3dshapes/ST_MultiPowerSO-30.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/ST_MultiPowerSO-30.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

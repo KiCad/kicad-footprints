@@ -70,7 +70,7 @@
   (pad "" smd rect (at 1.37 1.46) (size 1.07 1.16) (layers F.Paste))
   (pad "" smd rect (at 0 1.46) (size 1.07 1.16) (layers F.Paste))
   (pad "" smd rect (at -1.37 1.46) (size 1.07 1.16) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_SSOP.3dshapes/HTSSOP-32-1EP_6.1x11mm_P0.65mm_EP5.2x11mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/HTSSOP-32-1EP_6.1x11mm_P0.65mm_EP5.2x11mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

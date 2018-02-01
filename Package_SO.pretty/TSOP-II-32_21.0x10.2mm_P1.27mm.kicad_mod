@@ -56,7 +56,7 @@
   (pad 30 smd rect (at 5.6 -6.985) (size 1.6 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 31 smd rect (at 5.6 -8.255) (size 1.6 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 32 smd rect (at 5.6 -9.525) (size 1.6 0.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_SSOP.3dshapes/TSOP-II-32_21.0x10.2mm_P1.27mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/TSOP-II-32_21.0x10.2mm_P1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

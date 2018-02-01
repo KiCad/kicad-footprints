@@ -43,7 +43,7 @@
   (pad 14 smd rect (at 3.55 -1.905) (size 1.5 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 3.55 -3.175) (size 1.5 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 3.55 -4.445) (size 1.5 0.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_SOIC.3dshapes/SOIC-16W_5.3x10.2mm_P1.27mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-16W_5.3x10.2mm_P1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
