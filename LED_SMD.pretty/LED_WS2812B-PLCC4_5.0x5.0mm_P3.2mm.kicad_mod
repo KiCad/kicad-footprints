@@ -1,5 +1,5 @@
 (module LED_WS2812B-PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5A75BD05)
-  (descr http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf)
+  (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
   (tags "LED RGB NeoPixel")
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
