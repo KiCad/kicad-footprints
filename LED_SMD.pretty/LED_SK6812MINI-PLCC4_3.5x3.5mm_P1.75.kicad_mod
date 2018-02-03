@@ -1,6 +1,6 @@
 (module LED_SK6812MINI-PLCC4_3.5x3.5mm_P1.75 (layer F.Cu) (tedit 5A61CD6A)
   (descr https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf)
-  (tags "LED NeoPixel Mini")
+  (tags "LED RGB NeoPixel Mini")
   (attr smd)
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
