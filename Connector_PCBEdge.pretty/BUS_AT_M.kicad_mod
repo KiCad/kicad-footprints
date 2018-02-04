@@ -1,4 +1,4 @@
-(module BUS_AT_M (layer F.Cu) (tedit 5A71AA74)
+(module BUS_AT_M (layer F.Cu) (tedit 5A770C30)
   (descr "AT ISA 16 bits Bus Edge Connector")
   (tags "BUS ISA AT Edge connector male")
   (attr virtual)
@@ -8,6 +8,7 @@
   (fp_text value BUS_AT_M (at -81.91 -6.99) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_circle (center 0 -6.5) (end 0.5 -6.5) (layer B.SilkS) (width 1))
   (fp_line (start -78.74 3.81) (end 2.54 3.81) (layer Edge.Cuts) (width 0.12))
   (fp_line (start -132.08 3.81) (end -83.82 3.81) (layer Edge.Cuts) (width 0.12))
   (fp_line (start 2.54 3.81) (end 2.54 -5.08) (layer Edge.Cuts) (width 0.12))

@@ -1,4 +1,4 @@
-(module BUS_S100_M (layer F.Cu) (tedit 5A71A948)
+(module BUS_S100_M (layer F.Cu) (tedit 5A770BB2)
   (descr "S100 8 bits Bus Edge Connector S100")
   (tags "S100 Bus Edge Connector Male")
   (attr virtual)
@@ -8,6 +8,7 @@
   (fp_text value BUS_S100_M (at 90 -11) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_circle (center 2.5 -11.25) (end 3 -11.25) (layer F.SilkS) (width 1))
   (fp_line (start -0.1 0.1) (end 162 0.1) (layer F.CrtYd) (width 0.05))
   (fp_line (start -0.1 -9.6) (end 162 -9.6) (layer F.CrtYd) (width 0.05))
   (fp_line (start -0.1 0.1) (end -0.1 -9.6) (layer F.CrtYd) (width 0.05))
