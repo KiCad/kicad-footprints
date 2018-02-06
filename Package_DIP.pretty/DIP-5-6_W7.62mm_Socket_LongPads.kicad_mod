@@ -1,10 +1,10 @@
-(module DIP-5-6_W7.62mm_Socket_LongPads (layer F.Cu) (tedit 5A79F90C)
-  (descr "6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
+(module DIP-5-6_W7.62mm_Socket_LongPads (layer F.Cu) (tedit 5A79FB5B)
+  (descr "5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
   (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
   (fp_text reference REF** (at 3.81 -2.33) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DIP-6_W7.62mm_Socket_LongPads (at 3.81 7.41) (layer F.Fab)
+  (fp_text value DIP-5-6_W7.62mm_Socket_LongPads (at 3.81 7.41) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 3.81 -1.33) (end 2.81 -1.33) (angle -180) (layer F.SilkS) (width 0.12))
@@ -38,7 +38,7 @@
   (pad 2 thru_hole oval (at 0 2.54) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 0 5.08) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 7.62 0) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_DIP.3dshapes/DIP-6_W7.62mm_Socket.wrl
+  (model ${KISYS3DMOD}/Package_DIP.3dshapes/DIP-5-6_W7.62mm_Socket.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
