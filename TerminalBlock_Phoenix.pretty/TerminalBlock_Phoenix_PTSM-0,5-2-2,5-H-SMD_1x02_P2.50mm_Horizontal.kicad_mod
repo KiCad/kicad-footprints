@@ -1,6 +1,7 @@
-(module TerminalBlock_Phoenix_PTSM-0,5-2-2,5-H-SMD_1x02_P2.50mm_Horizontal (layer F.Cu) (tedit 5A7B56A3)
+(module TerminalBlock_Phoenix_PTSM-0,5-2-2,5-H-SMD_1x02_P2.50mm_Horizontal (layer F.Cu) (tedit 5A7B5950)
   (descr "PhoenixContact PTSM 0,5 2 H 2,5mm horizontal SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1702473/pdf")
   (tags "2.5mm horizontal SMD spring clamp terminal block connector")
+  (attr smd)
   (fp_text reference REF** (at 0 -8.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
