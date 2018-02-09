@@ -24,4 +24,9 @@
   )
   (pad 1 thru_hole rect (at 0 0) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 4) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
+  (model Buzzer_Beeper.3dshapes/CUI_CST-931RP-A_9.0x10.5x4.5mm_P4.0mm_Horizontal.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
