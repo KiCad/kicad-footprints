@@ -1,11 +1,11 @@
-(module LED_SK6812MINI-PLCC4_3.5x3.5mm_P1.75 (layer F.Cu) (tedit 5A61CD6A)
+(module LED_SK6812MINI-PLCC4_3.5x3.5mm_P1.75mm (layer F.Cu) (tedit 5A61CD6A)
   (descr https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf)
   (tags "LED RGB NeoPixel Mini")
   (attr smd)
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LED_SK6812MINI-PLCC4_3.5x3.5mm_P1.75 (at 0 3.25) (layer F.Fab)
+  (fp_text value LED_SK6812MINI-PLCC4_3.5x3.5mm_P1.75mm (at 0 3.25) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user 1 (at -3.5 -0.875) (layer F.SilkS)
@@ -31,7 +31,7 @@
   (pad 4 smd rect (at 1.75 -0.875) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.75 0.875) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.75 -0.875) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_SK6812MINI-PLCC4_3.5x3.5mm_P1.75.wrl
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_SK6812MINI-PLCC4_3.5x3.5mm_P1.75mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
