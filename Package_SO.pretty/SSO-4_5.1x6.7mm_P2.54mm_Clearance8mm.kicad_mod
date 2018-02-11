@@ -1,4 +1,4 @@
-(module SSO-4_5.1x6.7mm_P2.54mm_Clearance8mm (layer F.Cu) (tedit 5A803612)
+(module SSO-4_5.1x6.7mm_P2.54mm_Clearance8mm (layer F.Cu) (tedit 5A804133)
   (descr "4-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/84299/vor1142b4.pdf")
   (tags "SSO Stretched SO SOIC 2.54")
   (attr smd)
