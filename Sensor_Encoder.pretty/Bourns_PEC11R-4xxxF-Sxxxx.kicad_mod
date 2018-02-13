@@ -1,4 +1,4 @@
-(module Bourns_PEC11R-4xxxF-Sxxxx (layer F.Cu) (tedit 5A8367A7)
+(module Bourns_PEC11R-4xxxF-Sxxxx (layer F.Cu) (tedit 5A83687A)
   (descr http://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf)
   (tags "rotary encoder PEC11R")
   (fp_text reference REF** (at 0 -9) (layer F.SilkS)
@@ -55,7 +55,7 @@
   (pad A thru_hole rect (at -2.5 7.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -2.5 -7) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 -7) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Sensor_Encoder.3dshapes/Bourns_PEC11R-4xxxF-Nxxxx.wrl
+  (model ${KISYS3DMOD}/Sensor_Encoder.3dshapes/Bourns_PEC11R-4xxxF-Sxxxx.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
