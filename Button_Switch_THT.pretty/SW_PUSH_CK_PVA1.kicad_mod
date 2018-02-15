@@ -1,5 +1,5 @@
-(module SW_PUSH_CK_PVA1 (layer F.Cu) (tedit 5A84E279)
-  (descr "tactile push button, C&K PVA1")
+(module SW_PUSH_CK_PVA1 (layer F.Cu) (tedit 5A84E300)
+  (descr "tactile push button, C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf")
   (tags "tact sw push PVA1")
   (fp_text reference REF** (at 0 -5.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
