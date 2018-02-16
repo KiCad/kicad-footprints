@@ -1,4 +1,4 @@
-(module NHD-0420H1Z (layer F.Cu) (tedit 5A870F6C)
+(module NHD-0420H1Z (layer F.Cu) (tedit 5A8741DC)
   (descr "NHD-0420H1Z LCD http://www.newhavendisplay.com/specs/NHD-0420H1Z-FSW-GBW-33V3.pdf")
   (tags "NHD-0420H1Z LCD")
   (fp_text reference REF** (at 37.5 -10) (layer F.SilkS)
@@ -44,8 +44,8 @@
   (pad "" np_thru_hole circle (at 75 -7.11) (size 2 2) (drill 2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 24.89) (size 2 2) (drill 2) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 75 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (pad 14 thru_hole circle (at 75 17.78) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (pad 13 thru_hole circle (at 75 15.24) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
+  (pad 16 thru_hole circle (at 75 17.78) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
+  (pad 15 thru_hole circle (at 75 15.24) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Display.3dshapes/NHD-0420H1Z.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
