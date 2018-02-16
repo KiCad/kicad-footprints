@@ -1,5 +1,5 @@
 (module RJ45_Amphenol_RJHSE538X (layer F.Cu) (tedit 5A1DC098)
-  (descr "mod. jack, ethernet, 8P8C, RJ45 connector, 2 leds, shielded")
+  (descr "Amphenol RJHSE538X, mod. jack, ethernet, 8P8C, RJ45 connector, 2 leds, shielded (https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf)")
   (tags "RJHSE538X 8P8C RJ45 ethernet jack")
   (fp_text reference REF** (at 3.49 -6.92) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
