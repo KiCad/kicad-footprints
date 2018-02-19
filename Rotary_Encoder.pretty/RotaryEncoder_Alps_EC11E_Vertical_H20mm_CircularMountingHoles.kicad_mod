@@ -40,9 +40,9 @@
   (pad "" thru_hole circle (at 14.5 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad MP thru_hole circle (at 7.5 8.1) (size 3.2 3.2) (drill 2.6) (layers *.Cu *.Mask))
   (pad MP thru_hole circle (at 7.5 -3.1) (size 3.2 3.2) (drill 2.6) (layers *.Cu *.Mask))
-  (pad 3 thru_hole circle (at 0 5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 0 2.5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad B thru_hole circle (at 0 5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad C thru_hole circle (at 0 2.5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad A thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
