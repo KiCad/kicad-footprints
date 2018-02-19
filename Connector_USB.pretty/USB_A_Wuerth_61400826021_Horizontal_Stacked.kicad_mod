@@ -48,7 +48,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.92) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at -3.07 -0.35) (size 3 3) (drill 2.3) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 10.07 -0.35) (size 3 3) (drill 2.3) (layers *.Cu *.Mask F.SilkS))
-  (model Connect.3dshapes/USB_A.wrl
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
