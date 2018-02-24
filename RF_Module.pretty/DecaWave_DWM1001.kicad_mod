@@ -1,11 +1,11 @@
-(module DecaWave_DWM1001 (layer F.Cu) (tedit 5A91920C)
+(module DecaWave_DWM1001 (layer F.Cu) (tedit 5A919729)
   (descr https://www.decawave.com/sites/default/files/dwm1001_datasheet.pdf)
-  (tags "UWB Decawave Ranging")
+  (tags "UWB DecaWave Ranging")
   (attr smd)
   (fp_text reference REF** (at 0 10.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Decawave_DWM1001 (at 0 -18.6) (layer F.Fab)
+  (fp_text value DecaWave_DWM1001 (at 0 -18.6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -9.565 9.15) (end 9.565 9.15) (layer F.Fab) (width 0.1))
@@ -87,7 +87,7 @@
   (pad 3 smd rect (at -9.42 -6) (size 2.54 0.65) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -9.42 -7) (size 2.54 0.65) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -9.42 -8) (size 2.54 0.65) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/Decawave_DWM1001.wrl
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/DecaWave_DWM1001.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
