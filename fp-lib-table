@@ -50,6 +50,7 @@
   (lib (name Display_7Segment)(type KiCad)(uri ${KISYSMOD}/Display_7Segment.pretty)(options "")(descr "Seven segment Display"))
   (lib (name Display)(type KiCad)(uri ${KISYSMOD}/Display.pretty)(options "")(descr "Display modules"))
   (lib (name Fiducial)(type KiCad)(uri ${KISYSMOD}/Fiducial.pretty)(options "")(descr "Fiducial markings"))
+  (lib (name Filter)(type KiCad)(uri ${KISYSMOD}/Filter.pretty)(options "")(descr "Filter footprints"))
   (lib (name Fuse)(type KiCad)(uri ${KISYSMOD}/Fuse.pretty)(options "")(descr "Fuse and fuse holder footprints"))
   (lib (name Heatsink)(type KiCad)(uri ${KISYSMOD}/Heatsink.pretty)(options "")(descr "Heatsinks and thermal products"))
   (lib (name Inductor_SMD)(type KiCad)(uri ${KISYSMOD}/Inductor_SMD.pretty)(options "")(descr "Inductor footprints, surface mount"))
