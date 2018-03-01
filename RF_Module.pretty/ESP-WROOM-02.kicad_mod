@@ -1,4 +1,4 @@
-(module ESP-WROOM-02 (layer F.Cu) (tedit 5A9794B0)
+(module ESP-WROOM-02 (layer F.Cu) (tedit 5A97B47C)
   (descr http://espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf)
   (tags "ESP WROOM-02 espressif esp8266ex")
   (attr smd)
