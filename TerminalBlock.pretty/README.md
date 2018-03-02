@@ -10,4 +10,5 @@ Existing manufacturer-specific libraries are:
 * ../TerminalBlock_Philmore.pretty
 * ../TerminalBlock_RND.pretty
 * ../TerminalBlock_WAGO.pretty
+* ../TerminalBlock_Dinkle.pretty
 * ...

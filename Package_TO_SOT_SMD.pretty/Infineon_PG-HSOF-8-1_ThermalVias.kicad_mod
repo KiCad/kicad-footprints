@@ -1,4 +1,4 @@
-(module Infineon_PG-HSOF-8-1_ThermalVias (layer F.Cu) (tedit 5A02FF57)
+(module Infineon_PG-HSOF-8-1_ThermalVias (layer F.Cu) (tedit 5A70FAE7)
   (descr "HSOF-8-1 power mosfet http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/")
   (tags "mosfet hsof thermal vias")
   (attr smd)
