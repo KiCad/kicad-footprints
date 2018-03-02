@@ -1,4 +1,4 @@
-project( kicad-footprints )
+project( kicad-footprints NONE )
 
 cmake_minimum_required( VERSION 2.6.1 FATAL_ERROR )
 
@@ -42,9 +42,11 @@ add_custom_target( uninstall
 #================================================
 # Installed files.
 #================================================
+# select pretty directories
+file (GLOB PRETTY_DIRS "*.pretty")
 
 # Install the contents of all of the .pretty folders in to the modules path.
-install( DIRECTORY ./
+install( DIRECTORY ${PRETTY_DIRS}
     DESTINATION ${KICAD_MODULES}
     COMPONENT resources
     FILES_MATCHING PATTERN "*.kicad_mod"
