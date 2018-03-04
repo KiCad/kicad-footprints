@@ -1,4 +1,4 @@
-(module Aosong_DHT11_5.5x12.0_P2.54mm (layer F.Cu) (tedit 5A9C49AA)
+(module Aosong_DHT11_5.5x12.0_P2.54mm (layer F.Cu) (tedit 5A9C4E43)
   (descr "Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf")
   (tags "Temperature and humidity module")
   (fp_text reference REF** (at -0.5 -3.2) (layer F.SilkS)
@@ -28,7 +28,7 @@
   (pad 2 thru_hole circle (at 0 2.54) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 5.08) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 0 7.62) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Sensor.3dshapes/Aosong_DHT11_5.5x12.0_P2.54mm.md
+  (model ${KISYS3DMOD}/Sensor.3dshapes/Aosong_DHT11_5.5x12.0_P2.54mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
