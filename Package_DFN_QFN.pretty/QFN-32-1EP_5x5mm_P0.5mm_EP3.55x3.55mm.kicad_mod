@@ -1,6 +1,7 @@
-(module QFN-32-1EP_5x5mm_P0.5mm_EP3.55x3.55mm (layer F.Cu) (tedit 5A9DB24A)
+(module QFN-32-1EP_5x5mm_P0.5mm_EP3.55x3.55mm (layer F.Cu) (tedit 5A9E62F9)
   (descr "32-Lead Plastic Quad Flat, No Lead Package (JQ) - 5x5 mm Body [QFN], (http://infocenter.nordicsemi.com/pdf/nRF52810_PS_v1.1.pdf)")
   (tags QFN)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.83) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
