@@ -42,8 +42,8 @@
   (pad "" np_thru_hole circle (at 9.91 -2.54) (size 3.3 3.3) (drill 3.3) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -4.57 0.89) (size 2 2) (drill 1.57) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE538X.wrl
-    (at (xyz 3.5559999466 1.5239999771 3.0479999542))
-    (scale (xyz 0.4 0.4 0.4))
-    (rotate (xyz -90 0 180))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
