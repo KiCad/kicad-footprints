@@ -1,5 +1,5 @@
 (module SSOP-10_3.9x4.9mm_P1.00mm (layer F.Cu) (tedit 5AB07CF5)
-  (descr "10-Lead SSOP, 3.9 x 4.9mm body, 1.00mm pitch (http://www.st.com/resource/en/datasheet/l4984d.pdf)")
+  (descr "10-Lead SSOP, 3.9 x 4.9mm body, 1.00mm pitch (http://www.st.com/resource/en/datasheet/viper01.pdf)")
   (tags "SSOP 3.9 4.9 1.00")
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
