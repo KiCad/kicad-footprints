@@ -1,10 +1,10 @@
-(module DIN41612_3B_2x10_Horizontal (layer F.Cu) (tedit 59F5DCFA)
+(module DIN41612_B3_2x10_Horizontal (layer F.Cu) (tedit 59F5DCFA)
   (descr "DIN 41612 connector, type B/3, horizontal, 10 pins wide, 2 rows, full configuration")
   (tags "DIN 41512 IEC 60603 B/3")
   (fp_text reference REF** (at -5.08 1.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DIN41612_3B_2x10_Horizontal (at 11.43 6.36) (layer F.Fab)
+  (fp_text value DIN41612_B3_2x10_Horizontal (at 11.43 6.36) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.52 -0.44) (end -2.52 0.06) (layer F.SilkS) (width 0.15))
@@ -73,7 +73,7 @@
   (fp_text user "Board edge" (at 11.43 -7.3) (layer Cmts.User)
     (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
-  (model ${KISYS3DMOD}/Connector_DIN.3dshapes/DIN41612_3B_2x10_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_DIN.3dshapes/DIN41612_B3_2x10_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
