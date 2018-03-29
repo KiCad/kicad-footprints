@@ -1,11 +1,11 @@
-(module SW_SPST_TL3305 (layer F.Cu) (tedit 5ABC29DD)
+(module SW_SPST_TL3305C (layer F.Cu) (tedit 5ABC3ACB)
   (descr https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf)
   (tags "TL3305 Series Tact Switch")
   (attr smd)
   (fp_text reference REF** (at 0 -3.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SW_SPST_TL3305 (at 0 3.2) (layer F.Fab)
+  (fp_text value SW_SPST_TL3305C (at 0 3.2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3 1.15) (end -3 1.85) (layer F.Fab) (width 0.1))
@@ -48,7 +48,7 @@
   (pad 1 smd rect (at -3.6 -1.5) (size 1.6 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.6 1.5) (size 1.6 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -3.6 1.5) (size 1.6 1.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_TL3305.wrl
+  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_TL3305C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
