@@ -49,8 +49,8 @@
          (xy 0.4 0.87) (xy -0.4 0.87)) (width 0))
     ))
   (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_QFN_3.3x3.3mm_P0.65mm.wrl
-    (at (xyz 0.7 0.8 0.9))
-    (scale (xyz 0.4 0.5 0.6))
-    (rotate (xyz 0.1 0.2 0.3))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
