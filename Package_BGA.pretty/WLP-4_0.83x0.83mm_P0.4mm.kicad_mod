@@ -1,5 +1,5 @@
 (module WLP-4_0.83x0.83mm_P0.4mm (layer F.Cu) (tedit 5AB798DB)
-  (descr "WLP-4_0.83x0.83mm_P0.4mm https://www.maximintegrated.com/en/app-notes/index.mvp/id/1891, https://datasheets.maximintegrated.com/en/ds/MAX2679-MAX2679B.pdf")
+  (descr "WLP-4_0.83x0.83mm_P0.4mm https://pdfserv.maximintegrated.com/package_dwgs/21-100107.PDF, https://www.maximintegrated.com/en/app-notes/index.mvp/id/1891")
   (tags WLP-4)
   (attr smd)
   (fp_text reference REF** (at 0 -2.25) (layer F.SilkS)
