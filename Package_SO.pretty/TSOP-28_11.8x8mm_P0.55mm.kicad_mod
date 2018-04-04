@@ -1,5 +1,5 @@
 (module TSOP-28_11.8x8mm_P0.55mm (layer F.Cu) (tedit 5ABAFF03)
-  (descr http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf)
+  (descr "TSOP I, 28 pins, 18.8x8mm body, 0.55mm pitch, IPC-calculated pads (http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf)")
   (tags "Jedec MO-193C TSOP-5L")
   (attr smd)
   (fp_text reference REF** (at 0.5 -5.1) (layer F.SilkS)
