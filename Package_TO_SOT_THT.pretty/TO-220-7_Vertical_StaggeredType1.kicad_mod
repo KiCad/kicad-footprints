@@ -1,4 +1,4 @@
-(module TO-220-7_Vertical_StaggeredType1 (layer F.Cu) (tedit 5AC5E387)
+(module TO-220-7_Vertical_StaggeredType1 (layer F.Cu) (tedit 5AC664EA)
   (descr "TO-220-7, Vertical, RM 1.27mm, Multiwatt-7, staggered type-1")
   (tags "TO-220-7 Vertical RM 1.27mm Multiwatt-7 staggered type-1")
   (fp_text reference REF** (at 3.81 -9.32) (layer F.SilkS)
