@@ -1,6 +1,6 @@
 (module Package_SO:TSOP-I-28_11.8x8mm_P0.55mm (layer F.Cu) (tedit 5AC44DD1)
   (descr "TSOP I, 28 pins, 18.8x8mm body, 0.55mm pitch, IPC-calculated pads (http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf)")
-  (tags "Microchip TSOP I 28 pins")
+  (tags "TSOP I 28 pins")
   (attr smd)
   (fp_text reference REF** (at 0.5 -5.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
