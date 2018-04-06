@@ -1,5 +1,5 @@
-(module 3M_Textool_216-3340-00-0602J_2x08_P2.54mm (layer F.Cu) (tedit 5AC279EE)
-  (descr "3M 16-pin zero insertion force socket, though-hole, row spacing 7.62 mm (300 mils)")
+(module 3M_Textool_216-3340-00-0602J_2x08_P2.54mm (layer F.Cu) (tedit 5AC7C4F6)
+  (descr "3M 16-pin zero insertion force socket, though-hole, row spacing 7.62 mm (300 mils), http://multimedia.3m.com/mws/media/494546O/3mtm-dip-sockets-100-2-54-mm-ts0365.pdf")
   (tags "THT DIP DIL ZIF 7.62mm 300mil Socket")
   (fp_text reference REF** (at 3.81 -11.56) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
