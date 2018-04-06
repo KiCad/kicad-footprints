@@ -1,4 +1,4 @@
-(module TO-126-3_Vertical (layer F.Cu) (tedit 5AC664EA)
+(module TO-126-3_Vertical (layer F.Cu) (tedit 5AC721CC)
   (descr "TO-126-3, Vertical, RM 2.54mm")
   (tags "TO-126-3 Vertical RM 2.54mm")
   (fp_text reference REF** (at 2.54 -3.12) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module TO-3PB_Horizontal_TabDown (layer F.Cu) (tedit 5AC66DE3)
+(module TO-3PB_Horizontal_TabDown (layer F.Cu) (tedit 5AC721CC)
   (descr "TO-3PB, Horizontal, RM 5.47mm, ")
   (tags "TO-3PB Horizontal RM 5.47mm ")
   (fp_text reference REF** (at 5.47 -25.02) (layer F.SilkS)

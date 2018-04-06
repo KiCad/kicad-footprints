@@ -1,4 +1,4 @@
-(module SIPAK-1EP_Horizontal_TabDown (layer F.Cu) (tedit 5AC664EA)
+(module SIPAK-1EP_Horizontal_TabDown (layer F.Cu) (tedit 5AC721CC)
   (descr "SIPAK, Horizontal, RM 2.286mm")
   (tags "SIPAK Horizontal RM 2.286mm")
   (fp_text reference REF** (at 2.286 -10.293333) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module TO-220-5_Horizontal_TabUp (layer F.Cu) (tedit 5AC664EA)
+(module TO-220-5_Horizontal_TabUp (layer F.Cu) (tedit 5AC721CC)
   (descr "TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5")
   (tags "TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5")
   (fp_text reference REF** (at 3.4 20.58) (layer F.SilkS)

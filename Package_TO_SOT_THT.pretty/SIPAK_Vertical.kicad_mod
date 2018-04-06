@@ -1,4 +1,4 @@
-(module SIPAK_Vertical (layer F.Cu) (tedit 5AC664EA)
+(module SIPAK_Vertical (layer F.Cu) (tedit 5AC721CC)
   (descr "SIPAK, Vertical, RM 2.286mm")
   (tags "SIPAK Vertical RM 2.286mm")
   (fp_text reference REF** (at 2.286 -2.54) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module TO-220-2_Horizontal_TabDown (layer F.Cu) (tedit 5AC664EA)
+(module TO-220-2_Horizontal_TabDown (layer F.Cu) (tedit 5AC721CC)
   (descr "TO-220-2, Horizontal, RM 5.08mm")
   (tags "TO-220-2 Horizontal RM 5.08mm")
   (fp_text reference REF** (at 2.54 -20.58) (layer F.SilkS)

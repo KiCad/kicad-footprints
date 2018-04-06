@@ -1,4 +1,4 @@
-(module TO-247-4_Horizontal_TabUp (layer F.Cu) (tedit 5AC664EA)
+(module TO-247-4_Horizontal_TabUp (layer F.Cu) (tedit 5AC721CB)
   (descr "TO-247-4, Horizontal, RM 2.54mm")
   (tags "TO-247-4 Horizontal RM 2.54mm")
   (fp_text reference REF** (at 5.08 27.15) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module TO-280-3_Horizontal_TabUp (layer F.Cu) (tedit 5AC664EA)
+(module TO-280-3_Horizontal_TabUp (layer F.Cu) (tedit 5AC721CC)
   (descr "TO-280-3, Horizontal, RM 5.45mm")
   (tags "TO-280-3 Horizontal RM 5.45mm")
   (fp_text reference REF** (at 5.45 25.45) (layer F.SilkS)

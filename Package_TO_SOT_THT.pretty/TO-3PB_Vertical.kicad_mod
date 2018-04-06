@@ -1,4 +1,4 @@
-(module TO-3PB_Vertical (layer F.Cu) (tedit 5AC66DE3)
+(module TO-3PB_Vertical (layer F.Cu) (tedit 5AC721CC)
   (descr "TO-3PB, Vertical, RM 5.47mm, ")
   (tags "TO-3PB Vertical RM 5.47mm ")
   (fp_text reference REF** (at 5.47 -2.52) (layer F.SilkS)

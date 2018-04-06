@@ -1,4 +1,4 @@
-(module TO-220-5_Vertical (layer F.Cu) (tedit 5AC664EA)
+(module TO-220-5_Vertical (layer F.Cu) (tedit 5AC721CC)
   (descr "TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5")
   (tags "TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5")
   (fp_text reference REF** (at 3.4 -4.27) (layer F.SilkS)
