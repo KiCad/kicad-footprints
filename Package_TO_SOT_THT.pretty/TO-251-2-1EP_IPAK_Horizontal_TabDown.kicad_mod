@@ -1,4 +1,4 @@
-(module TO-251-2-1EP_IPAK_Horizontal_TabDown (layer F.Cu) (tedit 5AC664EA)
+(module TO-251-2-1EP_IPAK_Horizontal_TabDown (layer F.Cu) (tedit 5AC721CC)
   (descr "TO-251-2, Horizontal, RM 4.6mm, IPAK")
   (tags "TO-251-2 Horizontal RM 4.6mm IPAK")
   (fp_text reference REF** (at 2.3 -11.153333) (layer F.SilkS)
