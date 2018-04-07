@@ -1,5 +1,5 @@
-(module TO-247-5_Vertical (layer F.Cu) (tedit 5AC86DC3)
-  (descr "TO-247-5, Vertical, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html")
+(module TO-247-5_Vertical (layer F.Cu) (tedit 5AC8BA0D)
+  (descr "TO-247-5, Vertical, RM 2.54mm, see http://ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf")
   (tags "TO-247-5 Vertical RM 2.54mm")
   (fp_text reference REF** (at 5.08 -3.45) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

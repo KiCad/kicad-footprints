@@ -1,5 +1,5 @@
-(module TO-220-11_Horizontal_TabDown_StaggeredType2_Py2.54mm (layer F.Cu) (tedit 5AC724F4)
-  (descr "TO-220-11, Horizontal, RM 1.7mm, staggered type-2")
+(module TO-220-11_Horizontal_TabDown_StaggeredType2_Py2.54mm (layer F.Cu) (tedit 5AC8BA0E)
+  (descr "TO-220-11, Horizontal, RM 1.7mm, staggered type-2, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf")
   (tags "TO-220-11 Horizontal RM 1.7mm staggered type-2")
   (fp_text reference REF** (at 8.5 -21.92) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

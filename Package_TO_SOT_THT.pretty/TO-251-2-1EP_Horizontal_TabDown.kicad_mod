@@ -1,5 +1,5 @@
-(module TO-251-2-1EP_Horizontal_TabDown (layer F.Cu) (tedit 5AC86C52)
-  (descr "TO-251-2, Horizontal, RM 4.6mm, IPAK")
+(module TO-251-2-1EP_Horizontal_TabDown (layer F.Cu) (tedit 5AC8BA0D)
+  (descr "TO-251-2, Horizontal, RM 4.6mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf")
   (tags "TO-251-2 Horizontal RM 4.6mm IPAK")
   (fp_text reference REF** (at 2.3 -11.153333) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

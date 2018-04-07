@@ -1,5 +1,5 @@
-(module TO-262-3-1EP_Horizontal_TabDown (layer F.Cu) (tedit 5AC86C52)
-  (descr "TO-262-3, Horizontal, RM 2.54mm, IIPAK, I2PAK, I²PAK")
+(module TO-262-3-1EP_Horizontal_TabDown (layer F.Cu) (tedit 5AC8BA0D)
+  (descr "TO-262-3, Horizontal, RM 2.54mm, IIPAK, I2PAK, I²PAK, see https://www.diodes.com/assets/Package-Files/TO262.pdf")
   (tags "TO-262-3 Horizontal RM 2.54mm IIPAK I2PAK I²PAK")
   (fp_text reference REF** (at 2.54 -21.153333) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
