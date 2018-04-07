@@ -1,5 +1,5 @@
-(module TO-247-5_Horizontal_TabDown (layer F.Cu) (tedit 5AC721CB)
-  (descr "TO-247-5, Horizontal, RM 2.54mm")
+(module TO-247-5_Horizontal_TabDown (layer F.Cu) (tedit 5AC86DC3)
+  (descr "TO-247-5, Horizontal, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html")
   (tags "TO-247-5 Horizontal RM 2.54mm")
   (fp_text reference REF** (at 5.08 -27.15) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

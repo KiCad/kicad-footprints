@@ -1,10 +1,10 @@
-(module TO-262-3-1EP_I2PAK_Horizontal_TabDown (layer F.Cu) (tedit 5AC721CC)
+(module TO-262-3-1EP_Horizontal_TabDown (layer F.Cu) (tedit 5AC86C52)
   (descr "TO-262-3, Horizontal, RM 2.54mm, IIPAK, I2PAK, I²PAK")
   (tags "TO-262-3 Horizontal RM 2.54mm IIPAK I2PAK I²PAK")
   (fp_text reference REF** (at 2.54 -21.153333) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TO-262-3-1EP_I2PAK_Horizontal_TabDown (at 2.54 2.1) (layer F.Fab)
+  (fp_text value TO-262-3-1EP_Horizontal_TabDown (at 2.54 2.1) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.36 -18.2) (end -2.36 -18.7) (layer F.Fab) (width 0.1))
@@ -35,7 +35,7 @@
   (fp_text user %R (at 2.54 -21.153333) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-262-3-1EP_I2PAK_Horizontal_TabDown.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-262-3-1EP_Horizontal_TabDown.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
