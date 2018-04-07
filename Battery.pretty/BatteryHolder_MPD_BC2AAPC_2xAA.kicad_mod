@@ -1,5 +1,5 @@
-(module BatteryHolder_MPD_BC2AAPC_2xAA (layer F.Cu) (tedit 5AC7C402)
-  (descr "2xAA cell battery holder, Memory Protection Devices P/N BC2AAPC, https://media.digikey.com/pdf/Data%20Sheets/Memory%20Protection%20PDFs/BC2AAPC.pdf")
+(module BatteryHolder_MPD_BC2AAPC_2xAA (layer F.Cu) (tedit 5AC8F8F7)
+  (descr "2xAA cell battery holder, Memory Protection Devices P/N BC2AAPC, http://www.memoryprotectiondevices.com/datasheets/BC2AAPC-datasheet.pdf")
   (tags "AA battery cell holder")
   (fp_text reference REF** (at 26.16 -10.11) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
