@@ -1,5 +1,5 @@
-(module TO-220-15_Horizontal_TabDown_StaggeredType1_Py2.54mm (layer F.Cu) (tedit 5AC724F5)
-  (descr "TO-220-15, Horizontal, RM 1.27mm, staggered type-1")
+(module TO-220-15_Horizontal_TabDown_StaggeredType1_Py2.54mm (layer F.Cu) (tedit 5AC8BA0E)
+  (descr "TO-220-15, Horizontal, RM 1.27mm, staggered type-1, see https://www.sparkfun.com/datasheets/Robotics/L298_H_Bridge.pdf")
   (tags "TO-220-15 Horizontal RM 1.27mm staggered type-1")
   (fp_text reference REF** (at 8.89 -24.46) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

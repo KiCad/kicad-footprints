@@ -1,5 +1,5 @@
-(module TO-218-2_Horizontal_TabDown (layer F.Cu) (tedit 5AC86FB4)
-  (descr "TO-218-2, Horizontal, RM 10.94mm, SOT-93")
+(module TO-218-2_Horizontal_TabDown (layer F.Cu) (tedit 5AC8BA0D)
+  (descr "TO-218-2, Horizontal, RM 10.94mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf")
   (tags "TO-218-2 Horizontal RM 10.94mm SOT-93")
   (fp_text reference REF** (at 5.47 -26.92) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

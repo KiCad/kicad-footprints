@@ -1,5 +1,5 @@
-(module TO-220-3_Horizontal_TabUp (layer F.Cu) (tedit 5AC721CC)
-  (descr "TO-220-3, Horizontal, RM 2.54mm")
+(module TO-220-3_Horizontal_TabUp (layer F.Cu) (tedit 5AC8BA0D)
+  (descr "TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
   (tags "TO-220-3 Horizontal RM 2.54mm")
   (fp_text reference REF** (at 2.54 20.58) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
