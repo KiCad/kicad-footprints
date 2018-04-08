@@ -1,5 +1,5 @@
-(module TO-264-5_Horizontal_TabUp (layer F.Cu) (tedit 5AC8BA0D)
-  (descr "TO-264-5, Horizontal, RM 3.81mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf")
+(module TO-264-5_Horizontal_TabUp (layer F.Cu) (tedit 5ACA2D0A)
+  (descr "TO-264-5, Horizontal, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF")
   (tags "TO-264-5 Horizontal RM 3.81mm")
   (fp_text reference REF** (at 7.62 32.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
