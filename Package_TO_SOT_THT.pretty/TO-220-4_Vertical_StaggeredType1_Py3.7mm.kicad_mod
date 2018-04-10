@@ -1,5 +1,5 @@
-(module TO-220-4_Vertical_StaggeredType1_Py3.7mm (layer F.Cu) (tedit 5AC8BA0D)
-  (descr "TO-220-4, Vertical, RM 2.54mm, staggered type-1, see https://www.vishay.com/docs/66542/to-220-1.pdf")
+(module TO-220-4_Vertical_StaggeredType1_Py3.7mm (layer F.Cu) (tedit 5ACC4AF2)
+  (descr "TO-220-4, Vertical, RM 2.54mm, staggered type-1")
   (tags "TO-220-4 Vertical RM 2.54mm staggered type-1")
   (fp_text reference REF** (at 3.81 -9.32) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
