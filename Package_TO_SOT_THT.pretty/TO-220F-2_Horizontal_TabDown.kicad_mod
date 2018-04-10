@@ -1,5 +1,5 @@
-(module TO-220F-2_Horizontal_TabDown (layer F.Cu) (tedit 5AC8BA0D)
-  (descr "TO-220F-2, Horizontal, RM 5.08mm, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf")
+(module TO-220F-2_Horizontal_TabDown (layer F.Cu) (tedit 5ACC4AF2)
+  (descr "TO-220F-2, Horizontal, RM 5.08mm, see http://www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf")
   (tags "TO-220F-2 Horizontal RM 5.08mm")
   (fp_text reference REF** (at 2.54 -20.22) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

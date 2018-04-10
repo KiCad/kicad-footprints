@@ -1,5 +1,5 @@
-(module TO-220-9_Horizontal_TabDown_StaggeredType1_Py3.8mm (layer F.Cu) (tedit 5AC8BA0E)
-  (descr "TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-1, see https://www.vishay.com/docs/66542/to-220-1.pdf")
+(module TO-220-9_Horizontal_TabDown_StaggeredType1_Py3.8mm (layer F.Cu) (tedit 5ACC4AF2)
+  (descr "TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-1")
   (tags "TO-220-9 Horizontal RM 0.97mm Multiwatt-9 staggered type-1")
   (fp_text reference REF** (at 3.88 -22.62) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

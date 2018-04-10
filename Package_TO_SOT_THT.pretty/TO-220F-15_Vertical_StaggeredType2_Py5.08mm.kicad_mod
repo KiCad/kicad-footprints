@@ -1,5 +1,5 @@
-(module TO-220F-15_Vertical_StaggeredType2_Py5.08mm (layer F.Cu) (tedit 5AC8BA0E)
-  (descr "TO-220F-15, Vertical, RM 1.27mm, MultiwattF-15, staggered type-2, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf")
+(module TO-220F-15_Vertical_StaggeredType2_Py5.08mm (layer F.Cu) (tedit 5ACC4AF3)
+  (descr "TO-220F-15, Vertical, RM 1.27mm, MultiwattF-15, staggered type-2")
   (tags "TO-220F-15 Vertical RM 1.27mm MultiwattF-15 staggered type-2")
   (fp_text reference REF** (at 8.89 -5.62) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,5 +1,5 @@
-(module TO-220F-5_Vertical (layer F.Cu) (tedit 5AC8BA0D)
-  (descr "TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf")
+(module TO-220F-5_Vertical (layer F.Cu) (tedit 5ACC4AF2)
+  (descr "TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5")
   (tags "TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5")
   (fp_text reference REF** (at 3.4 -4.1675) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
