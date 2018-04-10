@@ -1,5 +1,5 @@
-(module TO-251-3_Vertical (layer F.Cu) (tedit 5ACA0A07)
-  (descr "TO-251-3, Vertical, RM 2.29mm, IPAK, see http://www.icbank.com/icbank_data/semi_package/to251_dim.pdf")
+(module TO-251-3_Vertical (layer F.Cu) (tedit 5ACC4915)
+  (descr "TO-251-3, Vertical, RM 2.29mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf")
   (tags "TO-251-3 Vertical RM 2.29mm IPAK")
   (fp_text reference REF** (at 2.29 -2.39) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
