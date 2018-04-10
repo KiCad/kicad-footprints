@@ -1,5 +1,5 @@
-(module TO-220-5_Vertical (layer F.Cu) (tedit 5AC8BA0D)
-  (descr "TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1491.pdf, https://www.diodes.com/assets/Package-Files/TO220-5.pdf")
+(module TO-220-5_Vertical (layer F.Cu) (tedit 5ACC4916)
+  (descr "TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf")
   (tags "TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5")
   (fp_text reference REF** (at 3.4 -4.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
