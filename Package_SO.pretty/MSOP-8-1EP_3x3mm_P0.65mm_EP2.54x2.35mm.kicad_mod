@@ -1,4 +1,7 @@
-(module MSOP-8-1EP_3x3mm_P0.65mm_EP2.54x2.35mm (layer F.Cu) (tedit 5ACEECD0)
+(module MSOP-8-1EP_3x3mm_P0.65mm_EP2.54x2.35mm (layer F.Cu) (tedit 5ACEF314)
+  (descr http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf)
+  (tags "SSOP 0.65")
+  (attr smd)
   (fp_text reference REF** (at 0 -2.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
