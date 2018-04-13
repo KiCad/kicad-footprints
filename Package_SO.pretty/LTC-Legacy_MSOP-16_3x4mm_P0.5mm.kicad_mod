@@ -1,5 +1,5 @@
 (module LTC-Legacy_MSOP-16_3x4mm_P0.5mm (layer F.Cu) (tedit 5AD0EF4E)
-  (descr "16-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see ADI Packaging Specification http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-msop/05081667_F_MSE16.pdf)")
+  (descr "16-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see LTC Legacy Reference LTC DWG # 05-08-1669 Rev A http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-msop/05081669_A_MS16.pdf)")
   (tags "MSOP 16")
   (attr smd)
   (fp_text reference REF** (at 0 -3.35) (layer F.SilkS)
