@@ -1,5 +1,5 @@
 (module D_TO-252-2_CommonCathode (layer F.Cu) (tedit 5A70F4A0)
-  (descr "TO-252-2, diode SMD, common cathode http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF)
+  (descr "TO-252-2, diode SMD, common cathode http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF")
   (tags "TO-252-2 diode")
   (attr smd)
   (fp_text reference REF** (at -0.575 -4.55) (layer F.SilkS)
