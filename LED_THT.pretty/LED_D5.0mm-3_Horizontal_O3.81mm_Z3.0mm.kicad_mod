@@ -1,4 +1,4 @@
-(module LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm (layer F.Cu) (tedit 5AD2724A)
+(module LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm (layer F.Cu) (tedit 5AD272DA)
   (descr "LED, diameter 5.0mm z-position of LED center 3.0mm, 3 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins")
   (tags "LED diameter 5.0mm z-position of LED center 3.0mm 3 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins")
   (fp_text reference REF** (at 3.81 -2.54) (layer F.SilkS)
@@ -52,7 +52,7 @@
   (pad 3 thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LED_THT.3dshapes/LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm.step
+  (model ${KISYS3DMOD}/LED_THT.3dshapes/LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
