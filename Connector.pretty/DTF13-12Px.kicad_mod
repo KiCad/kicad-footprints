@@ -1,4 +1,4 @@
-(module DTF13-12Px (layer F.Cu) (tedit 5AD3AF95)
+(module DTF13-12Px (layer F.Cu) (tedit 5AD3B18B)
   (descr http://www.te.com/usa-en/product-DTF13-12PA-G003.html)
   (tags "DEUTSCH DT header 12 pin ")
   (fp_text reference REF** (at 12.192 -8.255) (layer F.SilkS)
@@ -90,7 +90,7 @@
   (pad 12 thru_hole circle (at 0 -4.445) (size 3.556 3.556) (drill 1.778) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -6.0325 -2.2352) (size 2.54 2.54) (drill 2.3749) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 28.2575 -2.2352) (size 2.54 2.54) (drill 2.3749) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connectors.3dshapes/DTF13-12Px.wrl
+  (model ${KISYS3DMOD}/Connector.3dshapes/DTF13-12Px.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
