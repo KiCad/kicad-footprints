@@ -1,4 +1,4 @@
-(module QFN-56-1EP_8x8mm_P0.5mm_EP4.6x5.3mm (layer F.Cu) (tedit 5ADEFD98)
+(module QFN-56-1EP_8x8mm_P0.5mm_EP4.6x5.3mm (layer F.Cu) (tedit 5ADF0591)
   (descr "56-Lead Plastic Quad Flat, No Lead Package (ML) - 8x8x0.9 mm Body [QFN]; (see http://www.cypress.com/file/138911/download)")
   (tags "QFN 0.5")
   (attr smd)
@@ -93,7 +93,7 @@
   (pad "" smd rect (at 1.1 -0.7 90) (size 1 1.96) (layers F.Paste))
   (pad "" smd rect (at -1.1 1.9 90) (size 1 1.96) (layers F.Paste))
   (pad "" smd rect (at 1.1 1.9 90) (size 1 1.96) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_8x8mm_P0.5mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_8x8mm_P0.5mm_EP4.6x5.3mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
