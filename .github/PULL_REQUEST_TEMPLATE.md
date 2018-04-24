@@ -6,5 +6,5 @@ Thanks for creating a pull request to contribute to the KiCad libraries! To spee
 
 - [ ] Provide a URL to a datasheet for the footprint(s) you are contributing
 - [ ] An example screenshot image is very helpful 
-- [ ] If there are matching symbol or 3D model PRs, provide link(s) as appropriate
+- [ ] If there are matching symbol or 3D model pull requests, provide link(s) as appropriate
 - [ ] Check the output of the Travis automated check scripts - fix any errors as required
