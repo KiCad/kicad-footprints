@@ -1,4 +1,4 @@
-(module PQFP-240_32.1x32.1mm_P0.5mm (layer F.Cu) (tedit 5ADF60D3)
+(module PQFP-240_32.1x32.1mm_P0.5mm (layer F.Cu) (tedit 5ADF6788)
   (descr "  PQFP, 240 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py")
   (tags " PQFP QFP")
   (attr smd)
@@ -288,5 +288,10 @@
   (pad 240 smd rect (at -14.75 -16.95) (size 0.3 1.5) (layers F.Cu F.Mask F.Paste))
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (model ${KISYS3DMOD}/Package_QFP.3dshapes/PQFP-240_32.1x32.1mm_P0.5mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
