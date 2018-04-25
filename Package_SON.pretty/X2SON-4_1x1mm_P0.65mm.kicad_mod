@@ -1,4 +1,4 @@
-(module X2SON-4_1x1mm_P0.65mm (layer F.Cu) (tedit 5AE0B5F2)
+(module X2SON-4_1x1mm_P0.65mm (layer F.Cu) (tedit 5AE0C640)
   (descr "X2SON 5 pin 1x1mm package (Reference Datasheet: http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf Reference part: TPS383x) [StepUp generated footprint]")
   (tags X2SON)
   (attr smd)
@@ -61,7 +61,7 @@
          (xy 0.18 0.105) (xy 0.18 0.075) (xy 0 -0.105) (xy 0.18 0.075) (xy 0 -0.105)
          (xy -0.18 -0.105) (xy -0.18 0.105)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_SON/X2SON-4_1x1mm_P0.65mm.wrl
+  (model ${KISYS3DMOD}/Package_SON.3dshapes/X2SON-4_1x1mm_P0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
