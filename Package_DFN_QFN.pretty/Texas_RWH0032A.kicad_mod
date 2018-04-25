@@ -25,7 +25,6 @@
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (pad 33 smd roundrect (at 1.225 0) (size 3.85 6.3) (layers B.Cu)(roundrect_rratio 0.013))
   (pad 33 smd roundrect (at 1.225 0) (size 3.85 6.3) (layers F.Cu F.Mask)(roundrect_rratio 0.013))
   (pad 32 smd roundrect (at 0.05 -3.8) (size 0.7 0.9) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.07200000000000001))
   (pad 31 smd roundrect (at 0.8 -3.8) (size 0.5 0.9) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.1))
