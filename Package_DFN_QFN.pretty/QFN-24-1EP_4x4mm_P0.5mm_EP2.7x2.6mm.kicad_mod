@@ -1,5 +1,5 @@
-(module QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm (layer F.Cu) (tedit 5AE1097F)
-  (descr "24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)")
+(module QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm (layer F.Cu) (tedit 5AE10B3A)
+  (descr "24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN] with exposed pad (not square); (see https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf)")
   (tags "QFN 0.5")
   (attr smd)
   (fp_text reference REF** (at 0 -3.375) (layer F.SilkS)
