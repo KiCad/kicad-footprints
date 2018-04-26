@@ -1,4 +1,4 @@
-(module ST_WLCSP-64_Die442 (layer F.Cu) (tedit 5AE0CF08)
+(module ST_WLCSP-64_Die442 (layer F.Cu) (tedit 5AE11EAD)
   (descr "WLCSP-64, 8x8 raster, 3.347x3.585mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f091vb.pdf")
   (tags "BGA 64 0.4")
   (attr smd)

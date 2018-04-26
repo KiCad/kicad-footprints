@@ -1,4 +1,4 @@
-(module ST_WLCSP-143_Die419 (layer F.Cu) (tedit 5AE0CF08)
+(module ST_WLCSP-143_Die419 (layer F.Cu) (tedit 5AE11EAD)
   (descr "WLCSP-143, 11x13 raster, 4.521x5.547mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f429ng.pdf")
   (tags "BGA 143 0.4")
   (attr smd)

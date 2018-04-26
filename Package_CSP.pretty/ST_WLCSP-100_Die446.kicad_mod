@@ -1,4 +1,4 @@
-(module ST_WLCSP-100_Die446 (layer F.Cu) (tedit 5AE0CF08)
+(module ST_WLCSP-100_Die446 (layer F.Cu) (tedit 5AE11EAD)
   (descr "WLCSP-100, 10x10 raster, 4.775x5.041mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f303zd.pdf")
   (tags "BGA 100 0.4")
   (attr smd)

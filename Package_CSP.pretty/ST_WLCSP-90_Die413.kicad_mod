@@ -1,4 +1,4 @@
-(module ST_WLCSP-90_Die413 (layer F.Cu) (tedit 5AE0CF08)
+(module ST_WLCSP-90_Die413 (layer F.Cu) (tedit 5AE11EAD)
   (descr "WLCSP-90, 10x9 raster, 4.223x3.969mm package, pitch 0.4mm; see section 6.1 of http://www.st.com/resource/en/datasheet/stm32f405og.pdf")
   (tags "BGA 90 0.4")
   (attr smd)
