@@ -1,4 +1,4 @@
-(module ST_WLCSP-49_Die448 (layer F.Cu) (tedit 5AE0CF08)
+(module ST_WLCSP-49_Die448 (layer F.Cu) (tedit 5AE11EAD)
   (descr "WLCSP-49, 7x7 raster, 3.277x3.109mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f071v8.pdf")
   (tags "BGA 49 0.4")
   (attr smd)

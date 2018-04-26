@@ -1,4 +1,4 @@
-(module ST_WLCSP-36_Die440 (layer F.Cu) (tedit 5AE0CF08)
+(module ST_WLCSP-36_Die440 (layer F.Cu) (tedit 5AE11EAD)
   (descr "WLCSP-36, 6x6 raster, 2.605x2.703mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f051t8.pdf")
   (tags "BGA 36 0.4")
   (attr smd)

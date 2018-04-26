@@ -1,4 +1,4 @@
-(module ST_WLCSP-104_Die437 (layer F.Cu) (tedit 5AE0CF08)
+(module ST_WLCSP-104_Die437 (layer F.Cu) (tedit 5AE11EAD)
   (descr "WLCSP-104, 9x12 raster, 4.095x5.094mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l152ze.pdf")
   (tags "BGA 104 0.4")
   (attr smd)
