@@ -1,4 +1,4 @@
-(module X2SON-4_1x1mm_P0.65mm (layer F.Cu) (tedit 5AE0C640)
+(module X2SON-4_1x1mm_P0.65mm (layer F.Cu) (tedit 5AE37B90)
   (descr "X2SON 5 pin 1x1mm package (Reference Datasheet: http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf Reference part: TPS383x) [StepUp generated footprint]")
   (tags X2SON)
   (attr smd)
@@ -23,7 +23,7 @@
   (fp_line (start -0.66 -0.63) (end 0.5 -0.63) (layer F.SilkS) (width 0.12))
   (fp_line (start -0.5 0.63) (end 0.5 0.63) (layer F.SilkS) (width 0.12))
   (pad "" smd custom (at -0.43 -0.325) (size 0.148492 0.148492) (layers F.Mask)
-    (zone_connect 0)
+    (solder_mask_margin 0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -31,7 +31,7 @@
          (xy -0.18 0.105) (xy -0.18 -0.105)) (width 0))
     ))
   (pad "" smd custom (at 0.43 -0.325) (size 0.148492 0.148492) (layers F.Mask)
-    (zone_connect 0)
+    (solder_mask_margin 0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -39,7 +39,7 @@
          (xy 0.18 0.105) (xy 0.18 -0.105)) (width 0))
     ))
   (pad "" smd custom (at 0.43 0.325) (size 0.148492 0.148492) (layers F.Mask)
-    (zone_connect 0)
+    (solder_mask_margin 0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -47,7 +47,7 @@
          (xy 0.18 -0.105) (xy 0.18 0.105)) (width 0))
     ))
   (pad "" smd custom (at -0.43 0.325) (size 0.148492 0.148492) (layers F.Mask)
-    (zone_connect 0)
+    (solder_mask_margin 0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -87,7 +87,7 @@
 ) (width 0))
     ))
   (pad "" smd custom (at -0.43 -0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (zone_connect 0)
+    (solder_paste_margin -0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -95,7 +95,7 @@
 ) (width 0))
     ))
   (pad "" smd custom (at 0.43 -0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (zone_connect 0)
+    (solder_paste_margin -0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -103,7 +103,7 @@
 ) (width 0))
     ))
   (pad "" smd custom (at 0.43 0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (zone_connect 0)
+    (solder_paste_margin -0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -111,7 +111,7 @@
 ) (width 0))
     ))
   (pad "" smd custom (at -0.43 0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (zone_connect 0)
+    (solder_paste_margin -0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
