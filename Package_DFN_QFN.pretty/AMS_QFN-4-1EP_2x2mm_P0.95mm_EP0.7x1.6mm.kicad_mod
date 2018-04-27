@@ -28,7 +28,7 @@
   (fp_line (start -1 1) (end -1 -0.7) (layer F.Fab) (width 0.1))
   (fp_line (start -0.7 -1) (end 1 -1) (layer F.Fab) (width 0.1))
   (pad 5 smd rect (at 0 0) (size 0.7 1.6) (layers F.Cu F.Mask))
-  (pad "" smd rect (at 0 0) (size 0.35 0.8) (layers F.Paste))
+  (pad "" smd rect (at 0 0) (size 0.35 0.8) (layers F.Paste)(solder_paste_margin -0.000001))
   (pad 4 smd rect (at 0.95 -0.475) (size 0.6 0.4) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin -0.05))
   (pad 2 smd rect (at -0.95 0.475) (size 0.6 0.4) (layers F.Cu F.Paste F.Mask)

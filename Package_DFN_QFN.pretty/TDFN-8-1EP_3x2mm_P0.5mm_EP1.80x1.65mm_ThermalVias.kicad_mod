@@ -36,9 +36,9 @@
   (pad 9 thru_hole circle (at 0.50 -0.50) (size 0.65 0.65) (drill 0.30) (layers *.Cu))
   (pad 9 thru_hole circle (at 0.50 0.50) (size 0.65 0.65) (drill 0.30) (layers *.Cu))
   (pad 9 smd rect (at 0.00 0.00) (size 1.80 1.65) (layers B.Cu))
-  (pad "" smd rect (at 0.00 0.00) (size 1.80 0.70) (layers F.Paste))
-  (pad "" smd rect (at 0.00 -0.50) (size 0.70 0.65) (layers F.Paste))
-  (pad "" smd rect (at 0.00 0.50) (size 0.70 0.65) (layers F.Paste))
+  (pad "" smd rect (at 0.00 0.00) (size 1.80 0.70) (layers F.Paste)(solder_paste_margin -0.000001))
+  (pad "" smd rect (at 0.00 -0.50) (size 0.70 0.65) (layers F.Paste)(solder_paste_margin -0.000001))
+  (pad "" smd rect (at 0.00 0.50) (size 0.70 0.65) (layers F.Paste)(solder_paste_margin -0.000001))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/TDFN-8-1EP_3x2mm_P0.5mm_EP1.80x1.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

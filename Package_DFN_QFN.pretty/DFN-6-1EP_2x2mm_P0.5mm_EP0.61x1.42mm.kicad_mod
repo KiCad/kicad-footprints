@@ -29,8 +29,8 @@
   (pad 5 smd rect (at 0.925 0) (size 0.7 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0.925 -0.5) (size 0.7 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 0 0) (size 0.61 1.42) (layers F.Cu F.Mask))
-  (pad "" smd rect (at 0 -0.355) (size 0.5 0.56) (layers F.Paste))
-  (pad "" smd rect (at 0 0.355) (size 0.5 0.56) (layers F.Paste))
+  (pad "" smd rect (at 0 -0.355) (size 0.5 0.56) (layers F.Paste)(solder_paste_margin -0.000001))
+  (pad "" smd rect (at 0 0.355) (size 0.5 0.56) (layers F.Paste)(solder_paste_margin -0.000001))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/DFN-6-1EP_2x2mm_P0.5mm_EP0.61x1.42mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
