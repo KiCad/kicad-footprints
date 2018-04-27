@@ -1,4 +1,4 @@
-(module Relay_Y14 (layer F.Cu) (tedit 5AE07A71)
+(module Relay_Y14 (layer F.Cu) (tedit 5AE09315)
   (descr http://www.hsinda.com.cn/en/ProductShow.asp?ID=208)
   (tags "Relay Y14")
   (fp_text reference REF** (at 5.08 7.62) (layer F.SilkS)
@@ -28,4 +28,14 @@
   (pad 4 thru_hole circle (at 2.54 5.08) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 10.16 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 10.16 5.08) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_Y14.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_Y14.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
