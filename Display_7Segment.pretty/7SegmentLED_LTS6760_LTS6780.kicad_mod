@@ -1,4 +1,4 @@
-(module 7SegmentLED_LTS6760_LTS6780 (layer F.Cu) (tedit 5A0AD2D3)
+(module 7SegmentLED_LTS6760_LTS6780 (layer F.Cu) (tedit 5AE4CF84)
   (descr "7-Segment Display, LTS67x0")
   (tags "7Segment LED LTS6760 LTS6780")
   (fp_text reference REF** (at 7.62 -2.42) (layer F.SilkS)

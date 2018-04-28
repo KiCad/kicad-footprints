@@ -48,8 +48,8 @@
   (pad 17 thru_hole circle (at -0.75 1.5) (size 0.75 0.75) (drill 0.33) (layers *.Cu))
   (pad 17 thru_hole circle (at 0.75 1.5) (size 0.75 0.75) (drill 0.33) (layers *.Cu))
   (pad "" smd rect (at 0 0) (size 2.46 2.31) (layers F.Paste)(solder_mask_margin 0.000001))
-  (pad "" smd rect (at 0 -0.66) (size 2.3 0.8) (layers F.Paste)(solder_paste_margin -0.000001))
-  (pad "" smd rect (at 0 0.66) (size 2.3 0.8) (layers F.Paste)(solder_paste_margin -0.000001))
+  (pad "" smd rect (at 0 -0.66) (size 2.3 0.8) (layers F.Paste)(solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001))
+  (pad "" smd rect (at 0 0.66) (size 2.3 0.8) (layers F.Paste)(solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001))
   (model ${KISYS3DMOD}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm_EP3.4x5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
