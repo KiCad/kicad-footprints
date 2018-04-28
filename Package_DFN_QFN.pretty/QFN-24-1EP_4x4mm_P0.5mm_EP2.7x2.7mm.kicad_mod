@@ -1,11 +1,11 @@
-(module QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm (layer F.Cu) (tedit 5ADFA79A)
+(module QFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm (layer F.Cu) (tedit 5AE4E289)
   (descr http://www.alfarzpp.lv/eng/sc/AS3320.pdf)
   (tags QFN)
   (attr smd)
   (fp_text reference REF** (at 0 -3.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm (at 0 3.3) (layer F.Fab)
+  (fp_text value QFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm (at 0 3.3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1 -2) (end 2 -2) (layer F.Fab) (width 0.1))
@@ -200,7 +200,7 @@
   (pad "" smd rect (at 0.7 -0.7) (size 1.1 1.1) (layers F.Paste))
   (pad "" smd rect (at 0.7 0.7) (size 1.1 1.1) (layers F.Paste))
   (pad "" smd rect (at -0.7 0.7) (size 1.1 1.1) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
