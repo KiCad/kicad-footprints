@@ -1,4 +1,4 @@
-(module X2SON-4_1x1mm_P0.65mm (layer F.Cu) (tedit 5AE37CFB)
+(module X2SON-4_1x1mm_P0.65mm (layer F.Cu) (tedit 5AE4C112)
   (descr "X2SON 5 pin 1x1mm package (Reference Datasheet: http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf Reference part: TPS383x) [StepUp generated footprint]")
   (tags X2SON)
   (attr smd)
@@ -55,7 +55,7 @@
          (xy -0.18 -0.105) (xy -0.18 0.105)) (width 0))
     ))
   (pad 1 smd custom (at -0.43 -0.325) (size 0.148492 0.148492) (layers F.Cu)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -63,7 +63,7 @@
 ) (width 0))
     ))
   (pad 4 smd custom (at 0.43 -0.325) (size 0.148492 0.148492) (layers F.Cu)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -71,7 +71,7 @@
 ) (width 0))
     ))
   (pad 3 smd custom (at 0.43 0.325) (size 0.148492 0.148492) (layers F.Cu)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -79,7 +79,7 @@
 ) (width 0))
     ))
   (pad 2 smd custom (at -0.43 0.325) (size 0.148492 0.148492) (layers F.Cu)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -87,7 +87,7 @@
 ) (width 0))
     ))
   (pad "" smd custom (at -0.43 -0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (solder_paste_margin -0.000001) (zone_connect 0)
+    (solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -95,7 +95,7 @@
 ) (width 0))
     ))
   (pad "" smd custom (at 0.43 -0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (solder_paste_margin -0.000001) (zone_connect 0)
+    (solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -103,7 +103,7 @@
 ) (width 0))
     ))
   (pad "" smd custom (at 0.43 0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (solder_paste_margin -0.000001) (zone_connect 0)
+    (solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -111,7 +111,7 @@
 ) (width 0))
     ))
   (pad "" smd custom (at -0.43 0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (solder_paste_margin -0.000001) (zone_connect 0)
+    (solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -119,7 +119,7 @@
 ) (width 0))
     ))
   (pad 5 smd rect (at 0 0 45) (size 0.58 0.58) (layers F.Cu F.Paste F.Mask)
-    (solder_mask_margin -0.05) (solder_paste_margin -0.065))
+    (solder_mask_margin -0.05) (solder_paste_margin -0.065) (solder_paste_margin_ratio -0.00000001))
   (model ${KISYS3DMOD}/Package_SON.3dshapes/X2SON-4_1x1mm_P0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
