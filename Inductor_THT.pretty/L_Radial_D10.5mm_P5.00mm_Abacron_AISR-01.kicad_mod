@@ -1,4 +1,4 @@
-(module L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01 (layer F.Cu) (tedit 5AE59147)
+(module L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01 (layer F.Cu) (tedit 5AE596CA)
   (descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=10.5mm, Abacron, AISR-01, http://www.abracon.com/Magnetics/radial/AISR-01.pdf")
   (tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 10.5mm Abacron AISR-01")
   (fp_text reference REF** (at 2.5 -6.5) (layer F.SilkS)

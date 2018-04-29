@@ -1,4 +1,4 @@
-(module L_Radial_D6.0mm_P4.00mm (layer F.Cu) (tedit 5AE59147)
+(module L_Radial_D6.0mm_P4.00mm (layer F.Cu) (tedit 5AE596CA)
   (descr "Inductor, Radial series, Radial, pin pitch=4.00mm, , diameter=6.0mm, http://www.abracon.com/Magnetics/radial/AIUR-07.pdf")
   (tags "Inductor Radial series Radial pin pitch 4.00mm  diameter 6.0mm")
   (fp_text reference REF** (at 2 -4.25) (layer F.SilkS)

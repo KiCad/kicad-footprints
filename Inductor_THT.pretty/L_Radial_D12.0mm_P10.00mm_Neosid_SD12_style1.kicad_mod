@@ -1,4 +1,4 @@
-(module L_Radial_D12.0mm_P10.00mm_Neosid_SD12_style1 (layer F.Cu) (tedit 5AE59147)
+(module L_Radial_D12.0mm_P10.00mm_Neosid_SD12_style1 (layer F.Cu) (tedit 5AE596CA)
   (descr "Inductor, Radial series, Radial, pin pitch=10.00mm, , diameter=12.0mm, Neosid, SD12, style1, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_Sd12.pdf")
   (tags "Inductor Radial series Radial pin pitch 10.00mm  diameter 12.0mm Neosid SD12 style1")
   (fp_text reference REF** (at 5 -7.25) (layer F.SilkS)

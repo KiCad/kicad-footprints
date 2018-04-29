@@ -1,4 +1,4 @@
-(module L_Radial_D7.8mm_P5.00mm_Fastron_07HCP (layer F.Cu) (tedit 5AE59147)
+(module L_Radial_D7.8mm_P5.00mm_Fastron_07HCP (layer F.Cu) (tedit 5AE596CA)
   (descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=7.8mm, Fastron, 07HCP, http://www.abracon.com/Magnetics/radial/AISR875.pdf")
   (tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 7.8mm Fastron 07HCP")
   (fp_text reference REF** (at 2.5 -5.15) (layer F.SilkS)

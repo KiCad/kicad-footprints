@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9 (layer F.Cu) (tedit 5AE59147)
+(module L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9 (layer F.Cu) (tedit 5AE596CA)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=63.20mm, , diameter=69.1mm, Vishay, TJ9, http://www.vishay.com/docs/34079/tj.pdf")
   (tags "L_Toroid Horizontal series Radial pin pitch 63.20mm  diameter 69.1mm Vishay TJ9")
   (fp_text reference REF** (at 31.6 -35.8) (layer F.SilkS)

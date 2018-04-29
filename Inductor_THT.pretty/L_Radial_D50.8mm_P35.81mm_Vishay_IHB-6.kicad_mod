@@ -1,4 +1,4 @@
-(module L_Radial_D50.8mm_P35.81mm_Vishay_IHB-6 (layer F.Cu) (tedit 5AE59147)
+(module L_Radial_D50.8mm_P35.81mm_Vishay_IHB-6 (layer F.Cu) (tedit 5AE596CA)
   (descr "Inductor, Radial series, Radial, pin pitch=35.81mm, , diameter=50.8mm, Vishay, IHB-6, http://www.vishay.com/docs/34015/ihb.pdf")
   (tags "Inductor Radial series Radial pin pitch 35.81mm  diameter 50.8mm Vishay IHB-6")
   (fp_text reference REF** (at 17.905 -26.65) (layer F.SilkS)

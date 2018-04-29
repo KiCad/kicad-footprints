@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50 (layer F.Cu) (tedit 5AE59147)
+(module L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50 (layer F.Cu) (tedit 5AE596CA)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=20.00mm, , diameter=12.7mm, Diameter14-5mm, Amidon-T50")
   (tags "L_Toroid Horizontal series Radial pin pitch 20.00mm  diameter 12.7mm Diameter14-5mm Amidon-T50")
   (fp_text reference REF** (at 10 -7.6) (layer F.SilkS)

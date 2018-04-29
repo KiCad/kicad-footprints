@@ -1,4 +1,4 @@
-(module L_Toroid_Vertical_L21.6mm_W11.4mm_P7.62mm_Pulse_KM-3 (layer F.Cu) (tedit 5AE59147)
+(module L_Toroid_Vertical_L21.6mm_W11.4mm_P7.62mm_Pulse_KM-3 (layer F.Cu) (tedit 5AE596CA)
   (descr "L_Toroid, Vertical series, Radial, pin pitch=7.62mm, , length*width=21.59*11.43mm^2, Pulse, KM-3, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf")
   (tags "L_Toroid Vertical series Radial pin pitch 7.62mm  length 21.59mm width 11.43mm Pulse KM-3")
   (fp_text reference REF** (at 0 -3.155) (layer F.SilkS)
