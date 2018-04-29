@@ -1,4 +1,4 @@
-(module L_Radial_D7.0mm_P3.00mm (layer F.Cu) (tedit 5AE51830)
+(module L_Radial_D7.0mm_P3.00mm (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Radial series, Radial, pin pitch=3.00mm, , diameter=7mm, http://www.abracon.com/Magnetics/radial/AIUR-16.pdf")
   (tags "Inductor Radial series Radial pin pitch 3.00mm  diameter 7mm")
   (fp_text reference REF** (at 1.5 -4.75) (layer F.SilkS)
@@ -17,7 +17,7 @@
   )
   (model Inductors_THT.3dshapes/L_Radial_D7.0mm_P3.00mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

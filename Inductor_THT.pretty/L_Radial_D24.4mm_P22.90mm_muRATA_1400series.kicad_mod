@@ -1,4 +1,4 @@
-(module L_Radial_D24.4mm_P22.90mm_muRATA_1400series (layer F.Cu) (tedit 5AE51830)
+(module L_Radial_D24.4mm_P22.90mm_muRATA_1400series (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Radial series, Radial, pin pitch=22.90mm, , diameter=24.4mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf")
   (tags "Inductor Radial series Radial pin pitch 22.90mm  diameter 24.4mm muRATA 1400series")
   (fp_text reference REF** (at 11.45 -13.45) (layer F.SilkS)
@@ -23,7 +23,7 @@
   )
   (model Inductors_THT.3dshapes/L_Radial_D24.4mm_P22.90mm_muRATA_1400series.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

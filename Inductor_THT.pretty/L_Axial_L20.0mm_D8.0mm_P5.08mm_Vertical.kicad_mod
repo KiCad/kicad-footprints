@@ -1,4 +1,4 @@
-(module L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical (layer F.Cu) (tedit 5AE51830)
+(module L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=20*8mm^2")
   (tags "Inductor Axial series Axial Vertical pin pitch 5.08mm  length 20mm diameter 8mm")
   (fp_text reference REF** (at 2.54 -5.12) (layer F.SilkS)
@@ -21,7 +21,7 @@
   )
   (model Inductors_THT.3dshapes/L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

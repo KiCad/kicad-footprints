@@ -1,4 +1,4 @@
-(module L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8 (layer F.Cu) (tedit 5AE51830)
+(module L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8 (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , length*width=8*8mm^2, Neosid, SD8, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_Sd8.pdf")
   (tags "Inductor Radial series Radial pin pitch 5.00mm  length 8mm width 8mm Neosid SD8")
   (fp_text reference REF** (at 2.5 -5.25) (layer F.SilkS)
@@ -26,7 +26,7 @@
   )
   (model Inductors_THT.3dshapes/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

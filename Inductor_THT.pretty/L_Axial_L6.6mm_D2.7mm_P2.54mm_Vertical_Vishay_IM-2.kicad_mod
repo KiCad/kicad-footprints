@@ -1,4 +1,4 @@
-(module L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2 (layer F.Cu) (tedit 5AE51830)
+(module L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2 (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Axial series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=6.6*2.7mm^2, Vishay, IM-2, http://www.vishay.com/docs/34030/im.pdf")
   (tags "Inductor Axial series Axial Vertical pin pitch 2.54mm  length 6.6mm diameter 2.7mm Vishay IM-2")
   (fp_text reference REF** (at 1.27 -2.47) (layer F.SilkS)
@@ -21,7 +21,7 @@
   )
   (model Inductors_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

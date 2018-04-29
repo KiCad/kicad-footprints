@@ -1,4 +1,4 @@
-(module L_Radial_D12.0mm_P6.00mm_MuRATA_1900R (layer F.Cu) (tedit 5AE51830)
+(module L_Radial_D12.0mm_P6.00mm_MuRATA_1900R (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Radial series, Radial, pin pitch=6.00mm, , diameter=12.0mm, MuRATA, 1900R, http://www.murata-ps.com/data/magnetics/kmp_1900r.pdf")
   (tags "Inductor Radial series Radial pin pitch 6.00mm  diameter 12.0mm MuRATA 1900R")
   (fp_text reference REF** (at 3 -7.25) (layer F.SilkS)
@@ -17,7 +17,7 @@
   )
   (model Inductors_THT.3dshapes/L_Radial_D12.0mm_P6.00mm_MuRATA_1900R.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

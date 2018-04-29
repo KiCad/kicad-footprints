@@ -1,4 +1,4 @@
-(module L_Radial_D14.2mm_P10.00mm_Neosid_SD14 (layer F.Cu) (tedit 5AE51830)
+(module L_Radial_D14.2mm_P10.00mm_Neosid_SD14 (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Radial series, Radial, pin pitch=10.00mm, , diameter=14.2mm, Neosid, SD14, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_Sd14.pdf")
   (tags "Inductor Radial series Radial pin pitch 10.00mm  diameter 14.2mm Neosid SD14")
   (fp_text reference REF** (at 5 -8.35) (layer F.SilkS)
@@ -17,7 +17,7 @@
   )
   (model Inductors_THT.3dshapes/L_Radial_D14.2mm_P10.00mm_Neosid_SD14.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

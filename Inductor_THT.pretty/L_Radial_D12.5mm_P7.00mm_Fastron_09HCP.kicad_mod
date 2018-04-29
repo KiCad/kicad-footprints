@@ -1,4 +1,4 @@
-(module L_Radial_D12.5mm_P7.00mm_Fastron_09HCP (layer F.Cu) (tedit 5AE51830)
+(module L_Radial_D12.5mm_P7.00mm_Fastron_09HCP (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Radial series, Radial, pin pitch=7.00mm, , diameter=12.5mm, Fastron, 09HCP, http://cdn-reichelt.de/documents/datenblatt/B400/DS_09HCP.pdf")
   (tags "Inductor Radial series Radial pin pitch 7.00mm  diameter 12.5mm Fastron 09HCP")
   (fp_text reference REF** (at 3.5 -7.5) (layer F.SilkS)
@@ -17,7 +17,7 @@
   )
   (model Inductors_THT.3dshapes/L_Radial_D12.5mm_P7.00mm_Fastron_09HCP.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

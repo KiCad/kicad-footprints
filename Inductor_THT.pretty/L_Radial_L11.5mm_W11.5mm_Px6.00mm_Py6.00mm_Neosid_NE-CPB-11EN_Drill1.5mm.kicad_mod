@@ -1,4 +1,4 @@
-(module L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.5mm (layer F.Cu) (tedit 5AE51830)
+(module L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.5mm (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Radial series, Radial, pin pitch=6.00*6.00mm^2, , length*width=11.5*11.5mm^2, Neosid, NE-CPB-11EN, Drill1.5mm, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_NE_CPB11EN.pdf")
   (tags "Inductor Radial series Radial pin pitch 6.00*6.00mm^2  length 11.5mm width 11.5mm Neosid NE-CPB-11EN Drill1.5mm")
   (fp_text reference REF** (at 3 -10) (layer F.SilkS)
@@ -26,7 +26,7 @@
   )
   (model Inductors_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.5mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
