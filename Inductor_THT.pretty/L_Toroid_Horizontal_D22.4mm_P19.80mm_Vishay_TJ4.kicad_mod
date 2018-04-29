@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4 (layer F.Cu) (tedit 5AE51830)
+(module L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4 (layer F.Cu) (tedit 5AE59147)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=19.80mm, , diameter=22.4mm, Vishay, TJ4, http://www.vishay.com/docs/34079/tj.pdf")
   (tags "L_Toroid Horizontal series Radial pin pitch 19.80mm  diameter 22.4mm Vishay TJ4")
   (fp_text reference REF** (at 9.9 -12.45) (layer F.SilkS)
@@ -36,7 +36,7 @@
   )
   (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

@@ -1,4 +1,4 @@
-(module L_Axial_L14.5mm_D5.8mm_P7.62mm_Vertical_Fastron_HBCC (layer F.Cu) (tedit 5AE51830)
+(module L_Axial_L14.5mm_D5.8mm_P7.62mm_Vertical_Fastron_HBCC (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=14.5*5.8mm^2, Fastron, HBCC, http://www.fastrongroup.com/image-show/18/HBCC.pdf?type=Complete-DataSheet&productType=series")
   (tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 14.5mm diameter 5.8mm Fastron HBCC")
   (fp_text reference REF** (at 3.81 -4.02) (layer F.SilkS)
@@ -22,7 +22,7 @@
   )
   (model Inductors_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P7.62mm_Vertical_Fastron_HBCC.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

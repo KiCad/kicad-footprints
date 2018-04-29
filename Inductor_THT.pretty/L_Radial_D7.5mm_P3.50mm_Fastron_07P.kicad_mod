@@ -1,4 +1,4 @@
-(module L_Radial_D7.5mm_P3.50mm_Fastron_07P (layer F.Cu) (tedit 5AE51830)
+(module L_Radial_D7.5mm_P3.50mm_Fastron_07P (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Radial series, Radial, pin pitch=3.50mm, , diameter=7.5mm, Fastron, 07P, http://www.fastrongroup.com/image-show/39/07P.pdf?type=Complete-DataSheet&productType=series")
   (tags "Inductor Radial series Radial pin pitch 3.50mm  diameter 7.5mm Fastron 07P")
   (fp_text reference REF** (at 1.75 -5) (layer F.SilkS)
@@ -17,7 +17,7 @@
   )
   (model Inductors_THT.3dshapes/L_Radial_D7.5mm_P3.50mm_Fastron_07P.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

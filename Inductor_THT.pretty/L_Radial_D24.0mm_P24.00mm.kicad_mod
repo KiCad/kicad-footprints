@@ -1,4 +1,4 @@
-(module L_Radial_D24.0mm_P24.00mm (layer F.Cu) (tedit 5AE51830)
+(module L_Radial_D24.0mm_P24.00mm (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Radial series, Radial, pin pitch=24.00mm, , diameter=24mm")
   (tags "Inductor Radial series Radial pin pitch 24.00mm  diameter 24mm")
   (fp_text reference REF** (at 12 -13.25) (layer F.SilkS)
@@ -18,7 +18,7 @@
   )
   (model Inductors_THT.3dshapes/L_Radial_D24.0mm_P24.00mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

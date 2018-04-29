@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12 (layer F.Cu) (tedit 5AE51830)
+(module L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12 (layer F.Cu) (tedit 5AE59147)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=6.40mm, , diameter=3.175mm, Diameter3-5mm, Amidon-T12")
   (tags "L_Toroid Horizontal series Radial pin pitch 6.40mm  diameter 3.175mm Diameter3-5mm Amidon-T12")
   (fp_text reference REF** (at 3.2 -2.8375) (layer F.SilkS)
@@ -36,7 +36,7 @@
   )
   (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

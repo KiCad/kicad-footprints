@@ -1,4 +1,4 @@
-(module L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_muRATA_5100 (layer F.Cu) (tedit 5AE51830)
+(module L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_muRATA_5100 (layer F.Cu) (tedit 5AE59147)
   (descr "L_CommonMode_Toroid, Vertical series, Radial, pin pitch=5.08*12.70mm^2, , length*width=21*10mm^2, muRATA, 5100, http://www.murata-ps.com/data/magnetics/kmp_5100.pdf")
   (tags "L_CommonMode_Toroid Vertical series Radial pin pitch 5.08*12.70mm^2  length 21mm width 10mm muRATA 5100")
   (fp_text reference REF** (at 6.35 -3.71) (layer F.SilkS)
@@ -42,7 +42,7 @@
   )
   (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_muRATA_5100.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

@@ -1,4 +1,4 @@
-(module L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC (layer F.Cu) (tedit 5AE51830)
+(module L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC (layer F.Cu) (tedit 5AE59147)
   (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=7*3.3mm^2, Fastron, MICC, http://www.fastrongroup.com/image-show/70/MICC.pdf?type=Complete-DataSheet&productType=series")
   (tags "Inductor Axial series Axial Horizontal pin pitch 12.7mm  length 7mm diameter 3.3mm Fastron MICC")
   (fp_text reference REF** (at 6.35 -2.77) (layer F.SilkS)
@@ -30,7 +30,7 @@
   )
   (model Inductors_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
