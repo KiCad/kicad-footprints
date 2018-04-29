@@ -1,4 +1,4 @@
-(module L_CommonMode_Toroid_Vertical_L24.0mm_W16.3mm_Px10.16mm_Py20.32mm_muRATA_5200 (layer F.Cu) (tedit 5AE59147)
+(module L_CommonMode_Toroid_Vertical_L24.0mm_W16.3mm_Px10.16mm_Py20.32mm_muRATA_5200 (layer F.Cu) (tedit 5AE596CA)
   (descr "L_CommonMode_Toroid, Vertical series, Radial, pin pitch=10.16*20.32mm^2, , length*width=24*16.3mm^2, muRATA, 5200, http://www.murata-ps.com/data/magnetics/kmp_5200.pdf")
   (tags "L_CommonMode_Toroid Vertical series Radial pin pitch 10.16*20.32mm^2  length 24mm width 16.3mm muRATA 5200")
   (fp_text reference REF** (at 10.16 -4.32) (layer F.SilkS)

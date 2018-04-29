@@ -1,4 +1,4 @@
-(module L_Radial_D8.7mm_P5.00mm_Fastron_07HCP (layer F.Cu) (tedit 5AE59147)
+(module L_Radial_D8.7mm_P5.00mm_Fastron_07HCP (layer F.Cu) (tedit 5AE596CA)
   (descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=8.7mm, Fastron, 07HCP, http://cdn-reichelt.de/documents/datenblatt/B400/DS_07HCP.pdf")
   (tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 8.7mm Fastron 07HCP")
   (fp_text reference REF** (at 2.5 -5.6) (layer F.SilkS)

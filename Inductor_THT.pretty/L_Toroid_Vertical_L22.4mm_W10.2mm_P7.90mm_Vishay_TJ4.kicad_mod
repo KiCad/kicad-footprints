@@ -1,4 +1,4 @@
-(module L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4 (layer F.Cu) (tedit 5AE59147)
+(module L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4 (layer F.Cu) (tedit 5AE596CA)
   (descr "L_Toroid, Vertical series, Radial, pin pitch=7.90mm, , length*width=22.4*10.2mm^2, Vishay, TJ4, http://www.vishay.com/docs/34079/tj.pdf")
   (tags "L_Toroid Vertical series Radial pin pitch 7.90mm  length 22.4mm width 10.2mm Vishay TJ4")
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)

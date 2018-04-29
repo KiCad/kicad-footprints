@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D28.0mm_P25.10mm_Bourns_2200 (layer F.Cu) (tedit 5AE59147)
+(module L_Toroid_Horizontal_D28.0mm_P25.10mm_Bourns_2200 (layer F.Cu) (tedit 5AE596CA)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=25.10mm, , diameter=28mm, Bourns, 2200, http://www.bourns.com/docs/Product-Datasheets/2100_series.pdf?sfvrsn=3")
   (tags "L_Toroid Horizontal series Radial pin pitch 25.10mm  diameter 28mm Bourns 2200")
   (fp_text reference REF** (at 12.55 -15.25) (layer F.SilkS)

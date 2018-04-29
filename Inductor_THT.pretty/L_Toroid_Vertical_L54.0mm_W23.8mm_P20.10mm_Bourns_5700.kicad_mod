@@ -1,4 +1,4 @@
-(module L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700 (layer F.Cu) (tedit 5AE59147)
+(module L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700 (layer F.Cu) (tedit 5AE596CA)
   (descr "L_Toroid, Vertical series, Radial, pin pitch=20.10mm, , length*width=54*23.8mm^2, Bourns, 5700, http://www.bourns.com/docs/Product-Datasheets/5700_series.pdf")
   (tags "L_Toroid Vertical series Radial pin pitch 20.10mm  length 54mm width 23.8mm Bourns 5700")
   (fp_text reference REF** (at 0 -3.1) (layer F.SilkS)

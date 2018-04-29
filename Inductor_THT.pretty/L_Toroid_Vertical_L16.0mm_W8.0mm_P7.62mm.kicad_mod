@@ -1,4 +1,4 @@
-(module L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm (layer F.Cu) (tedit 5AE59147)
+(module L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm (layer F.Cu) (tedit 5AE596CA)
   (descr "L_Toroid, Vertical series, Radial, pin pitch=7.62mm, , length*width=16*8mm^2")
   (tags "L_Toroid Vertical series Radial pin pitch 7.62mm  length 16mm width 8mm")
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)

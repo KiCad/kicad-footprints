@@ -1,4 +1,4 @@
-(module L_Radial_D21.0mm_P19.00mm (layer F.Cu) (tedit 5AE59147)
+(module L_Radial_D21.0mm_P19.00mm (layer F.Cu) (tedit 5AE596CA)
   (descr "Inductor, Radial series, Radial, pin pitch=19.00mm, , diameter=21mm, http://www.abracon.com/Magnetics/radial/AIRD02.pdf")
   (tags "Inductor Radial series Radial pin pitch 19.00mm  diameter 21mm")
   (fp_text reference REF** (at 9.5 -11.75) (layer F.SilkS)

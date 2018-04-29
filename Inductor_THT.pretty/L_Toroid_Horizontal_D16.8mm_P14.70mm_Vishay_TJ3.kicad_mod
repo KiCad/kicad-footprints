@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3 (layer F.Cu) (tedit 5AE59147)
+(module L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3 (layer F.Cu) (tedit 5AE596CA)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=14.70mm, , diameter=16.8mm, Vishay, TJ3, http://www.vishay.com/docs/34079/tj.pdf")
   (tags "L_Toroid Horizontal series Radial pin pitch 14.70mm  diameter 16.8mm Vishay TJ3")
   (fp_text reference REF** (at 7.35 -9.65) (layer F.SilkS)

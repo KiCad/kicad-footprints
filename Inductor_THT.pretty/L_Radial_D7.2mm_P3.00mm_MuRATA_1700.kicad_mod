@@ -1,4 +1,4 @@
-(module L_Radial_D7.2mm_P3.00mm_MuRATA_1700 (layer F.Cu) (tedit 5AE59147)
+(module L_Radial_D7.2mm_P3.00mm_MuRATA_1700 (layer F.Cu) (tedit 5AE596CA)
   (descr "Inductor, Radial series, Radial, pin pitch=3.00mm, , diameter=7.2mm, MuRATA, 1700, http://www.murata-ps.com/data/magnetics/kmp_1700.pdf")
   (tags "Inductor Radial series Radial pin pitch 3.00mm  diameter 7.2mm MuRATA 1700")
   (fp_text reference REF** (at 1.5 -4.85) (layer F.SilkS)

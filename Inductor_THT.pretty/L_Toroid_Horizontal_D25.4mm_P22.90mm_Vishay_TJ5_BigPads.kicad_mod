@@ -1,4 +1,4 @@
-(module L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads (layer F.Cu) (tedit 5AE59147)
+(module L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads (layer F.Cu) (tedit 5AE596CA)
   (descr "L_Toroid, Horizontal series, Radial, pin pitch=22.90mm, , diameter=25.4mm, Vishay, TJ5, BigPads, http://www.vishay.com/docs/34079/tj.pdf")
   (tags "L_Toroid Horizontal series Radial pin pitch 22.90mm  diameter 25.4mm Vishay TJ5 BigPads")
   (fp_text reference REF** (at 11.45 -13.95) (layer F.SilkS)

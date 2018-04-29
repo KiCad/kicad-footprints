@@ -1,4 +1,4 @@
-(module L_Radial_D10.0mm_P5.00mm_Fastron_07M (layer F.Cu) (tedit 5AE59147)
+(module L_Radial_D10.0mm_P5.00mm_Fastron_07M (layer F.Cu) (tedit 5AE596CA)
   (descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Fastron, 07M, http://www.fastrongroup.com/image-show/37/07M.pdf?type=Complete-DataSheet&productType=series")
   (tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 10mm Fastron 07M")
   (fp_text reference REF** (at 2.5 -6.25) (layer F.SilkS)
