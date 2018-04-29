@@ -1,4 +1,4 @@
-(module L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28 (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28 (layer F.Cu) (tedit 5AE59B05)
   (descr "Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=24*7.1mm^2, Vishay, IM-10-28, http://www.vishay.com/docs/34035/im10.pdf")
   (tags "Inductor Axial series Axial Vertical pin pitch 5.08mm  length 24mm diameter 7.1mm Vishay IM-10-28")
   (fp_text reference REF** (at 2.54 -4.67) (layer F.SilkS)

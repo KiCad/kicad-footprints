@@ -1,4 +1,4 @@
-(module L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC (layer F.Cu) (tedit 5AE59B05)
   (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=13*4.5mm^2, Fastron, HCCC, http://www.fastrongroup.com/image-show/19/HCCC.pdf?type=Complete-DataSheet&productType=series")
   (tags "Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 13mm diameter 4.5mm Fastron HCCC")
   (fp_text reference REF** (at 7.62 -3.37) (layer F.SilkS)

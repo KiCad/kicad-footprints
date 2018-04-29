@@ -1,4 +1,4 @@
-(module L_Axial_L9.5mm_D4.0mm_P2.54mm_Vertical_Fastron_SMCC (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L9.5mm_D4.0mm_P2.54mm_Vertical_Fastron_SMCC (layer F.Cu) (tedit 5AE59B05)
   (descr "Inductor, Axial series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=9.5*4mm^2, Fastron, SMCC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_SMCC_NEU.pdf, http://cdn-reichelt.de/documents/datenblatt/B400/LEADEDINDUCTORS.pdf")
   (tags "Inductor Axial series Axial Vertical pin pitch 2.54mm  length 9.5mm diameter 4mm Fastron SMCC")
   (fp_text reference REF** (at 1.27 -3.12) (layer F.SilkS)
