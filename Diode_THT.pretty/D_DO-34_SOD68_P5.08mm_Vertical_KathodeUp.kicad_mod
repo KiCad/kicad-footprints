@@ -1,4 +1,4 @@
-(module D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp (layer F.Cu) (tedit 5AE34776)
+(module D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp (layer F.Cu) (tedit 5AE50CD5)
   (descr "Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf")
   (tags "Diode DO-34_SOD68 series Axial Vertical pin pitch 5.08mm  length 3.04mm diameter 1.6mm")
   (fp_text reference REF** (at 2.54 -2.25566) (layer F.SilkS)

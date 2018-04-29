@@ -1,4 +1,4 @@
-(module D_DO-34_SOD68_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE34776)
+(module D_DO-34_SOD68_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE50CD5)
   (descr "Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf")
   (tags "Diode DO-34_SOD68 series Axial Horizontal pin pitch 7.62mm  length 3.04mm diameter 1.6mm")
   (fp_text reference REF** (at 3.81 -1.92) (layer F.SilkS)
