@@ -1,4 +1,4 @@
-(module L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2 (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2 (layer F.Cu) (tedit 5AE59B05)
   (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=6.6*2.7mm^2, Vishay, IM-2, http://www.vishay.com/docs/34030/im.pdf")
   (tags "Inductor Axial series Axial Horizontal pin pitch 10.16mm  length 6.6mm diameter 2.7mm Vishay IM-2")
   (fp_text reference REF** (at 5.08 -2.47) (layer F.SilkS)

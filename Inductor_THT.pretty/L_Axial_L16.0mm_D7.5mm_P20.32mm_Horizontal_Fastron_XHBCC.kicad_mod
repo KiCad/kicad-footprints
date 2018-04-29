@@ -1,4 +1,4 @@
-(module L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC (layer F.Cu) (tedit 5AE59B05)
   (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=20.32mm, , length*diameter=16*7.5mm^2, Fastron, XHBCC, http://www.fastrongroup.com/image-show/26/XHBCC.pdf?type=Complete-DataSheet&productType=series")
   (tags "Inductor Axial series Axial Horizontal pin pitch 20.32mm  length 16mm diameter 7.5mm Fastron XHBCC")
   (fp_text reference REF** (at 10.16 -4.87) (layer F.SilkS)

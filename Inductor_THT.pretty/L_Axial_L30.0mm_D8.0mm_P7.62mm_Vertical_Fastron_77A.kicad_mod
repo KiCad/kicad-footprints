@@ -1,4 +1,4 @@
-(module L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A (layer F.Cu) (tedit 5AE59B05)
   (descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=30*8mm^2, Fastron, 77A, http://cdn-reichelt.de/documents/datenblatt/B400/DS_77A.pdf")
   (tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 30mm diameter 8mm Fastron 77A")
   (fp_text reference REF** (at 3.81 -5.12) (layer F.SilkS)

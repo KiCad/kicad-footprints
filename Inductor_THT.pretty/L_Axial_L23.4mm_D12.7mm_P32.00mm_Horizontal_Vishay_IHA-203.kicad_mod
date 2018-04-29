@@ -1,4 +1,4 @@
-(module L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203 (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203 (layer F.Cu) (tedit 5AE59B06)
   (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=32mm, , length*diameter=23.37*12.7mm^2, Vishay, IHA-203, http://www.vishay.com/docs/34014/iha.pdf")
   (tags "Inductor Axial series Axial Horizontal pin pitch 32mm  length 23.37mm diameter 12.7mm Vishay IHA-203")
   (fp_text reference REF** (at 16 -7.47) (layer F.SilkS)

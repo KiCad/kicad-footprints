@@ -1,4 +1,4 @@
-(module L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC (layer F.Cu) (tedit 5AE59B05)
   (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=27.94mm, , length*diameter=24*7.5mm^2, Fastron, MESC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_MESC.pdf")
   (tags "Inductor Axial series Axial Horizontal pin pitch 27.94mm  length 24mm diameter 7.5mm Fastron MESC")
   (fp_text reference REF** (at 13.97 -4.87) (layer F.SilkS)

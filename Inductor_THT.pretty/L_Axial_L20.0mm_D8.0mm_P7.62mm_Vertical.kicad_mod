@@ -1,4 +1,4 @@
-(module L_Axial_L20.0mm_D8.0mm_P7.62mm_Vertical (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L20.0mm_D8.0mm_P7.62mm_Vertical (layer F.Cu) (tedit 5AE59B05)
   (descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=20*8mm^2")
   (tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 20mm diameter 8mm")
   (fp_text reference REF** (at 3.81 -5.12) (layer F.SilkS)

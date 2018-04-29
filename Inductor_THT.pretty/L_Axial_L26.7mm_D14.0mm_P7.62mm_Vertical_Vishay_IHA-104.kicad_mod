@@ -1,4 +1,4 @@
-(module L_Axial_L26.7mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-104 (layer F.Cu) (tedit 5AE596C9)
+(module L_Axial_L26.7mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-104 (layer F.Cu) (tedit 5AE59B05)
   (descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=26.67*13.97mm^2, Vishay, IHA-104, http://www.vishay.com/docs/34014/iha.pdf")
   (tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 26.67mm diameter 13.97mm Vishay IHA-104")
   (fp_text reference REF** (at 3.81 -8.105) (layer F.SilkS)
