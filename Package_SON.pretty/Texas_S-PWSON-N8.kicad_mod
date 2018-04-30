@@ -1,4 +1,4 @@
-(module Package_SON:Texas_S-PWSON-N8 (layer F.Cu) (tedit 5AE70CDF)
+(module Texas_S-PWSON-N8 (layer F.Cu) (tedit 5AE70CDF)
   (descr "8-Lead Plastic WSON, 3x3mm Body, 0.5mm Pitch, S-PWSON-N8, http://www.ti.com/lit/ds/symlink/lp2951.pdf")
   (tags "DFN 0.5 S-PWSON-N8")
   (attr smd)
