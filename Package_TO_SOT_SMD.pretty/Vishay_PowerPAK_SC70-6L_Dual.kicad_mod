@@ -1,4 +1,4 @@
-(module Vishay_PowerPAK_SC70-6L_Dual (layer F.Cu) (tedit 5AE2758F)
+(module Vishay_PowerPAK_SC70-6L_Dual (layer F.Cu) (tedit 5AE65EA7)
   (descr http://www.vishay.com/docs/70487/70487.pdf)
   (tags "powerpak sc70 sc-70 dual")
   (attr smd)
@@ -34,7 +34,7 @@
   (pad 6 smd rect (at 0.925 -0.65) (size 0.35 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 0.4655) (size 0.95 0.613) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0 -0.4655) (size 0.95 0.613) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/Vishay_PowerPAK_SC70-6L.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/Vishay_PowerPAK_SC70-6L_Dual.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
