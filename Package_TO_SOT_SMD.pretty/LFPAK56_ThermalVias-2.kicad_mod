@@ -1,4 +1,4 @@
-(module LFPAK56_ThermalVias-2 (layer F.Cu) (tedit 5AE05C76)
+(module LFPAK56_ThermalVias-2 (layer F.Cu) (tedit 5AE8981C)
   (descr "LFPAK LFPAK https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf")
   (tags "LFPAK56 SOT669 Thermical Vias Power-SO8")
   (solder_mask_margin 0.07)
@@ -76,7 +76,7 @@
   (pad "" smd rect (at 0.195 0) (size 0.6 0.9) (layers F.Paste))
   (pad 5 smd rect (at 2.245 0 270) (size 9 6.5) (layers F.Cu))
   (pad 5 thru_hole rect (at 4.745 0 270) (size 1.5 1.5) (drill 1) (layers *.Cu))
-  (model "${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/LFPAK56 _LFPAK.wrl"
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/LFPAK56.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
