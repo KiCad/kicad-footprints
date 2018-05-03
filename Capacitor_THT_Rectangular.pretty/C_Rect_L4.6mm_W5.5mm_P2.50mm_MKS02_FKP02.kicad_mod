@@ -24,7 +24,7 @@
   (fp_text user %R (at 1.25 0) (layer F.Fab)
     (effects (font (size 0.92 0.92) (thickness 0.138)))
   )
-  (model ${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Rect_L4.6mm_W5.5mm_P2.50mm_MKS02_FKP02.wrl
+  (model ${KISYS3DMOD}/Capacitor_THT_Rectangular.3dshapes/C_Rect_L4.6mm_W5.5mm_P2.50mm_MKS02_FKP02.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
