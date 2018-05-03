@@ -1,19 +1,19 @@
-# Connector_Phoenix_MC.pretty
-This library contains footprints for [Phoenix Contact](www.phoenixcontact.com) Mini Combicon connectors.
+# Connector_Phoenix_MC_HighVoltage.pretty
+This library contains footprints for [Phoenix Contact](www.phoenixcontact.com) high voltage (320V) Mini Combicon connectors.
 
 ---
 
 Footprints for the following connectors are script generated:
 
 - MC-G
-  - 3.50mm, 3.81mm Pin Pitch
+  - 5.08mm Pin Pitch
 - MC-GF
-  - 3.50mm, 3.81mm Pin Pitch
+  - 5.08mm Pin Pitch
   - with and without holes for mounting screw
 - MCV-G
-  - 3.50mm, 3.81mm Pin Pitch
+  - 5.08mm Pin Pitch
 - MCV-GF
-  - 3.50mm, 3.81mm Pin Pitch
+  - 5.08mm Pin Pitch
   - with and without holes for mounting screw
 
 author: Poeschl Rene
