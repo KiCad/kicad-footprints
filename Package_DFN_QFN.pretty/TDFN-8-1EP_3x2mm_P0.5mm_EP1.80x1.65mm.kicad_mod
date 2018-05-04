@@ -31,9 +31,9 @@
   (pad 6 smd oval (at 1.45 0.25) (size 0.85 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd oval (at 1.45 0.75) (size 0.85 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 0.00 0.00) (size 1.80 1.65) (layers F.Cu F.Mask))
-  (pad "" smd rect (at 0.00 0.00) (size 1.80 0.70) (layers F.Paste))
-  (pad "" smd rect (at 0.00 -0.50) (size 0.70 0.65) (layers F.Paste))
-  (pad "" smd rect (at 0.00 0.50) (size 0.70 0.65) (layers F.Paste))
+  (pad "" smd rect (at 0.00 0.00) (size 1.80 0.70) (layers F.Paste)(solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.000001))
+  (pad "" smd rect (at 0.00 -0.50) (size 0.70 0.65) (layers F.Paste)(solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.000001))
+  (pad "" smd rect (at 0.00 0.50) (size 0.70 0.65) (layers F.Paste)(solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.000001))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/TDFN-8-1EP_3x2mm_P0.5mm_EP1.80x1.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

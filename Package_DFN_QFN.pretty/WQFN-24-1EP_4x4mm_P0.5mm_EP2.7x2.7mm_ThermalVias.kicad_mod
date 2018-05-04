@@ -205,10 +205,10 @@
       (gr_poly (pts
          (xy -0.14 0) (xy 0.14 0) (xy 0.14 0.71) (xy -0.14 0.71)) (width 0))
     ))
-  (pad "" smd rect (at -0.7 -0.7) (size 1.1 1.1) (layers F.Paste))
-  (pad "" smd rect (at 0.7 -0.7) (size 1.1 1.1) (layers F.Paste))
-  (pad "" smd rect (at 0.7 0.7) (size 1.1 1.1) (layers F.Paste))
-  (pad "" smd rect (at -0.7 0.7) (size 1.1 1.1) (layers F.Paste))
+  (pad "" smd rect (at -0.7 -0.7) (size 1.1 1.1) (layers F.Paste)(solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.000001))
+  (pad "" smd rect (at 0.7 -0.7) (size 1.1 1.1) (layers F.Paste)(solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.000001))
+  (pad "" smd rect (at 0.7 0.7) (size 1.1 1.1) (layers F.Paste)(solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.000001))
+  (pad "" smd rect (at -0.7 0.7) (size 1.1 1.1) (layers F.Paste)(solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.000001))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
