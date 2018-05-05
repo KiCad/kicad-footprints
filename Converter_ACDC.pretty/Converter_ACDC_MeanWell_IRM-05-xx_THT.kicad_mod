@@ -1,4 +1,4 @@
-(module Converter_ACDC_MeanWell_IRM-05-xx_THT (layer F.Cu) (tedit 5AECC38C)
+(module Converter_ACDC_MeanWell_IRM-05-xx_THT (layer F.Cu) (tedit 5AEDBEAA)
   (descr http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-05)
   (tags "ACDC-Converter 5W   Meanwell IRM-05")
   (fp_text reference REF** (at 22.42 -11.88) (layer F.SilkS)
@@ -30,4 +30,9 @@
   (pad 2 thru_hole circle (at 0 10.75) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 38.5 2.75) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-05-XX_THT.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
