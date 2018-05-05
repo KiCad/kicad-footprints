@@ -23,7 +23,6 @@
   (fp_line (start -0.66 -0.63) (end 0.5 -0.63) (layer F.SilkS) (width 0.12))
   (fp_line (start -0.5 0.63) (end 0.5 0.63) (layer F.SilkS) (width 0.12))
   (pad "" smd custom (at -0.43 -0.325) (size 0.148492 0.148492) (layers F.Mask)
-    (solder_mask_margin 0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -31,7 +30,6 @@
          (xy -0.18 0.105) (xy -0.18 -0.105)) (width 0))
     ))
   (pad "" smd custom (at 0.43 -0.325) (size 0.148492 0.148492) (layers F.Mask)
-    (solder_mask_margin 0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -39,7 +37,6 @@
          (xy 0.18 0.105) (xy 0.18 -0.105)) (width 0))
     ))
   (pad "" smd custom (at 0.43 0.325) (size 0.148492 0.148492) (layers F.Mask)
-    (solder_mask_margin 0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -47,7 +44,6 @@
          (xy 0.18 -0.105) (xy 0.18 0.105)) (width 0))
     ))
   (pad "" smd custom (at -0.43 0.325) (size 0.148492 0.148492) (layers F.Mask)
-    (solder_mask_margin 0.000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -87,7 +83,6 @@
 ) (width 0))
     ))
   (pad "" smd custom (at -0.43 -0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -95,7 +90,6 @@
 ) (width 0))
     ))
   (pad "" smd custom (at 0.43 -0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -103,7 +97,6 @@
 ) (width 0))
     ))
   (pad "" smd custom (at 0.43 0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -111,7 +104,6 @@
 ) (width 0))
     ))
   (pad "" smd custom (at -0.43 0.325) (size 0.148492 0.148492) (layers F.Paste)
-    (solder_paste_margin -0.000001) (solder_paste_margin_ratio -0.00000001) (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
