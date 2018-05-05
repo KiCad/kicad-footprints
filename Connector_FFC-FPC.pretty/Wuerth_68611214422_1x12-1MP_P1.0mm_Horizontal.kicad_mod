@@ -1,4 +1,4 @@
-(module Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal (layer F.Cu) (tedit 5AEE0CEB)
+(module Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal (layer F.Cu) (tedit 5AEE0D71)
   (descr http://katalog.we-online.de/em/datasheet/68611214422.pdf)
   (tags "Wuerth FPC 68611214422 connector 12 bottom-side contacts 1.0mm pitch 1.0mm height SMT")
   (attr smd)
@@ -78,7 +78,7 @@
   (pad 12 smd rect (at 5.5 -1.35) (size 0.6 2.2) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at -8.1 1.15) (size 1.8 2.6) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at 8.1 1.15) (size 1.8 2.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/WurthElektronik_68611214422_1x12-1MP_P1.0mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
