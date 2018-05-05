@@ -1,4 +1,4 @@
-(module Littelfuse_PolyZen-LS (layer F.Cu) (tedit 5AED56AC)
+(module Littelfuse_PolyZen-LS (layer F.Cu) (tedit 5AEDB152)
   (descr http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf)
   (tags "Diode Polymer Protected Zener Diode Littelfuse LS")
   (attr smd)
@@ -27,4 +27,9 @@
   (pad 1 smd rect (at -1.72 0) (size 0.56 2.21) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.72 0.635) (size 0.56 0.94) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.72 -0.635) (size 0.56 0.94) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Diode_SMD.3dshapes/Littelfuse_PolyZen-LS.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
