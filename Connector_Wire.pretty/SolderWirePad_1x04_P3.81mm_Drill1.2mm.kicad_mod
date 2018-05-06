@@ -1,4 +1,4 @@
-(module SolderWirePad_1x04_P3.175mm_Drill1.2mm (layer F.Cu) (tedit 5AEE5FD1)
+(module SolderWirePad_1x04_P3.81mm_Drill1.2mm (layer F.Cu) (tedit 5AEE5FD1)
   (descr "Wire solder connection")
   (tags connector)
   (attr virtual)
