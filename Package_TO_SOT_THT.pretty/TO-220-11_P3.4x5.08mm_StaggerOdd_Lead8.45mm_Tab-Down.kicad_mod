@@ -1,4 +1,4 @@
-(module TO-220-11_P3.4x5.08mm_StaggerOdd_Lead8.45mm_Tab-Down (layer F.Cu) (tedit 5AF053FE)
+(module TO-220-11_P3.4x5.08mm_StaggerOdd_Lead8.45mm_Tab-Down (layer F.Cu) (tedit 5AF0565A)
   (descr "TO-220-11, Horizontal, RM 1.7mm, staggered type-1, see http://www.ti.com/lit/ds/symlink/lmd18200.pdf")
   (tags "TO-220-11 Horizontal RM 1.7mm staggered type-1")
   (fp_text reference REF** (at 8.5 -27) (layer F.SilkS)
@@ -63,7 +63,7 @@
   (pad 9 thru_hole oval (at 13.6 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 15.3 -5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 11 thru_hole oval (at 17 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TO-220-11_20.2x17.50mm_P3.4x5.08mm_StaggerOdd_Lead8.45mm_Tab-Down
+  (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-11_P3.4x5.08mm_StaggerOdd_Lead8.45mm_Tab-Down.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
