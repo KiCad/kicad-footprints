@@ -1,10 +1,10 @@
-(module TO-220-11_Horizontal_TabDown_StaggeredType1_Py5.08mm (layer F.Cu) (tedit 5AF00F56)
+(module TO-220-11_Horizontal_TabDown_StaggeredType1_Py5.08mm (layer F.Cu) (tedit 5AF01F1B)
   (descr "TO-220-11, Horizontal, RM 1.7mm, staggered type-1, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf")
   (tags "TO-220-11 Horizontal RM 1.7mm staggered type-1")
-  (fp_text reference U4 (at 8.5 -27) (layer F.SilkS)
+  (fp_text reference REF** (at 8.5 -27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LMD18200 (at 8.5 1.9) (layer F.Fab)
+  (fp_text value TO-220-11_Horizontal_TabDown_StaggeredType1_Py5.08mm (at 8.5 1.9) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 8.5 -23.08) (end 10.35 -23.08) (layer F.Fab) (width 0.1))
@@ -63,7 +63,7 @@
   (pad 9 thru_hole oval (at 13.6 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 15.3 -5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 11 thru_hole oval (at 17 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-11_Horizontal_TabDown_StaggeredType1_Py2.54mm.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-11_Horizontal_TabDown_StaggeredType1_Py5.08mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
