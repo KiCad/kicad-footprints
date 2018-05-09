@@ -52,7 +52,7 @@
   (pad 9 thru_hole circle (at -0.6 0.4) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 9 thru_hole circle (at 0.6 0.4) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 9 thru_hole circle (at 0.6 1.2) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_P1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
