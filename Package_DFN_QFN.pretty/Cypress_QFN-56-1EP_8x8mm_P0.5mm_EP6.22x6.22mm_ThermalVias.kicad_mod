@@ -1,7 +1,6 @@
-(module Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias (layer F.Cu) (tedit 5AF92727)
+(module Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias (layer F.Cu) (tedit 5AF929E8)
   (descr "56-Lead Plastic Quad Flat, No Lead Package (ML) - 8x8x0.9 mm Body [QFN]")
   (tags "QFN 0.5")
-  (solder_paste_margin -0.05)
   (attr smd)
   (fp_text reference REF** (at 0 -5.395) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
