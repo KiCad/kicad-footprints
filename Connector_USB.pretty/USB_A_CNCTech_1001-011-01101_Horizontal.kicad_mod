@@ -1,11 +1,11 @@
-(module USB_A_CNCTech_1001-011-01101_Horizontal (layer F.Cu) (tedit 5AFDF2BC)
+(module USB_A_CNCTech_1001-011-01101_Horizontal (layer F.Cu) (tedit 5AFEF547)
   (descr http://cnctech.us/pdfs/1001-011-01101.pdf)
   (tags USB-A)
   (attr smd)
-  (fp_text reference REF** (at -12.25 0 90) (layer F.SilkS)
+  (fp_text reference REF** (at -6.9 -8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value USB_A_CNCTech_1001-011-01101_Horizontal (at 0 8.5 180) (layer F.Fab)
+  (fp_text value USB_A_CNCTech_1001-011-01101_Horizontal (at 0 8 180) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -7.9 6.025) (end -7.9 -6.025) (layer F.Fab) (width 0.1))
@@ -56,7 +56,7 @@
   (pad 5 thru_hole oval (at -6.9 5.7) (size 3.5 1.9) (drill oval 2.5 0.9) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -6.9 -2.3) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -6.9 2.3) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_A_CNCTech_1001-011-01101.wrl
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_A_CNCTech_1001-011-01101_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
