@@ -1,11 +1,11 @@
-(module E73-2G4M04S-52832 (layer F.Cu) (tedit 5AEF171E)
+(module E73-2G4M04S (layer F.Cu) (tedit 5AFF5B3A)
   (descr http://www.cdebyte.com/en/downpdf.aspx?id=243)
   (tags "BLE BLE5 nRF52832")
   (attr smd)
   (fp_text reference REF** (at 0 16.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value E73-2G4M04S-52832 (at 0 -15.35) (layer F.Fab)
+  (fp_text value E73-2G4M04S (at 0 -15.35) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8.75 14.35) (end 8.75 14.35) (layer F.Fab) (width 0.1))
@@ -111,7 +111,7 @@
   (pad 41 smd rect (at 8.75 -3.91) (size 1.8 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 42 smd rect (at 8.75 -6.45) (size 1.8 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 43 smd rect (at 8.75 -7.72) (size 1.8 0.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/E73-2G4M04S-52832.wrl
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/E73-2G4M04S.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
