@@ -1,4 +1,4 @@
-(module DFN-6-1EP_3x3mm_P1mm_EP1.65x2.55mm (layer F.Cu) (tedit 5B032010)
+(module DFN-6-1EP_3x3mm_P1mm_EP1.65x2.55mm (layer F.Cu) (tedit 5B03DDA3)
   (descr "DFN, 6 Pin (https://www.silabs.com/documents/public/data-sheets/Si7020-A20.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "DFN DFN_QFN")
   (attr smd)

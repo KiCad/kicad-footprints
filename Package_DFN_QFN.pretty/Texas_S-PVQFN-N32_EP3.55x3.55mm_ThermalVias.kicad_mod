@@ -1,4 +1,4 @@
-(module Texas_S-PVQFN-N32_EP3.55x3.55mm_ThermalVias (layer F.Cu) (tedit 5B032010)
+(module Texas_S-PVQFN-N32_EP3.55x3.55mm_ThermalVias (layer F.Cu) (tedit 5B03DDA3)
   (descr "QFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
@@ -14,6 +14,7 @@
   (fp_line (start -2.61 2.61) (end -2.61 2.135) (layer F.SilkS) (width 0.12))
   (fp_line (start 2.135 2.61) (end 2.61 2.61) (layer F.SilkS) (width 0.12))
   (fp_line (start 2.61 2.61) (end 2.61 2.135) (layer F.SilkS) (width 0.12))
+  (fp_line (start -2.135 -2.61) (end -2.61 -2.61) (layer F.SilkS) (width 0.12))
   (fp_line (start -1.5 -2.5) (end 2.5 -2.5) (layer F.Fab) (width 0.1))
   (fp_line (start 2.5 -2.5) (end 2.5 2.5) (layer F.Fab) (width 0.1))
   (fp_line (start 2.5 2.5) (end -2.5 2.5) (layer F.Fab) (width 0.1))

@@ -1,4 +1,4 @@
-(module VQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5B032010)
+(module VQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5B03DDA3)
   (descr "VQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/msp430f1101a.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "VQFN DFN_QFN")
   (attr smd)
@@ -14,6 +14,7 @@
   (fp_line (start -2.11 2.11) (end -2.11 1.635) (layer F.SilkS) (width 0.12))
   (fp_line (start 1.635 2.11) (end 2.11 2.11) (layer F.SilkS) (width 0.12))
   (fp_line (start 2.11 2.11) (end 2.11 1.635) (layer F.SilkS) (width 0.12))
+  (fp_line (start -1.635 -2.11) (end -2.11 -2.11) (layer F.SilkS) (width 0.12))
   (fp_line (start -1 -2) (end 2 -2) (layer F.Fab) (width 0.1))
   (fp_line (start 2 -2) (end 2 2) (layer F.Fab) (width 0.1))
   (fp_line (start 2 2) (end -2 2) (layer F.Fab) (width 0.1))
