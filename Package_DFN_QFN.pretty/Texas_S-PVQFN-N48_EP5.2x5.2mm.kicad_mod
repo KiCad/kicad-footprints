@@ -1,4 +1,4 @@
-(module Texas_S-PVQFN-N48_EP5.2x5.2mm (layer F.Cu) (tedit 5B032011)
+(module Texas_S-PVQFN-N48_EP5.2x5.2mm (layer F.Cu) (tedit 5B03DDA3)
   (descr "QFN, 48 Pin (http://www.ti.com/lit/ds/symlink/msp430f5232.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
@@ -14,6 +14,7 @@
   (fp_line (start -3.61 3.61) (end -3.61 3.135) (layer F.SilkS) (width 0.12))
   (fp_line (start 3.135 3.61) (end 3.61 3.61) (layer F.SilkS) (width 0.12))
   (fp_line (start 3.61 3.61) (end 3.61 3.135) (layer F.SilkS) (width 0.12))
+  (fp_line (start -3.135 -3.61) (end -3.61 -3.61) (layer F.SilkS) (width 0.12))
   (fp_line (start -2.5 -3.5) (end 3.5 -3.5) (layer F.Fab) (width 0.1))
   (fp_line (start 3.5 -3.5) (end 3.5 3.5) (layer F.Fab) (width 0.1))
   (fp_line (start 3.5 3.5) (end -3.5 3.5) (layer F.Fab) (width 0.1))

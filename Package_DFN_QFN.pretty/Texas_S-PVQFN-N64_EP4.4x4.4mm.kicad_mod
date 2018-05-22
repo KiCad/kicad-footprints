@@ -1,4 +1,4 @@
-(module Texas_S-PVQFN-N64_EP4.4x4.4mm (layer F.Cu) (tedit 5B032011)
+(module Texas_S-PVQFN-N64_EP4.4x4.4mm (layer F.Cu) (tedit 5B03DDA3)
   (descr "QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
@@ -14,6 +14,7 @@
   (fp_line (start -4.61 4.61) (end -4.61 4.135) (layer F.SilkS) (width 0.12))
   (fp_line (start 4.135 4.61) (end 4.61 4.61) (layer F.SilkS) (width 0.12))
   (fp_line (start 4.61 4.61) (end 4.61 4.135) (layer F.SilkS) (width 0.12))
+  (fp_line (start -4.135 -4.61) (end -4.61 -4.61) (layer F.SilkS) (width 0.12))
   (fp_line (start -3.5 -4.5) (end 4.5 -4.5) (layer F.Fab) (width 0.1))
   (fp_line (start 4.5 -4.5) (end 4.5 4.5) (layer F.Fab) (width 0.1))
   (fp_line (start 4.5 4.5) (end -4.5 4.5) (layer F.Fab) (width 0.1))
