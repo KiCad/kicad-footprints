@@ -1,6 +1,6 @@
-(module Harwin_M20-89012xx_1x12_P2.54mm_Horizontal (layer F.Cu) (tedit 5AD5F277)
+(module Harwin_M20-89012xx_1x12_P2.54mm_Horizontal (layer F.Cu) (tedit 5B0443EA)
   (descr "Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89012xx, 12 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator")
-  (tags "connector Harwin M20-890 side entry")
+  (tags "connector Harwin M20-890 horizontal")
   (attr smd)
   (fp_text reference REF** (at 4.75 -13.96) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
