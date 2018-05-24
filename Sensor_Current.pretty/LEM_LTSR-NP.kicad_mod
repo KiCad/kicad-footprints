@@ -1,4 +1,4 @@
-(module LEM_LTSR-NP (layer F.Cu) (tedit 5B06B051)
+(module LEM_LTSR-NP (layer F.Cu) (tedit 5B06B1FD)
   (descr "LEM current transducer LEM_LTSR-NP 5V supply voltage series (Footprint for LEM_LTSR6-NP, LEM_LTSR15-NP and LEM_LTSR25-NP) https://www.lem.com/sites/default/files/products_datasheets/ltsr_6-np.pdf")
   (tags "Current transducer")
   (fp_text reference REF** (at 0 -13 180) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (pad 9 thru_hole oval (at 0.9525 -10.16 270) (size 0.9 1.1) (drill oval 0.55 0.7) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 2.8575 -10.16 270) (size 0.9 1.1) (drill oval 0.55 0.7) (layers *.Cu *.Mask))
   (pad 7 thru_hole oval (at -2.8575 -10.16 270) (size 0.9 1.1) (drill oval 0.55 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_HO-NP.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_LTSR-NP.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
