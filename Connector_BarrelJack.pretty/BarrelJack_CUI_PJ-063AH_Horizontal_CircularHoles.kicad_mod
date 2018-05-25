@@ -1,5 +1,5 @@
-(module BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles (layer F.Cu) (tedit 5B044142)
-  (descr "Barrel Jack, 2.0mm ID, 6.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf")
+(module BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles (layer F.Cu) (tedit 5B0886B5)
+  (descr "Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf")
   (tags "barrel jack cui dc power")
   (fp_text reference REF** (at 0 -3.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
