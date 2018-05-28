@@ -1,6 +1,6 @@
-(module TE_x-776087-x (layer F.Cu) (tedit 5B09C0CB)
+(module TE_x-776087-x (layer F.Cu) (tedit 5B0C2351)
   (descr www.te.com/usa-en/product-1-776087-1.html)
-  (tags "TE, 23 POS, AMPSEAL, HEADER")
+  (tags "TE  23 POS  AMPSEAL  HEADER")
   (fp_text reference REF** (at 25.12 -4.61) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
