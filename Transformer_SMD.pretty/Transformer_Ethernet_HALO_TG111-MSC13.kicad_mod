@@ -1,4 +1,6 @@
-(module Transformer_Ethernet_HALO_TG111-MSC13 (layer F.Cu) (tedit 5B0D907A)
+(module Transformer_Ethernet_HALO_TG111-MSC13 (layer F.Cu) (tedit 5B0D911D)
+  (descr "Transformer Ethernet SMD, https://www.haloelectronics.com/pdf/discrete-genesus.pdf")
+  (tags "Transformer Ethernet SMD")
   (attr smd)
   (fp_text reference REF** (at 0 -8.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
