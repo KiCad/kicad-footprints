@@ -4,7 +4,7 @@
   (fp_text reference REF** (at 5.42 -5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LEM_HX10-P-SP2 (at 5.42 4.81) (layer F.Fab)
+  (fp_text value LEM_HX15-P-SP2 (at 5.42 4.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.11 11.62) (end 16.11 11.62) (layer F.SilkS) (width 0.12))
