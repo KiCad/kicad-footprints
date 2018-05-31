@@ -1,4 +1,4 @@
-(module RJ45_Generic_Horizontal_Shielded (layer F.Cu) (tedit 5B0FBD87)
+(module RJ45_Generic_Horizontal_Shielded (layer F.Cu) (tedit 5B0FC196)
   (descr "Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf")
   (tags "RJ45 8p8c ethernet cat5")
   (fp_text reference REF** (at 4.445 -5.4) (layer F.SilkS)
@@ -37,7 +37,7 @@
   (pad 6 thru_hole circle (at 6.35 -2.54) (size 1.5 1.5) (drill 0.89) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 8.89 -2.54) (size 1.5 1.5) (drill 0.89) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -1.27 6.35) (size 3.5 3.5) (drill 3.5) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 9.91 6.35) (size 3.5 3.5) (drill 3.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 10.16 6.35) (size 3.5 3.5) (drill 3.5) (layers *.Cu *.Mask))
   (pad SH thru_hole circle (at 12.195 9.4) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
   (pad SH thru_hole circle (at -3.305 9.4) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE5380.wrl
