@@ -1,5 +1,5 @@
 (module LFPAK56 (layer F.Cu) (tedit 5AE897F6)
-  (descr "LFPAK https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf")
+  (descr "LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf")
   (tags "LFPAK56 SOT-669 Power-SO8")
   (solder_mask_margin 0.07)
   (solder_paste_margin -0.05)
