@@ -1,5 +1,5 @@
 (module LFPAK56_ThermalVias-1 (layer F.Cu) (tedit 5AE8980F)
-  (descr "LFPAK LFPAK https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf")
+  (descr "LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf")
   (tags "LFPAK56 SOT669 Thermal Vias 0.4mm Power-SO8")
   (solder_mask_margin 0.07)
   (solder_paste_margin -0.05)
