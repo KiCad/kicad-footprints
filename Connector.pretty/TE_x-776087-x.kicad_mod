@@ -1,4 +1,4 @@
-(module TE_x-776087-x (layer F.Cu) (tedit 5B0C2351)
+(module TE_x-776087-x (layer F.Cu) (tedit 5B134779)
   (descr www.te.com/usa-en/product-1-776087-1.html)
   (tags "TE  23 POS  AMPSEAL  HEADER")
   (fp_text reference REF** (at 25.12 -4.61) (layer F.SilkS)
@@ -111,9 +111,9 @@
   (pad 23 thru_hole circle (at 28 8) (size 2.35 2.35) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -6.5 4.5) (size 2.85 2.85) (drill 2.85) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 34.5 4.5) (size 2.85 2.85) (drill 2.85) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector.3dshapes/TE_1-776087-1.step
-    (offset (xyz 14 -35.8 11.72))
+  (model ${KISYS3DMOD}/Connector.3dshapes/TE_x-776087-x.wrl
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 90 180 180))
+    (rotate (xyz 0 0 0))
   )
 )
