@@ -45,7 +45,7 @@
   (pad 2 thru_hole circle (at 2.54 -2.54) (size 2.2 2.2) (drill 1.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.54 -2.54) (size 2.2 2.2) (drill 1.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.54 2.54) (size 2.2 2.2) (drill 1.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Jack_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Amphenol_901-144_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

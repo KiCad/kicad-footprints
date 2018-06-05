@@ -57,7 +57,7 @@
          (xy 0.86 -0.95) (xy 0.675 -0.875) (xy 0.48 -0.82) (xy 0.28 -0.78) (xy 0.085 -0.765)
          (xy 0 -0.765) (xy 0 0.755) (xy 3.555 0.755) (xy 3.555 -1.595)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Jack_SMD_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-10_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
