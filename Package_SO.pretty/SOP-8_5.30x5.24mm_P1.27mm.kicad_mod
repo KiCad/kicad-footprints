@@ -1,6 +1,7 @@
-(module SOP-8_5.30x5.24mm_P1.27mm (layer F.Cu) (tedit 5B16F7AA)
+(module SOP-8_5.30x5.24mm_P1.27mm (layer F.Cu) (tedit 5B1791BE)
   (descr http://www.fujitsu.com/ca/en/Images/MB85RS2MT-DS501-00023-1v0-E.pdf)
   (tags "SOP 8 P1.27")
+  (attr smd)
   (fp_text reference REF** (at -2.9 -3.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
