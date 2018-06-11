@@ -1,5 +1,5 @@
-(module TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal (layer F.Cu) (tedit 5B084BCE)
-  (descr "Terminal Block TE 282834-4, 4 pins, pitch 2.54mm, size 10.620000000000001x6.5mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE")
+(module TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal (layer F.Cu) (tedit 5B1EBE55)
+  (descr "Terminal Block TE 282834-4, 4 pins, pitch 2.54mm, size 10.620000000000001x6.5mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity")
   (tags "THT Terminal Block TE 282834-4 pitch 2.54mm size 10.620000000000001x6.5mm^2 drill 1.1mm pad 2.2mm")
   (fp_text reference REF** (at 3.81 -4.31) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -45,7 +45,7 @@
   (fp_text user %R (at 3.81 2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/TerminalBlock_TE.3dshapes/TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/TerminalBlock_TE-Connectivity.3dshapes/TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
