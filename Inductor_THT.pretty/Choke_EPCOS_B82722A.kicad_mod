@@ -1,10 +1,10 @@
-(module Choke_EPCOS_B82722A-22.7x22.3x13.3mm (layer F.Cu) (tedit 5B179ABE)
+(module Choke_EPCOS_B82722A (layer F.Cu) (tedit 5B1FCD19)
   (descr "Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf")
   (tags "chokes epcos tht")
   (fp_text reference REF** (at 7.62 11.491 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Choke_EPCOS_B82722A-22.7x22.3x13.3mm (at 6.35 23.81) (layer F.Fab)
+  (fp_text value Choke_EPCOS_B82722A (at 6.35 23.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 17.9 12.4) (end 14.2 21.8) (layer F.CrtYd) (width 0.05))
@@ -42,7 +42,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 12.5 20) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 12.5 0) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/Choke_EPCOS_B82722A-22.7x22.3x13.3mm.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/Choke_EPCOS_B82722A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
