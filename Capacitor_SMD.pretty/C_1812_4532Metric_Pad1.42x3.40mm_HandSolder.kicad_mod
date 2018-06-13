@@ -1,4 +1,4 @@
-(module C_1812_4532Metric_Pad1.42x3.40mm_HandSolder (layer F.Cu) (tedit 5B2072D7)
+(module C_1812_4532Metric_Pad1.42x3.40mm_HandSolder (layer F.Cu) (tedit 5B207586)
   (descr "Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator")
   (tags "capacitor handsolder")
   (attr smd)

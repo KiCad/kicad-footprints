@@ -1,4 +1,4 @@
-(module LED_1806_4516Metric_Castellated (layer F.Cu) (tedit 5B2072D8)
+(module LED_1806_4516Metric_Castellated (layer F.Cu) (tedit 5B207587)
   (descr "LED SMD 1806 (4516 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator")
   (tags "LED castellated")
   (attr smd)

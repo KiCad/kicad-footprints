@@ -1,4 +1,4 @@
-(module Fuse_1806_4516Metric_Pad1.72x1.80mm_HandSolder (layer F.Cu) (tedit 5B2072D8)
+(module Fuse_1806_4516Metric_Pad1.72x1.80mm_HandSolder (layer F.Cu) (tedit 5B207587)
   (descr "Fuse SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator")
   (tags "resistor handsolder")
   (attr smd)

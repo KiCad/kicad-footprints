@@ -1,4 +1,4 @@
-(module L_2816_7142Metric (layer F.Cu) (tedit 5B2072D7)
+(module L_2816_7142Metric (layer F.Cu) (tedit 5B207586)
   (descr "Inductor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator")
   (tags inductor)
   (attr smd)
