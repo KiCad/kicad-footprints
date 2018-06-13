@@ -1,4 +1,4 @@
-(module C_2816_7142Metric (layer F.Cu) (tedit 5B207586)
+(module C_2816_7142Metric (layer F.Cu) (tedit 5B20DC38)
   (descr "Capacitor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator")
   (tags capacitor)
   (attr smd)

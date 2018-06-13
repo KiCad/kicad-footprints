@@ -1,4 +1,4 @@
-(module Fuse_1812_4532Metric (layer F.Cu) (tedit 5B207587)
+(module Fuse_1812_4532Metric (layer F.Cu) (tedit 5B20DC39)
   (descr "Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator")
   (tags resistor)
   (attr smd)

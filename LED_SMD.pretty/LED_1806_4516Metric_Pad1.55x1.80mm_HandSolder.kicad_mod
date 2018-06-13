@@ -1,4 +1,4 @@
-(module LED_1806_4516Metric_Pad1.55x1.80mm_HandSolder (layer F.Cu) (tedit 5B207587)
+(module LED_1806_4516Metric_Pad1.55x1.80mm_HandSolder (layer F.Cu) (tedit 5B20DC39)
   (descr "LED SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator")
   (tags "LED handsolder")
   (attr smd)
