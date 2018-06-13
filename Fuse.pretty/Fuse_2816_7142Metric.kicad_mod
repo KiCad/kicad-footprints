@@ -1,4 +1,4 @@
-(module Fuse_2816_7142Metric (layer F.Cu) (tedit 5B2072D8)
+(module Fuse_2816_7142Metric (layer F.Cu) (tedit 5B207587)
   (descr "Fuse SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator")
   (tags resistor)
   (attr smd)
