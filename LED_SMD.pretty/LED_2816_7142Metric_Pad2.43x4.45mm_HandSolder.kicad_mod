@@ -1,4 +1,4 @@
-(module LED_2816_7142Metric_Pad2.43x4.45mm_HandSolder (layer F.Cu) (tedit 5B1EF495)
+(module LED_2816_7142Metric_Pad2.43x4.45mm_HandSolder (layer F.Cu) (tedit 5B2072D8)
   (descr "LED SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator")
   (tags "LED handsolder")
   (attr smd)
