@@ -1,4 +1,5 @@
-(module HSOIC-8-1EP_4.26x7.9mm_P1.27mm_EP2.4x3.1mm (layer F.Cu) (tedit 5B25266A)
+(module HSOIC-8-1EP_4.26x7.9mm_P1.27mm_EP2.4x3.1mm (layer F.Cu) (tedit 5B252A72)
+  (descr http://www.ti.com/lit/ds/symlink/lmr14030.pdf)
   (tags HSOIC-8)
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
