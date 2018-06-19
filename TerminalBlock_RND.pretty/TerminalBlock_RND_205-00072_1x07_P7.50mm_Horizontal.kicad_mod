@@ -1,4 +1,4 @@
-(module TerminalBlock_RND_205-00072_1x07_P7.50mm_Horizontal (layer F.Cu) (tedit 5B28F55F)
+(module TerminalBlock_RND_205-00072_1x07_P7.50mm_Horizontal (layer F.Cu) (tedit 5B294F1A)
   (descr "terminal block RND 205-00072, 7 pins, pitch 7.5mm, size 52.5x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND")
   (tags "THT terminal block RND 205-00072 pitch 7.5mm size 52.5x10.3mm^2 drill 1.3mm pad 2.5mm")
   (fp_text reference REF** (at 22.5 -6.36) (layer F.SilkS)

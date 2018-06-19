@@ -1,4 +1,4 @@
-(module TerminalBlock_4Ucon_1x11_P3.50mm_Horizontal (layer F.Cu) (tedit 5B28F091)
+(module TerminalBlock_4Ucon_1x11_P3.50mm_Horizontal (layer F.Cu) (tedit 5B294E9A)
   (descr "Terminal Block 4Ucon ItemNo. 10688, 11 pins, pitch 3.5mm, size 39.2x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10688.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon")
   (tags "THT Terminal Block 4Ucon ItemNo. 10688 pitch 3.5mm size 39.2x7mm^2 drill 1.2mm pad 2.4mm")
   (fp_text reference REF** (at 17.5 -4.46) (layer F.SilkS)
