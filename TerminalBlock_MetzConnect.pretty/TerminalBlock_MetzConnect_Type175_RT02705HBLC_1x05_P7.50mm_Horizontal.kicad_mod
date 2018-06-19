@@ -1,4 +1,4 @@
-(module TerminalBlock_MetzConnect_Type175_RT02705HBLC_1x05_P7.50mm_Horizontal (layer F.Cu) (tedit 5B28F43F)
+(module TerminalBlock_MetzConnect_Type175_RT02705HBLC_1x05_P7.50mm_Horizontal (layer F.Cu) (tedit 5B294EA6)
   (descr "terminal block Metz Connect Type175_RT02705HBLC, 5 pins, pitch 7.5mm, size 37.5x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
   (tags "THT terminal block Metz Connect Type175_RT02705HBLC pitch 7.5mm size 37.5x11mm^2 drill 1.4mm pad 2.6mm")
   (fp_text reference REF** (at 15 -6.56) (layer F.SilkS)
