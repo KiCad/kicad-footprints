@@ -1,4 +1,4 @@
-(module TerminalBlock_MetzConnect_Type205_RT04503UBLC_1x03_P5.00mm_45Degree (layer F.Cu) (tedit 5A08146E)
+(module TerminalBlock_MetzConnect_Type205_RT04503UBLC_1x03_P5.00mm_45Degree (layer F.Cu) (tedit 5B28F42F)
   (descr "terminal block Metz Connect Type205_RT04503UBLC, 45Degree (cable under 45degree), 3 pins, pitch 05mm, size 15.0x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
   (tags "THT terminal block Metz Connect Type205_RT04503UBLC 45Degree pitch 05mm size 15.0x12.5mm^2 drill 1.4mm pad 2.7mm")
   (fp_text reference REF** (at 5 -7.06) (layer F.SilkS)
