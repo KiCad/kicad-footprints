@@ -103,6 +103,7 @@
   (lib (name TerminalBlock_Philmore)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Philmore.pretty)(options "")(descr "Philmore terminal blocks"))
   (lib (name TerminalBlock_Phoenix)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Phoenix.pretty)(options "")(descr "Phoenix Contact terminal blocks"))
   (lib (name TerminalBlock_RND)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_RND.pretty)(options "")(descr "RND terminal blocks"))
+  (lib (name TerminalBlock_TE-Connectivity)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_TE-Connectivity.pretty)(options "")(descr "TE Connectivity terminal blocks"))
   (lib (name TerminalBlock_WAGO)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_WAGO.pretty)(options "")(descr "WAGO terminal blocks"))
   (lib (name TestPoint)(type KiCad)(uri ${KISYSMOD}/TestPoint.pretty)(options "")(descr "Test points, measurement points, probe connection points"))
   (lib (name Transformer_SMD)(type KiCad)(uri ${KISYSMOD}/Transformer_SMD.pretty)(options "")(descr "Surface mount transformers"))
