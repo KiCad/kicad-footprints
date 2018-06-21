@@ -1,6 +1,7 @@
-(module ublox_SAM-M8Q (layer F.Cu) (tedit 5B1D27DF)
+(module ublox_SAM-M8Q (layer F.Cu) (tedit 5B2B68EC)
   (descr "GPS Module, 15.5x15.5x6.3mm, https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf")
   (tags "ublox SAM-M8Q")
+  (solder_mask_margin 0.000001)
   (attr smd)
   (fp_text reference REF** (at 0 -8.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
