@@ -1,6 +1,6 @@
 (module LEM_LV25-P (layer F.Cu) (tedit 5B0EEC92)
-  (descr "LEM LV25-P Voltage Transducer (https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf)")
-  (tags "hall effect voltage transducer")
+  (descr "LEM LV25-P Voltage transducer, https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf")
+  (tags "LEM Hall Effect Voltage transducer")
   (fp_text reference REF** (at -1.524 -6.731 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
