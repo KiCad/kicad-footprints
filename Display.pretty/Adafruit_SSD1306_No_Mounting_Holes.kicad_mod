@@ -1,6 +1,6 @@
 (module Adafruit_SSD1306_No_Mounting_Holes (layer F.Cu) (tedit 5A8AA7E1)
-  (descr "Adafruit SSD1306 OLED 1.3\" 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads")
-  (tags "Adafruit SSD1306 OLED 1.3\" 128x64 I2C & SPI ")
+  (descr "Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads")
+  (tags "Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI ")
   (fp_text reference REF** (at 8.89 -5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
