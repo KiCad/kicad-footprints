@@ -1,4 +1,4 @@
-(module Package_BGA:BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.5mm_NSMD (layer F.Cu) (tedit 5B3039C5)
+(module BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.5mm_NSMD (layer F.Cu) (tedit 5B3039C5)
   (descr "121-ball, 0.8mm BGA (based on http://www.latticesemi.com/view_document?document_id=213)")
   (tags "BGA 0.8mm 9mm 121")
   (attr smd)
