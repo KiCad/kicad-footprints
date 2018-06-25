@@ -1,4 +1,4 @@
-(module Texas_S-PVQFN-N32_EP3.45x3.45mm_ThermalVias (layer F.Cu) (tedit 5B3032BF)
+(module Texas_S-PVQFN-N32_EP3.45x3.45mm_ThermalVias (layer F.Cu) (tedit 5B317740)
   (descr "QFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
@@ -35,34 +35,10 @@
   (pad 33 thru_hole circle (at 0 1) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 33 thru_hole circle (at 1 1) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 33 smd roundrect (at 0 0) (size 2.5 2.5) (layers B.Cu) (roundrect_rratio 0.1))
-  (pad "" smd custom (at -0.5 -0.5) (size 0.743245 0.743245) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.403113 -0.314044) (xy -0.314044 -0.403113) (xy 0.314044 -0.403113) (xy 0.403113 -0.314044)
-         (xy 0.403113 0.314044) (xy 0.314044 0.403113) (xy -0.314044 0.403113) (xy -0.403113 0.314044)) (width 0))
-    ))
-  (pad "" smd custom (at -0.5 0.5) (size 0.743245 0.743245) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.403113 -0.314044) (xy -0.314044 -0.403113) (xy 0.314044 -0.403113) (xy 0.403113 -0.314044)
-         (xy 0.403113 0.314044) (xy 0.314044 0.403113) (xy -0.314044 0.403113) (xy -0.403113 0.314044)) (width 0))
-    ))
-  (pad "" smd custom (at 0.5 -0.5) (size 0.743245 0.743245) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.403113 -0.314044) (xy -0.314044 -0.403113) (xy 0.314044 -0.403113) (xy 0.403113 -0.314044)
-         (xy 0.403113 0.314044) (xy 0.314044 0.403113) (xy -0.314044 0.403113) (xy -0.403113 0.314044)) (width 0))
-    ))
-  (pad "" smd custom (at 0.5 0.5) (size 0.743245 0.743245) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.403113 -0.314044) (xy -0.314044 -0.403113) (xy 0.314044 -0.403113) (xy 0.403113 -0.314044)
-         (xy 0.403113 0.314044) (xy 0.314044 0.403113) (xy -0.314044 0.403113) (xy -0.403113 0.314044)) (width 0))
-    ))
+  (pad "" smd roundrect (at -0.5 -0.5) (size 0.806226 0.806226) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at -0.5 0.5) (size 0.806226 0.806226) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at 0.5 -0.5) (size 0.806226 0.806226) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at 0.5 0.5) (size 0.806226 0.806226) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd custom (at -1.3625 -0.5) (size 0.502693 0.502693) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives

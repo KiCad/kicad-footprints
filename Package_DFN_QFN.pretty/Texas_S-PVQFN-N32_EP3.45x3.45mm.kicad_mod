@@ -1,4 +1,4 @@
-(module Texas_S-PVQFN-N32_EP3.45x3.45mm (layer F.Cu) (tedit 5B3032BF)
+(module Texas_S-PVQFN-N32_EP3.45x3.45mm (layer F.Cu) (tedit 5B317740)
   (descr "QFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
