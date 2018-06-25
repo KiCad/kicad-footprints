@@ -1,5 +1,6 @@
-(module TFBGA-144_13x13_10.4x10.4mm (layer F.Cu) (tedit 5B310B0F)
-  (tags 144_13x13_10.4x10.4mm)
+(module TFBGA-144_13x13_10.4x10.4mm (layer F.Cu) (tedit 5B313FD8)
+  (descr "TFBGA package 144pin 10.4x10.4mm")
+  (tags "TFBGA144 13x13 10.4x10.4mm")
   (attr smd)
   (fp_text reference REF** (at 0 -6.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
