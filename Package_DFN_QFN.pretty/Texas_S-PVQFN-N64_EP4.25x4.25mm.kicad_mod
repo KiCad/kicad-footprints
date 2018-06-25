@@ -1,4 +1,4 @@
-(module Texas_S-PVQFN-N64_EP4.25x4.25mm (layer F.Cu) (tedit 5B3032BF)
+(module Texas_S-PVQFN-N64_EP4.25x4.25mm (layer F.Cu) (tedit 5B317740)
   (descr "QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
