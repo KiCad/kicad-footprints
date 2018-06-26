@@ -1,5 +1,5 @@
 (module LEM_HTFS (layer F.Cu) (tedit 5B302CC0)
-  (descr "LEM HTFS x00-P/SP2 current transducer (https://www.lem.com/sites/default/files/products_datasheets/htfs_200_800-p_sp2.pdf)")
+  (descr "LEM HTFS x00-P current transducer (https://www.lem.com/sites/default/files/products_datasheets/htfs_200_800-p.pdf)")
   (tags "HTFS current transducer")
   (fp_text reference REF** (at -1.5 -3.5 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
