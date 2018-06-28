@@ -2,6 +2,7 @@
   (at 0 0)
   (descr "Symbol, GNU-GPL, Copper Top, Small,")
   (tags "Symbol, GNU-GPL, Copper Top, Small,")
+  (attr virtual)
   (fp_text reference REF** (at 0.50038 -6.79958) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
