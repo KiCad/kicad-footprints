@@ -1,4 +1,4 @@
-(module LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y (layer F.Cu) (tedit 5B28277A)
+(module LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y (layer F.Cu) (tedit 5B37FACF)
   (descr "LGA, 14 Pin (http://www.st.com/resource/en/datasheet/lis2dh.pdf), generated with kicad-footprint-generator ipc_lga_layoutBorder_generator.py")
   (tags "LGA LGA")
   (attr smd)
