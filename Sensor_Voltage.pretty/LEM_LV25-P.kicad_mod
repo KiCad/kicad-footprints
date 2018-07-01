@@ -30,7 +30,7 @@
   (pad 4 thru_hole circle (at 20.32 15.24) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 20.32 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 20.32 7.62) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_LV25-P.wrl
+  (model ${KISYS3DMOD}/Sensor_Voltage.3dshapes/LEM_LV25-P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
