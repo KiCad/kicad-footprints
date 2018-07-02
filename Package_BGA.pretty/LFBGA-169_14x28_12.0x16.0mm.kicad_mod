@@ -1,4 +1,4 @@
-(module LFBGA-169_14x28_12.0x16.0mm (layer F.Cu) (tedit 5B39B8EE)
+(module LFBGA-169_14x28_12.0x16.0mm (layer F.Cu) (tedit 5B39BA81)
   (descr https://4donline.ihs.com/images/VipMasterIC/IC/SGST/SGSTS20279/SGSTS20279-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0)
   (tags "eMMC Flash LFBGA169")
   (attr smd)
@@ -199,7 +199,7 @@
   (pad Y14 smd circle (at 2.75 -3.25 90) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad AA14 smd circle (at 3.25 -3.25 90) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad AE14 smd circle (at 5.25 -3.25 90) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_BGA.3dshapes/BGA-169_14x28_12.0x16.0mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-169_14x28_12.0x16.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
