@@ -1,4 +1,4 @@
-(module GB042-34S-H10 (layer F.Cu) (tedit 5B34BF9F)
+(module GB042-34S-H10 (layer F.Cu) (tedit 5B3B1755)
   (descr http://www.lsmtron.com/pdf/Connector&Antenna_catalog.PDF)
   (tags "34pin SMD connector ")
   (attr smd)
@@ -58,4 +58,9 @@
   (pad 16 smd rect (at -1.7 2.8 270) (size 0.17 1) (layers F.Cu F.Paste F.Mask))
   (pad 18 smd rect (at 1.7 3.2 270) (size 0.17 1) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at -1.7 3.2 270) (size 0.17 1) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/GB042-34S-H10.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
