@@ -1,4 +1,4 @@
-(module QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm (layer F.Cu) (tedit 5B3A5E10)
+(module QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm (layer F.Cu) (tedit 5B3C9119)
   (descr "QFN, 68 Pin (https://www.mouser.com/ds/2/523/Microsemi_VSC8541-01_Datasheet_10496_V40-1148034.pdf (page 88)))")
   (tags "QFN 0.4")
   (attr smd)
@@ -96,4 +96,9 @@
   (pad 67 smd rect (at -2.8 -3.9) (size 0.2 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 68 smd rect (at -3.2 -3.9) (size 0.2 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 69 smd rect (at 0 0) (size 5.2 5.2) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
