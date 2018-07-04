@@ -1,5 +1,5 @@
-(module BatteryHolder_Seiko_MS621F (layer F.Cu) (tedit 589DBD10)
-  (descr "Seiko MS621F")
+(module BatteryHolder_Seiko_MS621F (layer F.Cu) (tedit 5B2564A8)
+  (descr "Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg")
   (tags "Seiko MS621F")
   (attr smd)
   (fp_text reference REF** (at -4.6 -4.4) (layer F.SilkS)

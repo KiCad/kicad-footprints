@@ -1,5 +1,6 @@
 (module Symbol_ESD-Logo-Text_CopperTop (layer F.Cu)
   (at 0 0)
+  (attr virtual)
   (fp_text reference REF** (at 0 -10.80008) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
