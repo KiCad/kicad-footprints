@@ -1,4 +1,4 @@
-(module Texas_R-VFQFN-28-1EP_3.5x4.5mm_P0.4mm_EP2.1x3.1mm (layer F.Cu) (tedit 5B3E2002)
+(module Texas_R-VFQFN-28-1EP_3.5x4.5mm_P0.4mm_EP2.1x3.1mm (layer F.Cu) (tedit 5B3E22A5)
   (descr http://www.ti.com/lit/ds/symlink/tps51363.pdf)
   (tags "RVE QFN")
   (attr smd)
@@ -56,9 +56,9 @@
   (pad 27 smd oval (at -0.4 -2.25) (size 0.2 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 28 smd oval (at -0.8 -2.25) (size 0.2 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 29 smd rect (at 0 0) (size 2.1 3.1) (layers F.Cu F.Paste F.Mask))
-  (model /home/antonlysak/RISC-V/SiFive/Unleashed/KiCAD/PCB/wrlshp/C4AD3346-25EB.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Texas_R-VFQFN-28-1EP_3.5x4.5mm_P0.4mm_EP2.1x3.1mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 0))
   )
 )
