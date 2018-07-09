@@ -1,4 +1,4 @@
-(module R_Stackpole_CSS2010_2 (layer F.Cu) (tedit 5B428ECA)
+(module R_Stackpole_CSS2010_2 (layer F.Cu) (tedit 5B439E7C)
   (descr "Ultra Precision Current Sensing Chip Resistor size 2010_2 https://www.seielect.com/catalog/SEI-CSS_cssh.PDF")
   (tags "Ultra Precision Current Sensing Chip Resistor size 2010_2")
   (attr smd)
@@ -23,7 +23,7 @@
   (fp_text user %R (at 0 -2.36) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Resistors_SMD.3dshapes/R_Stackpole_CSS2010_2.wrl
+  (model Resistor_SMD.3dshapes/R_Stackpole_CSS2010_2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
