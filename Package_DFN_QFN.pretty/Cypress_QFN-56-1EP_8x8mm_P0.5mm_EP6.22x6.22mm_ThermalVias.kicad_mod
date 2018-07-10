@@ -1,4 +1,4 @@
-(module Package_DFN_QFN:Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias (layer F.Cu) (tedit 5B148AF3)
+(module Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias (layer F.Cu) (tedit 5B148AF3)
   (descr "56-Lead Plastic Quad Flat, No Lead Package (ML) - 8x8x0.9 mm Body [QFN] (see datasheet at http://www.cypress.com/file/138911/download and app note at http://www.cypress.com/file/140006/download)")
   (tags "QFN 0.5")
   (attr smd)
