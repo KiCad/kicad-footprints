@@ -1,5 +1,5 @@
-(module QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm_ThermalVias (layer F.Cu) (tedit 5B4D0CFF)
-  (descr "QFN, 20 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf (Page 277)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm_ThermalVias (layer F.Cu) (tedit 5B4E6D2C)
+  (descr "QFN, 20 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf (Page 276)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -3.8) (layer F.SilkS)

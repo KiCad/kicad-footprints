@@ -1,5 +1,5 @@
-(module QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm (layer F.Cu) (tedit 5B4D0CFF)
-  (descr "QFN, 24 Pin (http://www.alfarzpp.lv/eng/sc/AS3330.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm (layer F.Cu) (tedit 5B4E6D2D)
+  (descr "QFN, 24 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_20_05-08-1742.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -3.32) (layer F.SilkS)
