@@ -1,5 +1,5 @@
-(module QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm (layer F.Cu) (tedit 5B32DAA0)
-  (descr "QFN, 20 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_20_05-08-1742.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm (layer F.Cu) (tedit 5B4E3B60)
+  (descr "QFN, 20 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_20_05-08-1711.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -3.82) (layer F.SilkS)
