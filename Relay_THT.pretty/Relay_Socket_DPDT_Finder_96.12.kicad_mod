@@ -1,10 +1,10 @@
-(module Relay_DPDT_Finder_96.12 (layer F.Cu) (tedit 5B5605FF)
+(module Relay_Socket_DPDT_Finder_96.12 (layer F.Cu) (tedit 5B575C7B)
   (descr https://gfinder.findernet.com/public/attachments/56/DE/S56DE.pdf)
-  (tags "Relay DPDT Finder 96.12 56.32")
+  (tags "Relay socket DPDT Finder 96.12 56.32")
   (fp_text reference REF** (at -4.48 -3.83 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Relay_DPDT_Finder_96.12 (at 8.35 20.32) (layer F.Fab)
+  (fp_text value Relay_Socket_DPDT_Finder_96.12 (at 8.35 20.32) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -6.9 -2.95) (end -5 -2.95) (layer F.SilkS) (width 0.12))
@@ -33,7 +33,7 @@
   (pad 21 thru_hole circle (at 6.1 13.3) (size 4 4) (drill 2.5) (layers *.Cu *.Mask))
   (pad 24 thru_hole circle (at 12 13.3) (size 4 4) (drill 2.5) (layers *.Cu *.Mask))
   (pad 22 thru_hole circle (at 16.7 13.3) (size 4 4) (drill 2.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_DPDT_Finder_96.12.wrl
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_Socket_DPDT_Finder_96.12.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
