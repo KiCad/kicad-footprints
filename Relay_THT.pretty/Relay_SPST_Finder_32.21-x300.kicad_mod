@@ -43,7 +43,7 @@
   (pad 11 thru_hole circle (at 10.16 0 90) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 17.78 0 90) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_SPST_Finder_32.21-x300.wrl
-    (offset (xyz -0.02078600078782558 -0.004443999173257828 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

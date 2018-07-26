@@ -38,7 +38,7 @@
   (pad 3 thru_hole oval (at 10.16 -3.17) (size 2.29 1.57) (drill 0.81) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 10.16 -0.64) (size 2.29 1.57) (drill 0.81) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/OptoDevice.3dshapes/Luna_NSL-32.wrl
-    (offset (xyz 5.079999923706055 2.031999969482422 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
