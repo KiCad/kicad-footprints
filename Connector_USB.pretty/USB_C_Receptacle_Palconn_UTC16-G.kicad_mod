@@ -1,4 +1,4 @@
-(module USB_C_Receptacle_Palconn_UTC16-G (layer F.Cu) (tedit 5B5B2381)
+(module USB_C_Receptacle_Palconn_UTC16-G (layer F.Cu) (tedit 5B5B23E6)
   (descr http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf)
   (tags "USB C Type-C Receptacle USB2.0")
   (attr smd)
@@ -50,4 +50,9 @@
   (pad B1 smd rect (at 3.2 -2.63) (size 0.6 1.16) (layers F.Cu F.Paste F.Mask))
   (pad A9 smd rect (at 2.4 -2.63) (size 0.6 1.16) (layers F.Cu F.Paste F.Mask))
   (pad A12 smd rect (at 3.2 -2.63) (size 0.6 1.16) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Receptacle_Palconn_UTC16-G.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
