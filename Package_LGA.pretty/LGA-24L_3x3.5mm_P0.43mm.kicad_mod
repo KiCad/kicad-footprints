@@ -53,4 +53,9 @@
   (pad 11 smd rect (at 0.645 1.225) (size 0.23 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at 1.075 1.225) (size 0.23 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at 1.505 1.225) (size 0.23 0.35) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_LGA.3dshapes/LGA-24L_3x3.5mm_P0.43mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

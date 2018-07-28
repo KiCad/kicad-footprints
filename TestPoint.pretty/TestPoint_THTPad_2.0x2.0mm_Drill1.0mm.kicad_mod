@@ -19,5 +19,5 @@
   (fp_line (start -1.5 -1.5) (end -1.5 1.5) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.5 1.5) (end 1.5 -1.5) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.5 1.5) (end -1.5 1.5) (layer F.CrtYd) (width 0.05))
-  (pad 1 np_thru_hole rect (at 0 0) (size 2 2) (drill 1.0) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1.0) (layers *.Cu *.Mask))
 )

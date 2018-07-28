@@ -1,6 +1,6 @@
-(module TerminalBlock_Phoenix_MPT-0,5-6-2.54_1x06_P2.54mm_Horizontal (layer F.Cu) (tedit 5A08211B)
+(module TerminalBlock_Phoenix_MPT-0,5-6-2.54_1x06_P2.54mm_Horizontal (layer F.Cu) (tedit 5B294F99)
   (descr "Terminal Block Phoenix MPT-0,5-6-2.54, 6 pins, pitch 2.54mm, size 15.7x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
-  (tags "THT Terminal Block Phoenix MPT-0.5-6-2.54 pitch 2.54mm size 15.7x6.2mm^2 drill 1.1mm pad 2.2mm")
+  (tags "THT Terminal Block Phoenix MPT-0,5-6-2.54 pitch 2.54mm size 15.7x6.2mm^2 drill 1.1mm pad 2.2mm")
   (fp_text reference REF** (at 6.35 -4.16) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

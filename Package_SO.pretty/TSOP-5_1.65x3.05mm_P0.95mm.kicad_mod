@@ -1,4 +1,4 @@
-(module TSOP-5_1.65x3.05mm_P0.95mm (layer F.Cu) (tedit 5A02F25C)
+(module TSOP-5_1.65x3.05mm_P0.95mm (layer F.Cu) (tedit 5ADEEF59)
   (descr "TSOP-5 package (comparable to TSOT-23), https://www.vishay.com/docs/71200/71200.pdf")
   (tags "Jedec MO-193C TSOP-5L")
   (attr smd)
@@ -26,7 +26,7 @@
   (pad 2 smd rect (at -1.16 0) (size 0.7 0.51) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.16 0.95) (size 0.7 0.51) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.16 0.95) (size 0.7 0.51) (layers F.Cu F.Paste F.Mask))
-  (pad 6 smd rect (at 1.16 -0.95) (size 0.7 0.51) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 1.16 -0.95) (size 0.7 0.51) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Package_SO.3dshapes/TSOP-5_1.65x3.05mm_P0.95mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

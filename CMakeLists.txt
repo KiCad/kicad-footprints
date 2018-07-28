@@ -1,4 +1,4 @@
-project( kicad-footprints )
+project( kicad-footprints NONE )
 
 cmake_minimum_required( VERSION 2.6.1 FATAL_ERROR )
 
