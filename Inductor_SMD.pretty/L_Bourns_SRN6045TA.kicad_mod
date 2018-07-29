@@ -1,4 +1,4 @@
-(module L_Bourns_SRN6045TA (layer F.Cu) (tedit 5B5DE411)
+(module L_Bourns_SRN6045TA (layer F.Cu) (tedit 5B5DE5F4)
   (descr http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf)
   (tags "Semi-shielded Power Inductor")
   (attr smd)
