@@ -1,4 +1,4 @@
-(module USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical (layer F.Cu) (tedit 5B644C09)
+(module USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical (layer F.Cu) (tedit 5B64517C)
   (descr http://www.adam-tech.com/upload/MUSB-B5-S-VT-TSMT-1.pdf)
   (tags "USB Mini-B")
   (attr smd)
@@ -34,4 +34,14 @@
   (pad 1 smd rect (at 1.6 -1.6) (size 0.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -4.75 -0.45) (size 3 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 4.75 -0.45) (size 3 1.8) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
