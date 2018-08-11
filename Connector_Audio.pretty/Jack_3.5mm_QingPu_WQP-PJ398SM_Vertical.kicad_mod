@@ -45,7 +45,7 @@
   (pad 2 thru_hole oval (at 0 3.1 180) (size 2.8 2.35) (drill 1.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 180) (size 2.6 2.15) (drill 1.6) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 11.4 180) (size 2.7 2.7) (drill 1.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/pcb.3dshapes/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
