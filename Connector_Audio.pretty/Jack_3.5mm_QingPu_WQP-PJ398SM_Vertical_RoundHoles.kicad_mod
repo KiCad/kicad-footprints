@@ -1,4 +1,4 @@
-(module Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical (layer F.Cu) (tedit 5B6EDBBA)
+(module Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_RoundHole (layer F.Cu) (tedit 5B6EDBBA)
   (descr "TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)")
   (tags "WQP-PJ398SM TRS 3.5mm mono vertical jack thonkiconn qingpu")
   (fp_text reference REF** (at -4.03 1.08 180) (layer F.SilkS)
