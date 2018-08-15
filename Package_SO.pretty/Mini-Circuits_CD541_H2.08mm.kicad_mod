@@ -1,11 +1,11 @@
-(module Transformer_Mini-Circuits_CD541_H2.08mm (layer F.Cu) (tedit 5A365E23)
+(module Mini-Circuits_CD541_H2.08mm (layer F.Cu) (tedit 5A365E23)
   (descr https://ww2.minicircuits.com/case_style/CD541.pdf)
   (tags "RF Transformer")
   (attr smd)
   (fp_text reference REF** (at 0 -4.826) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Transformer_Mini-Circuits_CD541_H2.08mm (at 0 5.08) (layer F.Fab)
+  (fp_text value Mini-Circuits_CD541_H2.08mm (at 0 5.08) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 2.794 -3.937) (end 2.794 3.937) (layer F.Fab) (width 0.1))
@@ -33,7 +33,7 @@
   (pad 4 smd rect (at 2.54 2.54) (size 2.54 1.65) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.54 0) (size 2.54 1.65) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 2.54 -2.54) (size 2.54 1.65) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Transformer_SMD.3dshapes/Transformer_Mini-Circuits_CD541_H2.08mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_CD541_H2.08mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
