@@ -1,10 +1,10 @@
-(module Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical (layer F.Cu) (tedit 5B74B481)
-  (descr "TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)")
-  (tags "WQP-PJ398SM TRS 3.5mm mono vertical jack thonkiconn qingpu")
+(module Jack_3.5mm_QingPu_WQP-PJ366ST_Vertical (layer F.Cu) (tedit 5B74B481)
+  (descr "TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ366ST-364.html)")
+  (tags "WQP-PJ366ST TRS 3.5mm mono vertical jack thonkiconn qingpu")
   (fp_text reference REF** (at -4.03 1.08 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical (at 0 5 180) (layer F.Fab)
+  (fp_text value Jack_3.5mm_QingPu_WQP-PJ366ST_Vertical (at 0 5 180) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user KEEPOUT (at 0 6.48) (layer Cmts.User)
@@ -45,7 +45,7 @@
   (pad 2 thru_hole circle (at 0 3.1 180) (size 2.23 2.23) (drill 1.5) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 180) (size 1.93 1.93) (drill 1.3) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 11.4 180) (size 2.23 2.23) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_3.5mm_QingPu_WQP-PJ366ST_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
