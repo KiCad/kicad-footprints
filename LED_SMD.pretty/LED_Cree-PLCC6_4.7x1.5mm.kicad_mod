@@ -1,4 +1,6 @@
-(module LED_Cree-PLCC6_4.7x1.5mm (layer F.Cu) (tedit 5B7A0D38)
+(module LED_Cree-PLCC6_4.7x1.5mm (layer F.Cu) (tedit 5B7AA928)
+  (descr "4.7mm x 1.5mm PLCC6 LED, http://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf")
+  (tags "LED Cree PLCC-6")
   (attr smd)
   (fp_text reference REF** (at 0 1.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
