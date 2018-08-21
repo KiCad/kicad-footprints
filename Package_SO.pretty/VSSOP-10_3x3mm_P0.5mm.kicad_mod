@@ -1,4 +1,4 @@
-(module VSSOP-10_3x3mm_P0.5mm (layer F.Cu) (tedit 5B7C51F7)
+(module VSSOP-10_3x3mm_P0.5mm (layer F.Cu) (tedit 5B7C5EDC)
   (descr "10 lead VSSOP package with a pitch 0.5mm")
   (tags "VSSOP 0.5mm")
   (attr smd)
@@ -38,11 +38,6 @@
   (model ${KISYS3DMOD}/Package_SO.3dshapes/VSSOP-10_3x3mm_P0.5mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
-  )
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/VSSOP-10_3x3mm_P0.5mm.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 0))
   )
 )
