@@ -100,6 +100,7 @@
   (lib (name Symbol)(type KiCad)(uri ${KISYSMOD}/Symbol.pretty)(options "")(descr "PCB symbols"))
   (lib (name TerminalBlock)(type KiCad)(uri ${KISYSMOD}/TerminalBlock.pretty)(options "")(descr "Footprints for terminal blocks that do not have their own manufacturer specific library."))
   (lib (name TerminalBlock_4Ucon)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_4Ucon.pretty)(options "")(descr "4UCON terminal blocks"))
+  (lib (name TerminalBlock_Degson)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Degson.pretty)(options "")(descr "Degson terminal blocks"))
   (lib (name TerminalBlock_Dinkle)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Dinkle.pretty)(options "")(descr "Dinkle terminal blocks"))
   (lib (name TerminalBlock_MetzConnect)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_MetzConnect.pretty)(options "")(descr "Metz Connect terminal blocks"))
   (lib (name TerminalBlock_Philmore)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Philmore.pretty)(options "")(descr "Philmore terminal blocks"))
