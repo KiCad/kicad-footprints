@@ -94,7 +94,7 @@
   (pad 11 smd rect (at 5.625 5.225) (size 1.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 5.575 -5.45) (size 1 1.55) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Connector_Card.3dshapes/microSD_HC_Hirose_DM3D-SF.wrl
-    (at (xyz -0.1781496063 -0.1761811024 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
