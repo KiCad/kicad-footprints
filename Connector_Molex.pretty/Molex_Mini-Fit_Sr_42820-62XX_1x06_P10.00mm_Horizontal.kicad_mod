@@ -1,4 +1,4 @@
-(module Molex_Mini-Fit_Sr_42820-62XX_1x06_P10.00mm_Horizontal (layer F.Cu) (tedit 5A16F5F6)
+(module Molex_Mini-Fit_Sr_42820-62XX_1x06_P10.00mm_Horizontal (layer F.Cu) (tedit 5B78223E)
   (descr "Molex Mini-Fit Sr. Power Connectors, 42820-62XX, 6 Pins per row (http://www.molex.com/pdm_docs/sd/428202214_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Mini-Fit_Sr top entry")
   (fp_text reference REF** (at 17.06 -8.93) (layer F.SilkS)

@@ -93,6 +93,7 @@
   (lib (name Rotary_Encoder)(type KiCad)(uri ${KISYSMOD}/Rotary_Encoder.pretty)(options "")(descr "Rotary Encoder Footprints"))
   (lib (name Sensor_Audio)(type KiCad)(uri ${KISYSMOD}/Sensor_Audio.pretty)(options "")(descr "Specialized footprints for audio sensors"))
   (lib (name Sensor_Current)(type KiCad)(uri ${KISYSMOD}/Sensor_Current.pretty)(options "")(descr "Specialized footprints for current sensors"))
+  (lib (name Sensor_Motion)(type KiCad)(uri ${KISYSMOD}/Sensor_Motion.pretty)(options "")(descr "Specialized footprints for motion sensors"))
   (lib (name Sensor_Pressure)(type KiCad)(uri ${KISYSMOD}/Sensor_Pressure.pretty)(options "")(descr "Specialized footprints for pressure sensors"))
   (lib (name Sensor_Voltage)(type KiCad)(uri ${KISYSMOD}/Sensor_Voltage.pretty)(options "")(descr "Specialized footprints for voltage sensors"))
   (lib (name Socket)(type KiCad)(uri ${KISYSMOD}/Socket.pretty)(options "")(descr "Sockets"))
