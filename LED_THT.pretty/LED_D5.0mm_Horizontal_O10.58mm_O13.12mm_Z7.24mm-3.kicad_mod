@@ -1,4 +1,4 @@
-(module LED_D5.0mm_Horizontal_O10.58mm_O13.12mm_Z7.24mm-3 (layer F.Cu) (tedit 5B80BBC3)
+(module LED_D5.0mm_Horizontal_O10.58mm_O13.12mm_Z7.24mm-3 (layer F.Cu) (tedit 5B80C65F)
   (descr "axis StepUp generated footprint")
   (attr smd)
   (fp_text reference REF** (at 0 4.5) (layer F.SilkS)
@@ -44,7 +44,7 @@
   (pad 3 thru_hole circle (at -2.54 2.54 90) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0 90) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 2.54 2.54 90) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
-  (model C:/010_Serkan/020_Professional/210_Software/KiCad/Lib/modules3D/LED_D5_0mm_Horizontal_O10_58mm_O13_12mm_Z7_24mm_3.wrl
+  (model ${KISYS3DMOD}/LED_THT.3dshapes/LED_D5.0mm_Horizontal_O10.58mm_O13.12mm_Z7.24mm-3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
