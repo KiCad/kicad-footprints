@@ -1,5 +1,5 @@
-(module R_Shunt_Vishay_WSR2_WSR3 (layer F.Cu) (tedit 5B857BEC)
-  (descr "Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30332/wskw0612.pdf")
+(module R_Shunt_Vishay_WSR2_WSR3 (layer F.Cu) (tedit 5B858B13)
+  (descr "Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf")
   (tags "SMD Shunt Resistor")
   (attr smd)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
