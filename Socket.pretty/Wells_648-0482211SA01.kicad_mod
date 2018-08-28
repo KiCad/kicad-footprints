@@ -1,4 +1,4 @@
-(module Wells_648-0482211SA01 (layer F.Cu) (tedit 5B85A753)
+(module Wells_648-0482211SA01 (layer F.Cu) (tedit 5B85AB5F)
   (descr http://www.farnell.com/datasheets/48399.pdf?_ga=2.37208032.177107060.1530611323-249019997.1498114824)
   (tags "48pin TSOP Socket")
   (fp_text reference REF** (at 15.47 16.25) (layer F.SilkS)
@@ -72,8 +72,8 @@
   (pad 34 thru_hole roundrect (at 27.64 7) (size 1.5 1) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 31 thru_hole roundrect (at 27.64 8.5) (size 1.5 1) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 28 thru_hole roundrect (at 27.64 10) (size 1.5 1) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (pad "" np_thru_hole circle (at 34.47 13.25) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -3.53 -1.75) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 34.47 13.25) (size 2 2) (drill 1.7) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -3.53 -1.75) (size 2 2) (drill 1.7) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Socket.3dshapes/Wells_648-0482211SA01.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
