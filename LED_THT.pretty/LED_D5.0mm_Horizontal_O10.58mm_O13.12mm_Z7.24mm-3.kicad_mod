@@ -1,5 +1,6 @@
-(module LED_D5.0mm_Horizontal_O10.58mm_O13.12mm_Z7.24mm-3 (layer F.Cu) (tedit 5B86D696)
+(module LED_D5.0mm_Horizontal_O10.58mm_O13.12mm_Z7.24mm-3 (layer F.Cu) (tedit 5B86E4D4)
   (descr "axis StepUp generated footprint")
+  (tags "LED 5mm horizontal red-green RG-Led")
   (fp_text reference REF** (at -2.54 1.96) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
