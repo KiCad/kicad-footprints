@@ -1,6 +1,7 @@
-(module RJ45_Amphenol_RJCSE-X30X-01 (layer F.Cu) (tedit 5B86E14A)
+(module RJ45_Amphenol_RJCSE-X30X-01 (layer F.Cu) (tedit 5B86F082)
   (descr "Unshielded, 2LED, https://www.mouser.de/datasheet/2/18/MODULAR_CAT-273815.pdf")
   (tags "RJ45 8p8c ethernet")
+  (attr smd)
   (fp_text reference REF** (at 0 -8.89) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -43,7 +44,7 @@
   (pad 8 smd rect (at 3.507 4.58) (size 0.61 3.05) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at 6.927 5.4) (size 0.61 3.05) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at -6.927 5.4) (size 0.61 3.05) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Amphenol_RJCSE-X30X-01.wrk
+  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Amphenol_RJCSE-X30X-01.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
