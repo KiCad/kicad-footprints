@@ -1,7 +1,6 @@
-(module Osram_LPT80A (layer F.Cu) (tedit 5B8601BE)
+(module Osram_LPT80A (layer F.Cu) (tedit 5B86EF31)
   (descr "PhotoTransistor, sidelooker package, RM2.54")
   (tags "PhotoTransistor sidelooker package RM2.54")
-  (clearance 0.2)
   (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
