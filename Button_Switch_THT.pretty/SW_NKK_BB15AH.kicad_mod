@@ -1,4 +1,4 @@
-(module SW_NKK_BB15AH (layer F.Cu) (tedit 5B634723)
+(module SW_NKK_BB15AH (layer F.Cu) (tedit 5B87F693)
   (descr https://www.nkkswitches.com/pdf/Bpushbuttons-1.pdf)
   (tags "Pushbutton Right-angle")
   (fp_text reference REF** (at 2.54 -2.45) (layer F.SilkS)
@@ -12,7 +12,6 @@
   (fp_line (start -1.86 13.96) (end -1.86 0.69) (layer F.Fab) (width 0.1))
   (fp_line (start 6.94 13.96) (end -1.86 13.96) (layer F.Fab) (width 0.1))
   (fp_line (start -1.86 0.69) (end -1.16 -0.01) (layer F.Fab) (width 0.1))
-  (fp_line (start -1.86 13.96) (end 2.54 13.96) (layer F.Fab) (width 0.1))
   (fp_line (start -1.21 13.96) (end -1.21 20.26) (layer F.Fab) (width 0.1))
   (fp_line (start 6.29 20.26) (end -1.21 20.26) (layer F.Fab) (width 0.1))
   (fp_line (start 6.29 13.96) (end 6.29 20.26) (layer F.Fab) (width 0.1))
