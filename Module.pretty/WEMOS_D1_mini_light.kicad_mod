@@ -1,10 +1,10 @@
-(module WEMOS_D1_mini (layer F.Cu) (tedit 5B87E45D)
+(module WEMOS_D1_mini_light (layer F.Cu) (tedit 5B87FBD1)
   (descr "16-pin module, collum spacing 22.86 mm (900 mils) ")
   (tags "ESP8266 WiFi microcontroller")
   (fp_text reference REF** (at 22 27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value WEMOS_D1_mini (at 11.7 0) (layer F.Fab)
+  (fp_text value WEMOS_D1_mini_light (at 11.7 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.17 25.99) (end 1.17 19.09) (layer F.SilkS) (width 0.12))
@@ -64,7 +64,7 @@
   (pad 14 thru_hole oval (at 22.86 5.08) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 22.86 2.54) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 22.86 0) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/wemos_d1_mini.step
+  (model ${KISYS3DMOD}/Module.3dshapes/wemos_d1_mini_light.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
