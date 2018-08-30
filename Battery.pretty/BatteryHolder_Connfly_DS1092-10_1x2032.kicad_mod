@@ -1,5 +1,5 @@
-(module BatteryHolder_Connfly_DS1092-10_1x2032 (layer F.Cu) (tedit 5B87D88E)
-  (fp_text reference REF** (at -14.47 -5.48) (layer F.SilkS)
+(module BatteryHolder_Connfly_DS1092-10_1x2032 (layer F.Cu) (tedit 5B87DCE7)
+  (fp_text reference REF** (at -14.125 -5.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value BatteryHolder_Connfly_DS1092-10_1x2032 (at 0 -11.75) (layer F.Fab)
