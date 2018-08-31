@@ -23,7 +23,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.78 1.78) (drill 1.19) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.08 0) (size 1.78 1.78) (drill 1.19) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 2.54 -15.88) (size 4.06 4.06) (drill 3.17) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_horizontal_Diameter26mm.wrl
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D26.0mm_P5.08mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
