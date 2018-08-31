@@ -1,4 +1,4 @@
-(module R_Shunt_Ohmite_LVK12 (layer F.Cu) (tedit 5B89282A)
+(module R_Shunt_Ohmite_LVK12 (layer F.Cu) (tedit 5B892BCD)
   (descr "4 contact shunt resistor, https://www.ohmite.com/assets/docs/res_lvk.pdf")
   (tags "shunt resistor 4 contacts")
   (attr smd)
@@ -26,11 +26,6 @@
   (pad 3 smd rect (at -0.7 1.375) (size 1.1 1.75) (layers F.Cu F.Paste F.Mask)
     (die_length 2))
   (pad 4 smd rect (at 0.7 1.375) (size 1.1 1.75) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK12.step
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
   (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK12.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
