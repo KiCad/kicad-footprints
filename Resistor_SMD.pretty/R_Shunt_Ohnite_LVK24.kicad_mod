@@ -1,5 +1,5 @@
-(module R_Shunt_Ohnite_LVK24 (layer F.Cu) (tedit 5B8974C3)
-  (descr "4 contacts shunt resistor")
+(module R_Shunt_Ohnite_LVK24 (layer F.Cu) (tedit 5B89752B)
+  (descr "4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf")
   (tags "4 contacts resistor smd")
   (attr smd)
   (fp_text reference REF** (at 0 -5.2) (layer F.SilkS)
@@ -28,11 +28,6 @@
   (pad 2 smd rect (at 1.25 -2.625) (size 1.9 3.25) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.25 2.625) (size 1.9 3.25) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.25 2.625) (size 1.9 3.25) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/LVK24.step
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
   (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/LVK24.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
