@@ -1,5 +1,5 @@
-(module R_Shunt_Ohmite_LVK12 (layer F.Cu) (tedit 5B892776)
-  (descr "4 contact shunt resistor")
+(module R_Shunt_Ohmite_LVK12 (layer F.Cu) (tedit 5B89282A)
+  (descr "4 contact shunt resistor, https://www.ohmite.com/assets/docs/res_lvk.pdf")
   (tags "shunt resistor 4 contacts")
   (attr smd)
   (fp_text reference REF** (at 0 -3.2 180) (layer F.SilkS)
