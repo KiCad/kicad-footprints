@@ -1,4 +1,4 @@
-(module R_Shunt_Ohnite_LVK24 (layer F.Cu) (tedit 5B89752B)
+(module R_Shunt_Ohmite_LVK24 (layer F.Cu) (tedit 5B89752B)
   (descr "4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf")
   (tags "4 contacts resistor smd")
   (attr smd)
