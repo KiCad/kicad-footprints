@@ -40,6 +40,7 @@
   (lib (name Connector_Phoenix_GMSTB)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_GMSTB.pretty)(options "")(descr "Phoenix GMSTB series (high voltage MSTB) connector footprints"))
   (lib (name Connector_RJ)(type KiCad)(uri ${KISYSMOD}/Connector_RJ.pretty)(options "")(descr "Registered Jack (RJ) connector footprints (e.g. RJ11, RJ45, ...)"))
   (lib (name Connector_SATA_SAS)(type KiCad)(uri ${KISYSMOD}/Connector_SATA_SAS.pretty)(options "")(descr "SATA/SAS connector footprints"))
+  (lib (name Connector_Stocko)(type KiCad)(uri ${KISYSMOD}/Connector_Stocko.pretty)(options "")(descr "Stocko connector footprints"))
   (lib (name Connector_TE-Connectivity)(type KiCad)(uri ${KISYSMOD}/Connector_TE-Connectivity.pretty)(options "")(descr "Footprints for connectors by TE Connectivity"))
   (lib (name Connector_USB)(type KiCad)(uri ${KISYSMOD}/Connector_USB.pretty)(options "")(descr "USB connector footprints"))
   (lib (name Connector_Wago)(type KiCad)(uri ${KISYSMOD}/Connector_Wago.pretty)(options "")(descr "Wago connector footprints"))
