@@ -1,4 +1,4 @@
-(module Hamamatsu_S13360-30CS (layer F.Cu) (tedit 5A6C990C)
+(module Hamamatsu_S13360-30CS (layer F.Cu) (tedit 5B887564)
   (descr "SiPM, 2pin")
   (tags "Hamamatsu SiPM")
   (fp_text reference REF** (at -3.556 -2.794) (layer F.SilkS)
@@ -24,8 +24,8 @@
   (fp_line (start -5.35 -1.755) (end 0.35 -1.755) (layer F.Fab) (width 0.1))
   (fp_line (start 0.35 -1.755) (end 1.35 -0.755) (layer F.Fab) (width 0.1))
   (fp_line (start -5.35 4.295) (end -5.35 -1.755) (layer F.Fab) (width 0.1))
-  (pad 2 thru_hole circle (at 0 2.54) (size 1.524 1.524) (drill 0.66) (layers *.Cu *.Mask))
-  (pad 1 thru_hole rect (at 0 0) (size 1.524 1.524) (drill 0.66) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 0 2.54) (size 1.2 1.2) (drill 0.66) (layers *.Cu *.Mask))
+  (pad 1 thru_hole roundrect (at 0 0) (size 1.2 1.2) (drill 0.66) (layers *.Cu *.Mask) (roundrect_rratio 0.208))
   (model ${KISYS3DMOD}/OptoDevice.3dshapes/Hamamatsu_S13360-30CS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
