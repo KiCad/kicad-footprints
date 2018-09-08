@@ -1,4 +1,4 @@
-(module BGA-49_3.0x3.0mm_Layout7x7_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD (layer F.Cu) (tedit 5B9421F5)
+(module BGA-49_3.0x3.0mm_Layout7x7_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD (layer F.Cu) (tedit 5B942CE4)
   (descr "49-Ball BGA, 0.4mm pitch, based on Lattice footprint at (http://www.latticesemi.com/view_document?document_id=213)")
   (tags "BGA BGA-49 CM49")
   (attr smd)
@@ -122,7 +122,7 @@
     (solder_mask_margin 0.015))
   (pad A5 smd circle (at 0.4 -1.2) (size 0.2 0.2) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.015))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/49_3.0x3.0mm_Layout7x7_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-49_3.0x3.0mm_Layout7x7_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
