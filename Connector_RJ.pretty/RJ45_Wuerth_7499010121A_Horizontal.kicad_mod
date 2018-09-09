@@ -1,7 +1,6 @@
-(module RJ45_Wuerth_7499010121A_Horizontal (layer F.Cu) (tedit 5B91968D)
+(module RJ45_Wuerth_7499010121A_Horizontal (layer F.Cu) (tedit 5B9196E9)
   (descr "10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal https://katalog.we-online.de/pbs/datasheet/7499010121A.pdf")
   (tags "RJ45 ethernet magnetic")
-  (clearance 0.2)
   (fp_text reference REF** (at -3 -4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
