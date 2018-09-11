@@ -26,7 +26,7 @@
   (fp_line (start 19.69 12.545) (end 19.69 -3.655) (layer F.Fab) (width 0.1))
   (fp_line (start -5.61 12.545) (end 19.69 12.545) (layer F.Fab) (width 0.1))
   (fp_line (start -5.72 10.59) (end -5.72 12.655) (layer F.SilkS) (width 0.12))
-  (fp_line (start 6.85 12.655) (end 19.8 12.655) (layer F.SilkS) (width 0.12))
+  (fp_line (start 6.86 12.655) (end 19.8 12.655) (layer F.SilkS) (width 0.12))
   (fp_line (start 4.81001 -3.765) (end -5.72 -3.765) (layer F.SilkS) (width 0.12))
   (fp_line (start 6.93 -4.75) (end 4.75 -4.75) (layer F.CrtYd) (width 0.05))
   (fp_line (start 6.93 -4.75) (end 6.93 -4.16) (layer F.CrtYd) (width 0.05))
