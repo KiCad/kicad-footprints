@@ -1,4 +1,4 @@
-(module ucBGA-36_2.5x2.5mm_Layout6x6_P0.4mm (layer F.Cu) (tedit 5B9963DE)
+(module ucBGA-36_2.5x2.5mm_Layout6x6_P0.4mm (layer F.Cu) (tedit 5B996459)
   (descr "ucBGA-36, body size 2.5x2.5mm Pitch 0.4mm")
   (tags ucBGA-36)
   (clearance 0.102)
@@ -61,7 +61,7 @@
   (pad F4 smd circle (at 0.2 1) (size 0.2 0.2) (layers F.Cu F.Paste F.Mask))
   (pad F5 smd circle (at 0.6 1) (size 0.2 0.2) (layers F.Cu F.Paste F.Mask))
   (pad F6 smd circle (at 1 1) (size 0.2 0.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/ucBGA-49_3x3mm_Layout7x7_P0.4mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/ucBGA-36_2.5x2.5mm_Layout6x6_P0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
