@@ -1,11 +1,11 @@
-(module BatteryHolder_Connfly_DS1092-10_1x2032 (layer F.Cu) (tedit 5B87E2CF)
-  (descr https://datasheet.octopart.com/DS1092-10-W6L-Connfly-datasheet-81454616.pdf)
+(module BatteryHolder_Keystone_1060_1x2032 (layer F.Cu) (tedit 5B98EF5E)
+  (descr http://www.keyelco.com/product-pdf.cfm?p=726)
   (tags "CR2032 BR2032 BatteryHolder Battery")
   (attr smd)
   (fp_text reference REF** (at -14.125 -5.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BatteryHolder_Connfly_DS1092-10_1x2032 (at 0 -11.75) (layer F.Fab)
+  (fp_text value BatteryHolder_Keystone_1060_1x2032 (at 0 -11.75) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 0 0) (end -10.2 0) (layer Dwgs.User) (width 0.3))
@@ -68,7 +68,7 @@
   (fp_line (start -12 6) (end -14 6) (layer F.SilkS) (width 0.12))
   (pad 2 smd rect (at 14.65 0 180) (size 2.6 3.6) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -14.65 0 180) (size 2.6 3.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_Connfly_DS1092-10_1x2032.wrl
+  (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_Keystone_1060_1x2032.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
