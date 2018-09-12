@@ -1,11 +1,11 @@
-(module Hirose_DF12_DF12C(3.0)-14DS-0.5V(81)_2x14_P0.50mm_Vertical (layer F.Cu) (tedit 5B98CB3D)
-  (descr "Hirose DF12C SMD, DF12C(3.0)-14DS-0.5V(81), 14 Pins per row (https://www.hirose.com/product/en/download_file/key_name/DF12C%283.0%29%2D50DS%2D0.5V%2881%29/category/Drawing%20(2D)/doc_file_id/38626/), generated with kicad-footprint-generator")
+(module Hirose_DF12_DF12C3.0-14DS-0.5V_2x14_P0.50mm_Vertical (layer F.Cu) (tedit 5B990C3C)
+  (descr "Hirose DF12C SMD, DF12C3.0-14DS-0.5V, 14 Pins per row (https://www.hirose.com/product/en/download_file/key_name/DF12C%283.0%29%2D50DS%2D0.5V%2881%29/category/Drawing%20(2D)/doc_file_id/38626/), generated with kicad-footprint-generator")
   (tags "connector Hirose DF12 side entry")
   (attr smd)
   (fp_text reference REF** (at 0 -4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Hirose_DF12_DF12C(3.0)-14DS-0.5V(81)_2x14_P0.50mm_Vertical (at 0 4) (layer F.Fab)
+  (fp_text value Hirose_DF12_DF12C3.0-14DS-0.5V_2x14_P0.50mm_Vertical (at 0 4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.8 1.8) (end -2.8 -1.8) (layer F.Fab) (width 0.1))
@@ -61,7 +61,7 @@
   (fp_text user %R (at 0 -1.1) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connector_Hirose.3dshapes/Hirose_DF12_DF12C(3.0)-14DS-0.5V(81)_2x14_P0.50mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Hirose.3dshapes/Hirose_DF12_DF12C3.0-14DS-0.5V_2x14_P0.50mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
