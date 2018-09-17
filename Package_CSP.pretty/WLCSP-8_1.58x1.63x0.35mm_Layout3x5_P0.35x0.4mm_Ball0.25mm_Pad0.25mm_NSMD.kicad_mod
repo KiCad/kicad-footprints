@@ -1,4 +1,4 @@
-(module WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD (layer F.Cu) (tedit 5B9F0792)
+(module WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD (layer F.Cu) (tedit 5B9FB40A)
   (descr "WLCSP/XFBGA 8-pin package, staggered pins, http://www.adestotech.com/wp-content/uploads/DS-AT25DF041B_040.pdf")
   (tags "WLCSP WLCSP-8 XFBGA XFBGA-8  CSP BGA Chip-Scale Glass-Top")
   (attr smd)
@@ -45,7 +45,7 @@
     (solder_mask_margin 0.03))
   (pad A1 smd circle (at -0.35 -0.4) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.03))
-  (model ${KISYS3DMOD}/Package_CSP.3dshapes/WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD.step
+  (model ${KISYS3DMOD}/Package_CSP.3dshapes/WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
