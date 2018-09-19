@@ -1,10 +1,10 @@
-(module TerminalBlock_Würth_691311400102_P7.62mm (layer F.Cu) (tedit 5B582864)
+(module TerminalBlock_Wuerth_691311400102_P7.62mm (layer F.Cu) (tedit 5B582864)
   (descr https://katalog.we-online.de/em/datasheet/6913114001xx.pdf)
-  (tags "Würth WR-TBL Series 3114 terminal block pitch 7.62mm")
+  (tags "Wuerth WR-TBL Series 3114 terminal block pitch 7.62mm")
   (fp_text reference REF** (at 3.81 -6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TerminalBlock_Würth_691311400102_P7.62mm (at 3.81 5) (layer F.Fab)
+  (fp_text value TerminalBlock_Wuerth_691311400102_P7.62mm (at 3.81 5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.8 -4.7) (end 11.42 -4.7) (layer F.Fab) (width 0.1))
@@ -35,7 +35,7 @@
   (fp_line (start -3.8 -3.7) (end -2.8 -4.7) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole rect (at 0 0) (size 2.54 2.54) (drill 1.6) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 7.62 0) (size 2.54 2.54) (drill 1.6) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TerminalBlock.3dshapes/TerminalBlock_Würth_691311400102_P7.62mm.wrl
+  (model ${KISYS3DMOD}/TerminalBlock.3dshapes/TerminalBlock_Wuerth_691311400102_P7.62mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
