@@ -1,6 +1,6 @@
-(module Converter_DCDC_muRata_OKI-78SR_horizontal (layer F.Cu) (tedit 5BA3B842)
+(module Converter_DCDC_muRata_OKI-78SR_horizontal (layer F.Cu) (tedit 5BA3CB95)
   (descr https://power.murata.com/data/power/oki-78sr.pdf)
-  (attr smd)
+  (tags "78sr3.3 78sr5 78sr9 78sr12 78srXX")
   (fp_text reference REF** (at 0 2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
