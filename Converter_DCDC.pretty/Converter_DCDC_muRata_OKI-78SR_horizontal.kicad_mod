@@ -1,4 +1,4 @@
-(module Converter_DCDC_muRata_OKI-78SR_horizontal (layer F.Cu) (tedit 5BA39689)
+(module Converter_DCDC_muRata_OKI-78SR_horizontal (layer F.Cu) (tedit 5BA3B842)
   (descr https://power.murata.com/data/power/oki-78sr.pdf)
   (attr smd)
   (fp_text reference REF** (at 0 2.54) (layer F.SilkS)
@@ -33,4 +33,9 @@
   (pad 1 thru_hole rect (at 0 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.54 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -5.08 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_muRata_OKI-78SR_horizontal.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
