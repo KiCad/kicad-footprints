@@ -1,4 +1,4 @@
-(module Converter_DCDC_muRata_OKI-78SR_vertical (layer F.Cu) (tedit 5BA385A7)
+(module Converter_DCDC_muRata_OKI-78SR_vertical (layer F.Cu) (tedit 5BA3B8E2)
   (descr https://power.murata.com/data/power/oki-78sr.pdf)
   (tags "78sr3.3 78sr5 78sr9 78sr12 78srXX")
   (fp_text reference REF** (at 0 3.556 180) (layer F.SilkS)
