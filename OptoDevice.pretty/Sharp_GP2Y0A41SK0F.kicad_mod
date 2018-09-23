@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 (module Sharp_GP2Y0A41SK0F (layer F.Cu) (tedit 5BA6E8D8)
+=======
+(module Sharp_GP2Y0A41SK0F (layer F.Cu) (tedit 5BA6E779)
+>>>>>>> ff205311a8cfcc90cc861b50839e23a6b94631f6
   (descr http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a41sk_e.pdf)
   (tags "Distance Sensor Sharp")
   (attr virtual)
