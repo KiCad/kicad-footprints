@@ -1,4 +1,4 @@
-(module Converter_ACDC_RECOM_RAC01-xxSGB_THT (layer F.Cu) (tedit 5BA7C6F0)
+(module Converter_ACDC_RECOM_RAC01-xxSGB_THT (layer F.Cu) (tedit 5BA81392)
   (descr https://www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf)
   (tags "recom power ac dc rac01xxgb rac01-05sgb rac01-12sgb")
   (fp_text reference REF** (at 0 -19.6 180) (layer F.SilkS)
@@ -29,8 +29,8 @@
   (fp_line (start 27.95 3.63) (end -2.93 3.63) (layer F.SilkS) (width 0.12))
   (fp_line (start -2.8 1) (end -2.8 3.5) (layer F.Fab) (width 0.1))
   (fp_line (start -3.175 -1.27) (end -3.175 1.27) (layer F.SilkS) (width 0.12))
-  (pad 3 thru_hole circle (at 27.94 -15.24 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (pad 4 thru_hole circle (at 27.94 -7.62 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at 28 -15.24 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 28 -7.62 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -15.24 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Converter_ACDC.3dshapes/Converter_ACDC_RECOM_RAC01-xxSGB_THT.wrl
