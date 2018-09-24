@@ -1,5 +1,6 @@
-(module TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical (layer F.Cu) (tedit 5BA9416C)
+(module TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical (layer F.Cu) (tedit 5BA94335)
   (descr https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F350211%7FU5%7Fpdf%7FEnglish%7FENG_CD_350211_U5.pdf%7F350211-1)
+  (tags "connector TE MATE-N-LOK top entry ATA PATA IDE 5.25 inch floppy drive power")
   (fp_text reference REF** (at 8.89 -6.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
