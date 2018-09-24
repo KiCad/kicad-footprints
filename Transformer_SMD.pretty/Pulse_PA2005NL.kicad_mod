@@ -1,6 +1,6 @@
 (module Pulse_PA2005NL (layer F.Cu) (tedit 5B308152)
   (descr "SMT Gate Drive Transformer, 1:1:1, 11.8x8.8x4.0mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)")
-  (tags "pulse pa2005nl")
+  (tags "pulse pa2005nl pa0173nl")
   (attr smd)
   (fp_text reference REF** (at 0 -5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
