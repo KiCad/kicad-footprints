@@ -1,9 +1,9 @@
-(module Samtec_HSMC_Card_ASP-122952-01_3.076x0.923in_P0.5mm_Vertical locked (layer F.Cu) (tedit 5BA6B115)
+(module Samtec_HSMC_Card_ASP-122952-01_3.076x0.923in_P0.5mm_Vertical locked (layer F.Cu) (tedit 5BA98A28)
   (attr smd)
   (fp_text reference J1 (at 0 5.334) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
-  (fp_text value Samtec_HSMC_Card_ASP-122952-01_3.076x0.923in_P0.5mm_Vertical (at 0 -7.112) (layer F.SilkS) hide
+  (fp_text value HSMC (at 0 7.62) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
   (fp_line (start -39.0652 -5.715) (end 39.0652 -5.715) (layer F.CrtYd) (width 0.15))

@@ -1,11 +1,11 @@
-(module Samtec_HSMC_Host_QSH-090-01-x-D-A_3.1x0.451in_P0.5mm_Vertical locked (layer F.Cu) (tedit 5BA6D0AE)
+(module Samtec_HSMC_Host_QSH-090-01-x-D-A_3.1x0.451in_P0.5mm_Vertical locked (layer F.Cu) (tedit 5BA98B8E)
   (descr http://suddendocs.samtec.com/prints/asp-122953-01-mkt.pdf)
   (tags HSMC)
   (attr smd)
   (fp_text reference J1 (at 0 5.842) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
-  (fp_text value Samtec_HSMC_Host_QSH-090-01-x-D-A_3.1x0.451in_P0.5mm_Vertical (at 0 -7.112) (layer F.SilkS) hide
+  (fp_text value HSMC (at 0 7.874) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
   (fp_line (start -31.242 4.064) (end -27.94 4.064) (layer F.SilkS) (width 0.254))

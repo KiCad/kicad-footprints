@@ -1,9 +1,9 @@
-(module Samtec_HSMC_Card_QTH-090-01-x-D-A_3.076x0.932in_P0.5mm_Vertical (layer F.Cu) (tedit 5BA73837)
+(module Samtec_HSMC_Card_QTH-090-01-x-D-A_3.076x0.932in_P0.5mm_Vertical (layer F.Cu) (tedit 5BA98A65)
   (attr smd)
   (fp_text reference J1 (at 0 5.334) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
-  (fp_text value HSMC (at 0 -7.112) (layer F.SilkS) hide
+  (fp_text value HSMC (at 0 7.366) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
   (fp_line (start 27.94 -3.302) (end 30.48 -3.302) (layer F.SilkS) (width 0.254))
