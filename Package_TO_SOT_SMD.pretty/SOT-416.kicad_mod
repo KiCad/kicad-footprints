@@ -1,5 +1,5 @@
-(module SOT-416 (layer F.Cu) (tedit 5BA986A2)
-  (descr SOT-416)
+(module SOT-416 (layer F.Cu) (tedit 5BA9C8A7)
+  (descr "SOT-416, https://www.nxp.com/docs/en/package-information/SOT416.pdf")
   (tags SOT-416)
   (attr smd)
   (fp_text reference REF** (at 0 -2.25) (layer F.SilkS)
