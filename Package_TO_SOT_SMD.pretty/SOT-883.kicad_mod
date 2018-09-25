@@ -1,5 +1,5 @@
-(module SOT-883 (layer F.Cu) (tedit 5BA97F21)
-  (descr SOT-883)
+(module SOT-883 (layer F.Cu) (tedit 5BA9C918)
+  (descr "SOT-883, https://assets.nexperia.com/documents/outline-drawing/SOT883.pdf")
   (tags SOT-883)
   (attr smd)
   (fp_text reference REF** (at 0 -1.905) (layer F.SilkS)
