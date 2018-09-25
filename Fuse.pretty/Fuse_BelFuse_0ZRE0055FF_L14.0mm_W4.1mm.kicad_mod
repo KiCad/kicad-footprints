@@ -1,4 +1,4 @@
-(module Fuse_BelFuse_0ZRE0055FF_L14.0mm_W4.1mm (layer F.Cu) (tedit 5BAAB81D)
+(module Fuse_BelFuse_0ZRE0055FF_L14.0mm_W4.1mm (layer F.Cu) (tedit 5BAABB33)
   (descr "Fuse 0ZRE0055FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf")
   (tags "0ZRE BelFuse radial PTC")
   (fp_text reference REF** (at 2.54 -2.54) (layer F.SilkS)
@@ -22,8 +22,8 @@
   (fp_line (start -4.45 3) (end 9.55 3) (layer F.Fab) (width 0.1))
   (fp_line (start -4.45 -1.1) (end -4.45 3) (layer F.Fab) (width 0.1))
   (fp_line (start 9.55 -1.1) (end 9.55 3) (layer F.Fab) (width 0.1))
-  (pad 2 thru_hole circle (at 5.1 1.9) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 5.1 1.9) (size 1.56 1.56) (drill 1.01) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 0 0) (size 1.56 1.56) (drill 1.01) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Fuse.3dshapes/Fuse_BelFuse_0ZRE_0ZRE0055FF_L14.0mm_W4.1mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
