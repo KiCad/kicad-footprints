@@ -1,4 +1,4 @@
-(module DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm (layer F.Cu) (tedit 5BAC3FF4)
+(module DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm (layer F.Cu) (tedit 5BAC408F)
   (descr "8-Lead Plastic Dual Flat, No Lead Package (8MA2) - 2x3x0.6 mm Body [UDFN] (see http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf)")
   (tags "DFN 0.5")
   (attr smd)
@@ -35,7 +35,7 @@
   (pad "" smd rect (at -0.325 0.375) (size 0.5 0.6) (layers F.Paste))
   (pad "" smd rect (at 0.325 -0.375) (size 0.5 0.6) (layers F.Paste))
   (pad "" smd rect (at 0.325 0.375) (size 0.5 0.6) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
