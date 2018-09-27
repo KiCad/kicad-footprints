@@ -1,4 +1,4 @@
-(module Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm (layer F.Cu) (tedit 5A0AA2C0)
+(module Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm (layer F.Cu) (tedit 5BA517FC)
   (descr "PQFN 44 leads, 7x7mm, 0.127mm stencil (https://www.infineon.com/dgdl/ir4302.pdf?fileId=5546d462533600a4015355d602a9181d, https://www.infineon.com/dgdl/Infineon-AN1170-AN-v05_00-EN.pdf?fileId=5546d462533600a40153559ac3e51134)")
   (tags "pqfn 44 7x7mm")
   (attr smd)
@@ -33,13 +33,8 @@
   (fp_line (start 3.62 -3.62) (end 3.62 -3.1) (layer F.SilkS) (width 0.12))
   (fp_line (start 3.62 -1.9) (end 3.62 -1.7) (layer F.SilkS) (width 0.12))
   (fp_line (start 3.62 1.9) (end 3.62 1.7) (layer F.SilkS) (width 0.12))
-  (pad 19 smd rect (at 1.7835 2.52) (size 2.72 1.27) (layers F.Cu F.Mask))
-  (pad 19 smd rect (at 0.7535 3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 31 smd rect (at -1.6665 0.1) (size 2.16 4.78) (layers F.Cu F.Mask))
   (pad 13 smd rect (at -2.7465 3.45) (size 0.25 0.7) (layers F.Cu F.Mask))
   (pad 1 smd rect (at -3.4465 -2.75) (size 0.7 0.25) (layers F.Cu F.Mask))
-  (pad 20 smd rect (at 1.3835 0.84) (size 2.72 1.27) (layers F.Cu F.Mask))
-  (pad 20 smd rect (at 3.2685 1.3) (size 1.05 0.35) (layers F.Cu F.Mask))
   (pad 2 smd rect (at -3.4465 -2.25) (size 0.7 0.25) (layers F.Cu F.Mask))
   (pad 3 smd rect (at -3.4465 -1.75) (size 0.7 0.25) (layers F.Cu F.Mask))
   (pad 4 smd rect (at -3.4465 -1.25) (size 0.7 0.25) (layers F.Cu F.Mask))
@@ -52,42 +47,13 @@
   (pad 11 smd rect (at -3.4465 2.25) (size 0.7 0.25) (layers F.Cu F.Mask))
   (pad 12 smd rect (at -3.4465 2.75) (size 0.7 0.25) (layers F.Cu F.Mask))
   (pad 14 smd rect (at -2.2465 3.45) (size 0.25 0.7) (layers F.Cu F.Mask))
-  (pad 31 smd rect (at -1.7465 3.145) (size 0.25 1.31) (layers F.Cu F.Mask))
   (pad 16 smd rect (at -1.2465 3.45) (size 0.25 0.7) (layers F.Cu F.Mask))
   (pad 17 smd rect (at -0.7465 3.45) (size 0.25 0.7) (layers F.Cu F.Mask))
-  (pad 20 smd rect (at -0.2465 3.425) (size 0.25 0.75) (layers F.Cu F.Mask))
   (pad 26 smd rect (at -0.7465 -3.45) (size 0.25 0.7) (layers F.Cu F.Mask))
   (pad 27 smd rect (at -1.2465 -3.45) (size 0.25 0.7) (layers F.Cu F.Mask))
   (pad 29 smd rect (at -2.2465 -3.45) (size 0.25 0.7) (layers F.Cu F.Mask))
   (pad 30 smd rect (at -2.7465 -3.45) (size 0.25 0.7) (layers F.Cu F.Mask))
-  (pad 31 smd rect (at -1.5665 -2.39) (size 1.96 0.2) (layers F.Cu F.Mask))
-  (pad 31 smd rect (at -2.5465 -2.29 45) (size 0.283 0.282843) (layers F.Cu F.Mask))
-  (pad 31 smd rect (at -1.7465 -3.145) (size 0.25 1.31) (layers F.Cu F.Mask))
-  (pad 19 smd rect (at 1.2535 3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 19 smd rect (at 1.7535 3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 19 smd rect (at 2.2535 3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 19 smd rect (at 2.7535 3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 20 smd rect (at -0.0265 2.26) (size 0.25 1.98) (layers F.Cu F.Mask))
-  (pad 19 smd rect (at 3.4685 2.75) (size 0.65 0.25) (layers F.Cu F.Mask))
-  (pad 21 smd rect (at 3.5185 0.25) (size 0.55 0.25) (layers F.Cu F.Mask))
-  (pad 21 smd rect (at 3.5185 0.75) (size 0.55 0.25) (layers F.Cu F.Mask))
-  (pad 22 smd rect (at 3.5185 -0.25) (size 0.55 0.25) (layers F.Cu F.Mask))
-  (pad 22 smd rect (at 3.5185 -0.75) (size 0.55 0.25) (layers F.Cu F.Mask))
-  (pad 24 smd rect (at 1.7865 -2.52) (size 2.72 1.27) (layers F.Cu F.Mask))
-  (pad 19 smd rect (at 3.4685 2.25) (size 0.65 0.25) (layers F.Cu F.Mask))
-  (pad 21 smd rect (at 3.1435 0.5) (size 0.2 0.75) (layers F.Cu F.Mask))
-  (pad 22 smd rect (at 3.1435 -0.5) (size 0.2 0.75) (layers F.Cu F.Mask))
-  (pad 23 smd rect (at -0.2465 -3.425) (size 0.25 0.75) (layers F.Cu F.Mask))
-  (pad 23 smd rect (at -0.0265 -2.26) (size 0.25 1.98) (layers F.Cu F.Mask))
   (pad 23 smd rect (at 1.3835 -0.84) (size 2.72 1.27) (layers F.Cu F.Mask))
-  (pad 23 smd rect (at 3.2685 -1.3) (size 1.05 0.35) (layers F.Cu F.Mask))
-  (pad 24 smd rect (at 2.2535 -3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 24 smd rect (at 1.7535 -3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 24 smd rect (at 2.7535 -3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 24 smd rect (at 0.7535 -3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 24 smd rect (at 1.2535 -3.4775) (size 0.25 0.645) (layers F.Cu F.Mask))
-  (pad 24 smd rect (at 3.4715 -2.25) (size 0.65 0.25) (layers F.Cu F.Mask))
-  (pad 24 smd rect (at 3.4715 -2.75) (size 0.65 0.25) (layers F.Cu F.Mask))
   (pad "" smd rect (at -2.2065 0.72) (size 0.77 0.93) (layers F.Paste F.Mask))
   (pad "" smd rect (at -1.1265 0.72) (size 0.77 0.93) (layers F.Paste F.Mask))
   (pad "" smd rect (at -2.2065 -0.52) (size 0.77 0.93) (layers F.Paste F.Mask))
@@ -158,6 +124,97 @@
   (pad "" smd rect (at -0.0265 1.67) (size 0.21 0.34) (layers F.Paste))
   (pad "" smd rect (at -0.0265 -2.37) (size 0.21 0.34) (layers F.Paste))
   (pad "" smd rect (at -0.0265 -1.67) (size 0.21 0.34) (layers F.Paste))
+  (pad 31 smd custom (at -1.6665 0.1) (size 2.16 4.78) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.88 -2.59) (xy 1.08 -2.59) (xy 1.08 -2.39) (xy -0.88 -2.39)) (width 0))
+      (gr_poly (pts
+         (xy -1.08 -2.39) (xy -0.88 -2.59) (xy -0.88 -2.39)) (width 0))
+      (gr_poly (pts
+         (xy -0.205 -3.9) (xy 0.045 -3.9) (xy 0.045 -2.59) (xy -0.205 -2.59)) (width 0))
+      (gr_poly (pts
+         (xy -0.205 2.39) (xy 0.045 2.39) (xy 0.045 3.7) (xy -0.205 3.7)) (width 0))
+    ))
+  (pad 22 smd custom (at 3.1435 -0.5) (size 0.2 0.75) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 0.1 -0.375) (xy 0.65 -0.375) (xy 0.65 -0.125) (xy 0.1 -0.125)) (width 0))
+      (gr_poly (pts
+         (xy 0.1 0.125) (xy 0.65 0.125) (xy 0.65 0.375) (xy 0.1 0.375)) (width 0))
+    ))
+  (pad 21 smd custom (at 3.1435 0.5) (size 0.2 0.75) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 0.1 -0.375) (xy 0.65 -0.375) (xy 0.65 -0.125) (xy 0.1 -0.125)) (width 0))
+      (gr_poly (pts
+         (xy 0.1 0.125) (xy 0.65 0.125) (xy 0.65 0.375) (xy 0.1 0.375)) (width 0))
+    ))
+  (pad 19 smd custom (at 1.7835 2.52) (size 2.72 1.27) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 1.36 -0.395) (xy 2.01 -0.395) (xy 2.01 -0.145) (xy 1.36 -0.145)) (width 0))
+      (gr_poly (pts
+         (xy 1.36 0.105) (xy 2.01 0.105) (xy 2.01 0.355) (xy 1.36 0.355)) (width 0))
+      (gr_poly (pts
+         (xy -1.155 0.635) (xy -0.905 0.635) (xy -0.905 1.28) (xy -1.155 1.28)) (width 0))
+      (gr_poly (pts
+         (xy -0.655 0.635) (xy -0.405 0.635) (xy -0.405 1.28) (xy -0.655 1.28)) (width 0))
+      (gr_poly (pts
+         (xy -0.155 0.635) (xy 0.095 0.635) (xy 0.095 1.28) (xy -0.155 1.28)) (width 0))
+      (gr_poly (pts
+         (xy 0.345 0.635) (xy 0.595 0.635) (xy 0.595 1.28) (xy 0.345 1.28)) (width 0))
+      (gr_poly (pts
+         (xy 0.845 0.635) (xy 1.095 0.635) (xy 1.095 1.28) (xy 0.845 1.28)) (width 0))
+    ))
+  (pad 24 smd custom (at 1.7835 -2.52) (size 2.72 1.27) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 1.36 0.145) (xy 2.01 0.145) (xy 2.01 0.395) (xy 1.36 0.395)) (width 0))
+      (gr_poly (pts
+         (xy 1.36 -0.355) (xy 2.01 -0.355) (xy 2.01 -0.105) (xy 1.36 -0.105)) (width 0))
+      (gr_poly (pts
+         (xy -1.155 -1.28) (xy -0.905 -1.28) (xy -0.905 -0.635) (xy -1.155 -0.635)) (width 0))
+      (gr_poly (pts
+         (xy -0.655 -1.28) (xy -0.405 -1.28) (xy -0.405 -0.635) (xy -0.655 -0.635)) (width 0))
+      (gr_poly (pts
+         (xy -0.155 -1.28) (xy 0.095 -1.28) (xy 0.095 -0.635) (xy -0.155 -0.635)) (width 0))
+      (gr_poly (pts
+         (xy 0.345 -1.28) (xy 0.595 -1.28) (xy 0.595 -0.635) (xy 0.345 -0.635)) (width 0))
+      (gr_poly (pts
+         (xy 0.845 -1.28) (xy 1.095 -1.28) (xy 1.095 -0.635) (xy 0.845 -0.635)) (width 0))
+    ))
+  (pad 23 smd custom (at 1.3835 -0.84) (size 2.72 1.27) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 1.36 -0.635) (xy 2.41 -0.635) (xy 2.41 -0.285) (xy 1.36 -0.285)) (width 0))
+      (gr_poly (pts
+         (xy -1.535 -0.43) (xy -1.285 -0.43) (xy -1.285 -2.41) (xy -1.535 -2.41)) (width 0))
+      (gr_poly (pts
+         (xy -1.755 -2.21) (xy -1.505 -2.21) (xy -1.505 -2.96) (xy -1.755 -2.96)) (width 0))
+    ))
+  (pad 20 smd custom (at 1.3835 0.84) (size 2.72 1.27) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 1.36 0.285) (xy 2.41 0.285) (xy 2.41 0.635) (xy 1.36 0.635)) (width 0))
+      (gr_poly (pts
+         (xy -1.535 0.43) (xy -1.285 0.43) (xy -1.285 2.41) (xy -1.535 2.41)) (width 0))
+      (gr_poly (pts
+         (xy -1.755 2.21) (xy -1.505 2.21) (xy -1.505 2.96) (xy -1.755 2.96)) (width 0))
+    ))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

@@ -1,4 +1,4 @@
-(module Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.15x5.15mm (layer F.Cu) (tedit 5A0AA2C0)
+(module Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.15x5.15mm (layer F.Cu) (tedit 5BA42448)
   (descr "MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2052mpbf.pdf?fileId=5546d462533600a401535675d3b32788)")
   (tags "mlpq 32 7x7mm")
   (attr smd)
@@ -28,7 +28,15 @@
   (fp_line (start -3.62 3.62) (end -3.62 3.1) (layer F.SilkS) (width 0.12))
   (fp_line (start 3.1 -3.62) (end 3.62 -3.62) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -3.425 -2.75) (size 0.65 0.22) (layers F.Cu F.Mask))
-  (pad 49 smd rect (at 0 0.184) (size 5.15 4.782) (layers F.Cu F.Mask))
+  (pad 49 smd custom (at 0 0.184) (size 5.15 4.782) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -2.575 -2.391) (xy -2.207 -2.759) (xy -2.207 -2.391)) (width 0))
+      (gr_poly (pts
+         (xy -2.207 -2.759) (xy 2.575 -2.759) (xy 2.575 -2.391) (xy -2.207 -2.391)) (width 0))
+    ))
   (pad "" smd rect (at 2.025 2.025) (size 1 1) (layers F.Paste))
   (pad "" smd rect (at 2.025 0.675) (size 1 1) (layers F.Paste))
   (pad "" smd rect (at 2.025 -0.675) (size 1 1) (layers F.Paste))
@@ -142,8 +150,6 @@
   (pad "" smd rect (at -2.025 -1.8555) (size 1 0.661) (layers F.Paste))
   (pad "" smd rect (at -1.8555 -2.3555) (size 0.661 0.339) (layers F.Paste))
   (pad "" smd rect (at -2.1863 -2.1863 45) (size 0.479 0.479) (layers F.Paste))
-  (pad 49 smd rect (at 0.184 -2.391) (size 4.782 0.368) (layers F.Cu F.Mask))
-  (pad 49 smd rect (at -2.207 -2.207 45) (size 0.52 0.52) (layers F.Cu F.Mask))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.15x5.15mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

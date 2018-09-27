@@ -1,4 +1,4 @@
-(module PQFN_8x8 (layer F.Cu) (tedit 5A70F87D)
+(module PQFN_8x8 (layer F.Cu) (tedit 5BA3C72B)
   (descr "Low profile 8x8mm PQFN package e.g. https://www.fairchildsemi.com/datasheets/FD/FDMT80080DC.pdf")
   (tags "pqfn vdfn mosfet")
   (attr smd)
@@ -26,22 +26,37 @@
   (fp_line (start 0 0.25) (end 0 -0.25) (layer F.Fab) (width 0.1))
   (fp_line (start 0.25 0) (end -0.25 0) (layer F.Fab) (width 0.1))
   (fp_circle (center 0 0) (end 0 0.25) (layer F.Fab) (width 0.1))
-  (pad 1 smd rect (at -3.94 -3 270) (size 1.1 1.15) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at -3.94 -1 270) (size 1.1 1.15) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at -3.94 1 270) (size 1.1 1.15) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at -3.94 3 270) (size 1.1 1.15) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at -3.62 1 270) (size 5.1 0.5) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at 3.94 -3 270) (size 1.1 1.15) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at 3.94 -1 270) (size 1.1 1.15) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at 3.94 1 270) (size 1.1 1.15) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at 3.94 3 270) (size 1.1 1.15) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at 0.78 0 270) (size 6.9 5.23) (layers F.Cu F.Mask))
+  (pad 1 smd rect (at -3.935 -3) (size 1.13 1.1) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 2 -2.25 270) (size 1.5 1.5) (layers F.Paste))
   (pad "" smd rect (at 2 2.25 270) (size 1.5 1.5) (layers F.Paste))
   (pad "" smd rect (at 2 0 270) (size 1.5 1.5) (layers F.Paste))
   (pad "" smd rect (at -0.5 -2.25 270) (size 1.5 1.5) (layers F.Paste))
   (pad "" smd rect (at -0.5 0 270) (size 1.5 1.5) (layers F.Paste))
   (pad "" smd rect (at -0.5 2.25 270) (size 1.5 1.5) (layers F.Paste))
+  (pad 2 smd custom (at -3.61 1) (size 0.48 5.1) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.24 -2.55) (xy -0.89 -2.55) (xy -0.89 -1.45) (xy -0.24 -1.45)) (width 0))
+      (gr_poly (pts
+         (xy -0.24 -0.55) (xy -0.89 -0.55) (xy -0.89 0.55) (xy -0.24 0.55)) (width 0))
+      (gr_poly (pts
+         (xy -0.24 1.45) (xy -0.89 1.45) (xy -0.89 2.55) (xy -0.24 2.55)) (width 0))
+    ))
+  (pad 3 smd custom (at 0.785 0) (size 5.23 6.9) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 2.615 -3.55) (xy 3.715 -3.55) (xy 3.715 -2.45) (xy 2.615 -2.45)) (width 0))
+      (gr_poly (pts
+         (xy 2.615 -1.55) (xy 3.715 -1.55) (xy 3.715 -0.45) (xy 2.615 -0.45)) (width 0))
+      (gr_poly (pts
+         (xy 2.615 0.45) (xy 3.715 0.45) (xy 3.715 1.55) (xy 2.615 1.55)) (width 0))
+      (gr_poly (pts
+         (xy 2.615 2.45) (xy 3.715 2.45) (xy 3.715 3.55) (xy 2.615 3.55)) (width 0))
+    ))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/PQFN_8x8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

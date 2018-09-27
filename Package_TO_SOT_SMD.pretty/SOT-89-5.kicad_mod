@@ -1,6 +1,6 @@
-(module SOT-89-5 (layer F.Cu) (tedit 5A02FF57)
-  (descr "SOT-89-5, Housing,http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf")
-  (tags "SOT-89-5 Housing ")
+(module SOT-89-5 (layer F.Cu) (tedit 5BA2CABA)
+  (descr "SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf")
+  (tags SOT-89-5)
   (attr smd)
   (fp_text reference REF** (at -0.275 -3.525) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -22,17 +22,25 @@
   (fp_line (start 2.85 -2.55) (end -2.85 -2.55) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.85 2.55) (end 2.85 2.55) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.85 2.55) (end -2.85 -2.55) (layer F.CrtYd) (width 0.05))
-  (pad 2 smd trapezoid (at 0.775 0 270) (size 1.5 0.75) (layers F.Cu F.Paste F.Mask)
-    (rect_delta 0 0.5))
-  (pad 5 smd rect (at 1.85 -1.5 270) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
-  (pad 4 smd rect (at 1.85 1.5 270) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at -1.85 -1.5 270) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at -1.85 0 270) (size 1 1.5) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at -1.85 1.5 270) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 1.85 0 270) (size 1 1.5) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd trapezoid (at -0.775 0 90) (size 1.5 0.75) (layers F.Cu F.Paste F.Mask)
-    (rect_delta 0 0.5))
-  (pad 2 smd rect (at 0 0 270) (size 2 0.8) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 1.85 -1.5) (size 1.5 0.7) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 1.85 1.5) (size 1.5 0.7) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at -1.85 -1.5) (size 1.5 0.7) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at -1.85 1.5) (size 1.5 0.7) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd custom (at 0 0) (size 0.8 2) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -2.6 -0.5) (xy 2.6 -0.5) (xy 2.6 0.5) (xy -2.6 0.5)) (width 0))
+      (gr_poly (pts
+         (xy -0.9 -0.5) (xy -0.4 -1) (xy -0.4 -0.5)) (width 0))
+      (gr_poly (pts
+         (xy 0.9 -0.5) (xy 0.4 -1) (xy 0.4 -0.5)) (width 0))
+      (gr_poly (pts
+         (xy -0.9 0.5) (xy -0.4 1) (xy -0.4 0.5)) (width 0))
+      (gr_poly (pts
+         (xy 0.9 0.5) (xy 0.4 1) (xy 0.4 0.5)) (width 0))
+    ))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-89-5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
