@@ -1,7 +1,7 @@
 (module LFPAK56 (layer F.Cu) (tedit 5BA2E0B1)
   (descr "LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf")
   (tags "LFPAK56 SOT-669 Power-SO8")
-  (solder_mask_margin 0.07)
+  (solder_mask_margin 0.075)
   (solder_paste_margin -0.05)
   (attr smd)
   (fp_text reference REF** (at -0.245 -3.48) (layer F.SilkS)

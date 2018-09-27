@@ -1,4 +1,4 @@
-(module Infineon_PG-HSOF-8-2_ThermalVias (layer F.Cu) (tedit 5BAD486B)
+(module Infineon_PG-HSOF-8-2_ThermalVias (layer F.Cu) (tedit 5BAD64E8)
   (descr "HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/)")
   (tags "mosfet hsof toll thermal vias")
   (attr smd)

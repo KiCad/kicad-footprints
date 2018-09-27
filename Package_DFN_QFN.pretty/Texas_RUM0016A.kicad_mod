@@ -1,5 +1,5 @@
 (module Texas_RUM0016A (layer F.Cu) (tedit 5BA588C6)
-  (descr "16 Pin WQFN - 4x4x0.8 mm Body; (see Texas Instruments Package Specification RUM0016A)")
+  (descr "16 Pin WQFN - 4x4x0.8 mm Body (http://www.ti.com/lit/ds/symlink/lmh0074.pdf)")
   (tags "WQFN 0.65")
   (solder_mask_margin 0.1)
   (attr smd)
@@ -28,7 +28,7 @@
   (fp_line (start 2.15 2.15) (end 1.375 2.15) (layer F.SilkS) (width 0.12))
   (fp_line (start 2.15 -2.15) (end 1.375 -2.15) (layer F.SilkS) (width 0.12))
   (fp_line (start -1 -2) (end -2 -1) (layer F.Fab) (width 0.1))
-  (fp_line (start -2 -1) (end -2 -1) (layer F.Fab) (width 0.12))
+  (fp_line (start -2 -1) (end -2 -1) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -1.9 -0.975) (size 0.6 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.9 -0.325) (size 0.6 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.9 0.325) (size 0.6 0.3) (layers F.Cu F.Paste F.Mask))
@@ -47,7 +47,7 @@
   (pad 16 smd rect (at -0.975 -1.9 90) (size 0.6 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at 0 0) (size 2.6 2.6) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_Pitch0.65mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

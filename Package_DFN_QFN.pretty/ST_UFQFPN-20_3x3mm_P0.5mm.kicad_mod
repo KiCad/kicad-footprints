@@ -1,7 +1,6 @@
 (module ST_UFQFPN-20_3x3mm_P0.5mm (layer F.Cu) (tedit 5BA58892)
   (descr "UFQFPN 20-lead, 3 x 3 mm, 0.5 mm pitch, ultra thin fine pitch quad flat package (http://www.st.com/resource/en/datasheet/stm8s003f3.pdf)")
   (tags "UFQFPN 0.5")
-  (solder_mask_margin 0.001)
   (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
