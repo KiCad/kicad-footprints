@@ -1,4 +1,4 @@
-(module SOT-89-5_Handsoldering (layer F.Cu) (tedit 5BA2D237)
+(module SOT-89-5_Handsoldering (layer F.Cu) (tedit 5BAE92F5)
   (descr "SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf")
   (tags SOT-89-5)
   (attr smd)
@@ -31,15 +31,9 @@
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
-         (xy -3.6 -0.5) (xy 3.6 -0.5) (xy 3.6 0.5) (xy -3.6 0.5)) (width 0))
-      (gr_poly (pts
-         (xy -0.9 -0.5) (xy -0.4 -1) (xy -0.4 -0.5)) (width 0))
-      (gr_poly (pts
-         (xy 0.9 -0.5) (xy 0.4 -1) (xy 0.4 -0.5)) (width 0))
-      (gr_poly (pts
-         (xy -0.9 0.5) (xy -0.4 1) (xy -0.4 0.5)) (width 0))
-      (gr_poly (pts
-         (xy 0.9 0.5) (xy 0.4 1) (xy 0.4 0.5)) (width 0))
+         (xy -3.6 -0.5) (xy -0.9 -0.5) (xy -0.4 -1) (xy 0.4 -1) (xy 0.9 -0.5)
+         (xy 3.6 -0.5) (xy 3.6 0.5) (xy 0.9 0.5) (xy 0.4 1) (xy -0.4 1)
+         (xy -0.9 0.5) (xy -3.6 0.5)) (width 0))
     ))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-89-5.wrl
     (at (xyz 0 0 0))

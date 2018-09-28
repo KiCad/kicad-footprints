@@ -1,4 +1,4 @@
-(module L_Coilcraft_LPS4018 (layer F.Cu) (tedit 5BA410D6)
+(module L_Coilcraft_LPS4018 (layer F.Cu) (tedit 5BAE8EDD)
   (descr "SMD Inductor Coilcraft LPS4018 https://www.coilcraft.com/pdfs/lps4018.pdf")
   (tags "L Coilcraft LPS4018")
   (attr smd)
@@ -35,9 +35,7 @@
     (primitives
       (gr_poly (pts
          (xy 0.435 -1.395) (xy -0.125 -1.945) (xy -1.015 -1.945) (xy -1.015 -1.17) (xy -0.435 -0.575)
-) (width 0))
-      (gr_poly (pts
-         (xy 0.435 1.395) (xy -0.125 1.945) (xy -1.015 1.945) (xy -1.015 1.17) (xy -0.435 0.575)
+         (xy -0.435 0.575) (xy -1.015 1.17) (xy -1.015 1.945) (xy -0.125 1.945) (xy 0.435 1.395)
 ) (width 0))
     ))
   (pad 1 smd custom (at -1.765 0) (size 0.87 2.79) (layers F.Cu F.Paste F.Mask)
@@ -46,9 +44,7 @@
     (primitives
       (gr_poly (pts
          (xy -0.435 -1.395) (xy 0.125 -1.945) (xy 1.015 -1.945) (xy 1.015 -1.17) (xy 0.435 -0.575)
-) (width 0))
-      (gr_poly (pts
-         (xy -0.435 1.395) (xy 0.125 1.945) (xy 1.015 1.945) (xy 1.015 1.17) (xy 0.435 0.575)
+         (xy 0.435 0.575) (xy 1.015 1.17) (xy 1.015 1.945) (xy 0.125 1.945) (xy -0.435 1.395)
 ) (width 0))
     ))
   (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Coilcraft_LPS4018.wrl

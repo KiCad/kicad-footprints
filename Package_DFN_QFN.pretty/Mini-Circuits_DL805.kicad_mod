@@ -1,4 +1,4 @@
-(module Mini-Circuits_DL805 (layer F.Cu) (tedit 5BA51BD8)
+(module Mini-Circuits_DL805 (layer F.Cu) (tedit 5BAE93F9)
   (descr https://ww2.minicircuits.com/case_style/DL805.pdf)
   (tags "RF Switch")
   (attr smd)
@@ -32,9 +32,7 @@
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
-         (xy -0.255 -2.005) (xy 0.255 -2.005) (xy 0.255 -1.065) (xy -0.255 -1.065)) (width 0))
-      (gr_poly (pts
-         (xy -0.255 1.065) (xy 0.255 1.065) (xy 0.255 2.005) (xy -0.255 2.005)) (width 0))
+         (xy -0.255 -2.005) (xy 0.255 -2.005) (xy 0.255 2.005) (xy -0.255 2.005)) (width 0))
     ))
   (pad 1 smd rect (at -1.625 -0.99 270) (size 0.33 0.76) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.625 -0.33 270) (size 0.33 0.76) (layers F.Cu F.Paste F.Mask))
