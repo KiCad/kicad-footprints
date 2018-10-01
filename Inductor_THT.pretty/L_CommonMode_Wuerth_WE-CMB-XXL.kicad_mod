@@ -74,4 +74,9 @@
   (pad 7 thru_hole circle (at 19 11) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at 19 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_CommonMode_Wuerth_WE-CMB-XXL.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
