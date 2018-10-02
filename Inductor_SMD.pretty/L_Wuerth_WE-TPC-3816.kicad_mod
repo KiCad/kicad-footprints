@@ -1,6 +1,7 @@
 (module L_Wuerth_WE-TPC-3816 (layer F.Cu) (tedit 5BB25AD9)
   (descr "L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf")
   (attr smd)
+  (tags "wurth wuerth smd inductor")
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -40,4 +41,9 @@
          (xy 0.113252 -0.454942) (xy 0.336318 -0.494257) (xy 0.549174 -0.571693) (xy 0.745359 -0.684899) (xy 0.918917 -0.830439)
          (xy 1.064578 -1.003895) (xy 1.177922 -1.2) (xy 2.15 -1.2)) (width 0))
     ))
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Wuerth_WE-TPC-3816.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
