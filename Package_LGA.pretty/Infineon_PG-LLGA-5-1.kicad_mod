@@ -1,6 +1,7 @@
 (module Infineon_PG-LLGA-5-1 (layer F.Cu) (tedit 5BB39B96)
   (descr "Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/")
   (attr smd)
+  (tags "infineon mems microphone")
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -141,4 +142,9 @@
     (primitives
       (gr_circle (center 0 0.81) (end 0.81 0.81) (width 0.46))
     ))
+  (model ${KISYS3DMOD}/Package_LGA.3dshapes/Infineon_PG-LLGA-5-1.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
