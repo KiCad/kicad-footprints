@@ -1,4 +1,4 @@
-(module Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm (layer F.Cu) (tedit 5BB65C89)
+(module Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm (layer F.Cu) (tedit 5BB665CF)
   (descr "Buzzer, D12.2mm height 6.5mm")
   (tags buzzer)
   (fp_text reference REF** (at 2.5 -7.17) (layer F.SilkS)
@@ -16,7 +16,7 @@
   (fp_circle (center 2.5 0) (end 8.73 0) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buzzer.3dshapes/Buzzer_TDK_PS1240P02BT.wrl
+  (model ${KISYS3DMOD}/Buzzer_Beeper.3dshapes/Buzzer_TDK_PS1240P02BT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
