@@ -8,7 +8,6 @@
   (fp_text value HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP2.4x4.68mm_Mask3.4x7.8mm (at 0 4.85) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start 0 4.035) (end 0 4.035) (layer B.Fab) (width 0.12))
   (fp_line (start 0 4.035) (end 2.2 4.035) (layer F.SilkS) (width 0.12))
   (fp_line (start 0 4.035) (end -2.2 4.035) (layer F.SilkS) (width 0.12))
   (fp_line (start 0 -4.035) (end 2.2 -4.035) (layer F.SilkS) (width 0.12))
