@@ -1,4 +1,4 @@
-(module BUS_PC (layer F.Cu) (tedit 5B743C79)
+(module BUS_PC (layer F.Cu) (tedit 5BB7A99C)
   (descr "PC/XT ISA 8 bits Bus Edge Connector")
   (tags "BUS ISA PC/XT Edge connector")
   (attr virtual)
@@ -85,4 +85,9 @@
   (pad 60 connect rect (at -71.12 0) (size 1.78 7.62) (layers F.Cu F.Mask))
   (pad 61 connect rect (at -73.66 0) (size 1.78 7.62) (layers F.Cu F.Mask))
   (pad 62 connect rect (at -76.2 0) (size 1.78 7.62) (layers F.Cu F.Mask))
+  (model ${KISYS3DMOD}/Connector_PCBEdge.3dshapes/BUS_PC.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
