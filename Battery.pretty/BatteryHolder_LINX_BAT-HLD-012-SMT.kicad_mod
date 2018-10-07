@@ -1,5 +1,5 @@
-(module BatteryHolder_LINX_BAT-HLD-012-SMT (layer F.Cu) (tedit 5A2328BA)
-  (descr "SMT battery holder for CR1216/1220/1225 ")
+(module BatteryHolder_LINX_BAT-HLD-012-SMT (layer F.Cu) (tedit 5B256044)
+  (descr "SMT battery holder for CR1216/1220/1225, https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf")
   (tags "battery holder coin cell cr1216 cr1220 cr1225")
   (attr smd)
   (fp_text reference REF** (at 0 6) (layer F.SilkS)

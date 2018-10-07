@@ -2,6 +2,7 @@
   (at 0 0)
   (descr "Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,")
   (tags "Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,")
+  (attr virtual)
   (fp_text reference REF** (at 0.07874 -6.60908) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -2,6 +2,7 @@
   (at 0 0)
   (descr "Symbol, KiCAD-Logo, Silk & Copper Top,")
   (tags "Symbol, KiCAD-Logo, Silk & Copper Top,")
+  (attr virtual)
   (fp_text reference "REF**" (at 0 0) (layer F.SilkS) hide
   (effects (font (thickness 0.3)))
   )

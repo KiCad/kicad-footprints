@@ -1,5 +1,5 @@
 (module Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering (layer F.Cu) (tedit 5A0FD1B2)
-  (descr "crystal Epson Toyocom FA-238 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, hand-soldering, 3.2x2.5mm^2 package")
+  (descr "crystal Epson Toyocom FA-238 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, hand-soldering, 3.2x2.5mm^2 package")
   (tags "SMD SMT crystal hand-soldering")
   (attr smd)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)

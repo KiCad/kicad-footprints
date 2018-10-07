@@ -1,5 +1,5 @@
-(module BatteryHolder_Keystone_500 (layer F.Cu) (tedit 5A1AB755)
-  (descr "Keystone #500, CR1220 battery holder")
+(module BatteryHolder_Keystone_500 (layer F.Cu) (tedit 5B25584F)
+  (descr "Keystone #500, CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710")
   (tags "CR1220 battery holder")
   (fp_text reference REF** (at -0.35 -3.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

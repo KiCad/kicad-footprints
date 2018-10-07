@@ -2,6 +2,7 @@
   (at 0 0)
   (descr "GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,")
   (tags "GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,")
+  (attr virtual)
   (fp_text reference REF** (at 0 -6.05028) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
