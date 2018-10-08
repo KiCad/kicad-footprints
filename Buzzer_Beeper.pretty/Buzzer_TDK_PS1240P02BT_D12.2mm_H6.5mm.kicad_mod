@@ -1,5 +1,5 @@
-(module Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm (layer F.Cu) (tedit 5BBB8C1F)
-  (descr "Buzzer, D12.2mm height 6.5mm")
+(module Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm (layer F.Cu) (tedit 5BBBCEC4)
+  (descr "Buzzer, D12.2mm height 6.5mm, https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf")
   (tags buzzer)
   (fp_text reference REF** (at 2.5 -7.17) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
