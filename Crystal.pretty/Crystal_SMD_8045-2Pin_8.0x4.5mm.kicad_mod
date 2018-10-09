@@ -1,5 +1,5 @@
-(module Crystal_SMD_8045-2Pin_8.0x4.5mm (layer F.Cu) (tedit 5BBBFB10)
-  (descr "SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package")
+(module Crystal_SMD_8045-2Pin_8.0x4.5mm (layer F.Cu) (tedit 5BBBFC97)
+  (descr http://www.txccrystal.com/images/pdf/ax-automotive.pdf)
   (tags "SMD SMT crystal")
   (attr smd)
   (fp_text reference REF** (at 0 -3.7) (layer F.SilkS)
@@ -32,9 +32,4 @@
   (fp_line (start 3.75 2.5) (end 4 2.25) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -5 0) (size 2.5 3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 5 0) (size 2.5 3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_7050-2Pin_7.0x5.0mm.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
