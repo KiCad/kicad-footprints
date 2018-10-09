@@ -1,4 +1,4 @@
-(module Texas_WSON-6_DQK (layer F.Cu) (tedit 5BB9434D)
+(module Texas_WSON-6_DQK (layer F.Cu) (tedit 5BBD0A49)
   (descr "Texas WSON-6 DQK, http://www.ti.com/lit/ds/symlink/csd16301q2.pdf")
   (tags "Texas WSON6 2x2mm")
   (attr smd)
@@ -32,8 +32,8 @@
   (pad 3 smd roundrect (at -0.975 0.65) (size 0.45 0.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.167))
   (pad 2 smd roundrect (at -0.975 0) (size 0.45 0.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.167))
   (pad 1 smd roundrect (at -0.975 -0.65) (size 0.45 0.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.167))
-  (pad "" smd roundrect (at 0 -0.325) (size 0.9 0.86) (layers F.Cu F.Paste) (roundrect_rratio 0.058))
-  (pad "" smd roundrect (at 0.095 0.65) (size 0.7 0.29) (layers F.Cu F.Paste) (roundrect_rratio 0.172))
+  (pad "" smd roundrect (at 0 -0.325) (size 0.9 0.86) (layers F.Paste) (roundrect_rratio 0.058))
+  (pad "" smd roundrect (at 0.095 0.65) (size 0.7 0.29) (layers F.Paste) (roundrect_rratio 0.172))
   (model ${KISYS3DMOD}/Package_SON.3dshapes/Texas_WSON-6_DQK.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
