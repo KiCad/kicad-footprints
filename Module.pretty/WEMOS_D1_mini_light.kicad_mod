@@ -1,4 +1,4 @@
-(module WEMOS_D1_mini_light (layer F.Cu) (tedit 5BB78BEF)
+(module WEMOS_D1_mini_light (layer F.Cu) (tedit 5BBE71D3)
   (descr "16-pin module, collum spacing 22.86 mm (900 mils), https://wiki.wemos.cc/products:d1:d1_mini, https://c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg")
   (tags "ESP8266 WiFi microcontroller")
   (fp_text reference REF** (at 22 27) (layer F.SilkS)
@@ -54,6 +54,12 @@
   (fp_line (start 1.04 19.22) (end 1.04 26.12) (layer F.SilkS) (width 0.12))
   (fp_arc (start 0.63 -6.21) (end 0.63 -8.34) (angle -90) (layer F.SilkS) (width 0.12))
   (fp_arc (start 22.23 -6.21) (end 24.36 -6.21) (angle -90) (layer F.SilkS) (width 0.12))
+  (fp_text user "KEEP OUT" (at 11.43 -6.35) (layer Cmts.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "No copper" (at 11.43 -3.81) (layer Cmts.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (pad 2 thru_hole oval (at 0 2.54) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 0 5.08) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
@@ -70,27 +76,27 @@
   (pad 14 thru_hole oval (at 22.86 5.08) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 22.86 2.54) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 22.86 0) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/wemos_d1_mini_light.step
+  (model ${KISYS3DMOD}/Module.3dshapes/wemos_d1_mini_light.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step
+  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl
     (offset (xyz 0 0 9.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
   )
-  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step
+  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl
     (offset (xyz 22.86 0 9.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
   )
-  (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.step
+  (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.step
+  (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl
     (offset (xyz 22.86 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
