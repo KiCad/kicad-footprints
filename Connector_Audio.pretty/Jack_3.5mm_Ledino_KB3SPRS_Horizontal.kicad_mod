@@ -1,10 +1,10 @@
-(module StereoJack_3.5mm_Switch_Ledino_KB3SPRS_Horizontal (layer F.Cu) (tedit 5BC12D58)
+(module Jack_3.5mm_Ledino_KB3SPRS_Horizontal (layer F.Cu) (tedit 5BC12D58)
   (descr https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf)
   (tags "jack stereo TRS")
   (fp_text reference REF** (at -3.5 2.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value StereoJack_3.5mm_Switch_Ledino_KB3SPRS_Horizontal (at 2.3 -12.2) (layer F.Fab)
+  (fp_text value Jack_3.5mm_Ledino_KB3SPRS_Horizontal (at 2.3 -12.2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 2.7 -4.6) (layer F.Fab)
@@ -40,7 +40,7 @@
   (pad RN thru_hole oval (at 2.9 -7.1) (size 4 2.2) (drill 1.3) (layers *.Cu *.Mask))
   (pad R thru_hole oval (at 4.1 -9.8) (size 4 2.2) (drill 1.3) (layers *.Cu *.Mask))
   (pad S thru_hole oval (at -3.9 -4.6) (size 2.2 4) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/StereoJack_3.5mm_Switch_Ledino_KB3SPRS_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_3.5mm_Ledino_KB3SPRS_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
