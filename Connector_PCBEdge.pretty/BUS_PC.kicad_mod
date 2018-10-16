@@ -1,5 +1,5 @@
-(module BUS_PC (layer F.Cu) (tedit 5BC59063)
-  (descr "PC/XT ISA 8 bits Bus Edge Connector")
+(module BUS_PC (layer F.Cu) (tedit 5BC59396)
+  (descr "PC/XT ISA 8 bits Bus Edge Connector (http://www.hirose.co.kr/Upload/Product/Catalog/e54801112.pdf)")
   (tags "BUS ISA PC/XT Edge connector")
   (attr virtual)
   (fp_text reference REF** (at -60.96 -6.99) (layer F.SilkS)
