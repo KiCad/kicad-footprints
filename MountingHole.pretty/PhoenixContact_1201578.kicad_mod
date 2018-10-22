@@ -14,7 +14,7 @@
   (pad "" np_thru_hole circle (at 0 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu))
   (pad "" np_thru_hole circle (at 12.5 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu))
   (pad "" np_thru_hole circle (at -12.5 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu))
-  (model "$pxc_1201578_04_USA-10_3D.stp"
+  (model "pxc_1201578_04_USA-10_3D.stp"
     (offset (xyz -21.5 5 -20.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
