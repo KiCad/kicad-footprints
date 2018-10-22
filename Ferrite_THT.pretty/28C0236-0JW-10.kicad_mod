@@ -15,7 +15,7 @@
   (fp_line (start 2.54 1.143) (end -2.54 1.143) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at -2.54 0) (size 2 2) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.54 0) (size 2 2) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/Ferrite/28C0236-0JW-10.stp
+  (model 28C0236-0JW-10.stp
     (offset (xyz 0 0 8.9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
