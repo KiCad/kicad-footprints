@@ -1,4 +1,4 @@
-(module Converter_DCDC_Murata_NCS1SxxxxSC_THT (layer F.Cu) (tedit 5BCF44AD)
+(module Converter_DCDC_Murata_NCS1SxxxxSC_THT (layer F.Cu) (tedit 5BCF44ED)
   (descr "Murata NCS1SxxxxSC https://power.murata.com/data/power/ncl/kdc_ncs1.pdf (Script generated with StandardBox.py) (Murata NCS1SxxxxSC https://power.murata.com/data/power/ncl/kdc_ncs1.pdf)")
   (tags "Murata NCS1SxxxxSC")
   (fp_text reference REF** (at 0.23 -4.395) (layer F.SilkS)
