@@ -39,7 +39,7 @@
   (pad 2 thru_hole circle (at 2.54 2.54 270) (size 1.75 1.75) (drill 0.7) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 270) (size 1.75 1.75) (drill 0.7) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/LED_THT.3dshapes/LED_VCCLite_5381_6.35x6.35mm.wrl
-    (offset (xyz -0.909 -3.522 -2.4))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
