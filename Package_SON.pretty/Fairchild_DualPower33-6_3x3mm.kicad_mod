@@ -1,6 +1,6 @@
-(module Fairchild_DualPower33-6_3x3mm (layer F.Cu) (tedit 5BD10030)
+(module Fairchild_DualPower33-6_3x3mm (layer F.Cu) (tedit 5BD10051)
   (descr "Fairchild Power33 MOSFET package, 3x3mm (see https://www.fairchildsemi.com/datasheets/FD/FDMC8032L.pdf)")
-  (tags "trenchfet mosfet")
+  (tags mosfet)
   (attr smd)
   (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
