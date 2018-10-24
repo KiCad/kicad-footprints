@@ -1,4 +1,4 @@
-(module Converter_DCDC_Murata_NCS1SxxxxSC_THT (layer F.Cu) (tedit 5BCF44ED)
+(module Converter_DCDC_Murata_NCS1SxxxxSC_THT (layer F.Cu) (tedit 5BCFF2F2)
   (descr "Murata NCS1SxxxxSC https://power.murata.com/data/power/ncl/kdc_ncs1.pdf (Script generated with StandardBox.py) (Murata NCS1SxxxxSC https://power.murata.com/data/power/ncl/kdc_ncs1.pdf)")
   (tags "Murata NCS1SxxxxSC")
   (fp_text reference REF** (at 0.23 -4.395) (layer F.SilkS)
@@ -37,7 +37,7 @@
   (fp_text user "" (at -3 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/Converter_DCDC_Murata_NCS1SxxxxSC_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NCS1SxxxxSC_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
