@@ -1,4 +1,4 @@
-(module BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD (layer F.Cu) (tedit 5B945AF6)
+(module BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD (layer F.Cu) (tedit 5BD1F1BD)
   (descr "121-ball, 0.8mm BGA (based on http://www.latticesemi.com/view_document?document_id=213)")
   (tags "BGA 0.8mm 9mm 121")
   (solder_mask_margin 0.075)
@@ -146,7 +146,7 @@
   (pad J11 smd circle (at 4 2.4) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad K11 smd circle (at 4 3.2) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad L11 smd circle (at 4 4) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-121_9.0x9.0mm_Layout11x11_P0.8mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
