@@ -72,9 +72,4 @@
   (pad 2 thru_hole circle (at 2.50 -5.04) (size 2.50 2.50) (drill 1.20) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5.00 0) (size 2.50 2.50) (drill 1.20) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 2.50 2.50) (drill 1.20) (layers *.Cu *.Mask))
-  (model Potentiometers.3dshapes/Potentiometer_Triwood_RM-065.wrl 
-	(at (xyz 0 0 0))
-	(scale (xyz 4 4 4))
-	(rotate (xyz 0 0 0))
-)
 )
