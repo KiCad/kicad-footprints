@@ -1,10 +1,10 @@
-(module PhoenixContact_1201578 (layer F.Cu) (tedit 5BCE00B3)
+(module DINRailAdapter_PhoenixContact_1201578 (layer F.Cu) (tedit 5BCE00B3)
   (descr https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1)
-  (tags "DIN rail adapter M3 clearance holes")
+  (tags "DIN rail adapter universal M3 clearance holes")
   (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value PhoenixContact_1201578 (at 0 -3.75) (layer F.Fab)
+  (fp_text value DINRailAdapter_PhoenixContact_1201578 (at 0 -3.75) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -21.25 5) (end -21.25 -5) (layer F.CrtYd) (width 0.05))
@@ -20,7 +20,7 @@
   (pad "" np_thru_hole circle (at -12.5 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu))
   (pad "" np_thru_hole circle (at 12.5 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu))
   (pad "" np_thru_hole circle (at 0 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu))
-  (model ${KISYS3DMOD}/MountingHole.3dshapes/PhoenixContact_1201578.wrl
+  (model ${KISYS3DMOD}/MountingHole.3dshapes/DINRailAdapter_PhoenixContact_1201578.wrl
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
