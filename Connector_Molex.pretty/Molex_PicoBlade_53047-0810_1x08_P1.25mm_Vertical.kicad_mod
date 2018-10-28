@@ -1,10 +1,10 @@
-(module Molex_PicoBlade_53047-1610_1x08_P1.25mm_Vertical (layer F.Cu) (tedit 5B783167)
-  (descr "Molex PicoBlade Connector System, 53047-1610, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator")
+(module Molex_PicoBlade_53047-0810_1x08_P1.25mm_Vertical (layer F.Cu) (tedit 5B783167)
+  (descr "Molex PicoBlade Connector System, 53047-0810, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex PicoBlade side entry")
   (fp_text reference REF** (at 4.38 -3.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Molex_PicoBlade_53047-1610_1x08_P1.25mm_Vertical (at 4.38 2.35) (layer F.Fab)
+  (fp_text value Molex_PicoBlade_53047-0810_1x08_P1.25mm_Vertical (at 4.38 2.35) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.5 -2.05) (end -1.5 1.15) (layer F.Fab) (width 0.1))
@@ -48,7 +48,7 @@
   (fp_text user %R (at 4.38 -1.35) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_PicoBlade_53047-1610_1x08_P1.25mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_PicoBlade_53047-0810_1x08_P1.25mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
