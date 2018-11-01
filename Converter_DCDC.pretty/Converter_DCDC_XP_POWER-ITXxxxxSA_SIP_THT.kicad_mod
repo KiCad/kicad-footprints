@@ -30,7 +30,7 @@
   (pad 3 thru_hole circle (at 0 5.08) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 0 15.24) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 0 17.78) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_ITXxxxxSA_SIP_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-ITXxxxxSA_SIP_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
