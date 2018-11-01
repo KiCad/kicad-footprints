@@ -29,7 +29,7 @@
   (pad 4 thru_hole oval (at 0 7.62) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 0 10.16) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 0 12.7) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_IA48xx_SIP_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-IA48xx_SIP_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
