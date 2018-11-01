@@ -1,10 +1,10 @@
-(module Converter_DCDC_XP_POWER-ITXxxxx_SIP_THT (layer F.Cu) (tedit 5BD9D4DD)
-  (descr "XP_POWER ITXxxxxS footprint based on SIP8, https://www.xppower.com/pdfs/SF_ITX.pdf")
-  (tags "XP_POWER ITXxxxxS DCDC-Converter")
+(module Converter_DCDC_XP_POWER-ITxxxxx_SIP_THT (layer F.Cu) (tedit 5BD9D4DD)
+  (descr "XP_POWER ITxxxxxS footprint based on SIP8, for ITXxxxxS, ITXxxxxS-R, ITXxxxxSA-R, ITQxxxxS, ITQxxxxSA, https://www.xppower.com/pdfs/SF_ITX.pdf, https://www.xppower.com/pdfs/SF_ITQ.pdf")
+  (tags "XP_POWER ITxxxxxS DCDC-Converter")
   (fp_text reference REF** (at -3 -3.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_DCDC_XP_POWER-ITXxxxx_SIP_THT (at -1.1 21.4) (layer F.Fab)
+  (fp_text value Converter_DCDC_XP_POWER-ITxxxxx_SIP_THT (at -1.1 21.4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.6 -2.4) (end 2.4 -2.4) (layer F.SilkS) (width 0.12))
@@ -31,7 +31,7 @@
   (pad 3 thru_hole circle (at 0 5.08) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 0 15.24) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 0 17.78) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_ITXxxxx_SIP_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_ITxxxxx_SIP_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
