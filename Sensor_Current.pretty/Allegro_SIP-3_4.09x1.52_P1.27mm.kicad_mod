@@ -28,7 +28,7 @@
   (pad 1 thru_hole rect (at 0 0) (size 1.1 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 1.27 0) (size 1.1 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 2.54 0) (size 1.1 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/Allegro_SIP-3.wrl
+  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/Allegro_SIP-3_4.09x1.52_P1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
