@@ -1,5 +1,5 @@
 (module Jack_3.5mm_PJ31060-I_Horizontal (layer F.Cu) (tedit 5BC12C3B)
-  (descr "PJ31060-I 6pin SMD 3.5mm headphones jack (http://www.hy1688.com/SWITCH/DC%20JACK%20HOME/PHONE_File/PJ31060.pdf)")
+  (descr "PJ31060-I 6pin SMD 3.5mm headphones jack (http://www.china-bsun.com/Product48/1577.html)")
   (tags "headphones jack plug stereo 3.5mm PJ31060-I PJ31060")
   (attr smd)
   (fp_text reference REF** (at 0 -11.43) (layer F.SilkS)

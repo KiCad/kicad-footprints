@@ -1,5 +1,5 @@
 (module Jack_3.5mm_PJ320D_Horizontal (layer F.Cu) (tedit 5BC12B0E)
-  (descr "Headphones with microphone connector, 3.5mm, 4 pins (http://www.hy1688.com/SWITCH/DC%20JACK%20HOME/PHONE_File/PJ3020D-PJ320DS.pdf)")
+  (descr "Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)")
   (tags "3.5mm jack mic microphone phones headphones 4pins audio plug")
   (attr smd)
   (fp_text reference REF** (at 0.05 -5.35) (layer F.SilkS)

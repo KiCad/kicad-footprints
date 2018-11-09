@@ -1,5 +1,5 @@
 (module Jack_3.5mm_PJ320E_Horizontal (layer F.Cu) (tedit 5BC12BA2)
-  (descr "Headphones with microphone connector, 3.5mm, 4 pins (http://www.gdsjsy.com/uploads/soft/170712/2-1FG2094926.pdf)")
+  (descr "Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320E-177.html)")
   (tags "3.5mm jack mic microphone phones headphones 4pins audio plug")
   (fp_text reference REF** (at 2.54 -13.97) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
