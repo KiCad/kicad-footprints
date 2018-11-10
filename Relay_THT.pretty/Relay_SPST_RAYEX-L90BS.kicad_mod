@@ -1,4 +1,6 @@
-(module Relay_SPST_RAYEX-L90BS (layer F.Cu) (tedit 5BE5DE03)
+(module Relay_SPST_RAYEX-L90BS (layer F.Cu) (tedit 5BE713A9)
+  (descr https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf)
+  (tags "Relay RAYEX L90BS SPST NC")
   (fp_text reference REF** (at 12.1666 -14.0208) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
