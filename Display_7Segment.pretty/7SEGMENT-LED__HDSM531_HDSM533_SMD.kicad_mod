@@ -1,5 +1,5 @@
-(module 7SEGMENT-LED__HDSM531_HDSM533_SMD (layer F.Cu) (tedit 5A0AD2AC)
-  (descr "7-Segment Display, HDSM53x")
+(module 7SEGMENT-LED__HDSM531_HDSM533_SMD (layer F.Cu) (tedit 5BE687C7)
+  (descr "7-Segment Display, HDSM53x, https://docs.broadcom.com/docs/AV02-0713EN")
   (tags "7segment LED HDSM531 HDSM533")
   (solder_paste_margin -0.2)
   (attr smd)
