@@ -1,4 +1,4 @@
-(module RJ45_HanRun_HR911105A (layer F.Cu) (tedit 5BEF49D1)
+(module RJ45_HanRun_HR911105A (layer F.Cu) (tedit 5BEF4A94)
   (descr "HanRun HR911105A magjack THT RJ45, with leds")
   (tags "magjack rj45 ethernet")
   (fp_text reference REF** (at -4.45 -5.85) (layer F.SilkS)
@@ -41,4 +41,9 @@
   (pad 10 thru_hole circle (at -0.365 -11.25) (size 1.32 1.32) (drill 1.02) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at -8.535 -11.25) (size 1.32 1.32) (drill 1.02) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at -11.075 -11.25) (size 1.32 1.32) (drill 1.02) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_HanRun_HR911105A.step
+    (offset (xyz 3.5 17.42 13.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 0))
+  )
 )
