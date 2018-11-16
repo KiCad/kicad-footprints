@@ -1,4 +1,4 @@
-(module Valve_Socket_Noval (layer F.Cu) (tedit 5BEEC331)
+(module Valve_Socket_Noval (layer F.Cu) (tedit 5BEEC457)
   (descr https://www.tube-town.net/ttstore/images/product_images/info_images/41_1.jpg)
   (tags "valve socket noval")
   (fp_text reference REF** (at -1.47 15.54) (layer F.SilkS)
@@ -9,6 +9,7 @@
   )
   (fp_circle (center 0 0) (end 12.75 0) (layer F.SilkS) (width 0.12))
   (fp_circle (center 0 0) (end 13 0) (layer F.CrtYd) (width 0.05))
+  (fp_circle (center 0 0) (end 12.75 0) (layer F.Fab) (width 0.12))
   (pad 1 thru_hole rect (at -10 0) (size 3 3) (drill 1.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -8.09 5.88) (size 3 3) (drill 1.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -2.08 9.78) (size 3 3) (drill 1.8) (layers *.Cu *.Mask))
