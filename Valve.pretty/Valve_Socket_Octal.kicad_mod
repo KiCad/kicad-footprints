@@ -1,4 +1,4 @@
-(module Valve_Socket_Octal (layer F.Cu) (tedit 5BF138B8)
+(module Valve_Socket_Octal (layer F.Cu) (tedit 5BF13A90)
   (descr https://cdn-reichelt.de/documents/datenblatt/A100/FSRICHARDSON_ROEHRENF_8PRK_EN.pdf)
   (tags "valve socket octal")
   (fp_text reference REF** (at 13.5 17.05) (layer F.SilkS)
@@ -35,7 +35,7 @@
   (pad 8 thru_hole circle (at 3.95 -9.54) (size 3.6 3.6) (drill 2.1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 23.05 9.55) (size 3.6 3.6) (drill 2.1) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 23.05 -9.55) (size 3.6 3.6) (drill 2.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Valve.3dshapes/Valve_Octal.wrl
+  (model ${KISYS3DMOD}/Valve.3dshapes/Valve_Socket_Octal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
