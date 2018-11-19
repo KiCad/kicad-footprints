@@ -1,4 +1,4 @@
-(module Converter_DCDC_Artesyn_ATA_SMD (layer F.Cu) (tedit 5BEF2FFE)
+(module Converter_DCDC_Artesyn_ATA_SMD (layer F.Cu) (tedit 5BF2C1CB)
   (descr "DCDC-Converter, Artesyn, ATA Series, 3W Single and Dual Output, 1500VDC Isolation, 24.0x13.7x8.0mm https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf https://www.artesyn.com/power/assets/trn_dc-dc_ata_3w_series_releas1430412818_techref.pdf")
   (tags "DCDC SMD")
   (attr smd)
@@ -44,7 +44,7 @@
   (pad 9 smd rect (at 8.25 8.89) (size 2.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 8.25 6.35) (size 2.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 8.25 -8.89) (size 2.8 1.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Artesyn_ATA-Series_SMD.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Artesyn_ATA_SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
