@@ -1,5 +1,5 @@
-(module 7SegmentLED_LTS6760_LTS6780 (layer F.Cu) (tedit 5A0AD2D3)
-  (descr "7-Segment Display, LTS67x0")
+(module 7SegmentLED_LTS6760_LTS6780 (layer F.Cu) (tedit 5BE69100)
+  (descr "7-Segment Display, LTS67x0, http://optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf")
   (tags "7Segment LED LTS6760 LTS6780")
   (fp_text reference REF** (at 7.62 -2.42) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
