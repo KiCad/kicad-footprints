@@ -1,5 +1,5 @@
-(module Transformer_NF_ETAL_P3324 (layer F.Cu) (tedit 5A030845)
-  (descr "NF-Transformer, ETAL P3324,")
+(module Transformer_NF_ETAL_P3324 (layer F.Cu) (tedit 5BEAF8A2)
+  (descr "NF-Transformer, ETAL P3324,http://www.etalgroup.com/sites/default/files/products/P3324_April_2005.pdf")
   (tags "NF-Transformer ETAL P3324 ")
   (fp_text reference REF** (at -6.35 -6.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
