@@ -1,6 +1,6 @@
-(module Valve_Mini_Pentode_Linear (layer F.Cu) (tedit 5BFAA5AB)
+(module Valve_CK6418 (layer F.Cu) (tedit 5BFAAD62)
   (descr "Mini-Pentode, 5-pin, https://frank.pocnet.net/sheets/084/c/CK6418.pdf")
-  (tags "Valve Mini-Pentode 5-pin")
+  (tags "Mini-Pentode 5-pin CK6418")
   (fp_text reference REF** (at 0.76 -4.09) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
