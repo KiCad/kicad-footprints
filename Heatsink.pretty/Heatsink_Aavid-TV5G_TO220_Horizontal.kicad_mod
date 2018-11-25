@@ -1,5 +1,5 @@
-(module Heatsink_Aavid-TV5G_TO220_Horizontal (layer F.Cu) (tedit 5A1FFA20)
-  (descr http://www.aavid.eu/products/standard/tv5g)
+(module Heatsink_Aavid-TV5G_TO220_Horizontal (layer F.Cu) (tedit 5BE6CB46)
+  (descr "Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G")
   (tags "Heatsink TV5G TO-220 Horizontal ")
   (fp_text reference REF** (at 0 -7.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
