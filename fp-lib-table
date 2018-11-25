@@ -9,6 +9,7 @@
   (lib (name Capacitor_THT)(type KiCad)(uri ${KISYSMOD}/Capacitor_THT.pretty)(options "")(descr "Capacitor, through hole"))
   (lib (name Capacitor_Tantalum_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_Tantalum_SMD.pretty)(options "")(descr "Tantalum Capacitor, surface mount"))
   (lib (name Connector)(type KiCad)(uri ${KISYSMOD}/Connector.pretty)(options "")(descr "Generic/unsorted connector footprints"))
+  (lib (name Connector_AMASS)(type KiCad)(uri ${KISYSMOD}/Connector_AMASS.pretty)(options "")(descr "AMASS connector footprints"))
   (lib (name Connector_Audio)(type KiCad)(uri ${KISYSMOD}/Connector_Audio.pretty)(options "")(descr "Audio connector footprints"))
   (lib (name Connector_BarrelJack)(type KiCad)(uri ${KISYSMOD}/Connector_BarrelJack.pretty)(options "")(descr "(DC) barrel jack connector footprints"))
   (lib (name Connector_Card)(type KiCad)(uri ${KISYSMOD}/Connector_Card.pretty)(options "")(descr "Card and card holder footprints"))
