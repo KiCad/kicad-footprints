@@ -31,7 +31,7 @@
   (fp_line (start 5.6 8.05) (end 2 8.05) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -6.85 -5.715) (size 1.7 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 21 smd custom (at 0 0) (size 6.4 11.27) (layers F.Cu F.Paste F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts

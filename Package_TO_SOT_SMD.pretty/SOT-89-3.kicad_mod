@@ -30,7 +30,7 @@
   (pad 1 smd rect (at -1.65 -1.5) (size 1.3 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.65 1.5) (size 1.3 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd custom (at -1.5625 0) (size 1.475 0.9) (layers F.Cu F.Paste F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts

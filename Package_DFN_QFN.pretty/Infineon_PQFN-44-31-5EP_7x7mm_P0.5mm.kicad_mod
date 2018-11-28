@@ -125,7 +125,7 @@
   (pad "" smd rect (at -0.025 -2.37) (size 0.21 0.34) (layers F.Paste))
   (pad "" smd rect (at -0.025 -1.67) (size 0.21 0.34) (layers F.Paste))
   (pad 31 smd custom (at -1.665 0.1) (size 2.16 4.78) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -138,7 +138,7 @@
          (xy -0.205 2.39) (xy 0.045 2.39) (xy 0.045 3.7) (xy -0.205 3.7)) (width 0))
     ))
   (pad 22 smd custom (at 3.145 -0.5) (size 0.2 0.75) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -147,7 +147,7 @@
          (xy 0.1 0.125) (xy 0.65 0.125) (xy 0.65 0.375) (xy 0.1 0.375)) (width 0))
     ))
   (pad 21 smd custom (at 3.145 0.5) (size 0.2 0.75) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -156,7 +156,7 @@
          (xy 0.1 0.125) (xy 0.65 0.125) (xy 0.65 0.375) (xy 0.1 0.375)) (width 0))
     ))
   (pad 19 smd custom (at 1.785 2.52) (size 2.72 1.27) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -175,7 +175,7 @@
          (xy 0.845 0.635) (xy 1.095 0.635) (xy 1.095 1.28) (xy 0.845 1.28)) (width 0))
     ))
   (pad 24 smd custom (at 1.785 -2.52) (size 2.72 1.27) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -194,7 +194,7 @@
          (xy 0.845 -1.28) (xy 1.095 -1.28) (xy 1.095 -0.635) (xy 0.845 -0.635)) (width 0))
     ))
   (pad 23 smd custom (at 1.385 -0.84) (size 2.72 1.27) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -205,7 +205,7 @@
          (xy -1.755 -2.21) (xy -1.505 -2.21) (xy -1.505 -2.96) (xy -1.755 -2.96)) (width 0))
     ))
   (pad 20 smd custom (at 1.385 0.84) (size 2.72 1.27) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts

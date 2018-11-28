@@ -23,7 +23,7 @@
   (fp_line (start -5.1875 4.95) (end -5.1875 -3.95) (layer F.Fab) (width 0.1))
   (fp_line (start -4.1875 -4.95) (end 5.1875 -4.95) (layer F.Fab) (width 0.1))
   (pad 4 smd custom (at 3.75 0) (size 2.8 8.7) (layers B.Cu)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -83,7 +83,7 @@
   (pad "" smd rect (at -5.4 -3) (size 2.35 0.7) (layers F.Paste))
   (pad "" smd rect (at -5.4 -4.2) (size 2.35 0.7) (layers F.Paste))
   (pad 3 smd custom (at -4.4 1.2) (size 0.5 6.8) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -102,7 +102,7 @@
   (pad 1 smd rect (at -5.4 -4.2) (size 2.5 0.8) (layers F.Cu F.Mask))
   (pad 2 smd rect (at -5.4 -3) (size 2.5 0.8) (layers F.Cu F.Mask))
   (pad 4 smd custom (at 3.75 0) (size 2.8 8.7) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
