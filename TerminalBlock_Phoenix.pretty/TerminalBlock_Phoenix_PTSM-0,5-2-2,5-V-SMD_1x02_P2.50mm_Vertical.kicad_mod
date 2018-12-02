@@ -31,8 +31,8 @@
   (fp_line (start -3.75 -3.88) (end 4.75 -3.88) (layer F.SilkS) (width 0.12))
   (pad 2 smd rect (at 1.25 2.13 180) (size 1.4 3.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.25 2.13 180) (size 1.4 3.4) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at 5.05 -1.03 180) (size 2.3 5.6) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at -5.05 -1.03 180) (size 2.3 5.6) (layers F.Cu F.Paste F.Mask))
+  (pad MP smd rect (at 5.05 -1.03 180) (size 2.3 5.6) (layers F.Cu F.Paste F.Mask))
+  (pad MP smd rect (at -5.05 -1.03 180) (size 2.3 5.6) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-2-2,5-V-SMD_1x02_P2.50mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
