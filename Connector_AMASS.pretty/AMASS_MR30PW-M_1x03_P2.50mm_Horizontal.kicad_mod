@@ -1,4 +1,4 @@
-(module AMASS_MR30PW-M_1x03_P2.50mm_Horizontal (layer F.Cu) (tedit 5B95882C)
+(module AMASS_MR30PW-M_1x03_P2.50mm_Horizontal (layer F.Cu) (tedit 5C064186)
   (descr "Connector XT30 Horizontal PCB mALE, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf")
   (tags "RC Connector XT30")
   (fp_text reference REF** (at -3.5 3) (layer F.SilkS)
@@ -39,9 +39,9 @@
   (fp_arc (start 3.15 -10) (end 3.15 -8.89) (angle -180) (layer F.SilkS) (width 0.12))
   (pad "" thru_hole circle (at 3 -10) (size 1.2 1.2) (drill 1) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -10 -10) (size 1.2 1.2) (drill 1) (layers *.Cu *.Mask))
-  (pad 1 thru_hole rect (at 0 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at -3.5 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask))
-  (pad 3 thru_hole circle (at -7 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 2.7 2.7) (drill 1.9) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at -3.5 0) (size 2.7 2.7) (drill 1.9) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at -7 0) (size 2.7 2.7) (drill 1.9) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_AMASS.3dshapes/AMASS_XT30PW-M.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
