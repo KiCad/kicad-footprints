@@ -1,4 +1,4 @@
-(module Oscillator_SMD_OCXO_ConnorWinfield_OH300 (layer F.Cu) (tedit 5C07D1BB)
+(module Oscillator_SMD_OCXO_ConnorWinfield_OH300 (layer F.Cu) (tedit 5C080044)
   (descr http://www.conwin.com/datasheets/cx/cx282.pdf)
   (tags OCXO)
   (attr smd)
@@ -30,8 +30,6 @@
   (pad 5 smd rect (at 3.81 -11.4935) (size 3.048 3.175) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -3.81 -11.4935) (size 3.048 3.175) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -8.89 -11.4935) (size 3.048 3.175) (layers F.Cu F.Paste F.Mask))
-  (pad 7 smd rect (at 0 0) (size 23 26.4) (layers B.Cu)
-    (zone_connect 2))
   (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_OCXO_ConnorWinfield_OH300.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
