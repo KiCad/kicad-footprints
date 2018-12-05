@@ -1,5 +1,5 @@
-(module AMASS_MR30PW-M_1x03_P2.50mm_Horizontal (layer F.Cu) (tedit 5C064186)
-  (descr "Connector XT30 Horizontal PCB mALE, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf")
+(module AMASS_MR30PW-M_1x03_P2.50mm_Horizontal (layer F.Cu) (tedit 5C085FFF)
+  (descr "Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf")
   (tags "RC Connector XT30")
   (fp_text reference REF** (at -3.5 3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
