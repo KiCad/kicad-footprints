@@ -70,8 +70,8 @@
   (pad 7 smd rect (at 6.25 1.65 180) (size 1.2 4.4) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 8.75 1.65 180) (size 1.2 4.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -8.75 1.65 180) (size 1.2 4.4) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at 12.05 -1.05 180) (size 2.2 5.6) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at -12.05 -1.05 180) (size 2.2 5.6) (layers F.Cu F.Paste F.Mask))
+  (pad MP smd rect (at 12.05 -1.05 180) (size 2.2 5.6) (layers F.Cu F.Paste F.Mask))
+  (pad MP smd rect (at -12.05 -1.05 180) (size 2.2 5.6) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -10.15 1.05) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-8-HV-2.5-SMD_1x08_P2.50mm_Vertical.wrl
     (at (xyz 0 0 0))
