@@ -1,4 +1,4 @@
-(module Mini-Circuits_PL-094_AutoCrtYd (layer F.Cu) (tedit 5C093F56)
+(module Mini-Circuits_PL-094 (layer F.Cu) (tedit 5C093F56)
   (descr https://ww2.minicircuits.com/pcb/98-pl094.pdf)
   (tags "mini-circuits pl-094")
   (attr smd)
