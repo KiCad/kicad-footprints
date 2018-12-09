@@ -1,10 +1,10 @@
-(module Converter_DCDC_XP_POWER-IHxxxxH_SIP_THT (layer F.Cu) (tedit 5BD9D085)
+(module Converter_DCDC_XP_POWER-IHxxxxHS_SIP_THT (layer F.Cu) (tedit 5BD9D085)
   (descr "XP_POWER IHxxxxHS footprint based on SIP7, >=3000VDC isolation, https://www.xppower.com/pdfs/SF_IH.pdf")
   (tags "XP_POWER IHxxxxHS DCDC-Converter")
   (fp_text reference REF** (at -3 -3.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_DCDC_XP_POWER-IHxxxxH_SIP_THT (at -1 19) (layer F.Fab)
+  (fp_text value Converter_DCDC_XP_POWER-IHxxxxHS_SIP_THT (at -1 19) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.7 -2.7) (end 0.5 -2.7) (layer F.SilkS) (width 0.12))
@@ -29,7 +29,7 @@
   (pad 4 thru_hole oval (at 0 10.16) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 0 12.7) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 0 15.24) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-IHxxxxH_SIP_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-IHxxxxHS_SIP_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
