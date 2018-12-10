@@ -1,4 +1,4 @@
-(module Taiyo-Yuden_EYSGJNZWY (layer F.Cu) (tedit 5BA8C2C5)
+(module Taiyo-Yuden_EYSGJNZWY (layer F.Cu) (tedit 5C0E83A0)
   (descr "Taiyo Yuden NRF51822 Module Bluetooth https://www.yuden.co.jp/wireless_module/document/datareport2/en/TY_BLE_EYSGJNZ_DataReport_V1_9_20180530E.pdf")
   (tags "Taiyo Yuden NRF51822 Module Bluetooth ")
   (attr smd)
