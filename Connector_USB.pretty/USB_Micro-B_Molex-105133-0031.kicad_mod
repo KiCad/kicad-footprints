@@ -41,8 +41,8 @@
   (pad 6 thru_hole oval (at 2.8 -1.075) (size 1.8 1.1) (drill oval 1.2 0.5) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 0 1.075) (size 2.2 1.1) (drill oval 1.6 0.5) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Micro-B_Molex-105133-0031.wrl
-    (offset (xyz 0 0.95 4))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 180 0 0))
+    (rotate (xyz 0 0 0))
   )
 )
