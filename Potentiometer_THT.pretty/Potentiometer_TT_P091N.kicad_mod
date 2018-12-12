@@ -1,10 +1,10 @@
-(module Potentiometer_TT_P0915N (layer F.Cu) (tedit 5A873D33)
+(module Potentiometer_TT_P091N (layer F.Cu) (tedit 5A873D33)
   (descr http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf)
-  (tags "potentiometer vertical TT P0915N single")
+  (tags "potentiometer vertical TT P091N single")
   (fp_text reference REF** (at 2.5 -13.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Potentiometer_TT_P0915N (at 2.5 2) (layer F.Fab)
+  (fp_text value Potentiometer_TT_P091N (at 2.5 2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.1 -9.75) (end -3.1 -12.6) (layer F.CrtYd) (width 0.05))
@@ -43,7 +43,7 @@
   (pad 3 thru_hole circle (at 5 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_TT_P0915N.wrl
+  (model ${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_TT_P091N.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
