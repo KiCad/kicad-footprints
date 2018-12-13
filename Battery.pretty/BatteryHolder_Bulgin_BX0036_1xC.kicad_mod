@@ -1,5 +1,5 @@
-(module BatteryHolder_Bulgin_BX0036_1xC (layer F.Cu) (tedit 59653AC9)
-  (descr "Bulgin Battery Holder, BX0036, Battery Type C (http://www.bulgin.com/media/bulgin/data/Battery_holders.pdf)")
+(module BatteryHolder_Bulgin_BX0036_1xC (layer F.Cu) (tedit 5C0C1564)
+  (descr "Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)")
   (tags "Bulgin BX0036")
   (fp_text reference REF** (at 27.8 -18.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
