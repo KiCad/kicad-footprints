@@ -1,4 +1,4 @@
-(module BatteryHolder_MPD_BH-18650-PC2 (layer F.Cu) (tedit 5A562497)
+(module BatteryHolder_MPD_BH-18650-PC2 (layer F.Cu) (tedit 5C1007C1)
   (descr "18650 Battery Holder (http://www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)")
   (tags "18650 Battery Holder")
   (fp_text reference REF** (at 36 1) (layer F.SilkS)
@@ -24,6 +24,8 @@
   )
   (pad 2 thru_hole circle (at 72 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 8.645 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 64.255 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_MPD_BH-18650-PC2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
