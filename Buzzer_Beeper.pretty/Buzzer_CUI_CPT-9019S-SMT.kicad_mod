@@ -1,4 +1,4 @@
-(module Buzzer_CUI_CPT-9019S-SMT (layer F.Cu) (tedit 5C0881BA)
+(module Buzzer_CUI_CPT-9019S-SMT (layer F.Cu) (tedit 5C12D246)
   (descr https://www.cui.com/product/resource/cpt-9019s-smt.pdf)
   (tags "buzzer piezo")
   (attr smd)
@@ -37,4 +37,9 @@
   )
   (pad 1 smd rect (at -4 0) (size 2 4.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4 0) (size 2 4.2) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Buzzer_Beeper.3dshapes/Buzzer_CUI_CPT-9019S-SMT.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
