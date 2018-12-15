@@ -1,4 +1,4 @@
-(module BGA-484_19x19mm_Layout22x22_P0.8mm_Ball0.5mm_Pad0.4mm_NSMD (layer F.Cu) (tedit 5C13D83D)
+(module BGA-484_19x19mm_Layout22x22_P0.8mm_Ball0.5mm_Pad0.4mm (layer F.Cu) (tedit 5C146EAC)
   (descr "BGA-484, 22x22 raster, 19x19 mm package, pitch 0.8 mm, Xilinx CLG484; https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=79")
   (tags "BGA 484 0.8")
   (attr smd)
@@ -7,7 +7,7 @@
   (fp_text reference REF** (at 0 -10.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BGA-484_19x19mm_Layout22x22_P0.8mm_Ball0.5mm_Pad0.4mm_NSMD (at 0 10.5) (layer F.Fab)
+  (fp_text value BGA-484_19x19mm_Layout22x22_P0.8mm_Ball0.5mm_Pad0.4mm (at 0 10.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 9.5 9.5) (end -9.5 9.5) (layer F.Fab) (width 0.1))
@@ -510,7 +510,7 @@
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-484_19x19mm_Layout22x22_P0.8mm_Ball0.5mm_Pad0.4mm_NSMD.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-484_19x19mm_Layout22x22_P0.8mm_Ball0.5mm_Pad0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
