@@ -1,5 +1,5 @@
-(module Mini-Circuits_CD542_LandPatternPL-094 (layer F.Cu) (tedit 5C1562E4)
-  (descr https://ww2.minicircuits.com/pcb/98-pl094.pdf)
+(module Mini-Circuits_CD542_LandPatternPL-094 (layer F.Cu) (tedit 5C157146)
+  (descr "Footprint for mini circuit case CD542, Land pattern PL-094, pads 5 and 2 connected via insulated copper area below body, vias included (case drawing: https://ww2.minicircuits.com/case_style/CD542.pdf, land pattern drawing: https://ww2.minicircuits.com/pcb/98-pl094.pdf)")
   (tags "mini-circuits CD542 pl-094")
   (attr smd)
   (fp_text reference REF** (at 0.004446 -4.953) (layer F.SilkS)
