@@ -1,11 +1,11 @@
-(module TerminalBlock_Phoenix_PTSM-0,5-3-HV-2.5-SMD_1x03_P2.50mm_Vertical (layer F.Cu) (tedit 5A08B5DC)
+(module TerminalBlock_Phoenix_PTSM-0,5-3-HV-2.5-SMD_1x03-1MP_P2.50mm_Vertical (layer F.Cu) (tedit 5A08B5DC)
   (descr "PhoenixContact PTSM0,5 3 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778706/pdf")
   (tags "2.5mm vertical SMD spring clamp terminal block connector ")
   (attr smd)
   (fp_text reference REF** (at -1.4 5.51) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TerminalBlock_Phoenix_PTSM-0,5-3-HV-2.5-SMD_1x03_P2.50mm_Vertical (at 0 -6.3) (layer F.Fab)
+  (fp_text value TerminalBlock_Phoenix_PTSM-0,5-3-HV-2.5-SMD_1x03-1MP_P2.50mm_Vertical (at 0 -6.3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 -0.92) (layer F.Fab)
@@ -48,7 +48,7 @@
   (pad MP smd rect (at 5.8 -1.05 180) (size 2.2 5.6) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at -5.8 -1.05 180) (size 2.2 5.6) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -3.9 1.05) (size 1 1) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-3-HV-2.5-SMD_1x03_P2.50mm_Vertical.wrl
+  (model ${KISYS3DMOD}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-3-HV-2.5-SMD_1x03-1MP_P2.50mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
