@@ -1,4 +1,4 @@
-(module Mini-Circuits_MMM168_LandPatternPL-225 (layer F.Cu) (tedit 5C168F30)
+(module Mini-Circuits_MMM168_LandPatternPL-225 (layer F.Cu) (tedit 5C168F60)
   (descr "Footprint for Mini-Circuits case MMM168, Land pattern PL-225, vias included, (case drawing: https://ww2.minicircuits.com/case_style/MMM168.pdf, land pattern drawing: https://ww2.minicircuits.com/pcb/98-pl225.pdf)")
   (tags pl-225)
   (attr smd)
@@ -40,7 +40,7 @@
     (zone_connect 2))
   (pad 3 thru_hole circle (at 2.9337 1.4351) (size 0.808 0.808) (drill 0.508) (layers *.Cu)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_PL-225.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_MMM168.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
