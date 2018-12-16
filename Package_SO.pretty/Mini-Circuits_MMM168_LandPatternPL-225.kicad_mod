@@ -1,5 +1,5 @@
-(module Mini-Circuits_MMM168_LandPatternPL-225 (layer F.Cu) (tedit 5C168C26)
-  (descr https://ww2.minicircuits.com/pcb/98-pl225.pdf)
+(module Mini-Circuits_MMM168_LandPatternPL-225 (layer F.Cu) (tedit 5C168E54)
+  (descr "Footprint for Mini-Circuits case MMM168, Land pattern PL-225, vias included, (case drawing: https://ww2.minicircuits.com/case_style/MMM168.pdf, land pattern drawing: https://ww2.minicircuits.com/pcb/98-pl225.pdf)")
   (tags pl-225)
   (attr smd)
   (fp_text reference REF** (at 0.0254 -3.0226) (layer F.SilkS)
