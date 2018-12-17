@@ -1,5 +1,5 @@
-(module WEMOS_D1_mini_light (layer F.Cu) (tedit 5BBF472C)
-  (descr "16-pin module, colum spacing 22.86 mm (900 mils), https://wiki.wemos.cc/products:d1:d1_mini, https://c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg")
+(module WEMOS_D1_mini_light (layer F.Cu) (tedit 5BBFB1CE)
+  (descr "16-pin module, column spacing 22.86 mm (900 mils), https://wiki.wemos.cc/products:d1:d1_mini, https://c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg")
   (tags "ESP8266 WiFi microcontroller")
   (fp_text reference REF** (at 22 27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
