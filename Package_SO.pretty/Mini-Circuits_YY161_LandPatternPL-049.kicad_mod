@@ -1,11 +1,11 @@
-(module Mini-Circuits_PL-049 (layer F.Cu) (tedit 5C06986A)
-  (descr https://ww2.minicircuits.com/pdfs/SCLF-10.7.pdf)
+(module Mini-Circuits_YY161_LandPatternPL-049 (layer F.Cu) (tedit 5C17DB58)
+  (descr "Footprint for Mini-Circuits case YY161 (https://ww2.minicircuits.com/case_style/YY161.pdf) using land-pattern PL-049, including GND-connections and vias (https://ww2.minicircuits.com/pcb/98-pl049.pdf)")
   (tags "mini-circuits pl-049")
   (attr smd)
   (fp_text reference REF** (at 0.508 -10.4648) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Mini-Circuits_PL-049 (at 0 11.176) (layer F.Fab)
+  (fp_text value Mini-Circuits_YY161_LandPatternPL-049 (at 0 11.176) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.826 -8.89) (end -4.826 -8.89) (layer F.Fab) (width 0.1))
@@ -94,7 +94,7 @@
     (zone_connect 2))
   (pad 2 smd rect (at -2.921 2.54 270) (size 12.7 8.128) (layers F.Cu)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_PL-049.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_YY161.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
