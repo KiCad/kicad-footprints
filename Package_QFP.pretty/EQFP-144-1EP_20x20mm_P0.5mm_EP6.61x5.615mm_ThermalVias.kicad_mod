@@ -1,5 +1,5 @@
-(module EQFP-144-1EP_20x20mm_P0.5mm_EP6.61x5.615mm_ThermalVias (layer F.Cu) (tedit 5C196DB0)
-  (descr "EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00476-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module EQFP-144-1EP_20x20mm_P0.5mm_EP6.61x5.615mm_ThermalVias (layer F.Cu) (tedit 5C19912A)
+  (descr "EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00485-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "EQFP QFP")
   (attr smd)
   (fp_text reference REF** (at 0 -12.35) (layer F.SilkS)
