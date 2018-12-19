@@ -1,4 +1,4 @@
-(module Mini-Circuits_TT1224_LandPatternPL-258__ClockwisePinNumbering (layer F.Cu) (tedit 5C1A94E2)
+(module Mini-Circuits_TT1224_LandPatternPL-258__ClockwisePinNumbering (layer F.Cu) (tedit 5C1A95F0)
   (descr "Footprint for Mini-Circuits case TT1224 (https://ww2.minicircuits.com/case_style/TT1224.pdf) following land-pattern PL-258, including GND-vias (https://www.minicircuits.com/pcb/98-pl258.pdf)")
   (tags "PL-258 Mini-Circuits")
   (attr smd)
@@ -76,7 +76,7 @@
     (zone_connect 2))
   (pad 2 smd rect (at -2.7305 -1.27) (size 4.191 4.064) (layers F.Cu)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_PL-258.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_TT1224.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
