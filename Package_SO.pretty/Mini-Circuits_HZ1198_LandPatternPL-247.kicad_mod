@@ -1,4 +1,4 @@
-(module Mini-Circuits_HZ1198_LandPatternPL-247 (layer F.Cu) (tedit 5C1AA3CB)
+(module Mini-Circuits_HZ1198_LandPatternPL-247 (layer F.Cu) (tedit 5C1AA59D)
   (descr "Footprint for Mini-Circuits cas HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf) following land pattern PL-247, including GND-vias (https://www.minicircuits.com/pcb/98-pl247.pdf)")
   (tags "Mini-Circuits PL-247 HZ1198")
   (attr smd)
@@ -103,7 +103,7 @@
     (zone_connect 2))
   (pad 3 smd rect (at 0 -4.6482) (size 9.398 2.921) (layers F.Cu)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_PL-247.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_HZ1198.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
