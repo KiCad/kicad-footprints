@@ -1,5 +1,5 @@
-(module LQFP-216_24x24mm_P0.4mm (layer F.Cu) (tedit 5C1983E5)
-  (descr "LQFP, 216 Pin (https://www.onsemi.com/pub/Collateral/566DB.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module LQFP-216_24x24mm_P0.4mm (layer F.Cu) (tedit 5C1A8FAF)
+  (descr "LQFP, 216 Pin (https://www.onsemi.com/pub/Collateral/561BE.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)
   (fp_text reference REF** (at 0 -14.35) (layer F.SilkS)
