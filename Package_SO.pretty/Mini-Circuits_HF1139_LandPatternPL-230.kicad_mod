@@ -1,11 +1,11 @@
-(module Mini-Circuits_PL-230 (layer F.Cu) (tedit 5C061C68)
-  (descr https://ww2.minicircuits.com/pcb/98-pl230.pdf)
+(module Mini-Circuits_HF1139_LandPatternPL-230 (layer F.Cu) (tedit 5C1BF13C)
+  (descr "Footprint for Mini-Circuits case HF1139 (https://ww2.minicircuits.com/case_style/HF1139.pdf) following land pattern PL-230, including GND vias (https://ww2.minicircuits.com/pcb/98-pl230.pdf)")
   (tags "Mini-Circuits PL-230")
   (attr smd)
   (fp_text reference REF** (at 0 -10.922) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Mini-Circuits_PL-230 (at 0 10.922) (layer F.Fab)
+  (fp_text value Mini-Circuits_HF1139_LandPatternPL-230 (at 0 10.922) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 6 -9.6) (end -6.4 -9.6) (layer F.SilkS) (width 0.12))
@@ -96,7 +96,7 @@
     (zone_connect 2))
   (pad 7 smd rect (at 4.064 -3.048 270) (size 12.827 5.588) (layers F.Cu)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_PL-230.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_HF1139.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
