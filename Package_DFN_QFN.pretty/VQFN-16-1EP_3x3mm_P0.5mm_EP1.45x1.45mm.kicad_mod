@@ -1,5 +1,5 @@
-(module VQFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm (layer F.Cu) (tedit 5C1C21F9)
-  (descr "VQFN, 16 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/20%20Lead%20VQFN%203x3x0_9mm_1_7EP%20U2B%20C04-21496a.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module VQFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm (layer F.Cu) (tedit 5C20212F)
+  (descr "VQFN, 16 Pin (http://www.ti.com/lit/ds/sbos354a/sbos354a.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "VQFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -2.82) (layer F.SilkS)

@@ -1,5 +1,5 @@
-(module TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm (layer F.Cu) (tedit 5C1C27E8)
-  (descr "TQFN, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0136.PDF (T1633-5)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm (layer F.Cu) (tedit 5C202260)
+  (descr "TQFN, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0136.PDF (T1633-5), https://pdfserv.maximintegrated.com/land_patterns/90-0032.PDF), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "TQFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -2.8) (layer F.SilkS)
