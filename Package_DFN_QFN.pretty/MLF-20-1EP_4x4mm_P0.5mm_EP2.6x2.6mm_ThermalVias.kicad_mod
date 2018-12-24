@@ -1,5 +1,5 @@
-(module MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5BBD3318)
-  (descr "MLF, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf (page 263)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5C1FD453)
+  (descr "MLF, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=263), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "MLF DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -3.3) (layer F.SilkS)
