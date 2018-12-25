@@ -1,6 +1,7 @@
-(module Connector_SFP_and_Cage (layer F.Cu) (tedit 5C221EC3)
+(module Connector_SFP_and_Cage (layer F.Cu) (tedit 5C2252A7)
   (descr https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English)
   (tags "SFP+ SFP")
+  (attr smd)
   (fp_text reference REF** (at -1.4 -8.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -92,4 +93,9 @@
   (pad CAGE thru_hole circle (at -14.3 -7.125) (size 1.5 1.5) (drill 0.95) (layers *.Cu *.Mask))
   (pad CAGE thru_hole circle (at -14.3 7.125) (size 1.5 1.5) (drill 0.95) (layers *.Cu *.Mask))
   (pad CAGE thru_hole circle (at -9.6 7.125) (size 1.5 1.5) (drill 0.95) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector.3dshapes/Connector_SFP_and_Cage.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
