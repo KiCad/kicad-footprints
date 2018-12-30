@@ -1,5 +1,5 @@
-(module QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm (layer F.Cu) (tedit 5B562A4C)
-  (descr "QFN, 68 Pin (https://cdn.microsemi.com/documents/1bf6886f-5919-4508-a50b-b1dbf3fdf0f4/download/ (page 98)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm (layer F.Cu) (tedit 5C27AAB5)
+  (descr "QFN, 68 Pin (https://cdn.microsemi.com/documents/1bf6886f-5919-4508-a50b-b1dbf3fdf0f4/download/#page=98), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -5.3) (layer F.SilkS)
