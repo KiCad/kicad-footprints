@@ -1,4 +1,4 @@
-(module ublox_SAM-M8Q_HandSolder (layer F.Cu) (tedit 5B1D2832)
+(module ublox_SAM-M8Q_HandSolder (layer F.Cu) (tedit 5C292C29)
   (descr "GPS Module, 15.5x15.5x6.3mm, https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf")
   (tags "ublox SAM-M8Q")
   (attr smd)
@@ -56,7 +56,7 @@
   (pad 18 smd rect (at 0 -7.2) (size 1.5 3) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at -1.9 -7.2) (size 1.5 3) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at -3.8 -7.2) (size 1.5 3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/ublox_SAM-M8Q.wrl
+  (model ${KISYS3DMOD}/RF_GPS.3dshapes/ublox_SAM-M8Q.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
