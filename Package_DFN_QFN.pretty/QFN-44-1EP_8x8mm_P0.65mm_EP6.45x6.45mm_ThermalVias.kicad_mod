@@ -1,5 +1,5 @@
-(module QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm_ThermalVias (layer F.Cu) (tedit 5BD4F227)
-  (descr "QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/39935c.pdf (page 153)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm_ThermalVias (layer F.Cu) (tedit 5C26A111)
+  (descr "QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/39935c.pdf#page=152), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -5.3) (layer F.SilkS)
