@@ -1,5 +1,5 @@
-(module QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm (layer F.Cu) (tedit 5C279771)
-  (descr "QFN, 48 Pin (https://static.dev.sifive.com/SiFive-FE310-G000-datasheet-v1p5.pdf#page=18), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm (layer F.Cu) (tedit 5C28DED5)
+  (descr "QFN, 48 Pin (https://static.dev.sifive.com/SiFive-FE310-G000-datasheet-v1p5.pdf#page=20), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -4.32) (layer F.SilkS)
