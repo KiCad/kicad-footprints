@@ -1,4 +1,4 @@
-(module Linx_RXM-GPS (layer F.Cu) (tedit 5A030172)
+(module Linx_RXM-GPS (layer F.Cu) (tedit 5C292B4D)
   (descr "GPS Module, Linx")
   (tags "gps linx")
   (attr smd)
@@ -60,7 +60,7 @@
   (pad 13 smd rect (at 6.5 3.81 90) (size 0.7 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at 6.5 5.08 90) (size 0.7 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at 6.5 6.35 90) (size 0.7 0.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/Linx_RXM-GPS.wrl
+  (model ${KISYS3DMOD}/RF_GPS.3dshapes/Linx_RXM-GPS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
