@@ -1,5 +1,5 @@
-(module QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm_ThermalVias (layer F.Cu) (tedit 5C27DBD8)
-  (descr "QFN, 76 Pin (https://www.marvell.com/documents/bqcwxsoiqfjkcjdjhkvc/), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm_ThermalVias (layer F.Cu) (tedit 5C28E194)
+  (descr "QFN, 76 Pin (https://www.marvell.com/documents/bqcwxsoiqfjkcjdjhkvc/#page=19), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -5.8) (layer F.SilkS)
