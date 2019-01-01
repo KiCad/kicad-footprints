@@ -1,4 +1,4 @@
-(module Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm (layer F.Cu) (tedit 5C095FE4)
+(module Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm (layer F.Cu) (tedit 5C2BC203)
   (descr "WLP-15, 3x5 raster, 2.28x3.092mm package, pitch 0.4mm; http://www.fujitsu.com/global/documents/products/devices/semiconductor/fram/lineup/MB85RS1MT-DS501-00022-7v0-E.pdf")
   (tags "BGA 8 0.4")
   (solder_mask_margin 0.035)
@@ -28,10 +28,10 @@
   )
   (pad A1 smd circle (at -0.4 -0.6) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad A3 smd circle (at 0.4 -0.6) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
-  (pad B2 smd circle (at 0 -0.4) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
+  (pad B2 smd circle (at 0 -0.3) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad C1 smd circle (at -0.4 0) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad C3 smd circle (at 0.4 0) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
-  (pad D2 smd circle (at 0 0.4) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
+  (pad D2 smd circle (at 0 0.3) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad E1 smd circle (at -0.4 0.6) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad E3 smd circle (at 0.4 0.6) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Package_BGA.3dshapes/Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm.wrl
