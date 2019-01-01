@@ -1,4 +1,4 @@
-(module QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm (layer F.Cu) (tedit 5B4D10EE)
+(module QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm (layer F.Cu) (tedit 5C1FD453)
   (descr "QFN, 24 Pin (https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)

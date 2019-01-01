@@ -1,5 +1,5 @@
-(module QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm (layer F.Cu) (tedit 5BA2AB2D)
-  (descr "QFN, 24 Pin (http://www.thatcorp.com/datashts/THAT_5173_Datasheet.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm (layer F.Cu) (tedit 5C1FD453)
+  (descr "QFN, 24 Pin (http://www.thatcorp.com/datashts/THAT_5173_Datasheet.pdf#page=17), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -3.82) (layer F.SilkS)

@@ -1,5 +1,5 @@
-(module QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias (layer F.Cu) (tedit 5B318202)
-  (descr "QFN, 48 Pin (https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf (page 38)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias (layer F.Cu) (tedit 5C26A111)
+  (descr "QFN, 48 Pin (https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf#page=38), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -3.8) (layer F.SilkS)
@@ -42,64 +42,64 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.477668 -0.306156) (xy -0.306156 -0.477668) (xy 0.306156 -0.477668) (xy 0.477668 -0.306156)
-         (xy 0.477668 0.306156) (xy 0.306156 0.477668) (xy -0.306156 0.477668) (xy -0.477668 0.306156)) (width 0))
+         (xy -0.356391 -0.255921) (xy -0.255921 -0.356391) (xy 0.255921 -0.356391) (xy 0.356391 -0.255921)
+         (xy 0.356391 0.255921) (xy 0.255921 0.356391) (xy -0.255921 0.356391) (xy -0.356391 0.255921)) (width 0.242555))
     ))
   (pad "" smd custom (at -1.066667 0) (size 0.834059 0.834059) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.477668 -0.306156) (xy -0.306156 -0.477668) (xy 0.306156 -0.477668) (xy 0.477668 -0.306156)
-         (xy 0.477668 0.306156) (xy 0.306156 0.477668) (xy -0.306156 0.477668) (xy -0.477668 0.306156)) (width 0))
+         (xy -0.356391 -0.255921) (xy -0.255921 -0.356391) (xy 0.255921 -0.356391) (xy 0.356391 -0.255921)
+         (xy 0.356391 0.255921) (xy 0.255921 0.356391) (xy -0.255921 0.356391) (xy -0.356391 0.255921)) (width 0.242555))
     ))
   (pad "" smd custom (at -1.066667 1.066667) (size 0.834059 0.834059) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.477668 -0.306156) (xy -0.306156 -0.477668) (xy 0.306156 -0.477668) (xy 0.477668 -0.306156)
-         (xy 0.477668 0.306156) (xy 0.306156 0.477668) (xy -0.306156 0.477668) (xy -0.477668 0.306156)) (width 0))
+         (xy -0.356391 -0.255921) (xy -0.255921 -0.356391) (xy 0.255921 -0.356391) (xy 0.356391 -0.255921)
+         (xy 0.356391 0.255921) (xy 0.255921 0.356391) (xy -0.255921 0.356391) (xy -0.356391 0.255921)) (width 0.242555))
     ))
   (pad "" smd custom (at 0 -1.066667) (size 0.834059 0.834059) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.477668 -0.306156) (xy -0.306156 -0.477668) (xy 0.306156 -0.477668) (xy 0.477668 -0.306156)
-         (xy 0.477668 0.306156) (xy 0.306156 0.477668) (xy -0.306156 0.477668) (xy -0.477668 0.306156)) (width 0))
+         (xy -0.356391 -0.255921) (xy -0.255921 -0.356391) (xy 0.255921 -0.356391) (xy 0.356391 -0.255921)
+         (xy 0.356391 0.255921) (xy 0.255921 0.356391) (xy -0.255921 0.356391) (xy -0.356391 0.255921)) (width 0.242555))
     ))
   (pad "" smd custom (at 0 0) (size 0.834059 0.834059) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.477668 -0.306156) (xy -0.306156 -0.477668) (xy 0.306156 -0.477668) (xy 0.477668 -0.306156)
-         (xy 0.477668 0.306156) (xy 0.306156 0.477668) (xy -0.306156 0.477668) (xy -0.477668 0.306156)) (width 0))
+         (xy -0.356391 -0.255921) (xy -0.255921 -0.356391) (xy 0.255921 -0.356391) (xy 0.356391 -0.255921)
+         (xy 0.356391 0.255921) (xy 0.255921 0.356391) (xy -0.255921 0.356391) (xy -0.356391 0.255921)) (width 0.242555))
     ))
   (pad "" smd custom (at 0 1.066667) (size 0.834059 0.834059) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.477668 -0.306156) (xy -0.306156 -0.477668) (xy 0.306156 -0.477668) (xy 0.477668 -0.306156)
-         (xy 0.477668 0.306156) (xy 0.306156 0.477668) (xy -0.306156 0.477668) (xy -0.477668 0.306156)) (width 0))
+         (xy -0.356391 -0.255921) (xy -0.255921 -0.356391) (xy 0.255921 -0.356391) (xy 0.356391 -0.255921)
+         (xy 0.356391 0.255921) (xy 0.255921 0.356391) (xy -0.255921 0.356391) (xy -0.356391 0.255921)) (width 0.242555))
     ))
   (pad "" smd custom (at 1.066667 -1.066667) (size 0.834059 0.834059) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.477668 -0.306156) (xy -0.306156 -0.477668) (xy 0.306156 -0.477668) (xy 0.477668 -0.306156)
-         (xy 0.477668 0.306156) (xy 0.306156 0.477668) (xy -0.306156 0.477668) (xy -0.477668 0.306156)) (width 0))
+         (xy -0.356391 -0.255921) (xy -0.255921 -0.356391) (xy 0.255921 -0.356391) (xy 0.356391 -0.255921)
+         (xy 0.356391 0.255921) (xy 0.255921 0.356391) (xy -0.255921 0.356391) (xy -0.356391 0.255921)) (width 0.242555))
     ))
   (pad "" smd custom (at 1.066667 0) (size 0.834059 0.834059) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.477668 -0.306156) (xy -0.306156 -0.477668) (xy 0.306156 -0.477668) (xy 0.477668 -0.306156)
-         (xy 0.477668 0.306156) (xy 0.306156 0.477668) (xy -0.306156 0.477668) (xy -0.477668 0.306156)) (width 0))
+         (xy -0.356391 -0.255921) (xy -0.255921 -0.356391) (xy 0.255921 -0.356391) (xy 0.356391 -0.255921)
+         (xy 0.356391 0.255921) (xy 0.255921 0.356391) (xy -0.255921 0.356391) (xy -0.356391 0.255921)) (width 0.242555))
     ))
   (pad "" smd custom (at 1.066667 1.066667) (size 0.834059 0.834059) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.477668 -0.306156) (xy -0.306156 -0.477668) (xy 0.306156 -0.477668) (xy 0.477668 -0.306156)
-         (xy 0.477668 0.306156) (xy 0.306156 0.477668) (xy -0.306156 0.477668) (xy -0.477668 0.306156)) (width 0))
+         (xy -0.356391 -0.255921) (xy -0.255921 -0.356391) (xy 0.255921 -0.356391) (xy 0.356391 -0.255921)
+         (xy 0.356391 0.255921) (xy 0.255921 0.356391) (xy -0.255921 0.356391) (xy -0.356391 0.255921)) (width 0.242555))
     ))
   (pad 1 smd roundrect (at -2.45 -2.275) (size 0.8 0.2) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 2 smd roundrect (at -2.45 -1.925) (size 0.8 0.2) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))

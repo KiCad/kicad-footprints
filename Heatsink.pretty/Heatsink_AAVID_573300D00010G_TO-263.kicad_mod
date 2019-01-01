@@ -1,5 +1,5 @@
-(module Heatsink_AAVID_573300D00010G_TO-263 (layer F.Cu) (tedit 5A1FFA20)
-  (descr "Heatsink, 12.70mm x 26.16mm x 10.16, SMD, 18K/W, TO-263, D2 Pak, https://www.aavid.com/products/standard/573300d00010g")
+(module Heatsink_AAVID_573300D00010G_TO-263 (layer F.Cu) (tedit 5BE6CFB0)
+  (descr "Heatsink, 12.70mm x 26.16mm x 10.16, SMD, 18K/W, TO-263, D2 Pak, https://www.shopaavid.com/Product/573300D00000G")
   (tags "Heatsink AAVID TO-263 D2 Pak")
   (attr smd)
   (fp_text reference REF** (at 0 -8) (layer F.SilkS)
