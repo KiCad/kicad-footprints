@@ -1,4 +1,4 @@
-(module NodeMCU_LoLin (layer F.Cu) (tedit 5C2D235D)
+(module NodeMCU_LoLin (layer F.Cu) (tedit 5C2D25AA)
   (descr "NodeMCU ESP8266 ")
   (tags "NodeMCU ESP8266 ")
   (fp_text reference REF** (at 13.97 15.24) (layer F.SilkS)
@@ -152,4 +152,9 @@
   (pad "" np_thru_hole circle (at 26.67 44.45) (size 3.2 3.2) (drill 3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 26.67 -7.62) (size 3.2 3.2) (drill 3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 1.27 -7.62) (size 3.2 3.2) (drill 3) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Module.3dshapes/NodeMCU_LoLin.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
