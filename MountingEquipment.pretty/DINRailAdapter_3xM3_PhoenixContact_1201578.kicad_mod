@@ -30,7 +30,7 @@
   (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 12.5 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -12.5 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/MountingHole.3dshapes/DINRailAdapter_3xM3_PhoenixContact_1201578.wrl
+  (model ${KISYS3DMOD}/MountingEquipment.3dshapes/DINRailAdapter_3xM3_PhoenixContact_1201578.wrl
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
