@@ -1,4 +1,6 @@
-(module NodeMCU_LoLin (layer F.Cu) (tedit 5C2CF9F3)
+(module NodeMCU_LoLin (layer F.Cu) (tedit 5C2CFA5B)
+  (descr "NodeMCU ESP8266 ")
+  (tags "NodeMCU ESP8266 ")
   (fp_text reference REF** (at 13.97 20.32) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
