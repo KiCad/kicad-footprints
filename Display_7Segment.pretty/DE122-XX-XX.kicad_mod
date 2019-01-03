@@ -29,7 +29,7 @@
   (fp_line (start 24.765 60.96) (end 24.765 -2.53) (layer Dwgs.User) (width 0.12))
   (fp_line (start 8.255 60.96) (end 24.765 60.96) (layer Dwgs.User) (width 0.12))
   (fp_line (start 8.255 -2.53) (end 8.255 60.96) (layer Dwgs.User) (width 0.12))
-  (pad 1 thru_hole rect (at 0 0 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0 270) (size 1.5 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 2.54 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 5.08 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 0 7.62 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
