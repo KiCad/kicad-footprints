@@ -1,4 +1,4 @@
-(module LairdTech_28C0236-0JW-10 (layer F.Cu) (tedit 5BCF3CDE)
+(module LairdTech_28C0236-0JW-10 (layer F.Cu) (tedit 5BD72FD3)
   (descr "Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters")
   (tags "Ferrite vertical LairdTech 28C0236-0JW-10")
   (fp_text reference REF** (at 2.5 -4.5) (layer F.SilkS)
@@ -21,12 +21,12 @@
   (fp_arc (start 0 0) (end -0.381 -1.27) (angle -146.6015115) (layer F.SilkS) (width 0.12))
   (fp_arc (start 2.54 0) (end -0.5 1.4) (angle -130.5453712) (layer F.CrtYd) (width 0.05))
   (fp_arc (start 2.54 0) (end 5.58 -1.4) (angle -130.5453712) (layer F.CrtYd) (width 0.05))
-  (fp_arc (start 0 0) (end -0.5 -1.4) (angle -140.5618972) (layer F.CrtYd) (width 0.05))
-  (fp_arc (start 5.08 0) (end 5.58 1.4) (angle -140.6923519) (layer F.CrtYd) (width 0.05))
+  (fp_arc (start 0 0) (end -0.499999 -1.399999) (angle -140.5618972) (layer F.CrtYd) (width 0.05))
+  (fp_arc (start 5.08 0) (end 5.579999 1.399999) (angle -140.6923519) (layer F.CrtYd) (width 0.05))
   (pad 2 thru_hole circle (at 5.08 0) (size 2 2) (drill 0.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Ferrite_THT.3dshapes/LairdTech_28C0236-0JW-10.wrl
-    (offset (xyz 0 0 0))
+  (model ${KIPRJMOD}/Ferrite/LairdTech_28C0236-0JW-10.wrl
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
