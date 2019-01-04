@@ -1,5 +1,5 @@
-(module Transformer_Microphone_Lundahl_LL1587 (layer F.Cu) (tedit 5A030845)
-  (descr "AUDIO TRAFO LUNDAHL")
+(module Transformer_Microphone_Lundahl_LL1587 (layer F.Cu) (tedit 5BEAF795)
+  (descr "AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1587.pdf")
   (tags "AUDIO TRAFO LUNDAHL")
   (fp_text reference REF** (at 10.35 -15.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
