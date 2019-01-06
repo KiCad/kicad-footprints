@@ -1,5 +1,5 @@
-(module Autotransformer_ZS1052-AC (layer F.Cu) (tedit 5C16A5A0)
-  (descr "Ignition coil for xenon flash")
+(module Autotransformer_ZS1052-AC (layer F.Cu) (tedit 5C323B69)
+  (descr "Ignition coil for xenon flash, http://www.excelitas.com/downloads/ZS1052ACH.pdf")
   (tags "ignition coil autotransformer")
   (fp_text reference REF** (at 19 3.77 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
