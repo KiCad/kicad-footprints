@@ -1,4 +1,4 @@
-(module TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack_ThermalVias (layer F.Cu) (tedit 5B7B5A7E)
+(module TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack_ThermalVias (layer F.Cu) (tedit 5C1FD453)
   (descr "TQFN, 24 Pin (https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "TQFN DFN_QFN")
   (attr smd)
