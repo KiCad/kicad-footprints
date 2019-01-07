@@ -1,11 +1,11 @@
-(module LFCSP-WQ-24-7EP_4x4mm_P0.5mm_EP2.6416x2.6416mm (layer F.Cu) (tedit 5C32492A)
+(module LFCSP-WQ-24-1EP_4x4mm_P0.5mm_EP2.6416x2.6416mm (layer F.Cu) (tedit 5C338570)
   (descr "LFCSP WQ, 24 pin, exposed pad, 4x4mm body, pitch 0.5mm (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf, https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5802.pdf)")
   (tags "LFCSP WQ 0.5")
   (attr smd)
   (fp_text reference REF** (at 0 -3.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LFCSP-WQ-24-7EP_4x4mm_P0.5mm_EP2.6416x2.6416mm (at 0 3.35) (layer F.Fab)
+  (fp_text value LFCSP-WQ-24-1EP_4x4mm_P0.5mm_EP2.6416x2.6416mm (at 0 3.35) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 2 -2) (end 2 2) (layer F.Fab) (width 0.1))
@@ -52,7 +52,7 @@
   (pad 23 smd rect (at -0.75 -1.8923 90) (size 0.8128 0.3048) (layers F.Cu F.Paste F.Mask))
   (pad 24 smd rect (at -1.25 -1.8923 90) (size 0.8128 0.3048) (layers F.Cu F.Paste F.Mask))
   (pad 25 smd rect (at 0 0) (size 2.6416 2.6416) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_CSP.3dshapes/LFCSP-WQ-24-7EP_4x4mm_P0.5mm_EP2.6416x2.6416mm.wrl
+  (model ${KISYS3DMOD}/Package_CSP.3dshapes/LFCSP-WQ-24-1EP_4x4mm_P0.5mm_EP2.6416x2.6416mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
