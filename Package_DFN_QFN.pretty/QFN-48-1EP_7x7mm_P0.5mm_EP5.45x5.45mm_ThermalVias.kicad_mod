@@ -1,4 +1,4 @@
-(module QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm_ThermalVias (layer F.Cu) (tedit 5BA2ACC1)
+(module QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm_ThermalVias (layer F.Cu) (tedit 5C26A111)
   (descr "QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
