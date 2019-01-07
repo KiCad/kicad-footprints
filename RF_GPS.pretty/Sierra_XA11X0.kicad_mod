@@ -1,4 +1,4 @@
-(module Sierra_XA11X0 (layer F.Cu) (tedit 5C2781A8)
+(module Sierra_XA11X0 (layer F.Cu) (tedit 5C335553)
   (descr "QFN-24, Pitch 1.20 no EP, https://source.sierrawireless.com/resources/airprime/hardware_specs_user_guides/airprime_xm1100_product_technical_specification")
   (tags "QFN-24 P1.20")
   (attr smd)
@@ -51,7 +51,7 @@
   (pad 13 smd rect (at 6.25 3) (size 2 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at 3.6 6.25) (size 0.6 2) (layers F.Cu F.Paste F.Mask))
   (pad 24 smd rect (at -3.6 -6.25) (size 0.6 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/Sierra_XA11X0.wrl
+  (model ${KISYS3DMOD}/RF_GPS.3dshapes/Sierra_XA11X0.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
