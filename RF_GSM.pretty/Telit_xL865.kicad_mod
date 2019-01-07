@@ -1,4 +1,4 @@
-(module Telit_xL865 (layer F.Cu) (tedit 5A030172)
+(module Telit_xL865 (layer F.Cu) (tedit 5C33505F)
   (descr "Telit xL865 familly footprint, http://www.telit.com/fileadmin/user_upload/products/Downloads/3G/Telit_UL865_Hardware_User_Guide_r8.pdf ")
   (tags "xL865 gsm umts")
   (attr smd)
@@ -89,7 +89,7 @@
   (pad "" smd circle (at -10 0 90) (size 2 2) (layers F.Cu F.Paste F.Mask))
   (pad "" smd circle (at 10 0 90) (size 2 2) (layers F.Cu F.Paste F.Mask))
   (pad "" smd circle (at 0 -10 90) (size 2 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/Telit_xL865.wrl
+  (model ${KISYS3DMOD}/RF_GSM.3dshapes/Telit_xL865.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
