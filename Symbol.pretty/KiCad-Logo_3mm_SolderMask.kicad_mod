@@ -1,10 +1,12 @@
-(module LOGO (layer F.Cu)
-  (at 0 0)
- (fp_text reference "G***" (at 0 0) (layer F.SilkS) hide
-  (effects (font (thickness 0.3)))
+(module KiCad-Logo_3mm_SilkScreen (layer F.Cu) (tedit 0)
+  (descr "KiCad Logo")
+  (tags "Logo KiCad")
+  (attr virtual)
+  (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value "LOGO" (at 0.75 0) (layer F.SilkS) hide
-  (effects (font (thickness 0.3)))
+  (fp_text value KiCad-Logo_3mm_SilkScreen (at 0.75 0) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_poly (pts (xy -1.749158 -1.347611) (xy -1.737261 -1.283217) (xy -1.708128 -1.197132) (xy -1.694354 -1.164749) (xy -1.614708 -1.046219) (xy -1.509871 -0.969919) (xy -1.390018 -0.934089) (xy -1.265329 -0.936972)
      (xy -1.145979 -0.976808) (xy -1.042147 -1.051838) (xy -0.964009 -1.160303) (xy -0.922048 -1.298222) (xy -0.912252 -1.365845) (xy -0.906119 -1.403308) (xy -0.905697 -1.405048) (xy -0.882598 -1.400025)
