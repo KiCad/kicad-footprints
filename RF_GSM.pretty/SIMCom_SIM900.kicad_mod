@@ -1,4 +1,4 @@
-(module SIMCom_SIM900 (layer F.Cu) (tedit 5B049402)
+(module SIMCom_SIM900 (layer F.Cu) (tedit 5C33504D)
   (descr "Quad-Band GSM/GPRS module, 24x24x3mm, http://simcom.ee/documents/SIM900/SIM900_Hardware%20Design_V2.05.pdf")
   (tags "GSM Module SIM900")
   (attr smd)
@@ -128,7 +128,7 @@
   (pad 66 smd oval (at -6 -12) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 67 smd oval (at -7 -12) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 68 smd oval (at -8 -12) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/SIMCom_SIM900.wrl
+  (model ${KISYS3DMOD}/RF_GSM.3dshapes/SIMCom_SIM900.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
