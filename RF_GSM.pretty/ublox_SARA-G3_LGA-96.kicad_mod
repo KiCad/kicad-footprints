@@ -1,4 +1,4 @@
-(module ublox_SARA-G3_LGA-96 (layer F.Cu) (tedit 5C07CA26)
+(module ublox_SARA-G3_LGA-96 (layer F.Cu) (tedit 5C33506F)
   (descr "ublox Sara GSM/HSPA modem, https://www.u-blox.com/sites/default/files/SARA-G3-U2_SysIntegrManual_%28UBX-13000995%29.pdf, pag.162")
   (tags "ublox SARA-G3 SARA-U2 GSM HSPA")
   (attr smd)
@@ -217,7 +217,7 @@
   (pad "" smd rect (at 5.25 3.05 180) (size 1.05 1.05) (layers F.Paste))
   (pad "" smd rect (at 5.25 -3.05 180) (size 1.05 1.05) (layers F.Paste))
   (pad "" smd rect (at 5.25 -6.65 180) (size 1.05 1.05) (layers F.Paste))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/ublox_SARA-G3_LGA-96.wrl
+  (model ${KISYS3DMOD}/RF_GSM.3dshapes/ublox_SARA-G3_LGA-96.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
