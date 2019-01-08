@@ -5,7 +5,7 @@
   (fp_text reference REF** (at 0 -22.86) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value KiCad-Logo_40mm_SolderMask (at 0.75 22.86) (layer F.Fab)
+  (fp_text value KiCad-Logo_40mm_FSolderMask (at 0.75 22.86) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -52.07 21.59) (end -52.07 -21.59) (layer F.CrtYd) (width 0.05))
