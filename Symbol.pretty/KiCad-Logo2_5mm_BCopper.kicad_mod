@@ -5,7 +5,7 @@
   (fp_text reference REF** (at 0 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value KiCad2-Logo_5mm_BCopper (at 0 5.08) (layer F.Fab)
+  (fp_text value KiCad-Logo2_5mm_BCopper (at 0 5.08) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_poly (pts (xy -6.121371 2.269066) (xy -6.081889 2.269467) (xy -5.9662 2.272259) (xy -5.869311 2.28055)
