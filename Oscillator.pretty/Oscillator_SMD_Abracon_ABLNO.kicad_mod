@@ -1,4 +1,4 @@
-(module Oscillator_SMD_Abracon_ABLNO (layer F.Cu) (tedit 5C343F00)
+(module Oscillator_SMD_Abracon_ABLNO (layer F.Cu) (tedit 5C34D3E2)
   (descr https://abracon.com/Precisiontiming/ABLNO.pdf)
   (tags "VCXO XO")
   (attr smd)
@@ -34,7 +34,7 @@
   (pad 1 smd rect (at -2.9 -2.54 270) (size 1.5 2.5) (drill (offset 0 1.25)) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.9 2.54 270) (size 1.5 2.5) (drill (offset 0 1.25)) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.9 2.54 270) (size 1.5 2.5) (drill (offset 0 -1.25)) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_VCXO_Abracon_ABLNO.wrl
+  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ABLNO.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
