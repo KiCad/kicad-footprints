@@ -1,5 +1,5 @@
 (module SOIC-8_3.9x4.9mm_P1.27mm (layer F.Cu) (tedit 5A02F2D3)
-  (descr "8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
+  (descr "8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)")
   (tags "SOIC 1.27")
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
