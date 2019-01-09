@@ -1,10 +1,10 @@
-(module SW_NKK_GW12xxH (layer F.Cu) (tedit 5C2F9819)
+(module SW_Rocker_1P2T_NKK_GW12xxH (layer F.Cu) (tedit 5C353E1E)
   (descr "Switch, single pole double throw, right angle, http://www.nkkswitches.com/pdf/GW.pdf")
   (tags "switch single-pole double-throw spdt ON-ON horizontal")
   (fp_text reference REF** (at 2.54 -1.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SW_NKK_GW12xxH (at 2.54 8.68) (layer F.Fab)
+  (fp_text value SW_Rocker_1P2T_NKK_GW12xxH (at 2.54 8.68) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0.04 0) (end 6.04 0) (layer F.Fab) (width 0.1))
@@ -33,7 +33,7 @@
   (fp_text user %R (at 2.54 3.84) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_NKK_GW12xxH.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_Rocker_1P2T_NKK_GW12xxH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
