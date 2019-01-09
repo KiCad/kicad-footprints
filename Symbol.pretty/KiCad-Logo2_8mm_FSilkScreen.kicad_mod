@@ -12,3 +12,4 @@
   (fp_line (start 11.43 -5.08) (end 11.43 5.08) (layer F.CrtYd) (width 0.05))
   (fp_line (start 11.43 5.08) (end -11.43 5.08) (layer F.CrtYd) (width 0.05))
   (fp_line (start -11.43 5.08) (end -11.43 -5.08) (layer F.CrtYd) (width 0.05))
+)
