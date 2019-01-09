@@ -5,7 +5,7 @@
   (fp_text reference REF** (at 0 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value KiCad-Logo_5mm_FSilkScreen (at 0 5.08) (layer F.Fab)
+  (fp_text value KiCad-Logo_5mm_FSilkScreen (at 0 3.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -7.62 2.54) (end -7.62 -3.81) (layer F.CrtYd) (width 0.05))
