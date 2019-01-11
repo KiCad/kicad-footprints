@@ -1,11 +1,11 @@
-(module Skyworks_DFN-6-1EP_1.5x1.5mm_P0.5mm_EP0.7x1.2mm (layer F.Cu) (tedit 5C37AD86)
+(module Skyworks_QFN-6-1EP_1.5x1.5mm_P0.5mm_EP0.7x1.2mm (layer F.Cu) (tedit 5C39065A)
   (descr http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf)
-  (tags "DFN 6")
+  (tags "QFN 6")
   (attr smd)
   (fp_text reference REF** (at 0 -1.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Skyworks_DFN-6-1EP_1.5x1.5mm_P0.5mm_EP0.7x1.2mm (at 0 1.85) (layer F.Fab)
+  (fp_text value Skyworks_QFN-6-1EP_1.5x1.5mm_P0.5mm_EP0.7x1.2mm (at 0 1.85) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.85 -0.85) (end 0.35 -0.85) (layer F.SilkS) (width 0.12))
@@ -37,7 +37,7 @@
          (xy -0.1 0.65) (xy -0.1 0.6) (xy -0.35 0.6) (xy -0.35 -0.45) (xy -0.2 -0.6)
          (xy -0.1 -0.6) (xy -0.1 -0.65) (xy 0.1 -0.65) (xy 0.1 -0.6)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Skyworks_DFN-6-1EP_1.5x1.5mm_P0.5mm_EP0.7x1.2mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Skyworks_QFN-6-1EP_1.5x1.5mm_P0.5mm_EP0.7x1.2mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
