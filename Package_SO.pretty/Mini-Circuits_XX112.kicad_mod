@@ -1,11 +1,11 @@
-(module Mini-Circuits_XX112_SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm (layer F.Cu) (tedit 5BDB2947)
+(module Mini-Circuits_XX112 (layer F.Cu) (tedit 5BDB2947)
   (descr https://ww2.minicircuits.com/case_style/XX112.pdf)
   (tags "SOP Mini-Circuits")
   (attr smd)
   (fp_text reference REF** (at 0 -3.302) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Mini-Circuits_XX112_SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm (at 0 3.175) (layer F.Fab)
+  (fp_text value Mini-Circuits_XX112 (at 0 3.175) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.285 2.285) (end 2.285 2.285) (layer F.Fab) (width 0.1))
@@ -38,7 +38,7 @@
   (pad 9 thru_hole circle (at 1.27 1.524) (size 1.21 1.21) (drill 0.51) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 1.27 0) (size 1.21 1.21) (drill 0.51) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 1.27 -1.524) (size 1.21 1.21) (drill 0.51) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_XX112_SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_XX112.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
