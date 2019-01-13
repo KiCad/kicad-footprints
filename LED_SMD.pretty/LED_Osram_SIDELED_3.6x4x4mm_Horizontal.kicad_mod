@@ -1,11 +1,11 @@
-(module Osram_SIDELED_3.6x4x4mm_Horizontal (layer F.Cu) (tedit 5C3B6B01)
+(module LED_Osram_SIDELED_3.6x4x4mm_Horizontal (layer F.Cu) (tedit 5C3B7142)
   (descr https://dammedia.osram.info/media/resource/hires/osram-dam-6455804/LW%20A67C%20binning%20FK0PN0_EN.pdf)
   (tags "Osram SIDELED 3.6mm 4mm horizontal")
   (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Osram_SIDELED_3.6x4x4mm_Horizontal (at 0 3) (layer F.Fab)
+  (fp_text value LED_Osram_SIDELED_3.6x4x4mm_Horizontal (at 0 3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2 2.2) (end 2 2.2) (layer F.SilkS) (width 0.12))
@@ -37,7 +37,7 @@
   (fp_line (start -2.25 -2.05) (end 2.25 -2.05) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.25 0) (size 1.2 3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.25 0) (size 1.2 3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/Osram_SIDELED_3.6x4x4mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Osram_SIDELED_3.6x4x4mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
