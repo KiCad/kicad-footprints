@@ -1,6 +1,6 @@
 (module Samtec_QTH-090-01-x-D-A_P0.5mm_Vertical (layer F.Cu) (tedit 5C3D72C4)
   (descr http://suddendocs.samtec.com/prints/qth-xxx-xx-x-d-xxx-footprint.pdf)
-  (tags "connector Samtec HSMC QTH mezzanine")
+  (tags "connector Samtec HSMC QTH mezzanine vertical")
   (attr smd)
   (fp_text reference REF** (at 0 5.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
