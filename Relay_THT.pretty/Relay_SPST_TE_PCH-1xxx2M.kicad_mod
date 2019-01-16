@@ -1,5 +1,5 @@
-(module Relay_SPST_TE_PCH-1xxx2M (layer F.Cu) (tedit 5BBCC866)
-  (descr "Miniature PCB Relay PCH Series Form A (SPST NO) http://www.te.com/usa-en/product-1461353-6.html?q=pch%2Ba&n=131055&type=products&samples=N&instock=N")
+(module Relay_SPST_TE_PCH-1xxx2M (layer F.Cu) (tedit 5C3F81A4)
+  (descr "Miniature PCB Relay, PCH Series, 1 Form A (NO), SPST http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FPCH_series_relay_data_sheet_E%7F1215%7Fpdf%7FEnglish%7FENG_DS_PCH_series_relay_data_sheet_E_1215.pdf")
   (tags "Relay SPST NO")
   (fp_text reference REF** (at 9.5 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
