@@ -1,4 +1,4 @@
-(module Converter_DCDC_XP_POWER-IHxxxxDH_THT (layer F.Cu) (tedit 5C3E6CE4)
+(module Converter_DCDC_XP_POWER-IHxxxxDH_THT (layer F.Cu) (tedit 5C3F3CDF)
   (descr "XP_POWER  IHxxxxDH, DIP, (https://www.xppower.com/pdfs/SF_IH.pdf), generated with kicad-footprint-generator")
   (tags "XP_POWER  IHxxxxDH DIP DCDC-Converter")
   (fp_text reference REF** (at 3.81 -3.49) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module Converter_DCDC_XP_POWER-IA48xxS_THT (layer F.Cu) (tedit 5C3E6CE4)
+(module Converter_DCDC_XP_POWER-IA48xxS_THT (layer F.Cu) (tedit 5C3F3CDF)
   (descr "XP_POWER  IA48xxS, SIP, (https://www.xppower.com/pdfs/SF_IA.pdf), generated with kicad-footprint-generator")
   (tags "XP_POWER  IA48xxS SIP DCDC-Converter")
   (fp_text reference REF** (at -1.95 -3.23) (layer F.SilkS)
