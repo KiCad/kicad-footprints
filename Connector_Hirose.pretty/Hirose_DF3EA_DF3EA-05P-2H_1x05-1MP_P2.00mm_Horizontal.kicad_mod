@@ -1,4 +1,4 @@
-(module Hirose_DF3EA_DF3EA-05P-2H_1x05-1MP_P2.00mm_Horizontal (layer F.Cu) (tedit 5C3F4F8B)
+(module Hirose_DF3EA_DF3EA-05P-2H_1x05-1MP_P2.00mm_Horizontal (layer F.Cu) (tedit 5C404710)
   (descr "Hirose DF3EA SMD, DF3EA-05P-2H, 5 Pins per row (https://www.hirose.com/product/en/products/DF3/DF3EA%2D2P%2D2H%2821%29/), generated with kicad-footprint-generator")
   (tags "connector Hirose DF3EA ")
   (attr smd)
