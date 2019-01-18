@@ -98,6 +98,7 @@
   (lib (name Sensor_Current)(type KiCad)(uri ${KISYSMOD}/Sensor_Current.pretty)(options "")(descr "Specialized footprints for current sensors"))
   (lib (name Sensor_Motion)(type KiCad)(uri ${KISYSMOD}/Sensor_Motion.pretty)(options "")(descr "Specialized footprints for motion sensors"))
   (lib (name Sensor_Pressure)(type KiCad)(uri ${KISYSMOD}/Sensor_Pressure.pretty)(options "")(descr "Specialized footprints for pressure sensors"))
+  (lib (name Sensor_Temperature)(type KiCad)(uri ${KISYSMOD}/Sensor_Temperature.pretty)(options "")(descr "Specialized footprints for temperature sensors"))
   (lib (name Sensor_Voltage)(type KiCad)(uri ${KISYSMOD}/Sensor_Voltage.pretty)(options "")(descr "Specialized footprints for voltage sensors"))
   (lib (name Socket)(type KiCad)(uri ${KISYSMOD}/Socket.pretty)(options "")(descr "Sockets"))
   (lib (name Symbol)(type KiCad)(uri ${KISYSMOD}/Symbol.pretty)(options "")(descr "PCB symbols"))
