@@ -1,4 +1,4 @@
-(module TSOC-6_3.76x3.94mm_P1.27mm (layer F.Cu) (tedit 5C458ED5)
+(module TSOC-6_3.76x3.94mm_P1.27mm (layer F.Cu) (tedit 5C45907A)
   (descr "Maxim Integrated TSOC-6 D6+1,https://datasheets.maximintegrated.com/en/ds/DS2401.pdf, https://pdfserv.maximintegrated.com/land_patterns/90-0321.PDF")
   (tags TSOC-6)
   (attr smd)
@@ -31,7 +31,7 @@
   (pad 4 smd rect (at 1.525 1.27) (size 1.33 0.53) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.525 0) (size 1.33 0.53) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 1.525 -1.27) (size 1.33 0.53) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/TSOC-6_3.76x3.94mm_P1.27mm.wrl
+  (model ${KISYS3DMOD}/Package_SO_J-Lead.3dshapes/TSOC-6_3.76x3.94mm_P1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
