@@ -1,4 +1,6 @@
-(module Onion_Omega2+ (layer F.Cu) (tedit 5C46EBE5)
+(module Onion_Omega2+ (layer F.Cu) (tedit 5C46FBE5)
+  (descr https://onion.io/omega2/)
+  (tags "Omega Onion module")
   (fp_text reference REF** (at -10.65 -23.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
