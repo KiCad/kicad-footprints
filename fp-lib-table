@@ -80,6 +80,7 @@
   (lib (name Package_QFP)(type KiCad)(uri ${KISYSMOD}/Package_QFP.pretty)(options "")(descr "Quad Flat Package (QFP)"))
   (lib (name Package_SIP)(type KiCad)(uri ${KISYSMOD}/Package_SIP.pretty)(options "")(descr "Single Inline Package(SIP)"))
   (lib (name Package_SO)(type KiCad)(uri ${KISYSMOD}/Package_SO.pretty)(options "")(descr "Small Outline Integrated Circuits (SOIC, SSOP, xSOP, xSO)"))
+  (lib (name Package_SO_J-Lead)(type KiCad)(uri ${KISYSMOD}/Package_SO_J-Lead.pretty)(options "")(descr "Small Outline Integrated Circuits J-Lead"))
   (lib (name Package_SON)(type KiCad)(uri ${KISYSMOD}/Package_SON.pretty)(options "")(descr "Small Outline No-Lead (SON)"))
   (lib (name Package_TO_SOT_SMD)(type KiCad)(uri ${KISYSMOD}/Package_TO_SOT_SMD.pretty)(options "")(descr "Surface mount transistor packages"))
   (lib (name Package_TO_SOT_THT)(type KiCad)(uri ${KISYSMOD}/Package_TO_SOT_THT.pretty)(options "")(descr "Through hole transistor packages"))
