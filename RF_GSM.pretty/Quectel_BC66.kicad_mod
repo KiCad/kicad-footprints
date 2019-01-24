@@ -1,4 +1,4 @@
-(module Quectel_BC66 (layer F.Cu) (tedit 5C24EE99)
+(module Quectel_BC66 (layer F.Cu) (tedit 5C4A15F0)
   (descr "GSM NB-IoT module, 15.8x17.7x2mm, https://www.quectel.com/UploadImage/Downlad/Quectel_BC66_Hardware_Design_V1.1.pdf")
   (tags "GSM NB-IoT Module BC66 M66")
   (attr smd)
@@ -88,7 +88,7 @@
   (pad 56 smd rect (at 1.8 -4.5) (size 1 1) (layers F.Cu F.Paste F.Mask))
   (pad 57 smd rect (at 0 -4.5) (size 1 1) (layers F.Cu F.Paste F.Mask))
   (pad 58 smd rect (at -1.8 -4.5) (size 1 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/Quectel_BC66.wrl
+  (model ${KISYS3DMOD}/RF_GSM.3dshapes/Quectel_BC66.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
