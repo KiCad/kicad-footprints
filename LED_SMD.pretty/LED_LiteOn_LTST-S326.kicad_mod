@@ -1,4 +1,4 @@
-(module LED_LiteOn_LTST-S326 (layer F.Cu) (tedit 5C4A41B6)
+(module LED_LiteOn_LTST-S326 (layer F.Cu) (tedit 5C4A4FE6)
   (descr http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF)
   (tags "LED SMD right angle  CCA")
   (attr smd)
@@ -25,12 +25,15 @@
   (fp_line (start -1.35 -2) (end 1.75 -2) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1 1.25) (end 1 1.75) (layer F.SilkS) (width 0.12))
   (fp_circle (center -1 -0.75) (end -0.9 -0.75) (layer F.SilkS) (width 0.12))
+  (fp_text user %R (at 0 0) (layer F.Fab)
+    (effects (font (size 0.8 0.8) (thickness 0.08)))
+  )
   (pad 3 smd rect (at 0 1.375 180) (size 1.5 0.75) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0 -1.375 180) (size 1.5 0.75) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.65 0 180) (size 0.9 0.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LEDs.3dshapes/LED_LiteOn_LTST-S326.wrl
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_LiteOn_LTST-S326.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 0))
   )
 )
