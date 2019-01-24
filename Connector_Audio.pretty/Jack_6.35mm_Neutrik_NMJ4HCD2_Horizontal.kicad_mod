@@ -1,5 +1,5 @@
 (module Jack_6.35mm_Neutrik_NMJ4HCD2_Horizontal (layer F.Cu) (tedit 5C194AA7)
-  (descr "M Series, 6.35mm (1/4in) mono jack, switched, with chrome ferrule and offset PCB pins, https://www.neutrik.com/en/product/nmj6hfd3")
+  (descr "M Series, 6.35mm (1/4in) mono jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj4hcd2")
   (tags "neutrik jack m")
   (fp_text reference REF** (at 6.35 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
