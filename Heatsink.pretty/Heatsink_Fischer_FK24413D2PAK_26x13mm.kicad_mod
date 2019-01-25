@@ -1,5 +1,5 @@
-(module Heatsink_Fischer_FK24413D2PAK_26x13mm (layer F.Cu) (tedit 5C4B391D)
-  (descr "26x13 mm SMD heatsink for TO-252 TO-263 TO-268, https://www.fischerelektronik.de/web_fischer/en_GB/heatsinks/C04/Heatsinks%20for%20D%20PAK%20and%20others/PR/FK244_13_D2_PAK_/")
+(module Heatsink_Fischer_FK24413D2PAK_26x13mm (layer F.Cu) (tedit 5C4B39DC)
+  (descr "26x13 mm SMD heatsink for TO-252 TO-263 TO-268, https://www.fischerelektronik.de/pim/upload/fischerData/cadpdf/base/fk_244_13_d2_pak.pdf")
   (tags "heatsink TO-252 TO-263 TO-268")
   (attr smd)
   (fp_text reference REF** (at -11.5 -8 180) (layer F.SilkS)
