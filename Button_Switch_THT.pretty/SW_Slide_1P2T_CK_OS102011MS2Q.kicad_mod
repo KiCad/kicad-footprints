@@ -1,4 +1,4 @@
-(module SW_Slide_1P2T_CK_OS102011MS2Q (layer F.Cu) (tedit 5B4F6F31)
+(module SW_Slide_1P2T_CK_OS102011MS2Q (layer F.Cu) (tedit 5C4F34EC)
   (descr "CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf")
   (tags "switch SPDT")
   (fp_text reference REF** (at 2 -3) (layer F.SilkS)
@@ -38,7 +38,7 @@
   (pad 2 thru_hole oval (at 2 0) (size 1.5 2.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 4 0) (size 1.5 2.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad "" thru_hole oval (at -2.1 0) (size 2.2 3.5) (drill 1.5) (layers *.Cu *.Mask))
-  (pad "" thru_hole oval (at 6.1 -0.01) (size 2.2 3.5) (drill 1.5) (layers *.Cu *.Mask))
+  (pad "" thru_hole oval (at 6.1 0) (size 2.2 3.5) (drill 1.5) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_Slide_1P2T_CK_OS102011MS2Q.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
