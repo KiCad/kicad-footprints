@@ -1,10 +1,10 @@
-(module SA15-11 (layer F.Cu) (tedit 5C2A4C14)
-  (descr http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf)
-  (tags "SA15-11 single digit 7 segment display 38.1mm 1.5inch")
+(module SA15-11xxx (layer F.Cu) (tedit 5C2A4C14)
+  (descr http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11xxxSRWA.pdf)
+  (tags "SA15-11xxx single digit 7 segment display 38.1mm 1.5inch")
   (fp_text reference REF** (at -9.65 -44.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SA15-11 (at 4.2 4.95) (layer F.Fab)
+  (fp_text value SA15-11xxx (at 4.2 4.95) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -11.5 3.2) (end 21.7 3.2) (layer F.Fab) (width 0.1))
@@ -35,7 +35,7 @@
   (pad 8 thru_hole circle (at 5.08 -40.6) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 2.54 -40.6) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 0 -40.6) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/SA15-11.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/SA15-11xxx.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
