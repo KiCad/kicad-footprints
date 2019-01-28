@@ -1,6 +1,6 @@
 (module Switch_THT_Toggle_SPxT_Vertical_Subminiature_CircularHoles (layer F.Cu) (tedit 5C4F2D0A)
   (descr https://www.ckswitches.com/media/1391/ttoggle.pdf)
-  (tags "subminiature toggle switch")
+  (tags "SPST, SPDT, subminiature toggle switch")
   (fp_text reference REF** (at 0 -2.54 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
