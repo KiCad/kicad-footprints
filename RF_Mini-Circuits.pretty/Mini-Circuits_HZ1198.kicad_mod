@@ -29,7 +29,7 @@
   (pad 4 smd rect (at 6.8961 5.2578) (size 1.9812 2.4892) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -6.8961 5.2578) (size 1.9812 2.4892) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -9.779 0) (size 2.4384 1.9812) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_HZ1198.wrl
+  (model ${KISYS3DMOD}/RF_Mini-Circuits.3dshapes/Mini-Circuits_HZ1198.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

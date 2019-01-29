@@ -97,7 +97,7 @@
     (zone_connect 2))
   (pad 4 smd rect (at -1.905 -5.588 180) (size 5.207 3.683) (drill (offset 2.6035 -1.8415)) (layers F.Cu)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_TTT167.wrl
+  (model ${KISYS3DMOD}/RF_Mini-Circuits.3dshapes/Mini-Circuits_TTT167.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
