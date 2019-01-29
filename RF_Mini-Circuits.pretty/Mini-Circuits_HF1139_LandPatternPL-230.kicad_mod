@@ -98,7 +98,7 @@
     (zone_connect 2))
   (pad 7 smd rect (at 4.0259 -2.794 270) (size 13.208 5.6642) (layers F.Cu)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_HF1139.wrl
+  (model ${KISYS3DMOD}/RF_Mini-Circuits.3dshapes/Mini-Circuits_HF1139.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

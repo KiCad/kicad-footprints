@@ -52,7 +52,7 @@
     (zone_connect 2))
   (pad 1 smd rect (at -2.54 -1.9685 90) (size 0.635 1.524) (layers F.Cu)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Mini-Circuits_QQQ130.wrl
+  (model ${KISYS3DMOD}/RF_Mini-Circuits.3dshapes/Mini-Circuits_QQQ130.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
