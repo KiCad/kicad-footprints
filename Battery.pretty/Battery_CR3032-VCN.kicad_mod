@@ -1,4 +1,4 @@
-(module Battery_CR3032-VCN (layer F.Cu) (tedit 5C2826E6)
+(module Battery_CR3032-VCN (layer F.Cu) (tedit 5C5164FC)
   (descr "Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf")
   (tags "battery CR-3032 coin cell vertical")
   (fp_text reference REF** (at 4.325 -6.1) (layer F.SilkS)
@@ -24,8 +24,8 @@
   (fp_line (start 10.61 -4.11) (end 19.485 -4.11) (layer F.SilkS) (width 0.12))
   (fp_line (start 19.485 -4.11) (end 19.485 0.21) (layer F.SilkS) (width 0.12))
   (fp_line (start 1.96 0.21) (end 19.485 0.21) (layer F.SilkS) (width 0.12))
-  (pad 1 thru_hole rect (at 0 0) (size 3.4 3.4) (drill 3.1) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 9.15 -3.9) (size 2.4 2.4) (drill 2.1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 3.7 3.7) (drill 3.1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 9.15 -3.9) (size 2.7 2.7) (drill 2.1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/Battery_CR3032-VCN.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

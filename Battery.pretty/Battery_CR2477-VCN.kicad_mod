@@ -1,4 +1,4 @@
-(module Battery_CR2477-VCN (layer F.Cu) (tedit 5C28255A)
+(module Battery_CR2477-VCN (layer F.Cu) (tedit 5C5164EC)
   (descr "Panasonic CR-2477/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf")
   (tags "battery CR-2477 coin cell vertical")
   (fp_text reference REF** (at 4.325 -10.5) (layer F.SilkS)
@@ -24,8 +24,8 @@
   (fp_line (start -8.085 -8.51) (end -8.085 0.21) (layer F.SilkS) (width 0.12))
   (fp_line (start -8.085 0.21) (end -1.96 0.21) (layer F.SilkS) (width 0.12))
   (fp_line (start -8.085 -8.51) (end 7.69 -8.51) (layer F.SilkS) (width 0.12))
-  (pad 1 thru_hole rect (at 0 0) (size 3.4 3.4) (drill 3.1) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 9.15 -8.3) (size 2.4 2.4) (drill 2.1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 3.7 3.7) (drill 3.1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 9.15 -8.3) (size 2.7 2.7) (drill 2.1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/Battery_CR2477-VCN.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
