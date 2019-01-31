@@ -1,5 +1,5 @@
-(module SA15-11xxx (layer F.Cu) (tedit 5C531553)
-  (descr http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11xxxSRWA.pdf)
+(module SA15-11xxx (layer F.Cu) (tedit 5C5315E1)
+  (descr http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf)
   (tags "SA15-11xxx single digit 7 segment display 38.1mm 1.5inch")
   (fp_text reference REF** (at 44.9 -9.65 -90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
