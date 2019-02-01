@@ -1,4 +1,4 @@
-(module SIM28ML (layer F.Cu) (tedit 5C542C3D)
+(module SIM28ML (layer F.Cu) (tedit 5C546A08)
   (descr https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf)
   (tags "SIM28ML GPS")
   (attr smd)
@@ -40,7 +40,7 @@
   (pad 16 smd rect (at 4.85 -2.2) (size 2 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at 4.85 -3.3) (size 2 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 18 smd rect (at 4.85 -4.4) (size 2 0.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/SIM28ML.wrl
+  (model ${KISYS3DMOD}/RF_GPS.3dshapes/SIM28ML.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
