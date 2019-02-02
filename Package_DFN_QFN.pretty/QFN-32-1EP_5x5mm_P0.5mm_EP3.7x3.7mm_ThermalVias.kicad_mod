@@ -1,4 +1,4 @@
-(module QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm_ThermalVias (layer F.Cu) (tedit 5C4D8E86)
+(module QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm_ThermalVias (layer F.Cu) (tedit 5C5574AF)
   (descr "QFN, 32 Pin (https://www.espressif.com/sites/default/files/documentation/0a-esp8285_datasheet_en.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
