@@ -17,7 +17,7 @@
   (fp_line (start 1.65 1.25) (end 1.65 -1.25) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.65 1.25) (end -1.65 1.25) (layer F.CrtYd) (width 0.05))
   (pad 2 smd custom (at 0.725 0) (size 0.3 0.3) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -25,7 +25,7 @@
 ) (width 0))
     ))
   (pad 1 smd custom (at -0.725 0) (size 0.3 0.3) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
