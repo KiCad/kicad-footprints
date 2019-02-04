@@ -1,5 +1,5 @@
-(module Texas_S-PVQFN-N36_EP4.4x4.4mm (layer F.Cu) (tedit 5C56045A)
-  (descr "QFN, 36 Pin (http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=32), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module Texas_S-PVQFN-N36_EP4.4x4.4mm (layer F.Cu) (tedit 5C58C1E1)
+  (descr "QFN, 36 Pin (http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=31), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -4.32) (layer F.SilkS)
