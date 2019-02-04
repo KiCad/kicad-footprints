@@ -1,5 +1,5 @@
-(module Garmin_D52M_9.8x14.0mm (layer F.Cu) (tedit 5C58B4EB)
-  (descr "D52M ANT SoC Module https://www.dynastream.com/components/d52")
+(module Garmin_D52M_9.8x14.0mm (layer F.Cu) (tedit 5C58C323)
+  (descr "D52M ANT SoC Module https://www.thisisant.com/assets/resources/D00001687_D52_Module_Datasheet.v.2.3_(Garmin).pdf")
   (tags "RF SoC Radio ANT Bluetooth BLE D52 nRF52 Garmin Canada Dynastream Nordic")
   (attr smd)
   (fp_text reference REF** (at 0 8) (layer F.SilkS)
