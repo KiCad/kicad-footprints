@@ -1,6 +1,6 @@
-(module Reverb_BTDR-1V (layer F.Cu) (tedit 5C585667)
+(module Reverb_BTDR-1V (layer F.Cu) (tedit 5C594312)
   (descr http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf)
-  (tags "Digital Reverb Belton BTDR-1V")
+  (tags "audio belton reverb")
   (fp_text reference REF** (at 59.45 10.25 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
