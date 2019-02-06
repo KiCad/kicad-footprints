@@ -229,7 +229,7 @@
   (pad D6 smd circle (at 3.75 2.75) (size 0.762 0.762) (layers F.Cu F.Mask))
   (pad E6 smd circle (at 3.75 4.25) (size 0.762 0.762) (layers F.Cu F.Mask))
   (pad F6 smd circle (at 3.75 5.75) (size 0.762 0.762) (layers F.Cu F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/Garmin_D52M.wrl
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
