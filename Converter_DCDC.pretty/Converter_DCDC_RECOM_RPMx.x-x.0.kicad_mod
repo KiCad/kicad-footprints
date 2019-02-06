@@ -1,6 +1,6 @@
 (module Converter_DCDC_Recom_RPMx.x-x.0 (layer F.Cu) (tedit 5C5B0852)
-  (descr LGA-25)
-  (tags LGA-25)
+  (descr DCDC-Converter, RECOM)
+  (tags dc-dc recom)
   (attr smd)
   (fp_text reference REF** (at 0 -4.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
