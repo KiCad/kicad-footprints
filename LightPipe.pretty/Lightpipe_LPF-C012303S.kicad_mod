@@ -1,4 +1,4 @@
-(module Lightpipe_LPF-C012303S (layer F.Cu) (tedit 5C5C0C58)
+(module Lightpipe_LPF-C012303S (layer F.Cu) (tedit 5C5C1062)
   (descr https://www.lumex.com/spec/LPF-C012303S.pdf)
   (tags "lightpipe dual")
   (attr virtual)
@@ -37,4 +37,9 @@
   (fp_line (start 0.65 11.55) (end 0.65 5.45) (layer F.SilkS) (width 0.12))
   (pad "" np_thru_hole circle (at 0 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 -2.54) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/LightPipe.3dshapes/Lightpipe_LPF-C012303S.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
