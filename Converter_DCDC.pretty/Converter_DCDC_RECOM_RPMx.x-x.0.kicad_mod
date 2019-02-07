@@ -1,4 +1,4 @@
-(module Converters_DCDC_ACDC:Converter_DCDC_RECOM_RPMx.x-x.0 (layer F.Cu) (tedit 5C5BE5BD)
+(module Converter_DCDC_RECOM_RPMx.x-x.0 (layer F.Cu) (tedit 5C5BE5BD)
   (descr https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf)
   (tags "dc-dc recom buck lga-25 pitch 2.29mm")
   (attr smd)
