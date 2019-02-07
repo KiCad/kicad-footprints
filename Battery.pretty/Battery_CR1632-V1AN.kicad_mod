@@ -1,4 +1,4 @@
-(module Battery_CR1632-V1AN (layer F.Cu) (tedit 5C540CEE)
+(module Battery_CR1632-V1AN (layer F.Cu) (tedit 5C5C2D6E)
   (descr "Panasonic CR-1632-V1AN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf")
   (tags "battery CR-1632 coin cell vertical")
   (fp_text reference REF** (at 0 -5.3) (layer F.SilkS)
@@ -27,8 +27,8 @@
   (fp_text user + (at -2.01 -0.75) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
-  (pad 1 thru_hole rect (at 0 0 90) (size 2.35 2.35) (drill 1.75) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 2.875 -3.65) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0 90) (size 2.35 2.35) (drill 1.82) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 2.875 -3.65) (size 1.6 1.6) (drill 1.09) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/Battery_CR1632-V1AN.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

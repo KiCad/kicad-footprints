@@ -1,4 +1,4 @@
-(module Battery_CR2025-V1AK (layer F.Cu) (tedit 5C540F9B)
+(module Battery_CR2025-V1AK (layer F.Cu) (tedit 5C5C2DA2)
   (descr "Panasonic CR-2025/V1AK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf")
   (tags "battery CR-2025 coin cell vertical")
   (fp_text reference REF** (at 4.825 -4.8) (layer F.SilkS)
@@ -27,8 +27,8 @@
   (fp_text user + (at -2.2 -0.75) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
-  (pad 1 thru_hole rect (at 0 0 90) (size 2.7 2.7) (drill 2.1) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 10.17 -3.15) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0 90) (size 2.7 2.7) (drill 2.12) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 10.17 -3.15) (size 1.6 1.6) (drill 1.09) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/Battery_CR2025-V1AK.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

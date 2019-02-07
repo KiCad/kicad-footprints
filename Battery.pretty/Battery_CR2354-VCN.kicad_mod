@@ -1,4 +1,4 @@
-(module Battery_CR2354-VCN (layer F.Cu) (tedit 5C540FFE)
+(module Battery_CR2354-VCN (layer F.Cu) (tedit 5C5C2DB4)
   (descr "Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf")
   (tags "battery CR-2354/VCN coin cell vertical")
   (fp_text reference REF** (at 4.325 -8.2) (layer F.SilkS)
@@ -27,8 +27,8 @@
   (fp_text user + (at -2.7 -0.75) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
-  (pad 1 thru_hole rect (at 0 0) (size 3.7 3.7) (drill 3.1) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 9.15 -6) (size 2.7 2.7) (drill 2.1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 3.7 3.7) (drill 3.12) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 9.15 -6) (size 2.7 2.7) (drill 2.12) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/Battery_CR2354-VCN.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
