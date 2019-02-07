@@ -1,4 +1,4 @@
-(module SparkGap_Pad1x5mm_Gap0.5mm_Oval (layer F.Cu) (tedit 5C5B8337)
+(module SparkGap_Pad1x5mm_Gap0.5mm_Oval (layer F.Cu) (tedit 5C5C5975)
   (descr "Spark gap, 1x5mm oval pads, 0.5mm air gap")
   (tags "spark gap")
   (solder_mask_margin 0.000001)
@@ -20,6 +20,7 @@
   (fp_line (start -1.43 2.68) (end 1.43 2.68) (layer F.SilkS) (width 0.12))
   (fp_line (start -1.43 2.68) (end -1.43 -2.68) (layer F.SilkS) (width 0.12))
   (fp_line (start 1.43 2.68) (end 1.43 -2.68) (layer F.SilkS) (width 0.12))
+  (fp_poly (pts (xy -0.75 -2.5) (xy -0.75 2.5) (xy 0.75 2.5) (xy 0.75 -2.5)) (layer F.Mask) (width 0.000001))
   (pad 1 smd oval (at -0.75 0) (size 1 5) (layers F.Cu F.Mask))
   (pad 2 smd oval (at 0.75 0) (size 1 5) (layers F.Cu F.Mask))
 )
