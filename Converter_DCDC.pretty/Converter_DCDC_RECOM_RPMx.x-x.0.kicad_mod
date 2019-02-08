@@ -2,7 +2,7 @@
   (descr https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf)
   (tags "dc-dc recom buck lga-25 pitch 2.29mm")
   (attr smd)
-  (fp_text reference REF** (at 0 -4.2) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value Converter_DCDC_RECOM_RPMx.x-x.0 (at 0 7) (layer F.Fab)
