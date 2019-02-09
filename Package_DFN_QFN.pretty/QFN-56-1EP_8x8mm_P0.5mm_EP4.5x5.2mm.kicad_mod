@@ -1,5 +1,5 @@
-(module QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm (layer F.Cu) (tedit 5B66F256)
-  (descr "QFN, 56 Pin (http://www.ti.com/lit/an/scea032/scea032.pdf (page 4)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm (layer F.Cu) (tedit 5C27AAAD)
+  (descr "QFN, 56 Pin (http://www.ti.com/lit/an/scea032/scea032.pdf#page=4), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -5.32) (layer F.SilkS)
