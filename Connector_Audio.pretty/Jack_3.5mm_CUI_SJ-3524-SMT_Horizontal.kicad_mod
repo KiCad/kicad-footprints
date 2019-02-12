@@ -1,4 +1,4 @@
-(module Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal (layer F.Cu) (tedit 5C199AE9)
+(module Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal (layer F.Cu) (tedit 5C635470)
   (descr "3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)")
   (tags "3.5mm audio cui horizontal jack stereo")
   (attr smd)
@@ -41,8 +41,8 @@
   (pad S smd rect (at -3.7 -3.6) (size 2.8 2.2) (layers F.Cu F.Paste F.Mask))
   (pad TN smd rect (at 0.75 9.8) (size 2.8 2.6) (layers F.Cu F.Paste F.Mask))
   (pad T smd rect (at -3.7 5.8) (size 2.8 2.8) (layers F.Cu F.Paste F.Mask))
-  (pad "" np_thru_hole circle (at 0 -2.5 270) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 0 4.5 270) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 -2.5) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 4.5) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
