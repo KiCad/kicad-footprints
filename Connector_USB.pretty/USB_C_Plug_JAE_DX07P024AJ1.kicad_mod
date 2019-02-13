@@ -1,4 +1,4 @@
-(module USB_C_Plug_JAE_DX07P024AJ1 (layer F.Cu) (tedit 5C56EDBD)
+(module USB_C_Plug_JAE_DX07P024AJ1 (layer F.Cu) (tedit 5C609459)
   (descr "Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.jae.com/z-en/pdf/MB-0301-2E_DX07_PLUG.pdf")
   (tags "USB Type-C Plug Edge Mount")
   (attr smd)
@@ -74,8 +74,8 @@
   (pad B8 smd rect (at 0.9225 1.1475) (size 0.26 1.55) (layers B.Cu B.Paste B.Mask))
   (pad S1 smd rect (at -3.3225 -1.1725) (size 1 1.5) (layers B.Cu B.Paste B.Mask))
   (pad S1 smd rect (at 3.4725 -1.1725) (size 0.7 1.5) (layers B.Cu B.Paste B.Mask))
-  (pad "" smd rect (at 3.5775 1.0475) (size 0.36 1.75) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at -3.2325 1.0475) (size 0.36 1.75) (layers F.Cu F.Paste F.Mask))
+  (pad "" smd rect (at 3.5775 1.0475) (size 0.36 1.75) (layers F.Cu F.Mask))
+  (pad "" smd rect (at -3.2325 1.0475) (size 0.36 1.75) (layers F.Cu F.Mask))
   (pad S1 smd rect (at -3.3225 -1.1725) (size 1 1.5) (layers F.Cu F.Paste F.Mask))
   (pad S1 smd rect (at 3.4725 -1.1725) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Plug_JAE_DX07P024AJ1.wrl
