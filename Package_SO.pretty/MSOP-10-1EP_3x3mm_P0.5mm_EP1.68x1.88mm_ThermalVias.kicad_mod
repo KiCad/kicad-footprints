@@ -1,4 +1,4 @@
-(module MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm_ThermalVias (layer F.Cu) (tedit 5C59EFBD)
+(module MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm_ThermalVias (layer F.Cu) (tedit 5C649EBD)
   (descr "MSOP, 10 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3805fg.pdf#page=18), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "MSOP SO")
   (attr smd)
