@@ -1,4 +1,4 @@
-(module BluePill (layer F.Cu) (tedit 5C64832E)
+(module BluePill (layer F.Cu) (tedit 5C648A56)
   (descr "STM32F103-based development board")
   (tags "stm32 arm")
   (fp_text reference REF** (at 7.62 26.67) (layer F.SilkS)
@@ -58,4 +58,9 @@
   (pad 38 thru_hole circle (at 15.24 5.08 270) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 15.24 2.54 270) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 15.24 0 270) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
+  (model "$(KSYS3DMOD)/Module/BluePill.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
