@@ -1,5 +1,5 @@
-(module MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm (layer F.Cu) (tedit 5C59FFD2)
-  (descr "MSOP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3652fe.pdf#page=24), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm (layer F.Cu) (tedit 5C65C476)
+  (descr "MSOP, 16 Pin (http://cds.linear.com/docs/en/datasheet/37551fd.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "MSOP SO")
   (attr smd)
   (fp_text reference REF** (at 0 -2.95) (layer F.SilkS)
