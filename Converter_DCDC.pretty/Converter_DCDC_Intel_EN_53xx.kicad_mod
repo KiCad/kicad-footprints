@@ -1,4 +1,4 @@
-(module Converter_DCDC_Intel_EN_53xx_QFN (layer F.Cu) (tedit 5C650E7E)
+(module Converter_DCDC_Intel_EN_53xx (layer F.Cu) (tedit 5C65111E)
   (descr "Intel - Altera QFN-24, 4x6mm (https://www.intel.sg/content/dam/www/programmable/us/en/pdfs/literature/ds/en5322qi_03454.pdf)")
   (tags "QFN 24 4x6mm")
   (attr smd)
