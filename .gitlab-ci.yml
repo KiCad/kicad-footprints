@@ -1,0 +1,16 @@
+# Docker Image: stretch-slim
+image: debian:stretch-slim
+
+# Stages: Build
+stages:
+  - build
+
+# Build: kicad-footprints
+build:
+  stages: build
+  script:
+    - apt-get install git -y
+    - git clone --depth 1 https://github.com/KiCad/kicad-library-utils /home/travis/build/kicad-library-utils
+    - bash /home/travis/build/kicad-library-utils/pcb/travis/check_all.sh $TRAVIS_BUILD_DIR -v
+    - python /home/travis/build/kicad-library-utils/check_lib_table.py $TRAVIS_BUILD_DIR/*.pretty --table $TRAVIS_BUILD_DIR/fp-lib-table
+
