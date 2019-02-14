@@ -1,4 +1,4 @@
-(module LED_PLCC_2835_Handsoldering (layer F.Cu) (tedit 5C642BDA)
+(module LED_PLCC_2835_Handsoldering (layer F.Cu) (tedit 5C65228D)
   (descr http://www.everlight.com/file/ProductFile/201407012101031690.pdf)
   (tags LED)
   (attr smd)
@@ -23,8 +23,8 @@
   )
   (fp_line (start -2.5 -1.6) (end -2.5 1.6) (layer F.SilkS) (width 0.12))
   (fp_line (start -1.05 -1.4) (end -1.75 -0.7) (layer F.Fab) (width 0.1))
-  (pad 1 smd rect (at -1.05 0) (size 2.5 2.1) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 1.5 0) (size 1.6 2.1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at -1.05 0) (size 2.5 2.2) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 1.525 0) (size 1.55 2.2) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_PLCC_2835.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
