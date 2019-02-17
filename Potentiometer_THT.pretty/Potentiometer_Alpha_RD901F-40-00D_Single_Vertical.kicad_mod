@@ -1,4 +1,4 @@
-(module "# done:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (layer F.Cu) (tedit 5C69D274)
+(module "Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (layer F.Cu) (tedit 5C69D274)
   (descr "Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113")
   (tags "potentiometer vertical 9mm single")
   (fp_text reference REF** (at 6.71 -4.64 180) (layer F.SilkS)
