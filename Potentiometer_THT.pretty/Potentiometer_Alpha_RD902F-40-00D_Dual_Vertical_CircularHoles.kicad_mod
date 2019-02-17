@@ -1,4 +1,4 @@
-(module "Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles" (layer F.Cu) (tedit 5C69D2A8)
+(module Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles (layer F.Cu) (tedit 5C69D2A8)
   (descr "Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113")
   (tags "potentiometer vertical 9mm dual")
   (fp_text reference REF** (at 5.87 -4.9 180) (layer F.SilkS)
