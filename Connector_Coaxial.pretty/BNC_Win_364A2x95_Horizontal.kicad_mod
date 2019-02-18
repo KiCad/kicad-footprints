@@ -1,10 +1,10 @@
-(module BNC_Dual_Isolated_Horizontal (layer F.Cu) (tedit 5C697222)
-  (descr "https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdfhttps://www.mouser.de/datasheet/2/53/DWG_364A2595Rev_A-1158937.pdf ")
+(module BNC_Win_364A2x95_Horizontal (layer F.Cu) (tedit 5C697222)
+  (descr "https://www.winconn.com/wp-content/uploads/RFM-056-Rev-081818.Dual_.RA.BNC_.Jacks_.364.pdf https://www.mouser.de/datasheet/2/53/DWG_364A2x95Rev_A-1158937.pdf")
   (tags "Dual BNC Horizontal Isolated")
   (fp_text reference REF** (at 0 4.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BNC_Dual_Isolated_Horizontal (at 0 6.15 180) (layer F.Fab)
+  (fp_text value BNC_Win_364A2x95_Horizontal (at 0 6.15 180) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5 -21.75) (end 5 -22.75) (layer F.Fab) (width 0.1))
@@ -44,7 +44,7 @@
   (pad 2 thru_hole circle (at -2.54 0) (size 1.6 1.6) (drill 0.89) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 -2.54) (size 1.6 1.6) (drill 0.89) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 2.54 0) (size 1.6 1.6) (drill 0.89) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/BNC_Dual_Isolated_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/BNC_Win_364A2x95_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
