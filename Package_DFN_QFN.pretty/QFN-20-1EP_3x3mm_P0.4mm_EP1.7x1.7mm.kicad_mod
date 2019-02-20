@@ -1,4 +1,4 @@
-(module QFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm (layer F.Cu) (tedit 5C6D552A)
+(module QFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm (layer F.Cu) (tedit 5C6D588E)
   (descr "QFN, 20 Pin (https://www.nxp.com/docs/en/data-sheet/SGTL5000.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN QFN_DFN")
   (attr smd)
@@ -76,4 +76,9 @@
     (solder_paste_margin -0.75))
   (pad 21 smd rect (at 0.6375 0.6375) (size 0.425 0.425) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin -0.75))
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
