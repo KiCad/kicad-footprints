@@ -1,11 +1,11 @@
-(module Texas_VQFN_RNR0011A (layer F.Cu) (tedit 5C6E8B2C)
+(module Texas_VQFN_RNR0011A-11 (layer F.Cu) (tedit 5C6E8DCA)
   (descr "RNR0011A, VQFN-11 (http://www.ti.com/lit/ds/symlink/tps61089.pdf, Pag.27)")
   (tags RNR0011A)
   (attr smd)
   (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Texas_VQFN_RNR0011A (at 0 2.3) (layer F.Fab)
+  (fp_text value Texas_VQFN_RNR0011A-11 (at 0 2.3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
@@ -52,7 +52,7 @@
   (pad "" smd roundrect (at -0.375 -1.06 180) (size 0.25 0.28) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 0.35 0.74 180) (size 0.35 0.92) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at -0.35 0.74 180) (size 0.35 0.92) (layers F.Paste) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Texas_RNR0011A.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Texas_VQFN_RNR0011A-11.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
