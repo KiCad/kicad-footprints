@@ -1,4 +1,4 @@
-(module Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm (layer F.Cu) (tedit 5BA425E7)
+(module Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm (layer F.Cu) (tedit 5C6DF121)
   (descr "MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2093mpbf.pdf?fileId=5546d462533600a401535675fb892793)")
   (tags "mlpq 32 7x7mm")
   (attr smd)
@@ -138,17 +138,21 @@
   (pad "" smd rect (at 3.425 1.75) (size 0.55 0.22) (layers F.Paste))
   (pad "" smd rect (at 3.425 2.25) (size 0.55 0.22) (layers F.Paste))
   (pad "" smd rect (at 3.425 2.75) (size 0.55 0.22) (layers F.Paste))
-  (pad "" smd rect (at -2.175 -2.0055) (size 1.1 0.761) (layers F.Paste))
-  (pad "" smd rect (at -2.0055 -2.5555) (size 0.761 0.339) (layers F.Paste))
-  (pad "" smd rect (at -2.3863 -2.3863 45) (size 0.479 0.479) (layers F.Paste))
-  (pad 49 smd custom (at 0 0.184) (size 5.55 5.182) (layers F.Cu F.Mask)
+  (pad "" smd custom (at -2.175 -2.175) (size 0.5 0.5) (layers F.Paste)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.211 -0.55) (xy 0.55 -0.55) (xy 0.55 0.55) (xy -0.55 0.55) (xy -0.55 -0.211)
+) (width 0))
+    ))
+  (pad 49 smd custom (at 0 0) (size 5 5) (layers F.Cu F.Mask)
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
-         (xy -2.775 -2.591) (xy -2.407 -2.959) (xy -2.407 -2.591)) (width 0))
-      (gr_poly (pts
-         (xy -2.407 -2.959) (xy 2.775 -2.959) (xy 2.775 -2.591) (xy -2.407 -2.591)) (width 0))
+         (xy -2.407 -2.775) (xy 2.775 -2.775) (xy 2.775 2.775) (xy -2.775 2.775) (xy -2.775 -2.407)
+) (width 0))
     ))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm.wrl
     (at (xyz 0 0 0))
