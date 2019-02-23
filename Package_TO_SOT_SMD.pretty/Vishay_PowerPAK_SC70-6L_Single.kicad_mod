@@ -1,4 +1,4 @@
-(module Vishay_PowerPAK_SC70-6L_Single (layer F.Cu) (tedit 5AE7F3BE)
+(module Vishay_PowerPAK_SC70-6L_Single (layer F.Cu) (tedit 5C711CE5)
   (descr "Vishay PowerPAK SC70 single transistor package http://www.vishay.com/docs/70486/70486.pdf")
   (tags "powerpak sc70 sc-70")
   (attr smd)
@@ -31,8 +31,8 @@
   (pad 1 smd rect (at 0.925 -0.65) (size 0.35 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0 -0.325) (size 1.5 0.95) (layers F.Cu F.Mask))
   (pad 4 smd rect (at 0.04 0.65) (size 0.87 0.235) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at -0.35 -0.325) (size 0.6 0.8) (layers F.Cu F.Paste))
-  (pad "" smd rect (at 0.35 -0.325) (size 0.6 0.8) (layers F.Cu F.Paste))
+  (pad "" smd rect (at -0.35 -0.325) (size 0.6 0.8) (layers F.Paste))
+  (pad "" smd rect (at 0.35 -0.325) (size 0.6 0.8) (layers F.Paste))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/Vishay_PowerPAK_SC70-6L_Single.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
