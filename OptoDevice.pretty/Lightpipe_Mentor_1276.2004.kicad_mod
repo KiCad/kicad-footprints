@@ -1,4 +1,4 @@
-(module Lightpipe_Mentor_1276.2004 (layer F.Cu) (tedit 5C714409)
+(module Lightpipe_Mentor_1276.2004 (layer F.Cu) (tedit 5C7147F6)
   (descr https://www.mentor-bauelemente.de/katalog/ll/MENTOR-LL.pdf)
   (tags "planar light pipe 4 way 3mm PLCC-2 PLCC-4")
   (fp_text reference REF** (at 5.95 3.4) (layer F.SilkS)
@@ -70,6 +70,7 @@
   (fp_line (start -17.45 1.75) (end -17.45 -1.75) (layer F.CrtYd) (width 0.05))
   (fp_line (start -17.45 -1.75) (end -8.55 -1.75) (layer F.CrtYd) (width 0.05))
   (fp_line (start -8.55 -1.75) (end -8.55 -2.5) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -12.7 1.5) (end -12.7 -1.5) (layer F.Fab) (width 0.1))
   (pad "" np_thru_hole circle (at 0 4.15) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 -4.15) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/OptoDevice.3dshapes/Lightpipe_Mentor_1276.2004.wrl
