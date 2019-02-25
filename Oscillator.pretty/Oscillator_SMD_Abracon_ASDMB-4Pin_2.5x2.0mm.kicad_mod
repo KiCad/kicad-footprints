@@ -1,4 +1,4 @@
-(module Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm (layer F.Cu) (tedit 5C73D3BB)
+(module Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm (layer F.Cu) (tedit 5C73D636)
   (descr "Miniature Crystal Clock Oscillator Abracon ASDMB series, http://www.abracon.com/Oscillators/ASDMB.pdf, 2.5x2.0mm^2 package")
   (tags "SMD SMT crystal oscillator")
   (attr smd)
@@ -30,7 +30,7 @@
   (pad 2 smd rect (at 0.825 0.775) (size 0.65 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.825 -0.775) (size 0.65 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -0.825 -0.775) (size 0.65 0.85) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm.wrl
+  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
