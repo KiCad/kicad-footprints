@@ -1,5 +1,5 @@
-(module Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed (layer F.Cu) (tedit 5A1C8B65)
-  (descr "Fuseholder, 5x20, closed, vertical, Bulgin, FX0456")
+(module Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed (layer F.Cu) (tedit 5C37B6C4)
+  (descr "Fuseholder, 5x20, closed, vertical, Bulgin, FX0456, https://www.bulgin.com/products/pub/media/bulgin/data/Fuseholders.pdf")
   (tags "Fuseholder 5x20 closed vertical Bulgin FX0456 Sicherungshalter ")
   (fp_text reference REF** (at 5.25 -7.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
