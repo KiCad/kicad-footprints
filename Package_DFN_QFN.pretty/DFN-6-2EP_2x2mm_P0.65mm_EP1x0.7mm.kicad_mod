@@ -1,4 +1,4 @@
-(module DFN-6-2EP_2x2mm_P0.65mm_EP1x0.7mm (layer F.Cu) (tedit 5C7A1502)
+(module DFN-6-2EP_2x2mm_P0.65mm_EP1x0.7mm (layer F.Cu) (tedit 5C7BAF2D)
   (descr "6-Lead Plastic Dual Flat, No Lead Package (MA) - 2x2x0.9 mm Body [DFN] (see Diodes Packaging Specification U-DFN2020-6%20(Type%20B).pdf)")
   (tags "DFN 0.65")
   (attr smd)
@@ -28,8 +28,8 @@
   (pad 4 smd rect (at 0.9 0.65) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0.9 0) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0.9 -0.65) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at 0 0.475) (size 1 0.7) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at 0 -0.475) (size 1 0.7) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at 0 0.475) (size 1 0.7) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at 0 -0.475) (size 1 0.7) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/DFN-6-2EP_2x2mm_P0.65mm_EP1x0.6mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
