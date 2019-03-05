@@ -1,5 +1,5 @@
 (module Texas_S-PWQFN-N100_EP5.5x5.5mm (layer F.Cu) (tedit 5C7DB299)
-  (descr http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=mpqf258&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=LPPD235&fileType=pdf)
+  (descr http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/lit/ds/sllse76m/sllse76m.pdf)
   (tags "MultiRow QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -5.9) (layer F.SilkS)
