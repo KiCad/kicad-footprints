@@ -1,4 +1,4 @@
-(module USB_Micro-B_Tensility_54-00023_Vertical_CircularHoles (layer F.Cu) (tedit 5A24F127)
+(module USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles (layer F.Cu) (tedit 5A24F127)
   (descr http://www.tensility.com/pdffiles/54-00023.pdf)
   (tags "usb mini receptacle vertical")
   (fp_text reference REF** (at 1.6 -3.7) (layer F.SilkS)
@@ -35,7 +35,7 @@
   (pad 5 thru_hole circle (at 3.2 0) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at -2.05 -0.875) (size 2.4 2.4) (drill 2) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 5.25 -0.875) (size 2.4 2.4) (drill 2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Micro-B_Tensility_54-00023_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Mini-B_Tensility_54-00023_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
