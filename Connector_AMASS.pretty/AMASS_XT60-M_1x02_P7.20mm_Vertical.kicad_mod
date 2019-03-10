@@ -1,4 +1,4 @@
-(module AMASS_XT60-M_1x02_P7.20mm_Vertical (layer F.Cu) (tedit 5C857775)
+(module AMASS_XT60-M_1x02_P7.20mm_Vertical (layer F.Cu) (tedit 5C857A3C)
   (descr https://www.tme.eu/en/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf)
   (tags "XT60 AMASS")
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
@@ -28,7 +28,7 @@
   )
   (pad 1 thru_hole circle (at 0 0) (size 6.5 6.5) (drill 4.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 7.2) (size 6.5 6.5) (drill 4.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical
+  (model ${KISYS3DMOD}/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
