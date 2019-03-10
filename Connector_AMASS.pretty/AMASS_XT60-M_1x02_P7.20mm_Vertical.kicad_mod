@@ -1,4 +1,6 @@
-(module AMASS_XT60-M_1x02_P7.20mm_Vertical (layer F.Cu) (tedit 5C856DCF)
+(module AMASS_XT60-M_1x02_P7.20mm_Vertical (layer F.Cu) (tedit 5C856E98)
+  (descr https://www.tme.eu/en/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf)
+  (tags "XT60 AMASS")
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
