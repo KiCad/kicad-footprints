@@ -1,5 +1,5 @@
 (module Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-0_Vertical (layer F.Cu) (tedit 5C7D57D7)
-  (descr "Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, https://www.neutrik.com/en/product/ncj6fa-v-0")
+  (descr "Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fa-v-0")
   (tags "neutrik jack combo a")
   (fp_text reference REF** (at -7.62 -13.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
