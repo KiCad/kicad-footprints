@@ -58,7 +58,7 @@
   (pad 21 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 21 thru_hole circle (at 0 0.45) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 21 thru_hole circle (at 0.45 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

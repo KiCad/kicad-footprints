@@ -1,5 +1,5 @@
-(module Filter_1109-5_1.1x0.9mm (layer F.Cu) (tedit 5A9284F2)
-  (descr "5-pin SAW filter package - 1.1x0.9 mm Body; (see https://www.mouser.com/ds/2/281/p73e-522716.pdf)")
+(module Filter_1109-5_1.1x0.9mm (layer F.Cu) (tedit 5BE69D12)
+  (descr "5-pin SAW filter package - 1.1x0.9 mm Body; (see https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en-gb)")
   (tags "Filter 5")
   (attr smd)
   (fp_text reference REF** (at 0 1.6) (layer F.SilkS)

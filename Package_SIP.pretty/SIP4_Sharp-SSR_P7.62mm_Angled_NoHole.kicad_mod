@@ -1,4 +1,4 @@
-(module SIP4_Sharp-SSR_P7.62mm_Angled_NoHole (layer F.Cu) (tedit 5A0CB273)
+(module SIP4_Sharp-SSR_P7.62mm_Angled_NoHole (layer F.Cu) (tedit 5C22567E)
   (descr "SIP4 Footprint for SSR made by Sharp")
   (tags "Solid State relais SSR Sharp")
   (fp_text reference REF** (at 1.27 -30.48) (layer F.SilkS)
@@ -91,7 +91,7 @@
   (pad 2 thru_hole oval (at 5.08 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 12.7 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 15.24 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_SIP.3dshapes/SIP4_Sharp-SSR_Pitch7.62mm_Angled.wrl
+  (model ${KISYS3DMOD}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

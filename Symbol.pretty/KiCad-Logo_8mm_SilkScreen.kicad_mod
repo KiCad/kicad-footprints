@@ -2,10 +2,10 @@
   (descr "KiCad Logo")
   (tags "Logo KiCad")
   (attr virtual)
-  (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+  (fp_text reference REF** (at 0 -6.35) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value KiCad-Logo_8mm_SilkScreen (at 0.75 0) (layer F.Fab) hide
+  (fp_text value KiCad-Logo_8mm_SilkScreen (at 0 6.35) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_poly (pts (xy -7.870089 -3.33834) (xy -7.52054 -3.338293) (xy -7.35783 -3.338286) (xy -4.753429 -3.338285)

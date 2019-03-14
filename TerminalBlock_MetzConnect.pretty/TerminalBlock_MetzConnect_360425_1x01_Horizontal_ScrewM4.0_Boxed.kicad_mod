@@ -1,4 +1,4 @@
-(module TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed (layer F.Cu) (tedit 5A0852B7)
+(module TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed (layer F.Cu) (tedit 5B294E90)
   (descr "single screw terminal block Metz Connect 360425, block size 9x9mm^2, drill diamater 1.6mm, 4 pads, pad diameter 3.2mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
   (tags "THT single screw terminal block Metz Connect 360425 size 9x9mm^2 drill 1.6mm pad 3.2mm")
   (fp_text reference REF** (at 4 -1.56) (layer F.SilkS)

@@ -1,5 +1,5 @@
-(module PUIAudio_SMT_0825_S_4_R (layer F.Cu) (tedit 5A030C54)
-  (descr "SMD 8540")
+(module PUIAudio_SMT_0825_S_4_R (layer F.Cu) (tedit 5BF326A3)
+  (descr "SMD 8540, http://www.puiaudio.com/product-detail.aspx?partnumber=SMT-0825-S-4-R")
   (tags "SMD 8540")
   (attr smd)
   (fp_text reference REF** (at 0.2 -5.9) (layer F.SilkS)

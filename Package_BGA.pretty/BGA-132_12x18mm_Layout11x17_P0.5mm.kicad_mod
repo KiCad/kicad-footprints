@@ -158,4 +158,9 @@
   (pad R11 smd circle (at 5 6) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad T11 smd circle (at 5 7) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad U11 smd circle (at 5 8) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-132_12x18mm_Layout11x17_P0.5mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

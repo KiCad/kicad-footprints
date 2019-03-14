@@ -2,6 +2,7 @@
   (at 0 0)
   (descr "Symbol, Attention, Copper Top, Big,")
   (tags "Symbol, Attention, Copper Top, Big,")
+  (attr virtual)
   (fp_text reference REF** (at 0 -8.128) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
