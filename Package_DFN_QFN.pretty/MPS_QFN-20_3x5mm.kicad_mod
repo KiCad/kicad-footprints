@@ -1,6 +1,7 @@
-(module MPS_QFN-20_3x5mm (layer F.Cu) (tedit 5C8D6C42)
+(module MPS_QFN-20_3x5mm (layer F.Cu) (tedit 5C8D6C6A)
   (descr "Monolithic Power QFN-20 (https://www.monolithicpower.com/pub/media/document/MPM3620_r1.1.pdf#page=24)")
   (tags "Monolithic Power QFN-20 MPM36xxY")
+  (attr smd)
   (fp_text reference REF** (at 0 -3.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
