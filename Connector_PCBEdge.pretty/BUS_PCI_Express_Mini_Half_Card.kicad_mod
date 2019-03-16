@@ -103,4 +103,9 @@
   (pad "" np_thru_hole circle (at 12.1 -8.65) (size 2.6 2.6) (drill 2.6) (layers *.Cu))
   (pad "" connect rect (at -12.1 -8.65) (size 5.8 5.8) (layers B.Cu B.Mask Dwgs.User))
   (pad "" connect rect (at 12.1 -8.65) (size 5.8 5.8) (layers B.Cu B.Mask Dwgs.User))
+  (model ${KISYS3DMOD}/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Half_Card.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

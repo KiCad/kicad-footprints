@@ -107,4 +107,9 @@
   (pad "" connect rect (at 12.1 -22.3) (size 5.8 5.8) (layers B.Cu B.Mask Dwgs.User))
   (pad "" connect rect (at -12.1 -7.6) (size 5.8 5.8) (layers Dwgs.User))
   (pad "" connect rect (at 12.1 -7.6) (size 5.8 5.8) (layers Dwgs.User))
+  (model ${KISYS3DMOD}/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Full_Card.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
