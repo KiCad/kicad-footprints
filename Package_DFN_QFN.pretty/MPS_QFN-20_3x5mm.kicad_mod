@@ -1,4 +1,4 @@
-(module MPS_QFN-20_3x5mm (layer F.Cu) (tedit 5C8D6757)
+(module MPS_QFN-20_3x5mm (layer F.Cu) (tedit 5C8D6800)
   (descr "Monolithic Power QFN-20 (https://www.monolithicpower.com/pub/media/document/MPM3620_r1.1.pdf#page=24)")
   (tags "Monolithic Power QFN-20 MPM36xxY")
   (fp_text reference REF** (at 0 -3.75) (layer F.SilkS)
@@ -65,4 +65,9 @@
     ))
   (pad 7 smd rect (at 1.25 2.1) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 1.25 0.4) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/MPS_QFN-20_3x5mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
