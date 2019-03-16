@@ -1,4 +1,4 @@
-(module MPS_QFN-20_3x5mm (layer F.Cu) (tedit 5C8D6D1E)
+(module MPS_QFN-20_3x5mm (layer F.Cu) (tedit 5C8D6DED)
   (descr "Monolithic Power QFN-20 (https://www.monolithicpower.com/pub/media/document/MPM3620_r1.1.pdf#page=24)")
   (tags "Monolithic Power QFN-20 MPM36xxY")
   (attr smd)
@@ -51,8 +51,8 @@
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
-         (xy 0.55 0.725) (xy -0.05 0.725) (xy -0.05 0.125) (xy -0.55 0.125) (xy -0.55 -0.125)
-         (xy -0.05 -0.125) (xy -0.05 -0.725) (xy 0.55 -0.725)) (width 0))
+         (xy 0.55 0.8) (xy -0.05 0.8) (xy -0.05 0.125) (xy -0.55 0.125) (xy -0.55 -0.125)
+         (xy -0.05 -0.125) (xy -0.05 -0.8) (xy 0.55 -0.8)) (width 0))
     ))
   (pad 10 smd roundrect (at 1.25 -0.25) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 12 smd roundrect (at 1.45 -1.55) (size 0.7 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
@@ -63,18 +63,18 @@
   (pad 17 smd roundrect (at -0.75 -2.45) (size 0.25 0.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 14 smd roundrect (at 0.75 -2.45) (size 0.25 0.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 13 smd roundrect (at 1.25 -2.45) (size 0.25 0.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (pad 4 smd rect (at -1.25 0.4) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask))
-  (pad 6 smd rect (at -1.25 2.1) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd roundrect (at -1.25 0.4) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
+  (pad 6 smd roundrect (at -1.25 2.1) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 8 smd custom (at 1.25 1.25 180) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask)
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
-         (xy 0.55 0.725) (xy -0.05 0.725) (xy -0.05 0.125) (xy -0.55 0.125) (xy -0.55 -0.125)
-         (xy -0.05 -0.125) (xy -0.05 -0.725) (xy 0.55 -0.725)) (width 0))
+         (xy 0.55 0.8) (xy -0.05 0.8) (xy -0.05 0.125) (xy -0.55 0.125) (xy -0.55 -0.125)
+         (xy -0.05 -0.125) (xy -0.05 -0.8) (xy 0.55 -0.8)) (width 0))
     ))
-  (pad 7 smd rect (at 1.25 2.1) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask))
-  (pad 9 smd rect (at 1.25 0.4) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd roundrect (at 1.25 2.1) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
+  (pad 9 smd roundrect (at 1.25 0.4) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/MPS_QFN-20_3x5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
