@@ -1,4 +1,6 @@
-(module RJ45_Ninigi_GE (layer F.Cu) (tedit 5C916755)
+(module RJ45_Ninigi_GE (layer F.Cu) (tedit 5C9168F3)
+  (descr "1 port ethernet throughhole connector, https://en.ninigi.com/product/rj45ge/pdf")
+  (tags "RJ45 ethernet 8p8c")
   (fp_text reference REF** (at 4.445 -5.34) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
