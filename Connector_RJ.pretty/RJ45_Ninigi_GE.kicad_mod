@@ -1,4 +1,4 @@
-(module RJ45_Ninigi_GE (layer F.Cu) (tedit 5C916439)
+(module RJ45_Ninigi_GE (layer F.Cu) (tedit 5C916589)
   (fp_text reference REF** (at 4.445 -5.34) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -39,8 +39,8 @@
   (pad 8 thru_hole circle (at 8.89 -2.54 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 6.35 -2.54 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Ninigi_GE.wrl
-    (offset (xyz -1.193799982070923 0 -0.5079999923706054))
-    (scale (xyz 0.393701 0.393701 0.393701))
-    (rotate (xyz 0 0 -90))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
