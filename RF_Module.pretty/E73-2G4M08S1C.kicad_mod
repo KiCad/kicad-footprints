@@ -1,4 +1,4 @@
-(module E73-2G4M08S1C (layer F.Cu) (tedit 5C9110BC)
+(module E73-2G4M08S1C (layer F.Cu) (tedit 5C92273E)
   (descr http://www.ebyte.com/en/pdf-down.aspx?id=627)
   (tags "BLE BLE5 nRF52840")
   (attr smd)
@@ -101,4 +101,9 @@
   (pad 20 smd rect (at 1.28 6.95) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
   (pad 22 smd rect (at 2.55 6.95) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
   (pad 24 smd rect (at 3.82 6.95) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/E73-2G4M08S1C.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
