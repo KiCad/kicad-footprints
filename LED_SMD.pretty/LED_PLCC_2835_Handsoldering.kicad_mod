@@ -1,5 +1,5 @@
 (module LED_PLCC_2835_Handsoldering (layer F.Cu) (tedit 5C65228D)
-  (descr http://www.everlight.com/file/ProductFile/201407012101031690.pdf)
+  (descr https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf)
   (tags LED)
   (attr smd)
   (fp_text reference REF** (at 0 -2.4) (layer F.SilkS)
