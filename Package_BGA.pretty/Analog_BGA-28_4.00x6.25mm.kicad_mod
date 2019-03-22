@@ -1,4 +1,6 @@
-(module BGA_28lead (layer F.Cu) (tedit 5C9412BC)
+(module BGA-28_4.00x6.25mm (layer F.Cu) (tedit 5C942771)
+  (descr https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf)
+  (tags "BGA-28 uModule")
   (attr smd)
   (fp_text reference REF** (at 1.4 -3.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
