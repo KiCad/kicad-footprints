@@ -1,5 +1,5 @@
-(module STC_SOP-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5C90CBA4)
-  (descr "STC  SOP, 16 Pin (https://www.stcmicro.com/datasheet/STC15F2K60S2-en.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module STC_SOP-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5C97D665)
+  (descr "STC  SOP, 16 Pin (https://www.stcmicro.com/datasheet/STC15F2K60S2-en.pdf#page=156), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "STC SOP SO")
   (attr smd)
   (fp_text reference REF** (at 0 -5.9) (layer F.SilkS)
