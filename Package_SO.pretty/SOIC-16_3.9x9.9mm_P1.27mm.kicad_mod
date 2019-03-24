@@ -1,5 +1,5 @@
-(module SOIC-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5C59C588)
-  (descr "SOIC, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module SOIC-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5C97300E)
+  (descr "SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)
   (fp_text reference REF** (at 0 -5.9) (layer F.SilkS)

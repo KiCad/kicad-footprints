@@ -1,5 +1,5 @@
-(module SOIC-24W_7.5x15.4mm_P1.27mm (layer F.Cu) (tedit 5C575C21)
-  (descr "SOIC, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RW_24.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module SOIC-24W_7.5x15.4mm_P1.27mm (layer F.Cu) (tedit 5C97300E)
+  (descr "SOIC, 24 Pin (JEDEC MS-013AD, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RW_24.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)
   (fp_text reference REF** (at 0 -8.65) (layer F.SilkS)

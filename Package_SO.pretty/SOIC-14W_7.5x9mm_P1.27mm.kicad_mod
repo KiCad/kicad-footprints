@@ -1,5 +1,5 @@
-(module SOIC-14W_7.5x9mm_P1.27mm (layer F.Cu) (tedit 5C575C21)
-  (descr "SOIC, 14 Pin (https://www.analog.com/media/en/package-pcb-resources/package/54614177245586rw_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module SOIC-14W_7.5x9mm_P1.27mm (layer F.Cu) (tedit 5C97300E)
+  (descr "SOIC, 14 Pin (JEDEC MS-013AF, https://www.analog.com/media/en/package-pcb-resources/package/54614177245586rw_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)
   (fp_text reference REF** (at 0 -5.45) (layer F.SilkS)
