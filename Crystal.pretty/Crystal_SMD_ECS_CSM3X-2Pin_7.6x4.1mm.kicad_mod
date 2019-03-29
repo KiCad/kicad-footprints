@@ -1,4 +1,4 @@
-(module Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm (layer F.Cu) (tedit 5AEE9E1A)
+(module Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm (layer F.Cu) (tedit 5C8FEF28)
   (descr http://www.ecsxtal.com/store/pdf/CSM-3X.pdf)
   (tags "Crystal CSM-3X")
   (attr smd)
@@ -32,6 +32,11 @@
   (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 90 0))
+  )
+  (model ${KIPRJMOD}/ECS-120-20-3X-EN-TR--3DModel-STEP-40055.STEP
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
   )
 )
