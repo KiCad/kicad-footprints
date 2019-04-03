@@ -1,5 +1,5 @@
-(module Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open (layer F.Cu) (tedit 5A1C8BA4)
-  (descr http://www.schurter.com/var/schurter/storage/ilcatalogue/files/document/datasheet/en/pdf/typ_OGN.pdf)
+(module Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open (layer F.Cu) (tedit 5C39E22F)
+  (descr "Fuseholder horizontal open 5x20 Schurter 0031.8201, https://www.schurter.com/en/datasheet/typ_OGN.pdf")
   (tags "Fuseholder horizontal open 5x20 Schurter 0031.8201")
   (fp_text reference REF** (at 11.25 -6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

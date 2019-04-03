@@ -33,13 +33,14 @@ Specialized scripts are used to generate the following connectors:
 - JWPF
 - NV
 - PH (only THT version = `*PH-K*`)
+- PHD
 - PUD
 - VH
 - XH
 - ZE
 
 Script details
-- authors: Poeschl Rene, Jan W. Krieger, Oliver Walters, evanshultz, Thomas Pointhuber (see git log for details)
+- authors: Poeschl Rene, Jan W. Krieger, Oliver Walters, Evan Shultz, Thomas Pointhuber (see git log for details)
 - script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector/Connector_JST/
 - used config file (where applicable): config_KLCv3.0.yaml
 - python version: 3.6.2

@@ -1,5 +1,5 @@
-(module QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm (layer F.Cu) (tedit 5B570533)
-  (descr "QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf (Page 62)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm (layer F.Cu) (tedit 5C26A111)
+  (descr "QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -4.8) (layer F.SilkS)
