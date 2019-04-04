@@ -1,5 +1,5 @@
-(module Transformer_Wuerth_750343373 (layer F.Cu) (tedit 5CA4D551)
-  (descr "Primary 18-60V 300kHz, Dual Secondary 12V-3A/12V-1A, Flyback Transformer, PCB, https://katalog.we-online.com/ctm/datasheet/750343373.pdf")
+(module Transformer_Wuerth_750343373 (layer F.Cu) (tedit 5CA646E6)
+  (descr "Transformer, horizontal core with bobbin, 10 pin, 3.81mm pitch, 15.24mm row spacing, 22x23x17.53mm (https://katalog.we-online.com/ctm/datasheet/750343373.pdf)")
   (tags "transformer flyback")
   (fp_text reference REF** (at 0 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
