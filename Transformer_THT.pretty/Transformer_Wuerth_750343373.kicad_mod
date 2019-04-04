@@ -1,10 +1,10 @@
-(module Transformer_WE_750343373 (layer F.Cu) (tedit 5CA4D551)
+(module Transformer_Wuerth_750343373 (layer F.Cu) (tedit 5CA4D551)
   (descr "Primary 18-60V 300kHz, Dual Secondary 12V-3A/12V-1A, Flyback Transformer, PCB, https://katalog.we-online.com/ctm/datasheet/750343373.pdf")
   (tags "transformer flyback")
   (fp_text reference REF** (at 0 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Transformer_WE_750343373 (at 7.62 8.89) (layer F.Fab)
+  (fp_text value Transformer_Wuerth_750343373 (at 7.62 8.89) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.38 -3.88) (end 18.62 -3.88) (layer F.Fab) (width 0.1))
@@ -36,7 +36,7 @@
   (pad 8 thru_hole circle (at 15.24 7.62) (size 2.17 2.17) (drill 1.17) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 15.24 3.81) (size 2.17 2.17) (drill 1.17) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 15.24 0) (size 2.17 2.17) (drill 1.17) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_WE_750343373.wrl
+  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_Wuerth_750343373.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
