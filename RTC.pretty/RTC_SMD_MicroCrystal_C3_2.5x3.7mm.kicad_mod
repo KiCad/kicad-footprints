@@ -1,4 +1,4 @@
-(module RTC_SMD_MicroCrystal_C3_2.5x3.7mm (layer F.Cu) (tedit 5CA7296B)
+(module RTC_SMD_MicroCrystal_C3_2.5x3.7mm (layer F.Cu) (tedit 5CA72B1B)
   (descr "MicroCrystal C3 2.5x3.7mm, (https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-1805-C3.pdf)")
   (tags "RTC C3")
   (attr smd)
@@ -32,7 +32,7 @@
   (pad 8 smd rect (at 1.1 0) (size 0.8 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 1.1 -0.8) (size 0.8 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 1.1 -1.6) (size 0.8 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RTC.3dshapes/RTC_SMD_MicroCrystal_RV-1805-C3.wrl
+  (model ${KISYS3DMOD}/RTC.3dshapes/RTC_SMD_MicroCrystal_C3_2.5x3.7mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
