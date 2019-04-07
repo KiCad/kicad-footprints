@@ -1,4 +1,5 @@
-(module Texas_NDY0011A_TO-PMOD-11_15x15x5.9mm (layer F.Cu) (tedit 5CA96857)
+(module Texas_NDY0011A_TO-PMOD-11_15x15x5.9mm (layer F.Cu) (tedit 5CA97091)
+  (descr http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf)
   (attr smd)
   (fp_text reference REF** (at 0 -8.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
