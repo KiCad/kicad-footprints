@@ -1,5 +1,6 @@
-(module Texas_NDY0011A_TO-PMOD-11_15x15x5.9mm (layer F.Cu) (tedit 5CA97091)
+(module Texas_NDY0011A_TO-PMOD-11_15x15x5.9mm (layer F.Cu) (tedit 5CA9E82E)
   (descr http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf)
+  (tags "Texas TO-PMOD NDY00011A")
   (attr smd)
   (fp_text reference REF** (at 0 -8.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -38,4 +39,9 @@
   (pad 2 smd rect (at -5.08 9.5) (size 0.86 2.41) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -3.81 9.5) (size 0.86 2.41) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -6.35 9.5) (size 0.86 2.41) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_LGA.3dshapes/Texas_NDY0011A_TO-PMOD-11_15x15x5.9mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
