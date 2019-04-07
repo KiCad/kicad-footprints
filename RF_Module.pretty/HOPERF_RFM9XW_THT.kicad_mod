@@ -1,5 +1,5 @@
-(module HOPERF_RFM9XW_THT (layer F.Cu) (tedit 5C4E4E32)
-  (descr "Low Power Long Range Transceiver Module SMD-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)")
+(module HOPERF_RFM9XW_THT (layer F.Cu) (tedit 5CAA3603)
+  (descr "Low Power Long Range Transceiver Module THT-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)")
   (tags "Low Power Long Range Transceiver Module LoRa")
   (fp_text reference REF** (at 6.8 -2.17) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
