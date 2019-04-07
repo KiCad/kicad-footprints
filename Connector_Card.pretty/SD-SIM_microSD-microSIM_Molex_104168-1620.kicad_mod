@@ -1,11 +1,11 @@
-(module SD-SIM_microSD-microSIM_Molex_1041681620 (layer F.Cu) (tedit 5C715705)
+(module SD-SIM_microSD-microSIM_Molex_104168-1620 (layer F.Cu) (tedit 5CAA60ED)
   (descr "microSD and microSIM connector, https://www.molex.com/pdm_docs/sd/1041681620_sd.pdf")
   (tags "Combo Connector microSD and microSIM")
   (attr smd)
   (fp_text reference REF** (at 0 -10.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SD-SIM_microSD-microSIM_Molex_1041681620 (at 0 11.425) (layer F.Fab)
+  (fp_text value SD-SIM_microSD-microSIM_Molex_104168-1620 (at 0 11.425) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 4.7 9.185) (end 5.49 9.185) (angle 90) (layer F.Fab) (width 0.1))
@@ -116,7 +116,7 @@
       (gr_circle (center -0.05 0.4) (end 0.4 0.4) (width 0))
       (gr_circle (center -0.05 -0.4) (end 0.4 -0.4) (width 0))
     ))
-  (model ${KISYS3DMOD}/Connector_Card.3dshapes/SD-SIM_microSD-microSIM_Molex_1041681620.wrl
+  (model ${KISYS3DMOD}/Connector_Card.3dshapes/SD-SIM_microSD-microSIM_Molex_104168-1620.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
