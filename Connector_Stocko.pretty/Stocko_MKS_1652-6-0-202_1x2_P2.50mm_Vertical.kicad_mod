@@ -1,4 +1,4 @@
-(module Stocko_MKS_1652-6-0-202_1x2_P2.50mm_Vertical (layer F.Cu) (tedit 5C634A4B)
+(module Stocko_MKS_1652-6-0-202_1x2_P2.50mm_Vertical (layer F.Cu) (tedit 5C7139E8)
   (descr "Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator")
   (tags "Stocko RFK MKS 16xx")
   (fp_text reference REF** (at 1.25 -4.5) (layer F.SilkS)
