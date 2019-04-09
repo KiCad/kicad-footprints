@@ -1,5 +1,5 @@
-(module VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm (layer F.Cu) (tedit 5CACE89F)
-  (descr "VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc1312r.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm (layer F.Cu) (tedit 5CACE955)
+  (descr "VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc1312r.pdf), generated footprint wizard.")
   (attr smd)
   (fp_text reference REF** (at 0 -4.95) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
