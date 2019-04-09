@@ -1,4 +1,4 @@
-(module Filter_Johanson_1.6x0.8mm (layer F.Cu) (tedit 5CACE4FF)
+(module Filter_Johanson_1.6x0.8mm (layer F.Cu) (tedit 5CACEC0F)
   (descr "6-pin 1.6x0.8 mm balun footprint")
   (tags "Johanson balun filter")
   (attr smd)
