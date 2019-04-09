@@ -1,4 +1,4 @@
-(module Oscillator_SMD_DiodesPericom_FN-4Pin_7.0x5.0mm (layer F.Cu) (tedit 5CABEB14)
+(module Oscillator_SMD_DiodesPericom_FN-4Pin_7.0x5.0mm (layer F.Cu) (tedit 5CABFCD1)
   (descr "FN Series Crystal Clock Oscillator (XO) (https://www.diodes.com/assets/Datasheets/FN_3-3V.pdf)")
   (tags "Oscillator Crystal SMD SMT")
   (attr smd)
@@ -28,6 +28,7 @@
   (fp_line (start 3.45 3.75) (end -3.45 3.75) (layer F.CrtYd) (width 0.05))
   (fp_line (start -3.45 3.75) (end -3.45 -3.75) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.64 -1.44) (end -3.2 -1.44) (layer F.SilkS) (width 0.12))
+  (fp_line (start -2.5 -2.5) (end -1.5 -3.5) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -2.2 -2.54) (size 2 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 2.2 -2.54) (size 2 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.2 2.54) (size 2 1.8) (layers F.Cu F.Paste F.Mask))
