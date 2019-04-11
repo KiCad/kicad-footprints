@@ -1,5 +1,5 @@
-(module Hirose_DF12_DF12E3.0-80DP-0.5V_2x40_P0.50mm_Vertical (layer F.Cu) (tedit 5C851D20)
-  (descr "Hirose DF12E SMD, DF12E3.0-80DP-0.5V, 80 Pins per row (https://www.hirose.com/product/en/download_file/key_name/DF12E%283.0%29%2D50DP%2D0.5V%2881%29/category/Drawing%20(2D)/doc_file_id/38672/), generated with kicad-footprint-generator")
+(module Hirose_DF12_DF12E3.0-80DP-0.5V_2x40_P0.50mm_Vertical (layer F.Cu) (tedit 5CAEFD12)
+  (descr "Hirose DF12E SMD, DF12E3.0-80DP-0.5V, 80 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator")
   (tags "connector Hirose DF12 side entry")
   (attr smd)
   (fp_text reference REF** (at 0 -4.1) (layer F.SilkS)
