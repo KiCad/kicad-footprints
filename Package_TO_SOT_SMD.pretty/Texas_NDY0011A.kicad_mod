@@ -1,5 +1,5 @@
-(module Texas_NDY0011A (layer F.Cu) (tedit 5CAFA1FD)
-  (descr http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf)
+(module Texas_NDY0011A (layer F.Cu) (tedit 5CAFA333)
+  (descr "TO-PMOD-11 11-pin switching regulator package, http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf")
   (tags "Texas TO-PMOD NDY00011A")
   (attr smd)
   (fp_text reference REF** (at 0 -10.51) (layer F.SilkS)
