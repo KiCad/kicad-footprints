@@ -1,4 +1,4 @@
-(module RotaryEncoder_Alps_EC11B-Switch_Horizontal_L20mm_CircularHoles (layer F.Cu) (tedit 5CAFB2E8)
+(module RotaryEncoder_Alps_EC11B-Switch_Horizontal_L20mm_CircularHoles (layer F.Cu) (tedit 5CB08D2D)
   (descr "Alps rotary encoder, EC11B with switch, horizontal shaft, https://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11B15242AZ.html")
   (tags "rotary encoder horizontal")
   (fp_text reference REF** (at 1.26 10.42) (layer F.SilkS)
@@ -43,8 +43,8 @@
   (pad B thru_hole circle (at 0 5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad MP thru_hole circle (at 1.25 -3) (size 3.37 3.37) (drill 2.77) (layers *.Cu *.Mask))
   (pad MP thru_hole circle (at 1.25 8) (size 3.37 3.37) (drill 2.77) (layers *.Cu *.Mask))
-  (pad D thru_hole circle (at 2.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (pad E thru_hole circle (at 2.5 5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad S2 thru_hole circle (at 2.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad S1 thru_hole circle (at 2.5 5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11B-Switch_Horizontal_L20mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
