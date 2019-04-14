@@ -109,6 +109,7 @@
   (lib (name Sensor_Pressure)(type KiCad)(uri ${KISYSMOD}/Sensor_Pressure.pretty)(options "")(descr "Specialized footprints for pressure sensors"))
   (lib (name Sensor_Voltage)(type KiCad)(uri ${KISYSMOD}/Sensor_Voltage.pretty)(options "")(descr "Specialized footprints for voltage sensors"))
   (lib (name Socket)(type KiCad)(uri ${KISYSMOD}/Socket.pretty)(options "")(descr "Sockets"))
+  (lib (name Speaker)(type KiCad)(uri ${KISYSMOD}/Speaker.pretty)(options "")(descr "Speakers"))
   (lib (name Symbol)(type KiCad)(uri ${KISYSMOD}/Symbol.pretty)(options "")(descr "PCB symbols"))
   (lib (name TerminalBlock_Altech)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Altech.pretty)(options "")(descr "Altech terminal block footprints"))
   (lib (name TerminalBlock)(type KiCad)(uri ${KISYSMOD}/TerminalBlock.pretty)(options "")(descr "Footprints for terminal blocks that do not have their own manufacturer specific library."))
