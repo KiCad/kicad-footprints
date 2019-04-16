@@ -99,6 +99,7 @@
   (lib (name RF_GSM)(type KiCad)(uri ${KISYSMOD}/RF_GSM.pretty)(options "")(descr "GSM Modules footprints"))
   (lib (name RF_Mini-Circuits)(type KiCad)(uri ${KISYSMOD}/RF_Mini-Circuits.pretty)(options "")(descr "Footprints for Mini-Circuits RF parts."))
   (lib (name RF_Module)(type KiCad)(uri ${KISYSMOD}/RF_Module.pretty)(options "")(descr "Radio-frequency / wireless modules"))
+  (lib (name RF_WiFi)(type KiCad)(uri ${KISYSMOD}/RF_WiFi.pretty)(options "")(descr "WiFi modules"))
   (lib (name RF_Shielding)(type KiCad)(uri ${KISYSMOD}/RF_Shielding.pretty)(options "")(descr "Specialied footprints for EMI shields and covers"))
   (lib (name Rotary_Encoder)(type KiCad)(uri ${KISYSMOD}/Rotary_Encoder.pretty)(options "")(descr "Rotary Encoder Footprints"))
   (lib (name Sensor)(type KiCad)(uri ${KISYSMOD}/Sensor.pretty)(options "")(descr "Specialized footprints for multi-function sensors"))
