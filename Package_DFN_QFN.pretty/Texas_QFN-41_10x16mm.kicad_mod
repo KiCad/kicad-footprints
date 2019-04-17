@@ -1,4 +1,4 @@
-(module Texas_QFN-41_10x16mm (layer F.Cu) (tedit 5CB74705)
+(module Texas_QFN-41_10x16mm (layer F.Cu) (tedit 5CB7574D)
   (descr "QFN, 41 Pin (http://www.ti.com/lit/ml/mpqf506/mpqf506.pdf)")
   (tags "QFN DFN_QFN")
   (attr smd)
@@ -45,7 +45,7 @@
          (xy -0.385 0.285)) (width 0.2))
       (gr_arc (start -0.585 0.085) (end -0.585 0.285) (angle -90) (width 0.2))
     ))
-  (pad 1 smd custom (at -4.285 -7.185) (size 0.87 0.87) (layers F.Paste)
+  (pad "" smd custom (at -4.285 -7.185) (size 0.87 0.87) (layers F.Paste)
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
@@ -210,7 +210,7 @@
          (xy -0.385 -0.285)) (width 0.2))
       (gr_arc (start -0.585 -0.085) (end -0.585 -0.285) (angle 90) (width 0.2))
     ))
-  (pad 11 smd custom (at -4.285 7.185) (size 0.87 0.87) (layers F.Paste)
+  (pad "" smd custom (at -4.285 7.185) (size 0.87 0.87) (layers F.Paste)
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
@@ -279,7 +279,7 @@
          (xy -0.385 0.285)) (width 0.2))
       (gr_arc (start -0.585 0.085) (end -0.585 0.285) (angle -90) (width 0.2))
     ))
-  (pad 19 smd custom (at 4.285 7.185 180) (size 0.87 0.87) (layers F.Paste)
+  (pad "" smd custom (at 4.285 7.185 180) (size 0.87 0.87) (layers F.Paste)
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
@@ -450,7 +450,7 @@
          (xy -0.385 -0.285)) (width 0.2))
       (gr_arc (start -0.585 -0.085) (end -0.585 -0.285) (angle 90) (width 0.2))
     ))
-  (pad 28 smd custom (at 4.285 -7.185 180) (size 0.87 0.87) (layers F.Paste)
+  (pad "" smd custom (at 4.285 -7.185 180) (size 0.87 0.87) (layers F.Paste)
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
