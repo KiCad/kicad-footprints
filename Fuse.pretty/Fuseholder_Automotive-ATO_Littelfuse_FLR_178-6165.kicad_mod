@@ -1,4 +1,4 @@
-(module Fuseholder_Automotive-ATO_Littelfuse_FLR_178-6165 (layer F.Cu) (tedit 5B664484)
+(module Fuseholder_Automotive-ATO_Littelfuse_FLR_178-6165 (layer F.Cu) (tedit 5CBB253C)
   (descr http://www.littelfuse.com/~/media/commercial-vehicle/datasheets/automotive-fuse-holders/ato/littelfuse-fuse-holder-ato-flr-pcb-datasheet.pdf)
   (tags "ATO Blade")
   (fp_text reference REF** (at 6.4 -3.25) (layer F.SilkS)
@@ -31,4 +31,9 @@
   (pad 1 thru_hole circle (at 0 2.5) (size 2.2 2.2) (drill 1.4) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 9.3 2.5) (size 2.2 2.2) (drill 1.4) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 6.4 1.25) (size 2.4 2.4) (drill 2.4) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Fuse.3dshapes/Fuseholder_Automotive-ATO_Littelfuse_FLR_178-6165.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
