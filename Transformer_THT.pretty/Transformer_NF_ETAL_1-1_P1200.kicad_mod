@@ -1,5 +1,5 @@
-(module Transformer_NF_ETAL_1-1_P1200 (layer F.Cu) (tedit 5A030845)
-  (descr "NF-Transformer, 1:1, ETAL P1200,")
+(module Transformer_NF_ETAL_1-1_P1200 (layer F.Cu) (tedit 5BEAF804)
+  (descr "NF-Transformer, 1:1, ETAL P1200,http://www.etalgroup.com/sites/default/files/products/P1200_April_2005.pdf")
   (tags "NF-Transformer 1to1 ETAL P1200 ")
   (fp_text reference REF** (at -6.35 -6.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
