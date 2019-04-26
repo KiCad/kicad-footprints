@@ -1,5 +1,5 @@
-(module Xilinx_FTG256 (layer F.Cu) (tedit 5CC03D04)
-  (descr "Artix-7 BGA, 16x16 grid, 17x17mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf, NSMD pad definition Appendix A")
+(module Xilinx_FTG256 (layer F.Cu) (tedit 5CC350D4)
+  (descr "Artix-7 BGA, 16x16 grid, 17x17mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf p. 269, NSMD pad definition Appendix A")
   (tags "BGA 256 1 FT256 FTG256")
   (attr smd)
   (solder_mask_margin 0.05)
