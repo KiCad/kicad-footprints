@@ -1,5 +1,5 @@
-(module Xilinx_FGG676 (layer F.Cu) (tedit 5CC350D4)
-  (descr "Artix-7 BGA, 26x26 grid, 27x27mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf p. 276, NSMD pad definition Appendix A")
+(module Xilinx_FGG676 (layer F.Cu) (tedit 5CC4225E)
+  (descr "Artix-7 BGA, 26x26 grid, 27x27mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=276, NSMD pad definition Appendix A")
   (tags "BGA 676 1 FG676 FGG676")
   (attr smd)
   (solder_mask_margin 0.05)

@@ -1,5 +1,5 @@
-(module Xilinx_CPG238 (layer F.Cu) (tedit 5CC350D4)
-  (descr "Artix-7 BGA, 19x19 grid, 10x10mm package, 0.5mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf p. 267, NSMD pad definition Appendix A")
+(module Xilinx_CPG238 (layer F.Cu) (tedit 5CC4225E)
+  (descr "Artix-7 BGA, 19x19 grid, 10x10mm package, 0.5mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=267, NSMD pad definition Appendix A")
   (tags "BGA 238 0.5 CPG238")
   (attr smd)
   (solder_mask_margin 0.05)

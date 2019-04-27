@@ -1,5 +1,5 @@
-(module Xilinx_RS484 (layer F.Cu) (tedit 5CC350D4)
-  (descr "Artix-7 BGA, 22x22 grid, 19x19mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf p. 279, NSMD pad definition Appendix A")
+(module Xilinx_RS484 (layer F.Cu) (tedit 5CC4225D)
+  (descr "Artix-7 BGA, 22x22 grid, 19x19mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=279, NSMD pad definition Appendix A")
   (tags "BGA 484 0.8 RS484")
   (attr smd)
   (solder_mask_margin 0.05)
