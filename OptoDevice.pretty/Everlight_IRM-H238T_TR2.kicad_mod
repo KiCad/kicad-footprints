@@ -1,4 +1,4 @@
-(module Everlight_IRM-H238T_TR2 (layer F.Cu) (tedit 5CC5DB50)
+(module Everlight_IRM-H238T_TR2 (layer F.Cu) (tedit 5CC5DC30)
   (descr "package for Everlight IRM-H2XXT/TR2, see http://www.everlight.com/file/ProductFile/IRM-H238T-TR2.pdf")
   (tags "Infrared Receiver Module")
   (attr smd)
@@ -39,6 +39,11 @@
   (model ${KISYS3DMOD}/OptoDevice.3dshapes/Everlight_IRM-H238T_TR2.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Everlight_IRM-H238T_TR2.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )
