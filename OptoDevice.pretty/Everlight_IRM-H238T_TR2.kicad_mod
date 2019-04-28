@@ -1,4 +1,4 @@
-(module Everlight_IRM-H238T_TR2 (layer F.Cu) (tedit 5CC5B673)
+(module Everlight_IRM-H238T_TR2 (layer F.Cu) (tedit 5CC5B97E)
   (descr "package for Everlight IRM-H2XXT/TR2, see http://www.everlight.com/file/ProductFile/IRM-H238T-TR2.pdf")
   (tags "Infrared Receiver Module")
   (attr smd)
@@ -36,4 +36,9 @@
   (pad 1 smd roundrect (at -2.05 -2.3 270) (size 1.6 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2))
   (pad 4 smd roundrect (at 2.05 -2.3 270) (size 1.6 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2))
   (pad 3 smd roundrect (at 2.05 2.3 270) (size 1.6 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2))
+  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Everlight_IRM-H238T_TR2
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
