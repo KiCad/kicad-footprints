@@ -1,4 +1,4 @@
-(module Converter_DCDC_Pololu_D24V5Fx_Vertical (layer F.Cu) (tedit 5CAB9F34)
+(module Converter_DCDC_Pololu_D24V5Fx_Vertical (layer F.Cu) (tedit 5CC8A777)
   (descr https://www.pololu.com/file/0J1498/d24v5fx-step-down-voltage-regulator-dimensions.pdf)
   (tags "Pololu D24V5Fx")
   (fp_text reference REF** (at 1.27 -2.54) (layer F.SilkS)
@@ -22,9 +22,9 @@
   (fp_line (start 4.695 -1.52) (end 4.695 9.14) (layer F.CrtYd) (width 0.05))
   (fp_line (start 4.695 9.14) (end -1.52 9.14) (layer F.CrtYd) (width 0.05))
   (fp_line (start -1.52 9.14) (end -1.52 -1.52) (layer F.CrtYd) (width 0.05))
-  (pad 1 thru_hole circle (at 0 0 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 2.54 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (pad 3 thru_hole rect (at 0 5.08 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at 0 5.08 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 0 7.62 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Pololu_D24V5Fx.step
     (offset (xyz 2.539999961853027 1.269999980926514 2.79399995803833))
