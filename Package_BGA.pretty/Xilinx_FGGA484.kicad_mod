@@ -1,6 +1,6 @@
-(module Xilinx_FGGA484 (layer F.Cu) (tedit 5CC81CB7)
+(module Xilinx_FGGA484 (layer F.Cu) (tedit 5CC89574)
   (descr "Spartan-7 BGA, 22x22 grid, 23x23mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=264, NSMD pad definition Appendix A")
-  (tags "BGA 484 1")
+  (tags "BGA 484 1 FGGA484")
   (attr smd)
   (solder_mask_margin 0.05)
   (fp_text reference REF** (at 0 -12.5) (layer F.SilkS)

@@ -1,6 +1,6 @@
-(module Xilinx_CPGA196 (layer F.Cu) (tedit 5CC81CB7)
+(module Xilinx_CPGA196 (layer F.Cu) (tedit 5CC89573)
   (descr "Spartan-7 BGA, 14x14 grid, 8x8mm package, 0.5mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=260, NSMD pad definition Appendix A")
-  (tags "BGA 196 0.5")
+  (tags "BGA 196 0.5 CPGA196")
   (attr smd)
   (solder_mask_margin 0.05)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)

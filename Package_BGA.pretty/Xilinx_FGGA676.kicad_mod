@@ -1,6 +1,6 @@
-(module Xilinx_FGGA676 (layer F.Cu) (tedit 5CC81CB7)
+(module Xilinx_FGGA676 (layer F.Cu) (tedit 5CC89574)
   (descr "Spartan-7 BGA, 26x26 grid, 27x27mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=265, NSMD pad definition Appendix A")
-  (tags "BGA 676 1")
+  (tags "BGA 676 1 FGGA676")
   (attr smd)
   (solder_mask_margin 0.05)
   (fp_text reference REF** (at 0 -14.5) (layer F.SilkS)

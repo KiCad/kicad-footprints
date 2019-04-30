@@ -1,6 +1,6 @@
-(module Xilinx_CSGA324 (layer F.Cu) (tedit 5CC81CB7)
+(module Xilinx_CSGA324 (layer F.Cu) (tedit 5CC89573)
   (descr "Spartan-7 BGA, 18x18 grid, 15x15mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=263, NSMD pad definition Appendix A")
-  (tags "BGA 324 0.8")
+  (tags "BGA 324 0.8 CSGA324")
   (attr smd)
   (solder_mask_margin 0.05)
   (fp_text reference REF** (at 0 -8.5) (layer F.SilkS)
