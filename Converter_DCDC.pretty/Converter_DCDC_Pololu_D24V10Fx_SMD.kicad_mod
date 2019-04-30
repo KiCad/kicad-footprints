@@ -1,4 +1,5 @@
-(module Converter_DCDC_Pololu_D24V10Fx_SMD (layer F.Cu) (tedit 5CC8AA7E)
+(module Converter_DCDC_Pololu_D24V10Fx_SMD (layer F.Cu) (tedit 5CC8AD9C)
+  (descr "Pololu D24V10Fx, SMD")
   (tags "Pololu D24V10Fx")
   (attr smd)
   (fp_text reference REF** (at 0 -7.62) (layer F.SilkS)
