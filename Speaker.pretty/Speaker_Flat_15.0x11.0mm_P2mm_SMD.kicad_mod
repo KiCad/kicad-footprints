@@ -1,4 +1,4 @@
-(module Speaker_Flat_15.0x11.0mm_P2mm_SMD (layer F.Cu) (tedit 5CB30823)
+(module Speaker_Flat_15.0x11.0mm_P2mm_SMD (layer F.Cu) (tedit 5CCD7DB2)
   (descr "Flat speaker for mobile devices")
   (tags Speaker)
   (attr smd)
