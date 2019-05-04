@@ -1,4 +1,4 @@
-(module CP_Radial_D4.0mm_L7.0mm_P1.50mm_Horizontal (layer F.Cu) (tedit 5CCD6A28)
+(module CP_Radial_D4.0mm_L7.0mm_P1.50mm_Horizontal (layer F.Cu) (tedit 5CCD7A25)
   (descr "CP, Radial series, Radial, pin pitch=1.50mm, length=7mm, diameter=4mm, Electrolytic Capacitor")
   (tags "CP Radial series Radial pin pitch 1.50mm length 7mm diameter 4mm Electrolytic Capacitor")
   (fp_text reference REF** (at 0.75 -3.25) (layer F.SilkS)
@@ -34,7 +34,7 @@
   (fp_line (start 1.55 -1.2) (end 1.55 -0.8) (layer F.SilkS) (width 0.12))
   (pad 2 thru_hole circle (at 1.5 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D4.0mm_7.0mm_P1.50mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D4.0mm_L7.0mm_P1.50mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
