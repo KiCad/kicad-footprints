@@ -1,5 +1,5 @@
-(module USB_C_Plug_JAE_DX07P024AJ1 (layer F.Cu) (tedit 5CA8A03F)
-  (descr "Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.jae.com/z-en/pdf/MB-0301-2E_DX07_PLUG.pdf")
+(module USB_C_Plug_JAE_DX07P024AJ1 (layer F.Cu) (tedit 5CCF3519)
+  (descr "Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, https://www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1")
   (tags "USB Type-C Plug Edge Mount")
   (attr smd)
   (fp_text reference REF** (at -2.52 -3.54) (layer F.SilkS)
