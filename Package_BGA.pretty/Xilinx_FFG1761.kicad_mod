@@ -1,4 +1,4 @@
-(module Xilinx_FFG1761 (layer F.Cu) (tedit 5CC96E8F)
+(module Xilinx_FFG1761 (layer F.Cu) (tedit 5CD2C3C9)
   (descr "Virtex-7 BGA, 42x42 grid, 42.5x42.5mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=300, NSMD pad definition Appendix A")
   (tags "BGA 1760 1 FF1761 FFG1761")
   (attr smd)

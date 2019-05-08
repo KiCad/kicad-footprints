@@ -1,4 +1,4 @@
-(module Xilinx_FFG1926 (layer F.Cu) (tedit 5CC96E90)
+(module Xilinx_FFG1926_FFG1927_FFG1928_FFG1930 (layer F.Cu) (tedit 5CD2C3CA)
   (descr "Virtex-7 BGA, 44x44 grid, 45x45mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=303, NSMD pad definition Appendix A")
   (tags "BGA 1924 1 FF1926 FFG1926 FF1927 FFG1927 FFV1927 FF1928 FFG1928 FF1930 FFG1930")
   (attr smd)
@@ -6,7 +6,7 @@
   (fp_text reference REF** (at 0 -23.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Xilinx_FFG1926 (at 0 23.5) (layer F.Fab)
+  (fp_text value Xilinx_FFG1926_FFG1927_FFG1928_FFG1930 (at 0 23.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 22.5 22.5) (end -22.5 22.5) (layer F.Fab) (width 0.1))
@@ -1949,7 +1949,7 @@
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Xilinx_FFG1926.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Xilinx_FFG1926_FFG1927_FFG1928_FFG1930.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
