@@ -1,4 +1,4 @@
-(module Transformer_E16-17-5_Vertical_10Pin_P3.5x2.7mm_Row12.2mm_OvalBottomPads (layer F.Cu) (tedit 5CDDECE9)
+(module Transformer_E16-17-5_Vertical_10Pin_P3.5x2.7mm_Row12.2mm_OvalBottomPads (layer F.Cu) (tedit 5CDDEF7E)
   (descr "Transformer, E16/7/5 core, Vertical, Pin Shine P-1607 Bobbin, http://www.pinshine.com/upload/product/20090824092203_link.pdf")
   (tags "transformer e16 bobbin")
   (fp_text reference REF** (at 0 -10) (layer F.SilkS)
@@ -35,6 +35,7 @@
   (fp_line (start 2.49 -8.11) (end 2.49 -8.91) (layer F.SilkS) (width 0.12))
   (fp_line (start 2.49 8.11) (end 2.49 8.91) (layer F.SilkS) (width 0.12))
   (fp_line (start -7.86 -8.91) (end -7.86 8.91) (layer F.SilkS) (width 0.12))
+  (fp_line (start 7.86 -8.91) (end 7.86 8.91) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at -6.1 -6.75) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole oval (at -6.1 -6.75) (size 3.1 1.6) (drill 0.8) (layers B.Cu B.Mask))
   (pad 2 thru_hole oval (at -6.1 -4.05) (size 3.1 1.6) (drill 0.8) (layers B.Cu B.Mask))
