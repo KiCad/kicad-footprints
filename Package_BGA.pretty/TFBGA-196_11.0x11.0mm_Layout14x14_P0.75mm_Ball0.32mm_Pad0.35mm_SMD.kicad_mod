@@ -1,4 +1,4 @@
-(module TFBGA-196_11.0x11.0mm_Layout14x14_P0.75mm_Ball0.32mm_Pad0.35mm_SMD (layer F.Cu) (tedit 5CE1C94D)
+(module TFBGA-196_11.0x11.0mm_Layout14x14_P0.75mm_Ball0.32mm_Pad0.35mm_SMD (layer F.Cu) (tedit 5CE1D38E)
   (descr "TFBGA-196, 14x14 raster, 11x11mm package, pitch 0.75mm; see section 67.3 of http://ww1.microchip.com/downloads/en/DeviceDoc/SAMA5D2-Series-Data-Sheet-DS60001476C.pdf")
   (tags "BGA 196 0.75")
   (attr smd)
@@ -221,4 +221,9 @@
   (pad P12 smd circle (at 3.375 4.875) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad P13 smd circle (at 4.125 4.875) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad P14 smd circle (at 4.875 4.875) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/TFBGA-196_11x11mm_Layout14x14_P0.75mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
