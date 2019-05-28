@@ -1,4 +1,4 @@
-(module Mounting_Wuerth_WA-SMSR-3.2mm_H3.6mm_9775036960 (layer F.Cu) (tedit 5CEC48B6)
+(module Mounting_Wuerth_WA-SMSR-3.2mm_H3.6mm_9775036960 (layer F.Cu) (tedit 5CED65C5)
   (descr "Mounting Hardware, inside through hole 3.2mm, height 3.6, Wureth electronics 9775036960 (https://katalog.we-online.com/em/datasheet/9775036960.pdf), generated with kicad-footprint-generator")
   (tags "Mounting 3.2mm 9775036960")
   (attr smd)

@@ -1,4 +1,4 @@
-(module Mounting_Wuerth_WA-SMSI-M2_H5mm_9774050243 (layer F.Cu) (tedit 5CEC3FD6)
+(module Mounting_Wuerth_WA-SMSI-M2_H5mm_9774050243 (layer F.Cu) (tedit 5CED65C5)
   (descr "Mounting Hardware, inside through hole M2, height 5, Wureth electronics 9774050243 (https://katalog.we-online.de/em/datasheet/9774050243.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M2 9774050243")
   (attr smd)
