@@ -1,4 +1,4 @@
-(module Mounting_Wuerth_WA-SMSI-M1.6_H6mm_ThreadDepth2mm_97730606334 (layer F.Cu) (tedit 5CEC3FD6)
+(module Mounting_Wuerth_WA-SMSI-M1.6_H6mm_ThreadDepth2mm_97730606334 (layer F.Cu) (tedit 5CED65C4)
   (descr "Mounting Hardware, inside through hole M1.6, height 6, Wureth electronics 97730606334 (https://katalog.we-online.com/em/datasheet/97730606334.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M1.6 97730606334")
   (attr smd)

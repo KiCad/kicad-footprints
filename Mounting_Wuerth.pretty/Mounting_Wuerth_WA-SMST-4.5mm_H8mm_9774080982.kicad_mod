@@ -1,4 +1,4 @@
-(module Mounting_Wuerth_WA-SMST-4.5mm_H8mm_9774080982 (layer F.Cu) (tedit 5CEC3FD6)
+(module Mounting_Wuerth_WA-SMST-4.5mm_H8mm_9774080982 (layer F.Cu) (tedit 5CED65C4)
   (descr "Mounting Hardware, inside through hole 4.5mm, height 8, Wureth electronics 9774080982 (https://katalog.we-online.de/em/datasheet/9774080982.pdf), generated with kicad-footprint-generator")
   (tags "Mounting 4.5mm 9774080982")
   (attr smd)

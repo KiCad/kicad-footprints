@@ -1,4 +1,4 @@
-(module Mounting_Wuerth_WA-SMSSR-snap_rivet-3.3mm_H10mm_9776100960 (layer F.Cu) (tedit 5CEC56C5)
+(module Mounting_Wuerth_WA-SMSSR-snap_rivet-3.3mm_H10mm_9776100960 (layer F.Cu) (tedit 5CED65C5)
   (descr "Mounting Hardware, inside through hole 3.3mm, height 10, Wureth electronics 9776100960 (https://katalog.we-online.com/em/datasheet/9776100960R.pdf), generated with kicad-footprint-generator")
   (tags "Mounting 3.3mm 9776100960")
   (attr smd)

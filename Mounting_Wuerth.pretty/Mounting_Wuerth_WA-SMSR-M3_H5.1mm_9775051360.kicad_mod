@@ -1,4 +1,4 @@
-(module Mounting_Wuerth_WA-SMSR-M3_H5.1mm_9775051360 (layer F.Cu) (tedit 5CEC48B6)
+(module Mounting_Wuerth_WA-SMSR-M3_H5.1mm_9775051360 (layer F.Cu) (tedit 5CED65C5)
   (descr "Mounting Hardware, inside through hole M3, height 5.1, Wureth electronics 9775051360 (https://katalog.we-online.com/em/datasheet/9775051360.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M3 9775051360")
   (attr smd)

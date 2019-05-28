@@ -1,4 +1,4 @@
-(module Mounting_Wuerth_WA-SMSI-M3_H6mm_9774060360 (layer F.Cu) (tedit 5CEC3FD6)
+(module Mounting_Wuerth_WA-SMSI-M3_H6mm_9774060360 (layer F.Cu) (tedit 5CED65C5)
   (descr "Mounting Hardware, inside through hole M3, height 6, Wureth electronics 9774060360 (https://katalog.we-online.de/em/datasheet/9774060360.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M3 9774060360")
   (attr smd)
