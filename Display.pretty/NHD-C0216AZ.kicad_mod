@@ -1,4 +1,4 @@
-(module NHD-C0216AZ (layer F.Cu) (tedit 5CEF0238)
+(module NHD-C0216AZ (layer F.Cu) (tedit 5CEF03DB)
   (descr "COG (Chip-on-Glass) Liquid Crystal Display Module")
   (tags "COG lcd display module")
   (fp_text reference REF** (at -2.4 -16.5) (layer F.SilkS)
@@ -19,7 +19,6 @@
   (fp_line (start -7.05 -11.95) (end -6.8 -12.2) (layer F.Fab) (width 0.1))
   (fp_line (start -6.8 -12.2) (end -6.55 -11.95) (layer F.Fab) (width 0.1))
   (fp_line (start -0.05 1.2) (end -0.05 0.7) (layer F.SilkS) (width 0.12))
-  (fp_line (start -0.05 0.7) (end -0.3 0.95) (layer F.SilkS) (width 0.1))
   (fp_line (start -0.3 0.95) (end -0.05 0.7) (layer F.SilkS) (width 0.12))
   (fp_line (start -0.05 0.7) (end 0.2 0.95) (layer F.SilkS) (width 0.12))
   (fp_line (start -31.75 -25.9) (end 18.25 -25.9) (layer F.SilkS) (width 0.12))
