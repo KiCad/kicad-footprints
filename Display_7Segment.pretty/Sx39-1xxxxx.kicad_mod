@@ -1,4 +1,4 @@
-(module Sx39-1xxxxx (layer F.Cu) (tedit 5CF0ED0B)
+(module Sx39-1xxxxx (layer F.Cu) (tedit 5CF0F50A)
   (descr http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf)
   (tags "One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12")
   (fp_text reference REF** (at 3.81 -2.54) (layer F.SilkS)
@@ -35,7 +35,7 @@
   (pad 8 thru_hole circle (at 7.62 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 7.62 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/SA39-11ewa.wrl
+  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/Sx39-1xxxxx.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
