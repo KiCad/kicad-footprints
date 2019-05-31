@@ -1,4 +1,4 @@
-(module Sx39-1x (layer F.Cu) (tedit 5CF046E7)
+(module Sx39-1xxxxx (layer F.Cu) (tedit 5CF0DF7E)
   (descr http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf)
   (tags "One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12")
   (fp_text reference U* (at 3.81 -2.54) (layer F.SilkS)
