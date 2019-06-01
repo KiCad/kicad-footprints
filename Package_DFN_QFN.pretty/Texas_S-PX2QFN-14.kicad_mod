@@ -1,5 +1,5 @@
-(module Texas_S-PX2QFN-14 (layer F.Cu) (tedit 5CE6AED4)
-  (descr "Texas  QFN, 14 Pin (http://www.ti.com/lit/ds/symlink/tlv9004.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module Texas_S-PX2QFN-14 (layer F.Cu) (tedit 5CF2F94F)
+  (descr "Texas  QFN, 14 Pin (http://www.ti.com/lit/ds/symlink/tlv9004.pdf#page=64), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "Texas QFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -2.3) (layer F.SilkS)
