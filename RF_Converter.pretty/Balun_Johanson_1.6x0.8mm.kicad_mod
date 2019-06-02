@@ -1,11 +1,11 @@
-(module Filter_Johanson_1.6x0.8mm (layer F.Cu) (tedit 5CACEC0F)
+(module Balun_Johanson_1.6x0.8mm (layer F.Cu) (tedit 5CACEC0F)
   (descr "6-pin 1.6x0.8 mm balun footprint")
   (tags "Johanson balun filter")
   (attr smd)
   (fp_text reference REF** (at 0.01 2.15) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Filter_Johanson_1.6x0.8mm (at 0.01 -1.95) (layer F.Fab)
+  (fp_text value Balun_Johanson_1.6x0.8mm (at 0.01 -1.95) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.39 -0.8) (end -0.39 0.8) (layer F.Fab) (width 0.1))
@@ -27,7 +27,7 @@
   (pad 4 smd roundrect (at 0.41 0.5) (size 0.45 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 5 smd roundrect (at 0.41 0) (size 0.45 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 6 smd roundrect (at 0.41 -0.5) (size 0.45 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Filter.3dshapes/Filter_Johanson_1.6x0.8mm.wrl
+  (model ${KISYS3DMOD}/RF_Converter.3dshapes/Balun_Johanson_1.6x0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
