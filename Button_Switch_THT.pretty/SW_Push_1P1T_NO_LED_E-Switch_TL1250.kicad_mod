@@ -1,10 +1,10 @@
-(module SW_PUSH_E-Switch_TL1250 (layer F.Cu) (tedit 5C745A75)
+(module SW_Push_1P1T_NO_LED_E-Switch_TL1250 (layer F.Cu) (tedit 5C745A75)
   (descr "illuminated right angle tact switch https://www.e-switch.com/system/asset/product_line/data_sheet/148/TL1250.pdf")
   (tags "led push switch right angle")
   (fp_text reference REF** (at 7.15 2.3 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SW_PUSH_E-Switch_TL1250 (at 2.5 1.25) (layer F.Fab)
+  (fp_text value SW_Push_1P1T_NO_LED_E-Switch_TL1250 (at 2.5 1.25) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 6.05 -1.9) (end 0.15 -1.9) (layer F.Fab) (width 0.1))
@@ -47,7 +47,7 @@
   (pad 2 thru_hole circle (at 5 4.5) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.5 -0.9) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 2.5 5.4) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_E-Switch_TL1250.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_Push_1P1T_NO_LED_E-Switch_TL1250.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
