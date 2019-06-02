@@ -1,5 +1,5 @@
-(module SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm (layer F.Cu) (tedit 5C41E2EB)
-  (descr "SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX112.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm (layer F.Cu) (tedit 5CF3C029)
+  (descr "SOP, 8 Pin (Mini-Circuits XX112 housing; https://ww2.minicircuits.com/case_style/XX112.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOP SO")
   (attr smd)
   (fp_text reference REF** (at 0 -3.24) (layer F.SilkS)
