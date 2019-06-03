@@ -1,7 +1,6 @@
-(module "TerminalBlock_Multicomp_3_P5.08mm" (layer F.Cu) (tedit 5CF53CBF)
+(module "TerminalBlock_Multicomp_3_P5.08mm" (layer F.Cu) (tedit 5CF53D80)
   (descr "http://www.farnell.com/datasheets/1493498.pdf")
   (tags "MC00004 Series")
-  (attr virtual)
   (fp_text reference "REF**" (at 6 -6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
