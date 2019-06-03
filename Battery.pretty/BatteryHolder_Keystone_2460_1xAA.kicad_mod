@@ -1,4 +1,4 @@
-(module BatteryHolder_Keystone_2460_1xAA (layer F.Cu) (tedit 5CF52ED9)
+(module BatteryHolder_Keystone_2460_1xAA (layer F.Cu) (tedit 5CF52F89)
   (descr https://www.keyelco.com/product-pdf.cfm?p=1025)
   (tags "AA battery cell holder")
   (fp_text reference REF** (at -0.02 -9.42 180) (layer F.SilkS)
@@ -46,8 +46,8 @@
   (fp_line (start 33.9 5.6) (end 18.1 5.6) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole rect (at 0 0 180) (size 2 2) (drill 1.02) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 51.99 0 180) (size 2 2) (drill 1.02) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 49.24 -5.995) (size 2.64 2.64) (drill 2.64) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 2.76 5.995 90) (size 2.64 2.64) (drill 2.64) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 49.24 5.995) (size 2.64 2.64) (drill 2.64) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 2.76 -5.995 90) (size 2.64 2.64) (drill 2.64) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_Keystone_2460_1xAA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
