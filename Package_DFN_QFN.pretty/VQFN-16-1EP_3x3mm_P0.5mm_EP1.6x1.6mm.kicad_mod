@@ -1,5 +1,5 @@
 (module VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm (layer F.Cu) (tedit 5CF60782)
-  (descr "VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/cdclvp1102.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+  (descr "VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/cdclvp1102.pdf#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "VQFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -2.82) (layer F.SilkS)
