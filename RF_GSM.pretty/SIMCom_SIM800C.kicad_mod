@@ -1,4 +1,4 @@
-(module SIMCom_SIM800C (layer F.Cu) (tedit 5C335041)
+(module SIMCom_SIM800C (layer F.Cu) (tedit 5CF92F71)
   (descr "Quad-Band GSM/GPRS module, 17.6x15.7x2.3mm, http://simcom.ee/documents/SIM800C/SIM800C_Hardware_Design_V1.05.pdf")
   (tags "GSM Module SIM800C")
   (attr smd)
@@ -89,9 +89,9 @@
   (pad 40 smd oval (at -2.2 -8.8) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 41 smd oval (at -3.3 -8.8) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 42 smd oval (at -4.4 -8.8) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_GSM.3dshapes/SIMCom_SIM800C.wrl
-    (at (xyz 0 0 0))
+  (model ${KISYS3DMOD}/RF_GSM.3dshapes/SIMCom_SIM800C.STEP
+    (offset (xyz 0 74.75 -31))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 -90))
   )
 )
