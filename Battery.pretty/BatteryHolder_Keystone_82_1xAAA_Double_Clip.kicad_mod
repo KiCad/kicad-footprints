@@ -1,4 +1,4 @@
-(module BatteryHolder_Keystone_82_1xAAA_Double_Clip (layer F.Cu) (tedit 5CF9D7CE)
+(module BatteryHolder_Keystone_82_1xAAA_Double_Clip (layer F.Cu) (tedit 5CF9D908)
   (descr https://www.keyelco.com/product-pdf.cfm?p=827)
   (tags "Keystone type 82 battery clip")
   (fp_text reference REF** (at 3.282958 2.64 180) (layer F.SilkS)
@@ -67,16 +67,6 @@
   (pad 2 thru_hole circle (at 35.05 0) (size 2.3 2.3) (drill 1.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 27.43 0) (size 2.3 2.3) (drill 1.8) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_Keystone_82_1xAAA_Double_Clip.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model ":git:keystone-PN82 v5_sc_sp.step"
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model ":git:keystone-PN82 v5_sc_sp.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
