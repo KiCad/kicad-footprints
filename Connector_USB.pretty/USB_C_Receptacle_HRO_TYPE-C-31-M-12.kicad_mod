@@ -1,6 +1,7 @@
-(module USB_C_Receptacle_HRO_TYPE-C-31-M-12 (layer F.Cu) (tedit 5CF9C852)
+(module USB_C_Receptacle_HRO_TYPE-C-31-M-12 (layer F.Cu) (tedit 5CF9EE72)
   (descr "USB Type-C receptacle for USB 2.0 and PD")
   (tags "usb usb-c 2.0 pd")
+  (attr smd)
   (fp_text reference REF** (at 0 -5.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -45,4 +46,9 @@
   (pad S1 thru_hole oval (at -4.32 1.145) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.935 -2.505) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask))
   (pad S1 thru_hole oval (at 4.32 1.145) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
