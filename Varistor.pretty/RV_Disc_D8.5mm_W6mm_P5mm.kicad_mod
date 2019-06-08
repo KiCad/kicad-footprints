@@ -1,4 +1,4 @@
-(module "RV_Disc_D8.5mm_W6mm_P5mm" (layer F.Cu) (tedit 5CFB6D0D)
+(module "RV_Disc_D8.5mm_W6mm_P5mm" (layer F.Cu) (tedit 5CFB6DCE)
   (descr "Varistor, diameter 8.5mm, width 6mm, pitch 5mm")
   (tags "varistor SIOV")
   (fp_text reference "REF**" (at 3 -2) (layer F.SilkS)
@@ -22,7 +22,7 @@
   (fp_line (start -1.75 -3) (end 6.75 -3) (layer F.Fab) (width 0.1))
   (fp_line (start 6.75 -3) (end 6.75 3) (layer F.Fab) (width 0.1))
   (fp_line (start -1.75 -3) (end -1.75 3) (layer F.Fab) (width 0.1))
-  (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.6) (layers *.Cu *.Mask))
+  (pad "1" thru_hole rect (at 0 0) (size 1.6 1.6) (drill 0.6) (layers *.Cu *.Mask))
   (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.6) (layers *.Cu *.Mask))
   (model "${KISYS3DMOD}/Varistor.3dshapes/RV_Disc_D8.5mm_W6mm_P5mm.wrl"
     (at (xyz 0 0 0))
