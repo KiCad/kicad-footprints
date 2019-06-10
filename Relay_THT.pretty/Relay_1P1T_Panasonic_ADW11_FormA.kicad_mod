@@ -1,4 +1,4 @@
-(module Relay_1P1T_Panasonic_ADW11_FormA (layer F.Cu) (tedit 5CFE8D66)
+(module Relay_1P1T_Panasonic_ADW11_FormA (layer F.Cu) (tedit 5CFE8D93)
   (descr "Panasonic Relay SPST, https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf")
   (tags "Panasonic Relay SPST")
   (fp_text reference REF** (at 0.48 -9.69 180) (layer F.SilkS)
@@ -39,7 +39,7 @@
   (pad 3 thru_hole oval (at 21 0 90) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 17.5 -7.5 90) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 0 -7.5 90) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_SPST_Panasonic_ADW11_FormA.wrl
+  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_1P1T_Panasonic_ADW11_FormA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
