@@ -92,7 +92,7 @@
   (pad 32 smd roundrect (at 7.5 -1.045) (size 0.3 1.37) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 33 smd roundrect (at 8 -1.045) (size 0.3 1.37) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad SH smd roundrect (at 0 3.025) (size 1.9 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_502231-3300_1x24-1SH_P0.5mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_502231-3300_1x33-1SH_P0.5mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
