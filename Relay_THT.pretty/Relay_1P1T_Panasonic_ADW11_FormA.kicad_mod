@@ -1,4 +1,4 @@
-(module Relay_1P1T_Panasonic_ADW11_FormA (layer F.Cu) (tedit 5CFE8C94)
+(module Relay_1P1T_Panasonic_ADW11_FormA (layer F.Cu) (tedit 5CFE8D66)
   (descr "Panasonic Relay SPST, https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf")
   (tags "Panasonic Relay SPST")
   (fp_text reference REF** (at 0.48 -9.69 180) (layer F.SilkS)
@@ -43,10 +43,5 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
-  )
-  (model ${KISYS3DMOD}/Stemy-develop.3dshapes/Relay_SPST_Panasonic_ADW11_FormA.step
-    (offset (xyz 6.25 3.9 9.5))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
   )
 )
