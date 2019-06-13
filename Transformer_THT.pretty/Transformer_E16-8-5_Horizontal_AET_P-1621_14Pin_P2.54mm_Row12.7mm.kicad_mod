@@ -1,7 +1,6 @@
-(module Transformer_E16-8-5_Horizontal_AET_P-1621_14Pin_P2.54mm_Row12.7mm (layer F.Cu) (tedit 5D0279FC)
+(module Transformer_E16-8-5_Horizontal_AET_P-1621_14Pin_P2.54mm_Row12.7mm (layer F.Cu) (tedit 5D027A53)
   (descr "Transformer, E16/8/5 Core, Horizontal, AET P-1621 Bobbin, https://en.aet.com.pl/Portals/en/Katalogi_pdf/Kat_rdz_i_korp/Kat_korp/korp_e/korpus%20EF16%20POZ%201SEK%2014PIN%20P-1621.pdf?ver=2015-06-11-125237-890")
   (tags "transformer e16 bobbin")
-  (clearance 0.12)
   (fp_text reference REF** (at 0 -9.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -55,7 +54,7 @@
   (pad 12 thru_hole circle (at -6.35 -2.54) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at -6.35 -5.08) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at -6.35 -7.62) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_E16-17-5_Vertical_10Pin_P3.5x2.7mm_Row12.2mm_OvalBottomPads.wrl
+  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_E16-8-5_Horizontal_AET_P-1621_14Pin_P2.54mm_Row12.7mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

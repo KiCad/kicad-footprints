@@ -58,7 +58,7 @@
   (pad 16 thru_hole oval (at 13.725 -10) (size 2.7 2.7) (drill 1.2) (layers *.Cu *.Mask))
   (pad 17 thru_hole oval (at 13.725 -15) (size 2.7 2.7) (drill 1.2) (layers *.Cu *.Mask))
   (pad 18 thru_hole oval (at 13.725 -20) (size 2.7 2.7) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_E16-17-5_Vertical_10Pin_P3.5x2.7mm_Row12.2mm_OvalBottomPads.wrl
+  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_E42-21-20_Vertical_Taiwan-Shulin_TF-4225-1_18Pin_P5.0mm_Row27.45mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

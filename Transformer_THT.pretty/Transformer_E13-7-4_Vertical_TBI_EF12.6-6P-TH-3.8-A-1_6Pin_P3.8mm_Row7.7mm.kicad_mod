@@ -59,7 +59,7 @@
   (pad 4 thru_hole circle (at 3.85 3.8) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 3.85 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 3.85 -3.8) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_E16-17-5_Vertical_10Pin_P3.5x2.7mm_Row12.2mm_OvalBottomPads.wrl
+  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_E13-7-4_Vertical_TBI_EF12.6-6P-TH-3.8-A-1_6Pin_P3.8mm_Row7.7mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

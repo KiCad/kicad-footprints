@@ -50,7 +50,7 @@
   (pad 12 thru_hole circle (at 25.4 10.16) (size 2.8 2.8) (drill 1.3) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 25.4 5.08) (size 2.8 2.8) (drill 1.3) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 25.4 0) (size 2.8 2.8) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_E16-17-5_Vertical_10Pin_P3.5x2.7mm_Row12.2mm_OvalBottomPads.wrl
+  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_ETD34-17-11_Horizontal_TDK_B66362B1014T001_14Pin_P5.08mm_Row25.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
