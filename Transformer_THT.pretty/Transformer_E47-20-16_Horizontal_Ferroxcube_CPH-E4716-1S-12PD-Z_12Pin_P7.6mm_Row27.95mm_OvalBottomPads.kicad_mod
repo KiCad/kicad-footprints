@@ -1,10 +1,10 @@
-(module Transformer_E47-20-16_Horizontal_Ferroxcube_CPH-E47/16-1S-12PD-Z_12Pin_P7.6mm_Row27.95mm_OvalBottomPads (layer F.Cu) (tedit 5CE45B48)
-  (descr "Transformer, E47/20/16 Core, Horizontal, Ferroxcube CPH-E47/16-1S-12PD-Z Bobbin, http://ferroxcube.home.pl/BOBBINDATA/ECORES/ASSETS/CPHE472016.PDF")
+(module Transformer_E47-20-16_Horizontal_Ferroxcube_CPH-E4716-1S-12PD-Z_12Pin_P7.6mm_Row27.95mm_OvalBottomPads (layer F.Cu) (tedit 5CE45B48)
+  (descr "Transformer, E47/20/16 Core, Horizontal, Ferroxcube CPH-E4716-1S-12PD-Z Bobbin, http://ferroxcube.home.pl/BOBBINDATA/ECORES/ASSETS/CPHE472016.PDF")
   (tags "transformer e47 bobbin")
   (fp_text reference REF** (at 13.975 -8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Transformer_E47-20-16_Horizontal_Ferroxcube_CPH-E47/16-1S-12PD-Z_12Pin_P7.6mm_Row27.95mm_OvalBottomPads (at 13.975 41) (layer F.Fab)
+  (fp_text value Transformer_E47-20-16_Horizontal_Ferroxcube_CPH-E4716-1S-12PD-Z_12Pin_P7.6mm_Row27.95mm_OvalBottomPads (at 13.975 41) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.275 39.05) (end 3.275 -6.05) (layer F.Fab) (width 0.1))
@@ -64,7 +64,7 @@
   (pad 10 thru_hole circle (at 27.95 12.7) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 27.95 5.1) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at 27.95 -2.5) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_E47-20-16_Horizontal_Ferroxcube_CPH-E47/16-1S-12PD-Z_12Pin_P7.6mm_Row27.95mm_OvalBottomPads.wrl
+  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_E47-20-16_Horizontal_Ferroxcube_CPH-E4716-1S-12PD-Z_12Pin_P7.6mm_Row27.95mm_OvalBottomPads.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
