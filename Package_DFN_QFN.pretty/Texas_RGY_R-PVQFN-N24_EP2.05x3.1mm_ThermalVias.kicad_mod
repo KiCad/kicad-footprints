@@ -1,4 +1,4 @@
-(module Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias (layer F.Cu) (tedit 5D08EA81)
+(module Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias (layer F.Cu) (tedit 5D09003B)
   (descr "QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq24133.pdf#page=40)")
   (tags "QFN NoLead")
   (solder_mask_margin 0.07)
@@ -186,7 +186,7 @@
   (pad 25 thru_hole circle (at -0.5 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 25 thru_hole circle (at 0.5 1) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 25 thru_hole circle (at -0.5 1) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
-  (pad 25 smd rect (at 0 0) (size 2.05 3.1) (layers B.Cu B.Mask))
+  (pad 25 smd rect (at 0 0) (size 2.05 3.1) (layers B.Cu))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
