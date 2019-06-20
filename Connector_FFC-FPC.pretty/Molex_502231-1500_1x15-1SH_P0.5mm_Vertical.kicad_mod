@@ -1,4 +1,4 @@
-(module Molex_502231-1500_1x15-1SH_P0.5mm_Vertical (layer F.Cu) (tedit 5CFE6479)
+(module Molex_502231-1500_1x15-1SH_P0.5mm_Vertical (layer F.Cu) (tedit 5D0C00EF)
   (descr "Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 6.05mm Height, Vertical, Surface Mount, ZIF, 15 Circuits (https://www.molex.com/pdm_docs/sd/5022311500_sd.pdf)")
   (tags "molex FFC/FPC connector Pitch 0.5mm vertical")
   (attr smd)
@@ -66,8 +66,8 @@
   (pad 13 smd roundrect (at 2.5 -1.045) (size 0.3 1.37) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 14 smd roundrect (at 3 -1.045) (size 0.3 1.37) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 15 smd roundrect (at 3.5 -1.045) (size 0.3 1.37) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (pad SH smd roundrect (at -2.5 3.025) (size 1.9 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (pad SH smd roundrect (at 2.5 3.025) (size 1.9 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
+  (pad SH smd roundrect (at -2.5 3.025) (size 1.9 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.143))
+  (pad SH smd roundrect (at 2.5 3.025) (size 1.9 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.143))
   (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_502231-1500_1x15-1SH_P0.5mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
