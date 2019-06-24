@@ -43,4 +43,9 @@
   (pad "" np_thru_hole circle (at 25.78 -4.73) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 12.29 17.62) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 39.26 17.62) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_MPD_BA9VPC_1xPP3.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
