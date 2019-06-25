@@ -1,6 +1,6 @@
 (module Hirose_DF63-1P-3.96DSA_1x01_P3.96mm_Horizontal (layer F.Cu) (tedit 5D0CE777)
   (descr "Hirose DF63 through hole, DF63-1P-3.96DSA, 1 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator")
-  (tags "connector Hirose  horizontal")
+  (tags "connector Hirose  top entry")
   (fp_text reference REF** (at 0 -5.15) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
