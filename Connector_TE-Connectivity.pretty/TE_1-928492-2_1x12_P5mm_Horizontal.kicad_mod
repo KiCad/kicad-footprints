@@ -1,5 +1,5 @@
-(module TE_1-928492-2_1x12_P5mm_Horizontal (layer F.Cu) (tedit 5D1393F2)
-  (descr "TE connector, shrouded, keyed, horizontal blade pins, 12 pins, 5mm pitch, , generated with kicad-footprint-generator")
+(module TE_1-928492-2_1x12_P5mm_Horizontal (layer F.Cu) (tedit 5D139BDF)
+  (descr "TE connector, shrouded, keyed, horizontal blade pins, 12 pins, 5mm pitch, https://github.com/KiCad/kicad-footprints/files/3331008/ENG_CD_928492_B3.pdf, generated with kicad-footprint-generator")
   (tags "te 928492")
   (fp_text reference REF** (at 27.5 -5.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
