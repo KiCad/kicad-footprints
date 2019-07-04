@@ -1,4 +1,4 @@
-(module SW_Push_1P1Tx1_NO_Vertical_Wuerth_434133025816 (layer F.Cu) (tedit 5D1DCD8B)
+(module SW_Push_1P1Tx1_NO_Vertical_Wuerth_434133025816 (layer F.Cu) (tedit 5D1DD02D)
   (descr https://katalog.we-online.com/em/datasheet/434133025816.pdf)
   (tags "tactile switch Wurth Wuerth")
   (attr smd)
@@ -38,6 +38,6 @@
   (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_Push_1P1Tx1_NO_Vertical_Wuerth_434133025816.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 90))
+    (rotate (xyz 0 0 0))
   )
 )
