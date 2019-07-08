@@ -1,4 +1,4 @@
-(module RV_Disc_D16.5mm_W6.7mm_P7.5mm (layer F.Cu) (tedit 5D1F3C3A)
+(module RV_Disc_D16.5mm_W6.7mm_P7.5mm (layer F.Cu) (tedit 5D1F3FB9)
   (descr "Varistor, diameter 16.5mm, width 6.7mm, pitch 5mm, https://katalog.we-online.de/pbs/datasheet/820542711.pdf")
   (tags "varistor SIOV")
   (fp_text reference REF** (at 3.65 -3.95) (layer F.SilkS)
@@ -24,7 +24,7 @@
   (fp_line (start -4.5 -2.7) (end -4.5 4) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole circle (at 0 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 7.5 1.3) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Varistor.3dshapes/RV_Disc_D14mm_W6.7mm_P7.5mm.wrl
+  (model ${KISYS3DMOD}/Varistor.3dshapes/RV_Disc_D16.5mm_W6.7mm_P7.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
