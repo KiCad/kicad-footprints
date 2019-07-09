@@ -1,4 +1,4 @@
-(module Samtec_HSMC_ASP-122952-01_P0.5mm_Vertical (layer F.Cu) (tedit 5D24EF60)
+(module Samtec_HSMC_ASP-122952-01_P0.5mm_Vertical (layer F.Cu) (tedit 5D25050F)
   (descr http://suddendocs.samtec.com/prints/asp-122952-01-mkt.pdf)
   (tags "Samtec HSMC card mezzanine vertical")
   (attr smd)
@@ -17,7 +17,6 @@
   (fp_line (start 30 1.4925) (end 28.5075 2.985) (layer F.Fab) (width 0.1))
   (fp_line (start 28.5075 2.985) (end 0 2.985) (layer F.Fab) (width 0.1))
   (fp_line (start -27.25 -2.735) (end -27.5 -2.985) (layer F.Fab) (width 0.1))
-  (fp_line (start -27.5 -2.985) (end -27 -2.985) (layer F.Fab) (width 0.1))
   (fp_line (start -27 -2.985) (end -27.25 -2.735) (layer F.Fab) (width 0.1))
   (fp_line (start -28.445 -1.95) (end -11.555 -1.95) (layer F.Fab) (width 0.1))
   (fp_line (start -11.555 -1.95) (end -11.555 1.95) (layer F.Fab) (width 0.1))
@@ -225,4 +224,9 @@
   (pad 172 smd rect (at 28.445 0) (size 2.54 0.64) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at 29.239 -2.029999) (size 1.02 1.02) (drill 1.02) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -29.239 -2.029999) (size 1.02 1.02) (drill 1.02) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_Samtec.3dshapes/Samtec_HSMC_ASP-122952-01_P0.5mm_Vertical.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
