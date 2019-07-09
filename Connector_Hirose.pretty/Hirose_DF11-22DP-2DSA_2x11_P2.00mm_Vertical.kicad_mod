@@ -1,6 +1,6 @@
-(module Hirose_DF11-22DP-2DSA_2x11_P2.00mm_Vertical (layer F.Cu) (tedit 5D2456E9)
+(module Hirose_DF11-22DP-2DSA_2x11_P2.00mm_Vertical (layer F.Cu) (tedit 5D246640)
   (descr "Hirose DF11 through hole, DF11-22DP-2DSA, 11 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator")
-  (tags "connector Hirose  vertical")
+  (tags "connector Hirose DF11 vertical")
   (fp_text reference REF** (at 10 -2.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
