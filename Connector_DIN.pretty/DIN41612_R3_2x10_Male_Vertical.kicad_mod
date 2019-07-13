@@ -1,4 +1,4 @@
-(module DIN41612_R3_2x10_Male_Vertical (layer F.Cu) (tedit 5CE4E894)
+(module DIN41612_R3_2x10_Male_Vertical (layer F.Cu) (tedit 5D29D133)
   (descr "DIN41612 connector, type R/3, Vertical, 3 rows 10 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf")
   (tags "DIN 41612 IEC 60603 R/3")
   (fp_text reference REF** (at 2.54 -9.45) (layer F.SilkS)
