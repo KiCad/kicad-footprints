@@ -1,4 +1,4 @@
-(module LFPAK33 (layer F.Cu) (tedit 5A710896)
+(module LFPAK33 (layer F.Cu) (tedit 5BA2DFCD)
   (descr "LFPAK33 SOT-1210 https://assets.nexperia.com/documents/outline-drawing/SOT1210.pdf")
   (tags "LFPAK33 SOT-1210")
   (solder_mask_margin 0.05)
@@ -32,15 +32,10 @@
   (pad "" smd rect (at 0.645 -0.626) (size 0.51 0.635) (layers F.Paste))
   (pad "" smd rect (at -0.215 0.626) (size 0.51 0.635) (layers F.Paste))
   (pad "" smd rect (at 0.645 0.626) (size 0.51 0.635) (layers F.Paste))
-  (pad 5 smd rect (at 1.575 -0.975) (size 0.75 0.4) (layers F.Cu F.Mask))
-  (pad 5 smd rect (at 1.575 0.975) (size 0.75 0.4) (layers F.Cu F.Mask))
-  (pad 5 smd rect (at 1.575 -0.325) (size 0.75 0.4) (layers F.Cu F.Mask))
   (pad 2 smd rect (at -1.535 -0.325) (size 0.83 0.4) (layers F.Cu F.Mask))
   (pad 1 smd rect (at -1.535 -0.975) (size 0.83 0.4) (layers F.Cu F.Mask))
   (pad 3 smd rect (at -1.535 0.325) (size 0.83 0.4) (layers F.Cu F.Mask))
-  (pad 5 smd rect (at 0.405 0) (size 1.85 2.25) (layers F.Cu F.Mask))
   (pad "" smd rect (at -1.535 0.975) (size 0.83 0.3) (layers F.Paste))
-  (pad 5 smd rect (at 1.575 0.325) (size 0.75 0.4) (layers F.Cu F.Mask))
   (pad 4 smd rect (at -1.535 0.975) (size 0.83 0.4) (layers F.Cu F.Mask))
   (pad "" smd rect (at -1.535 0.325) (size 0.83 0.3) (layers F.Paste))
   (pad "" smd rect (at -1.535 -0.325) (size 0.83 0.3) (layers F.Paste))
@@ -49,6 +44,19 @@
   (pad "" smd rect (at 1.575 -0.325) (size 0.75 0.3) (layers F.Paste))
   (pad "" smd rect (at 1.575 0.325) (size 0.75 0.3) (layers F.Paste))
   (pad "" smd rect (at 1.575 0.975) (size 0.75 0.3) (layers F.Paste))
+  (pad 5 smd custom (at 0.405 0) (size 1.85 2.25) (layers F.Cu F.Mask)
+    (zone_connect 2)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 0.925 -1.175) (xy 1.545 -1.175) (xy 1.545 -0.775) (xy 0.925 -0.775)) (width 0))
+      (gr_poly (pts
+         (xy 0.925 -0.525) (xy 1.545 -0.525) (xy 1.545 -0.125) (xy 0.925 -0.125)) (width 0))
+      (gr_poly (pts
+         (xy 0.925 0.125) (xy 1.545 0.125) (xy 1.545 0.525) (xy 0.925 0.525)) (width 0))
+      (gr_poly (pts
+         (xy 0.925 0.775) (xy 1.545 0.775) (xy 1.545 1.175) (xy 0.925 1.175)) (width 0))
+    ))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/LFPAK33.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
