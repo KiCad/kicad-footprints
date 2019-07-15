@@ -1,7 +1,6 @@
 (module Microchip_8E-16 (layer F.Cu) (tedit 5D2CC1FF)
   (descr "16-Lead Quad Flat, No Lead Package (8E) - 4x4x0.9 mm Body [UQFN]; (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "QFN Microchip 8E 16")
-  (solder_mask_margin 0.1)
   (attr smd)
   (fp_text reference REF** (at 0 -3.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
