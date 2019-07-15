@@ -1,4 +1,4 @@
-(module HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown_ThermalVias (layer F.Cu) (tedit 5A02F25C)
+(module HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown_ThermalVias (layer F.Cu) (tedit 5BBCEC4C)
   (descr "HSOP 11.0x15.9mm Pitch 0.65mm Slug Down Thermal Vias (PowerSO-36) [JEDEC MO-166] (http://www.st.com/resource/en/datasheet/vn808cm-32-e.pdf, http://www.st.com/resource/en/application_note/cd00003801.pdf)")
   (tags "HSOP 11.0 x 15.9mm Pitch 0.65mm")
   (attr smd)
@@ -65,9 +65,13 @@
   (pad 34 smd rect (at 6.85 -4.225) (size 1.7 0.38) (layers F.Cu F.Paste F.Mask))
   (pad 35 smd rect (at 6.85 -4.875) (size 1.7 0.38) (layers F.Cu F.Paste F.Mask))
   (pad 36 smd rect (at 6.85 -5.525) (size 1.7 0.38) (layers F.Cu F.Paste F.Mask))
-  (pad 37 smd rect (at 0 0) (size 6.4 11.27) (layers F.Cu F.Paste F.Mask))
-  (pad 37 smd rect (at 0 -6.8425) (size 3.4 2.415) (layers F.Cu F.Paste F.Mask))
-  (pad 37 smd rect (at 0 6.8425) (size 3.4 2.415) (layers F.Cu F.Paste F.Mask))
+  (pad 37 smd custom (at 0 0) (size 6.4 11.27) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 2)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -1.7 -8.05) (xy 1.7 -8.05) (xy 1.7 8.05) (xy -1.7 8.05)) (width 0))
+    ))
   (pad 37 thru_hole circle (at 1.27 5.08) (size 1 1) (drill 0.7) (layers *.Cu))
   (pad 37 thru_hole circle (at 0 5.08) (size 1 1) (drill 0.7) (layers *.Cu))
   (pad 37 thru_hole circle (at -1.27 5.08) (size 1 1) (drill 0.7) (layers *.Cu))
