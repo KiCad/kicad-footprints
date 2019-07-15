@@ -39,7 +39,7 @@
   (fp_line (start -6.92 -7.31) (end -6.92 14.93) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -0.635 7.62) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
-  (pad 3 thru_hole circle (at -4.45 3.81) (size 3 3) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at -4.45 3.81) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 8.89 0) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 3.81 7.62) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FAH_Horizontal.wrl
