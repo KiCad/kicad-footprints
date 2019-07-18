@@ -1,4 +1,4 @@
-(module C_Radial_D4.0mm_H7.0mm_P1.50mm (layer F.Cu) (tedit 5BC5C9B9)
+(module C_Radial_D4.0mm_H7.0mm_P1.50mm (layer F.Cu) (tedit 5D3040B8)
   (descr "C, Radial series, Radial, pin pitch=1.50mm, diameter=4mm, height=7mm, Non-Polar Electrolytic Capacitor")
   (tags "C Radial series Radial pin pitch 1.50mm diameter 4mm height 7mm Non-Polar Electrolytic Capacitor")
   (fp_text reference REF** (at 0.75 -3.25) (layer F.SilkS)
