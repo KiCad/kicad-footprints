@@ -1,4 +1,4 @@
-(module L_Sumida_CDMC6D28 (layer F.Cu) (tedit 5D31D3D2)
+(module L_Sumida_CDMC6D28 (layer F.Cu) (tedit 5D31DAEB)
   (descr "SMD Power Inductor (http://products.sumida.com/products/pdf/CDMC6D28.pdf)")
   (tags "Inductor Sumida SMD CDMC6D28")
   (attr smd)
@@ -38,7 +38,7 @@
   )
   (pad 1 smd rect (at -2.85 0) (size 2 3.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.85 0) (size 2 3.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Sumida_CDMC6D28.step
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Sumida_CDMC6D28.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
