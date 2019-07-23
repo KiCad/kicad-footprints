@@ -1,4 +1,4 @@
-(module Infineon_PG-TISON-8-3 (layer F.Cu) (tedit 5D37685C)
+(module Infineon_PG-TISON-8-3 (layer F.Cu) (tedit 5D3772D7)
   (descr "Infineon, PG-TISON-8-2, 5x6x1.15mm, 1.27mm Pitch, Exposed Paddle, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-2/")
   (tags tison)
   (solder_paste_margin -0.05)
@@ -55,7 +55,7 @@
   (pad "" smd rect (at -2.84 -0.635) (size 0.73 0.51) (layers F.Paste))
   (pad "" smd rect (at -2.84 0.635) (size 0.73 0.51) (layers F.Paste))
   (pad "" smd rect (at -2.84 1.905) (size 0.73 0.51) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_SON.3dshapes/Infineon_PG-TISON-8-2.wrl
+  (model ${KISYS3DMOD}/Package_SON.3dshapes/Infineon_PG-TISON-8-3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
