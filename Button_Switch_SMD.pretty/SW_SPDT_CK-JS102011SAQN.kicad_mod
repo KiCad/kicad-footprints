@@ -1,5 +1,5 @@
 (module SW_SPDT_CK-JS102011SAQN (layer F.Cu) (tedit 5A02FC95)
-  (descr http://www.ckswitches.com/media/1422/js.pdf)
+  (descr "Sub-miniature slide switch, right-angle, http://www.ckswitches.com/media/1422/js.pdf")
   (tags "switch spdt")
   (attr smd)
   (fp_text reference REF** (at 0 -4.8) (layer F.SilkS)
