@@ -1,5 +1,5 @@
-(module TE_MS5525DSO-DBxxxyS (layer F.Cu) (tedit 5D396306)
-  (descr "SOIC, 14 Pin (JEDEC MS-013AF, https://www.analog.com/media/en/package-pcb-resources/package/54614177245586rw_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module TE_MS5525DSO-DBxxxyS (layer F.Cu) (tedit 5D39AEA4)
+  (descr https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English)
   (tags "SOIC SO Pressure DualBarbed")
   (attr smd)
   (fp_text reference REF** (at 0 -7.25) (layer F.SilkS)
