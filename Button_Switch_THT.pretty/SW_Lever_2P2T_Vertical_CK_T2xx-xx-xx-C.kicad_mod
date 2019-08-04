@@ -32,7 +32,7 @@
   (pad 5 thru_hole circle (at 4.06 2.54) (size 1.37 1.37) (drill 0.96) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 4.06 5.08) (size 1.37 1.37) (drill oval 0.96) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 4.06 0) (size 1.37 1.37) (drill 0.96) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/C&K.3dshapes/SW_Lever_2P2T_Vertical_CK_T2xx-xx-xx-C.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_Lever_2P2T_Vertical_CK_T2xx-xx-xx-C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
