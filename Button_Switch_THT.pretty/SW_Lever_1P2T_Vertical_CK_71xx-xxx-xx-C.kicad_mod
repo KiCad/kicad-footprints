@@ -1,4 +1,4 @@
-(module SW_Lever_1P2T_Vertical_CK_71xx-xxx-xx-C (layer F.Cu) (tedit 5D46E16A)
+(module SW_Lever_1P2T_Vertical_CK_71xx-xxx-xx-C (layer F.Cu) (tedit 5D4740D8)
   (descr "Switch C&K 71xx-xxx-xx-C https://www.ckswitches.com/media/1394/7000lever.pdf")
   (tags "C&K SPST SPDT vertical miniature lever switch")
   (fp_text reference REF** (at 0 -2.92 180) (layer F.SilkS)
@@ -22,10 +22,14 @@
   (fp_line (start 3.68 -1.9) (end 3.68 11.3) (layer F.CrtYd) (width 0.05))
   (fp_line (start -3.43 -1.65) (end 3.43 -1.65) (layer F.Fab) (width 0.1))
   (fp_line (start -3.55 -1.77) (end 3.55 -1.77) (layer F.SilkS) (width 0.12))
+  (fp_line (start -3.81 -2.03) (end -3.81 -0.76) (layer F.SilkS) (width 0.12))
+  (fp_line (start -3.81 -2.03) (end -2.54 -2.03) (layer F.SilkS) (width 0.12))
+  (fp_line (start -3.68 -1.9) (end -2.41 -1.9) (layer F.Fab) (width 0.1))
+  (fp_line (start -3.68 -0.61) (end -3.68 -1.9) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole rect (at 0 0) (size 2.29 2.29) (drill 1.47) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 4.7) (size 2.29 2.29) (drill 1.47) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 9.4) (size 2.29 2.29) (drill 1.47) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_Lever_1P2T_Vertical_CK_71xx-xxx-xx-C.wrl
+  (model ${KISYS3DMOD}/C&K.3dshapes/SW_Lever_1P2T_Vertical_CK_71xx-xxx-xx-C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
