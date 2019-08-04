@@ -25,7 +25,7 @@
   (pad 1 thru_hole rect (at 0 0) (size 1.37 1.37) (drill 0.96) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 2.54) (size 1.37 1.37) (drill 0.96) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 5.08) (size 1.37 1.37) (drill 0.96) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/C&K.3dshapes/SW_Lever_1PxT_Vertical_CK_T10x-xx-xx-C.wrl
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_Lever_1PxT_Vertical_CK_T10x-xx-xx-C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
