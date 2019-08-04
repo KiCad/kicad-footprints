@@ -1,4 +1,4 @@
-(module Samtec_FTSH-105-xx-x-DV-007 (layer F.Cu) (tedit 5D4698C3)
+(module Samtec_FTSH-105-xx-x-DV-007 (layer F.Cu) (tedit 5D469BA1)
   (descr "Samtec FTSH .050\" Micro Terminal Strip, FTSH-105-xx-x-DV-007, 5 Pins per row with polarized position at pin 7 (https://www.samtec.com/products/ftsh)")
   (tags "Connector Samtec FTSH ARM Cortex Debug")
   (attr smd)
@@ -37,7 +37,7 @@
   (pad 3 smd rect (at -1.27 2.035) (size 0.74 2.79) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.54 -2.035) (size 0.74 2.79) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.54 2.035) (size 0.74 2.79) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_Samtec_FTSH.3dshapes/Samtec_FTSH-105-01-L-DV-007.wrl
+  (model ${KISYS3DMOD}/Connector_Samtec_FTSH.3dshapes/Samtec_FTSH-105-xx-x-DV-007.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
