@@ -1,5 +1,5 @@
-(module LED_Osram_Lx_P47F_2.1mm_ReverseMount (layer F.Cu) (tedit 5D485024)
-  (descr http://www.farnell.com/datasheets/2711587.pdf)
+(module LED_Osram_Lx_P47F_2.1mm_ReverseMount (layer F.Cu) (tedit 5D497051)
+  (descr "OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf")
   (tags "LED ReverseMount Reverse")
   (attr smd)
   (fp_text reference REF** (at 0 -2.3) (layer F.SilkS)
