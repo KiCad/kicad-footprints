@@ -1,6 +1,6 @@
-(module PinHeader_2x05_P1.27mm_Samtec_FTSH-105-007-DV (layer F.Cu) (tedit 5D4D6C73)
+(module PinHeader_2x05_P1.27mm_Samtec_FTSH-105-007-DV (layer F.Cu) (tedit 5D4D6EF6)
   (descr "Samtec FTSH, 1.27mm pitch, Vertical Surface Mount, 2x5 with pin 7 removed (https://www.samtec.com/products/ftsh)")
-  (tags "Connector Samtec FTSH")
+  (tags "Connector Samtec FTSH 2x05 1.27mm")
   (attr smd)
   (fp_text reference REF** (at 0 -4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
