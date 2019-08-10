@@ -1,5 +1,5 @@
-(module SW_SPST_1188E (layer F.Cu) (tedit 5D4EF7FC)
-  (descr "High-Density Tactile Switch (http://www.switronic.com/uploads/images/A01.gif)")
+(module SW_SPST_1188E (layer F.Cu) (tedit 5D4EF908)
+  (descr "High-Density Tactile Switch w/ Embossing (http://www.switronic.com/uploads/images/A01.gif)")
   (tags "Tactile Switch 1188E")
   (attr smd)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
