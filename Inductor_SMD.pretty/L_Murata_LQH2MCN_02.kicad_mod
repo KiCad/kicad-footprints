@@ -1,5 +1,5 @@
-(module L_Murata_LQH2MCN_02 (layer F.Cu) (tedit 5D4ECD8D)
-  (descr "Chip coil (Chip Inductors) (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)")
+(module L_Murata_LQH2MCN_02 (layer F.Cu) (tedit 5D504C35)
+  (descr "Inductor, Murata, LQH2MCN_02 series, 1.6x2.0x0.9mm (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)")
   (tags "chip coil inductor Murata LQH2MC")
   (attr smd)
   (fp_text reference REF** (at 0 -1.75) (layer F.SilkS)
