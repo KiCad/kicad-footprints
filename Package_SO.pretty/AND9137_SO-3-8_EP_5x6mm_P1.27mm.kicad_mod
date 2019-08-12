@@ -1,4 +1,4 @@
-(module AND9137_SO-3-8_EP_5x6mm_P1.27mm (layer F.Cu) (tedit 5D5103B0)
+(module AND9137_SO-3-8_EP_5x6mm_P1.27mm (layer F.Cu) (tedit 5D51066D)
   (descr "Universal Footprint for Thermally-enhanced SO-8 packages; compatible with Vishay PowerPAK SO−8, International Rectifier PQFN, Texas Instrument SON 5 × 6 mm (Q5A), Alpha and Omega DFN 5 × 6, ST Microelectronics PowerFLAT™ 5 × 6, Toshiba SOP Advance, Infineon Super SO8, NXP LFPAK (SOT669), Renesas WPAK(3F) / LFPAK, Fairchild Power 56, APEC PMPAK 5 × 6, MagnaChip PowerDFN56, ROHM HSOP8, UBIQ PRPAK56, NIKO−SEM PDFN 5 × 6, NEC 8-pin HVSON")
   (tags "Thermally-enhanced SO-8 PowerPAK PQFN Q5A PowerFLAT LFPAK SOT669 WPAK(3F) LFPAK Power56 PMPAK PowerDFN56 HSOP8 PRPAK56 PDFN HVSON")
   (attr smd)
@@ -64,7 +64,7 @@
   (pad 1 smd roundrect (at -2.825 0.635 90) (size 0.7 1.15) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25)
     (solder_paste_margin -0.05) (zone_connect 0))
   (pad 3 smd custom (at -0.1 0 90) (size 4 2) (layers F.Cu F.Mask)
-    (zone_connect 0)
+    (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
