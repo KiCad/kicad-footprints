@@ -1,4 +1,4 @@
-(module HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown (layer F.Cu) (tedit 5A02F2D3)
+(module HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown (layer F.Cu) (tedit 5BBCEAD7)
   (descr "HSOP 11.0x15.9mm Pitch 1.27mm Slug Down (PowerSO-20) [JEDEC MO-166] (http://www.st.com/resource/en/datasheet/tda7266d.pdf, www.st.com/resource/en/application_note/cd00003801.pdf)")
   (tags "HSOP 11.0 x 15.9mm Pitch 1.27mm")
   (attr smd)
@@ -30,7 +30,13 @@
   (fp_line (start -2.75 -8.05) (end -5.6 -8.05) (layer F.SilkS) (width 0.12))
   (fp_line (start 5.6 8.05) (end 2.75 8.05) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -6.85 -5.715) (size 1.7 0.7) (layers F.Cu F.Paste F.Mask))
-  (pad 21 smd rect (at 0 0) (size 9.4 14.8) (layers F.Cu F.Paste F.Mask))
+  (pad 21 smd custom (at 0 0) (size 9.4 14.8) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 2)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -2.5 -8.85) (xy 2.5 -8.85) (xy 2.5 8.85) (xy -2.5 8.85)) (width 0))
+    ))
   (pad 2 smd rect (at -6.85 -4.445) (size 1.7 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -6.85 -3.175) (size 1.7 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -6.85 -1.905) (size 1.7 0.7) (layers F.Cu F.Paste F.Mask))
@@ -50,8 +56,6 @@
   (pad 18 smd rect (at 6.85 -3.175) (size 1.7 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at 6.85 -4.445) (size 1.7 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 6.85 -5.715) (size 1.7 0.7) (layers F.Cu F.Paste F.Mask))
-  (pad 21 smd rect (at 0 -8.125) (size 5 1.45) (layers F.Cu F.Paste F.Mask))
-  (pad 21 smd rect (at 0 8.125) (size 5 1.45) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Package_SO.3dshapes/HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
