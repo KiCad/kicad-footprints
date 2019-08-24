@@ -1,5 +1,5 @@
-(module MagneticBuzzer_PUI_AT-0927-TT-6-R (layer F.Cu) (tedit 5D5EEE7E)
-  (descr "AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf")
+(module MagneticBuzzer_PUI_AT-0927-TT-6-R (layer F.Cu) (tedit 5D61BE61)
+  (descr "Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf")
   (tags "Buzzer Magnetic 9mm AT-0927-TT-6-R")
   (fp_text reference REF** (at 2 5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
