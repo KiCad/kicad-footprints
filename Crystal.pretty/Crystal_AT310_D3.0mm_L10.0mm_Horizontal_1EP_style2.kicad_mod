@@ -1,5 +1,5 @@
-(module Crystal_AT310_D3.0mm_L10.0mm_Horizontal_1EP_style2 (layer F.Cu) (tedit 5A0FD1B2)
-  (descr "Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter")
+(module Crystal_AT310_D3.0mm_L10.0mm_Horizontal_1EP_style2 (layer F.Cu) (tedit 5D20AD5C)
+  (descr "Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf")
   (tags ['AT310'])
   (fp_text reference REF** (at -1.85 3 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

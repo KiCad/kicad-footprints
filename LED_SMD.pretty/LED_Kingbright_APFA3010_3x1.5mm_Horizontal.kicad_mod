@@ -1,4 +1,4 @@
-(module LED_Kingbright_APFA3010_3x1.5mm_Horizontal (layer F.Cu) (tedit 5A7CB8DD)
+(module LED_Kingbright_APFA3010_3x1.5mm_Horizontal (layer F.Cu) (tedit 5BE52AB7)
   (descr "LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf")
   (tags "LED RGB APFA3010 KINGBRIGHT 3x1.5mm")
   (attr smd)
@@ -32,8 +32,8 @@
   (fp_line (start -1.5 0.25) (end 1.5 0.25) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -1.5 0) (size 1 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.5 0) (size 1 0.9) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at -0.4 0.45) (size 0.4 0.8) (layers F.Cu F.Paste F.Mask))
-  (pad 4 smd rect (at 0.4 0.45) (size 0.4 0.8) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at -0.4 0.45) (size 0.4 0.8) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 0.4 0.45) (size 0.4 0.8) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Kingbright_APFA3010_3x1.5mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
