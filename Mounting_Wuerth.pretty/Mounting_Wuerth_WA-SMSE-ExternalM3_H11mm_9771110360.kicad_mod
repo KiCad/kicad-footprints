@@ -1,5 +1,5 @@
-(module Mounting_Wuerth_WA-SMSE-ExternalM3_H11mm_9771110360 (layer F.Cu) (tedit 5CEF08E5)
-  (descr "Mounting Hardware, external M3, height 11, Wureth electronics 9771110360 (https://katalog.we-online.com/em/datasheet/9771110360.pdf), generated with kicad-footprint-generator")
+(module Mounting_Wuerth_WA-SMSE-ExternalM3_H11mm_9771110360 (layer F.Cu) (tedit 5D6C09FB)
+  (descr "Mounting Hardware, external M3, height 11, Wuerth electronics 9771110360 (https://katalog.we-online.com/em/datasheet/9771110360.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M3 9771110360")
   (attr smd)
   (fp_text reference REF** (at 0 -4.65) (layer F.SilkS)

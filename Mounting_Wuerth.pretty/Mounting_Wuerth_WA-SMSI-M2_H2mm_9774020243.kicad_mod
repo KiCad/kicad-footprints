@@ -1,5 +1,5 @@
-(module Mounting_Wuerth_WA-SMSI-M2_H2mm_9774020243 (layer F.Cu) (tedit 5CEF08E2)
-  (descr "Mounting Hardware, inside through hole M2, height 2, Wureth electronics 9774020243 (https://katalog.we-online.de/em/datasheet/9774020243.pdf), generated with kicad-footprint-generator")
+(module Mounting_Wuerth_WA-SMSI-M2_H2mm_9774020243 (layer F.Cu) (tedit 5D6C09F8)
+  (descr "Mounting Hardware, inside through hole M2, height 2, Wuerth electronics 9774020243 (https://katalog.we-online.de/em/datasheet/9774020243.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M2 9774020243")
   (attr smd)
   (fp_text reference REF** (at 0 -3.6) (layer F.SilkS)

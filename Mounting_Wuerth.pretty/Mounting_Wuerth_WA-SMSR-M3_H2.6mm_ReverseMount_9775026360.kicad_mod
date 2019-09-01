@@ -1,5 +1,5 @@
-(module Mounting_Wuerth_WA-SMSR-M3_H2.6mm_ReverseMount_9775026360 (layer F.Cu) (tedit 5CEF08E4)
-  (descr "Mounting Hardware, inside through hole M3, height 2.6, Wureth electronics 9775026360 (https://katalog.we-online.com/em/datasheet/9775026360.pdf), generated with kicad-footprint-generator")
+(module Mounting_Wuerth_WA-SMSR-M3_H2.6mm_ReverseMount_9775026360 (layer F.Cu) (tedit 5D6C09FA)
+  (descr "Mounting Hardware, inside through hole M3, height 2.6, Wuerth electronics 9775026360 (https://katalog.we-online.com/em/datasheet/9775026360.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M3 9775026360")
   (attr smd)
   (fp_text reference REF** (at 0 -4.65) (layer F.SilkS)

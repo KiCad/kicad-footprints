@@ -1,5 +1,5 @@
-(module Mounting_Wuerth_WA-SMSI-4.5mm_H7mm_9774070482 (layer F.Cu) (tedit 5CEF08E3)
-  (descr "Mounting Hardware, inside through hole 4.5mm, height 7, Wureth electronics 9774070482 (https://katalog.we-online.de/em/datasheet/9774070482.pdf), generated with kicad-footprint-generator")
+(module Mounting_Wuerth_WA-SMSI-4.5mm_H7mm_9774070482 (layer F.Cu) (tedit 5D6C09F9)
+  (descr "Mounting Hardware, inside through hole 4.5mm, height 7, Wuerth electronics 9774070482 (https://katalog.we-online.de/em/datasheet/9774070482.pdf), generated with kicad-footprint-generator")
   (tags "Mounting 4.5mm 9774070482")
   (attr smd)
   (fp_text reference REF** (at 0 -5.65) (layer F.SilkS)
