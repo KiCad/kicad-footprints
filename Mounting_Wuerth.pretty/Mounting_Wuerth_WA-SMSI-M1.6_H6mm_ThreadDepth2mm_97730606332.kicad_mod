@@ -1,5 +1,5 @@
-(module Mounting_Wuerth_WA-SMSI-M1.6_H6mm_ThreadDepth2mm_97730606332 (layer F.Cu) (tedit 5CEF08E1)
-  (descr "Mounting Hardware, inside blind hole M1.6, height 6, Wureth electronics 97730606332 (https://katalog.we-online.com/em/datasheet/97730606332.pdf), generated with kicad-footprint-generator")
+(module Mounting_Wuerth_WA-SMSI-M1.6_H6mm_ThreadDepth2mm_97730606332 (layer F.Cu) (tedit 5D6C09F8)
+  (descr "Mounting Hardware, inside blind hole M1.6, height 6, Wuerth electronics 97730606332 (https://katalog.we-online.com/em/datasheet/97730606332.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M1.6 97730606332")
   (attr smd)
   (fp_text reference REF** (at 0 -2.95) (layer F.SilkS)

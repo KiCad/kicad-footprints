@@ -1,5 +1,5 @@
-(module Mounting_Wuerth_WA-SMSI-M3_H8mm_9774080360 (layer F.Cu) (tedit 5CEF08E3)
-  (descr "Mounting Hardware, inside through hole M3, height 8, Wureth electronics 9774080360 (https://katalog.we-online.de/em/datasheet/9774080360.pdf), generated with kicad-footprint-generator")
+(module Mounting_Wuerth_WA-SMSI-M3_H8mm_9774080360 (layer F.Cu) (tedit 5D6C09F9)
+  (descr "Mounting Hardware, inside through hole M3, height 8, Wuerth electronics 9774080360 (https://katalog.we-online.de/em/datasheet/9774080360.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M3 9774080360")
   (attr smd)
   (fp_text reference REF** (at 0 -4.65) (layer F.SilkS)
