@@ -1,5 +1,5 @@
-(module BNC_Amphenol_031-6575_Horizontal (layer F.Cu) (tedit 5CF60F92)
-  (descr https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)
+(module BNC_Amphenol_031-6575_Horizontal (layer F.Cu) (tedit 5D726046)
+  (descr "dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)")
   (tags "Dual BNC Amphenol Horizontal")
   (fp_text reference REF** (at 0 2.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

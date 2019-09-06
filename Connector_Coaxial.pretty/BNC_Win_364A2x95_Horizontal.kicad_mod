@@ -1,5 +1,5 @@
-(module BNC_Win_364A2x95_Horizontal (layer F.Cu) (tedit 5D5FD6C9)
-  (descr https://www.winconn.com/wp-content/uploads/364A2595.pdf)
+(module BNC_Win_364A2x95_Horizontal (layer F.Cu) (tedit 5D726057)
+  (descr "Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)")
   (tags "Dual BNC Horizontal Isolated")
   (fp_text reference REF** (at 0 4.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
