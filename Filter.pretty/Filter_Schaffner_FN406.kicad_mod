@@ -1,5 +1,5 @@
-(module Filter_Schaffner_FN406 (layer F.Cu) (tedit 5D4D9A31)
-  (descr https://www.schaffner.com/products/download/product/datasheet/fn-406-ultra-compact-emc-filter/)
+(module Filter_Schaffner_FN406 (layer F.Cu) (tedit 5D7207DF)
+  (descr "Ultra Compact EMC Filter (https://www.schaffner.com/products/download/product/datasheet/fn-406-ultra-compact-emc-filter/)")
   (tags "emi filter")
   (fp_text reference REF** (at 0 -7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
