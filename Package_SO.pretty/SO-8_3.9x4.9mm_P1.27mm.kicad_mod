@@ -1,4 +1,4 @@
-(module SO-8_3.9x4.9mm_P1.27mm (layer F.Cu) (tedit 5C509AD1)
+(module SO-8_3.9x4.9mm_P1.27mm (layer F.Cu) (tedit 5D75298F)
   (descr "SO, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SO SO")
   (attr smd)

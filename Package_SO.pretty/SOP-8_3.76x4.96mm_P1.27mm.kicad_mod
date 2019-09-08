@@ -1,4 +1,4 @@
-(module SOP-8_3.76x4.96mm_P1.27mm (layer F.Cu) (tedit 5C4A362D)
+(module SOP-8_3.76x4.96mm_P1.27mm (layer F.Cu) (tedit 5D75298F)
   (descr "SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOP SO")
   (attr smd)
