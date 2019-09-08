@@ -1,5 +1,5 @@
-(module DirectFET_SH (layer F.Cu) (tedit 5D753BDC)
-  (descr "IRF DirectFET_SH https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=19")
+(module DirectFET_SH (layer F.Cu) (tedit 5D7569E9)
+  (descr "DirectFET SH https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=19")
   (tags "DirectFET SH MOSFET Infineon")
   (attr smd)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
