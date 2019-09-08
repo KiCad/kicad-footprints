@@ -1,4 +1,4 @@
-(module Texas_RGE0024C_EP2.1x2.1mm (layer F.Cu) (tedit 5D752642)
+(module Texas_RGE0024C_EP2.1x2.1mm (layer F.Cu) (tedit 5D753554)
   (descr "Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "Texas QFN NoLead")
   (attr smd)

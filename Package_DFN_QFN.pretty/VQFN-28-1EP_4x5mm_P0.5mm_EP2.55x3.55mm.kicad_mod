@@ -1,4 +1,4 @@
-(module VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm (layer F.Cu) (tedit 5D752642)
+(module VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm (layer F.Cu) (tedit 5D753555)
   (descr "VQFN, 28 Pin (http://www.ti.com/lit/ds/symlink/lm5175.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "VQFN NoLead")
   (attr smd)

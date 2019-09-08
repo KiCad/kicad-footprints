@@ -1,4 +1,4 @@
-(module VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm (layer F.Cu) (tedit 5D752642)
+(module VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm (layer F.Cu) (tedit 5D753555)
   (descr "VQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/msp430f1101a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "VQFN NoLead")
   (attr smd)

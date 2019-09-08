@@ -1,4 +1,4 @@
-(module QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm_ThermalVias (layer F.Cu) (tedit 5D75263E)
+(module QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm_ThermalVias (layer F.Cu) (tedit 5D753550)
   (descr "QFN, 24 Pin (https://www.invensense.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf#page=39), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

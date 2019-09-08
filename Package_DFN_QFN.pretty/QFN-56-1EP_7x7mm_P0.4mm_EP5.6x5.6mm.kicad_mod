@@ -1,4 +1,4 @@
-(module QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm (layer F.Cu) (tedit 5D752640)
+(module QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm (layer F.Cu) (tedit 5D753553)
   (descr "QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

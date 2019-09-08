@@ -1,4 +1,4 @@
-(module DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm (layer F.Cu) (tedit 5D752654)
+(module DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm (layer F.Cu) (tedit 5D753547)
   (descr "DFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8127-AVR-8-bit-Microcontroller-ATtiny4-ATtiny5-ATtiny9-ATtiny10_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)

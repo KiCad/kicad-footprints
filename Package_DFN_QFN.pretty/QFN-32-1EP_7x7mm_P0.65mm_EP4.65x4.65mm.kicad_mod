@@ -1,4 +1,4 @@
-(module QFN-32-1EP_7x7mm_P0.65mm_EP4.65x4.65mm (layer F.Cu) (tedit 5D75263F)
+(module QFN-32-1EP_7x7mm_P0.65mm_EP4.65x4.65mm (layer F.Cu) (tedit 5D753551)
   (descr "QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8209-8-bit%20AVR%20ATmega16M1-32M1-64M1_Datasheet.pdf#page=426), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

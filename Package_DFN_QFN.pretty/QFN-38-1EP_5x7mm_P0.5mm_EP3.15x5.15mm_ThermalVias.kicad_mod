@@ -1,4 +1,4 @@
-(module QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm_ThermalVias (layer F.Cu) (tedit 5D75263F)
+(module QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm_ThermalVias (layer F.Cu) (tedit 5D753552)
   (descr "QFN, 38 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_38_05-08-1701.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

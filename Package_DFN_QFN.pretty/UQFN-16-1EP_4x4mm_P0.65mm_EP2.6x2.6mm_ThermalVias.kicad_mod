@@ -1,4 +1,4 @@
-(module UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5D752642)
+(module UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5D753554)
   (descr "UQFN, 16 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/16L_UQFN_4x4x0_5mm_JQ_C04257A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "UQFN NoLead")
   (attr smd)

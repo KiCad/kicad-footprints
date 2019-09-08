@@ -1,4 +1,4 @@
-(module QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm_ThermalVias (layer F.Cu) (tedit 5D75263D)
+(module QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm_ThermalVias (layer F.Cu) (tedit 5D753550)
   (descr "QFN, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3553fc.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

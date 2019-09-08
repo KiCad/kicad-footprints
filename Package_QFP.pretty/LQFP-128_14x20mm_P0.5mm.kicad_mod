@@ -1,4 +1,4 @@
-(module LQFP-128_14x20mm_P0.5mm (layer F.Cu) (tedit 5D75298D)
+(module LQFP-128_14x20mm_P0.5mm (layer F.Cu) (tedit 5D753570)
   (descr "LQFP, 128 Pin (https://www.nxp.com/docs/en/package-information/SOT425-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)

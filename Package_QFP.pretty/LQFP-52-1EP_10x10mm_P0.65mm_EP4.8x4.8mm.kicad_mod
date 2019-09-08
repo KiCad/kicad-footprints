@@ -1,4 +1,4 @@
-(module LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm (layer F.Cu) (tedit 5D75298D)
+(module LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm (layer F.Cu) (tedit 5D75356F)
   (descr "LQFP, 52 Pin (https://www.onsemi.com/pub/Collateral/848H-01.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)

@@ -1,4 +1,4 @@
-(module TSOP-I-32_11.8x8mm_P0.5mm (layer F.Cu) (tedit 5D75298F)
+(module TSOP-I-32_11.8x8mm_P0.5mm (layer F.Cu) (tedit 5D753571)
   (descr "TSOP-I, 32 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TSOP-I SO")
   (attr smd)

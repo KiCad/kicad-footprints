@@ -1,4 +1,4 @@
-(module VSSOP-10_3x3mm_P0.5mm (layer F.Cu) (tedit 5D75298F)
+(module VSSOP-10_3x3mm_P0.5mm (layer F.Cu) (tedit 5D753572)
   (descr "VSSOP, 10 Pin (http://www.ti.com/lit/ds/symlink/ads1115.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "VSSOP SO")
   (attr smd)

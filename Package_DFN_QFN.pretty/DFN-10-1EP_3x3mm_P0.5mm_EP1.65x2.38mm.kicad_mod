@@ -1,4 +1,4 @@
-(module DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm (layer F.Cu) (tedit 5D752654)
+(module DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm (layer F.Cu) (tedit 5D753547)
   (descr "DFN, 10 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3471fb.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)

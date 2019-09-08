@@ -1,4 +1,4 @@
-(module WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm_ThermalVias (layer F.Cu) (tedit 5D752655)
+(module WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm_ThermalVias (layer F.Cu) (tedit 5D753548)
   (descr "WSON, 12 Pin (http://www.ti.com/lit/ds/symlink/ldc1312.pdf#page=62), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WSON NoLead")
   (attr smd)

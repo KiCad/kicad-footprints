@@ -1,4 +1,4 @@
-(module HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm (layer F.Cu) (tedit 5D752654)
+(module HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm (layer F.Cu) (tedit 5D753547)
   (descr "HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf (page 57)), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "HVSON NoLead")
   (attr smd)

@@ -1,4 +1,4 @@
-(module PQFP-160_28x28mm_P0.65mm (layer F.Cu) (tedit 5D75298E)
+(module PQFP-160_28x28mm_P0.65mm (layer F.Cu) (tedit 5D753570)
   (descr "PQFP, 160 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "PQFP QFP")
   (attr smd)

@@ -1,4 +1,4 @@
-(module Texas_S-PVQFN-N40_EP4.6x4.6mm (layer F.Cu) (tedit 5D752641)
+(module Texas_S-PVQFN-N40_EP4.6x4.6mm (layer F.Cu) (tedit 5D753554)
   (descr "QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/dac7750.pdf#page=55), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

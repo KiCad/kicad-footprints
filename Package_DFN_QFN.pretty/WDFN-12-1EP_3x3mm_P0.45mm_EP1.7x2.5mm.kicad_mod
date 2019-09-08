@@ -1,4 +1,4 @@
-(module WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm (layer F.Cu) (tedit 5D752654)
+(module WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm (layer F.Cu) (tedit 5D753547)
   (descr "WDFN, 12 Pin (https://www.diodes.com/assets/Datasheets/PAM2306.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WDFN NoLead")
   (attr smd)

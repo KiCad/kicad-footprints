@@ -1,4 +1,4 @@
-(module QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm (layer F.Cu) (tedit 5D752640)
+(module QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm (layer F.Cu) (tedit 5D753552)
   (descr "QFN, 48 Pin (http://infocenter.nordicsemi.com/pdf/nRF51822_PS_v3.3.pdf#page=67), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

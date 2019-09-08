@@ -1,4 +1,4 @@
-(module Texas_S-PWQFN-N16_EP2.1x2.1mm_ThermalVias (layer F.Cu) (tedit 5D752641)
+(module Texas_S-PWQFN-N16_EP2.1x2.1mm_ThermalVias (layer F.Cu) (tedit 5D753554)
   (descr "QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/drv8801.pdf#page=31), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

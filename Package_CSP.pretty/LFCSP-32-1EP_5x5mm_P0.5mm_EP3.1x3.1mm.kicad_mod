@@ -1,4 +1,4 @@
-(module LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm (layer F.Cu) (tedit 5D752654)
+(module LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm (layer F.Cu) (tedit 5D753547)
   (descr "LFCSP, 32 Pin (https://www.analog.com/media/en/package-pcb-resources/package/414143737956480539664569cp_32_2.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "LFCSP NoLead")
   (attr smd)

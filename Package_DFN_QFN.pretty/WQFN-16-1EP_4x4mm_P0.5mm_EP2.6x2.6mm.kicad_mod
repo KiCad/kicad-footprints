@@ -1,4 +1,4 @@
-(module WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm (layer F.Cu) (tedit 5D752642)
+(module WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm (layer F.Cu) (tedit 5D753555)
   (descr "WQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ldc1312.pdf#page=59), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WQFN NoLead")
   (attr smd)

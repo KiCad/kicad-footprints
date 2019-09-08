@@ -1,4 +1,4 @@
-(module SOIC-4_4.55x2.6mm_P1.27mm (layer F.Cu) (tedit 5D75298E)
+(module SOIC-4_4.55x2.6mm_P1.27mm (layer F.Cu) (tedit 5D753571)
   (descr "SOIC, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)

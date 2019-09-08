@@ -1,4 +1,4 @@
-(module QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm (layer F.Cu) (tedit 5D75263F)
+(module QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm (layer F.Cu) (tedit 5D753552)
   (descr "QFN, 36 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/36L_QFN_6x6_with_3_7x3_7_EP_Punch_Dimpled_4E_C04-0241A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

@@ -1,4 +1,4 @@
-(module WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm (layer F.Cu) (tedit 5D752655)
+(module WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm (layer F.Cu) (tedit 5D753548)
   (descr "WSON, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf (page 68)), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WSON NoLead")
   (attr smd)

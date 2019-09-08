@@ -1,4 +1,4 @@
-(module SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm (layer F.Cu) (tedit 5D752655)
+(module SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm (layer F.Cu) (tedit 5D753548)
   (descr "SON, 8 Pin (http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "SON NoLead")
   (attr smd)

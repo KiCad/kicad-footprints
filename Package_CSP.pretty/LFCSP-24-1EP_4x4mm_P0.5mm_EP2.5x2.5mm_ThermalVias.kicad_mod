@@ -1,4 +1,4 @@
-(module LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias (layer F.Cu) (tedit 5D75263E)
+(module LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias (layer F.Cu) (tedit 5D753550)
   (descr "LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "LFCSP NoLead")
   (attr smd)

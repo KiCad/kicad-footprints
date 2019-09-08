@@ -1,4 +1,4 @@
-(module LQFP-128_14x14mm_P0.4mm (layer F.Cu) (tedit 5D75298D)
+(module LQFP-128_14x14mm_P0.4mm (layer F.Cu) (tedit 5D753570)
   (descr "LQFP, 128 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/q128.14x14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)

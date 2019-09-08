@@ -1,4 +1,4 @@
-(module QFN-32-1EP_7x7mm_P0.65mm_EP4.7x4.7mm (layer F.Cu) (tedit 5D75263F)
+(module QFN-32-1EP_7x7mm_P0.65mm_EP4.7x4.7mm (layer F.Cu) (tedit 5D753551)
   (descr "QFN, 32 Pin (https://www.nxp.com/docs/en/data-sheet/LPC111X.pdf#page=108), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

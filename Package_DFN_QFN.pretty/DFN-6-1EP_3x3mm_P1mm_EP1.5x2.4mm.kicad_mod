@@ -1,4 +1,4 @@
-(module DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm (layer F.Cu) (tedit 5D752654)
+(module DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm (layer F.Cu) (tedit 5D753547)
   (descr "DFN, 6 Pin (https://www.silabs.com/documents/public/data-sheets/Si7020-A20.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)

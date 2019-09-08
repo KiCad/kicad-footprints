@@ -1,4 +1,4 @@
-(module QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm (layer F.Cu) (tedit 5D752640)
+(module QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm (layer F.Cu) (tedit 5D753553)
   (descr "QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00002304A.pdf (page 43)), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

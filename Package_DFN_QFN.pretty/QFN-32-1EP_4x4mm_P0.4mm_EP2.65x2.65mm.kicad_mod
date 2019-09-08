@@ -1,4 +1,4 @@
-(module QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm (layer F.Cu) (tedit 5D75263E)
+(module QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm (layer F.Cu) (tedit 5D753551)
   (descr "QFN, 32 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/l32.4x4a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

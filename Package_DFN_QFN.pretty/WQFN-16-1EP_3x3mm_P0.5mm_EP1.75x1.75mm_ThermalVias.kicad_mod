@@ -1,4 +1,4 @@
-(module WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias (layer F.Cu) (tedit 5D752642)
+(module WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias (layer F.Cu) (tedit 5D753555)
   (descr "WQFN, 16 Pin (https://www.onsemi.com/pub/Collateral/FUSB307B-D.PDF#page=56), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WQFN NoLead")
   (attr smd)

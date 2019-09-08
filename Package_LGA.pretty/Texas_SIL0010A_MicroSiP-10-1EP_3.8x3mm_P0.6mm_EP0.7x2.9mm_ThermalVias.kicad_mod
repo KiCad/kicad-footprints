@@ -1,4 +1,4 @@
-(module Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias (layer F.Cu) (tedit 5D752655)
+(module Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias (layer F.Cu) (tedit 5D753548)
   (descr "Texas SIL0010A MicroSiP, 10 Pin (http://www.ti.com/lit/ml/mpds579b/mpds579b.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "Texas MicroSiP NoLead")
   (attr smd)

@@ -1,4 +1,4 @@
-(module QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm (layer F.Cu) (tedit 5D752640)
+(module QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm (layer F.Cu) (tedit 5D753553)
   (descr "QFN, 52 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_52_05-08-1729.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

@@ -1,4 +1,4 @@
-(module DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack (layer F.Cu) (tedit 5D752654)
+(module DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack (layer F.Cu) (tedit 5D753547)
   (descr "DFN, 6 Pin (http://www.onsemi.com/pub/Collateral/NCP133-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)

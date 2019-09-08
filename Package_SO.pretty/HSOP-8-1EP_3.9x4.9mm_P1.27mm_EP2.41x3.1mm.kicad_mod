@@ -1,4 +1,4 @@
-(module HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm (layer F.Cu) (tedit 5D75298D)
+(module HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm (layer F.Cu) (tedit 5D75356F)
   (descr "HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l5973d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "HSOP SO")
   (attr smd)

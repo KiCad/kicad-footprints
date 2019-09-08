@@ -1,4 +1,4 @@
-(module QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias (layer F.Cu) (tedit 5D75263D)
+(module QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias (layer F.Cu) (tedit 5D753550)
   (descr "QFN, 16 Pin (https://www.onsemi.com/pub/Collateral/NCN4555-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

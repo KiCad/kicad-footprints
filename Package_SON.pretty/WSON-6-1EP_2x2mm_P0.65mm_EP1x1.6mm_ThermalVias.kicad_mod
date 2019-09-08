@@ -1,4 +1,4 @@
-(module WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias (layer F.Cu) (tedit 5D752655)
+(module WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias (layer F.Cu) (tedit 5D753548)
   (descr "WSON, 6 Pin (http://www.ti.com/lit/ds/symlink/tps61040.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WSON NoLead")
   (attr smd)

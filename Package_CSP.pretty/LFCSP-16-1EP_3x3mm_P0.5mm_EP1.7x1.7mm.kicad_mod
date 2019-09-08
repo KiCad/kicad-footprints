@@ -1,4 +1,4 @@
-(module LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm (layer F.Cu) (tedit 5D752654)
+(module LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm (layer F.Cu) (tedit 5D753547)
   (descr "LFCSP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "LFCSP NoLead")
   (attr smd)

@@ -1,4 +1,4 @@
-(module TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm_ThermalVias (layer F.Cu) (tedit 5D752642)
+(module TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm_ThermalVias (layer F.Cu) (tedit 5D753554)
   (descr "TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "TQFN NoLead")
   (attr smd)

@@ -1,4 +1,4 @@
-(module QFN-28_4x4mm_P0.5mm (layer F.Cu) (tedit 5D75263E)
+(module QFN-28_4x4mm_P0.5mm (layer F.Cu) (tedit 5D753551)
   (descr "QFN, 28 Pin (http://www.st.com/resource/en/datasheet/stm32f031k6.pdf#page=90), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

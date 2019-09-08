@@ -1,4 +1,4 @@
-(module Texas_S-PWSON-N8_EP1.2x2mm_ThermalVias (layer F.Cu) (tedit 5D752655)
+(module Texas_S-PWSON-N8_EP1.2x2mm_ThermalVias (layer F.Cu) (tedit 5D753548)
   (descr "WSON, 8 Pin (http://www.ti.com/lit/ds/symlink/lp2951.pdf#page=27), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WSON NoLead")
   (attr smd)

@@ -1,4 +1,4 @@
-(module QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm (layer F.Cu) (tedit 5D75263E)
+(module QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm (layer F.Cu) (tedit 5D753551)
   (descr "QFN, 28 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/05081932_0_UHE28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

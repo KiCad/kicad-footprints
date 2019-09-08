@@ -1,4 +1,4 @@
-(module QFN-36-1EP_5x6mm_P0.5mm_EP3.6x4.1mm_ThermalVias (layer F.Cu) (tedit 5D75263F)
+(module QFN-36-1EP_5x6mm_P0.5mm_EP3.6x4.1mm_ThermalVias (layer F.Cu) (tedit 5D753552)
   (descr "QFN, 36 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf#page=43), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
@@ -74,48 +74,12 @@
   (pad 37 thru_hole circle (at 0 1.8) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 37 thru_hole circle (at 1.55 1.8) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 37 smd roundrect (at 0 0) (size 3.6 4.1) (layers B.Cu) (roundrect_rratio 0.017361))
-  (pad "" smd custom (at -0.775 -1.2) (size 0.96366 0.96366) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.697137 -0.39502) (xy -0.56285 -0.529308) (xy 0.56285 -0.529308) (xy 0.697137 -0.39502)
-         (xy 0.697137 0.39502) (xy 0.56285 0.529308) (xy -0.56285 0.529308) (xy -0.697137 0.39502)) (width 0))
-    ))
-  (pad "" smd custom (at -0.775 0) (size 0.96366 0.96366) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.697137 -0.39502) (xy -0.56285 -0.529308) (xy 0.56285 -0.529308) (xy 0.697137 -0.39502)
-         (xy 0.697137 0.39502) (xy 0.56285 0.529308) (xy -0.56285 0.529308) (xy -0.697137 0.39502)) (width 0))
-    ))
-  (pad "" smd custom (at -0.775 1.2) (size 0.96366 0.96366) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.697137 -0.39502) (xy -0.56285 -0.529308) (xy 0.56285 -0.529308) (xy 0.697137 -0.39502)
-         (xy 0.697137 0.39502) (xy 0.56285 0.529308) (xy -0.56285 0.529308) (xy -0.697137 0.39502)) (width 0))
-    ))
-  (pad "" smd custom (at 0.775 -1.2) (size 0.96366 0.96366) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.697137 -0.39502) (xy -0.56285 -0.529308) (xy 0.56285 -0.529308) (xy 0.697137 -0.39502)
-         (xy 0.697137 0.39502) (xy 0.56285 0.529308) (xy -0.56285 0.529308) (xy -0.697137 0.39502)) (width 0))
-    ))
-  (pad "" smd custom (at 0.775 0) (size 0.96366 0.96366) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.697137 -0.39502) (xy -0.56285 -0.529308) (xy 0.56285 -0.529308) (xy 0.697137 -0.39502)
-         (xy 0.697137 0.39502) (xy 0.56285 0.529308) (xy -0.56285 0.529308) (xy -0.697137 0.39502)) (width 0))
-    ))
-  (pad "" smd custom (at 0.775 1.2) (size 0.96366 0.96366) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.697137 -0.39502) (xy -0.56285 -0.529308) (xy 0.56285 -0.529308) (xy 0.697137 -0.39502)
-         (xy 0.697137 0.39502) (xy 0.56285 0.529308) (xy -0.56285 0.529308) (xy -0.697137 0.39502)) (width 0))
-    ))
+  (pad "" smd roundrect (at -0.775 -1.2) (size 1.394274 1.058615) (layers F.Paste) (roundrect_rratio 0.236158))
+  (pad "" smd roundrect (at -0.775 0) (size 1.394274 1.058615) (layers F.Paste) (roundrect_rratio 0.236158))
+  (pad "" smd roundrect (at -0.775 1.2) (size 1.394274 1.058615) (layers F.Paste) (roundrect_rratio 0.236158))
+  (pad "" smd roundrect (at 0.775 -1.2) (size 1.394274 1.058615) (layers F.Paste) (roundrect_rratio 0.236158))
+  (pad "" smd roundrect (at 0.775 0) (size 1.394274 1.058615) (layers F.Paste) (roundrect_rratio 0.236158))
+  (pad "" smd roundrect (at 0.775 1.2) (size 1.394274 1.058615) (layers F.Paste) (roundrect_rratio 0.236158))
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )

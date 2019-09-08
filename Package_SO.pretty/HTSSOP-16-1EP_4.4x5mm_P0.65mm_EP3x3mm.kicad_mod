@@ -1,4 +1,4 @@
-(module HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm (layer F.Cu) (tedit 5D75298D)
+(module HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm (layer F.Cu) (tedit 5D75356F)
   (descr "HTSSOP, 16 Pin (https://www.st.com/resource/en/datasheet/stp08cp05.pdf#page=20), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "HTSSOP SO")
   (attr smd)

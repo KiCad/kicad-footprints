@@ -1,4 +1,4 @@
-(module VQFP-80_14x14mm_P0.65mm (layer F.Cu) (tedit 5D75298F)
+(module VQFP-80_14x14mm_P0.65mm (layer F.Cu) (tedit 5D753572)
   (descr "VQFP, 80 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "VQFP QFP")
   (attr smd)

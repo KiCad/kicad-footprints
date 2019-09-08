@@ -1,4 +1,4 @@
-(module Texas_S-PVQFN-N20_EP3.15x3.15mm (layer F.Cu) (tedit 5D752641)
+(module Texas_S-PVQFN-N20_EP3.15x3.15mm (layer F.Cu) (tedit 5D753554)
   (descr "QFN, 20 Pin (www.ti.com/lit/ds/symlink/tps7a7200.pdf#page=36), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

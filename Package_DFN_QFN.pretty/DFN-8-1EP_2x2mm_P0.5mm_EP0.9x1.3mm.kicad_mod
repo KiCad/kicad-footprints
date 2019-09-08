@@ -1,4 +1,4 @@
-(module DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.3mm (layer F.Cu) (tedit 5D752654)
+(module DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.3mm (layer F.Cu) (tedit 5D753547)
   (descr "DFN, 8 Pin (https://www.onsemi.com/pub/Collateral/NB3N551-D.PDF#page=7), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)

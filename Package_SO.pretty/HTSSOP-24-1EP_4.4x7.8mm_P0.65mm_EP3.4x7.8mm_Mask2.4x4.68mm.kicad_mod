@@ -1,4 +1,4 @@
-(module HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm (layer F.Cu) (tedit 5D75298D)
+(module HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm (layer F.Cu) (tedit 5D75356F)
   (descr "HTSSOP, 24 Pin (http://www.ti.com/lit/ds/symlink/tps703.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "HTSSOP SO")
   (attr smd)

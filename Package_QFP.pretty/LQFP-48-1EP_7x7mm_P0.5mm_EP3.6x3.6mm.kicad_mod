@@ -1,4 +1,4 @@
-(module LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm (layer F.Cu) (tedit 5D75298D)
+(module LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm (layer F.Cu) (tedit 5D75356F)
   (descr "LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)

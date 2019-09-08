@@ -1,4 +1,4 @@
-(module DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm (layer F.Cu) (tedit 5D752654)
+(module DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm (layer F.Cu) (tedit 5D753547)
   (descr "DFN, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/(DCB6)%20DFN%2005-08-1715%20Rev%20A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)

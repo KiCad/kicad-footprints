@@ -1,4 +1,4 @@
-(module VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm (layer F.Cu) (tedit 5D752642)
+(module VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm (layer F.Cu) (tedit 5D753555)
   (descr "VQFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=264), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "VQFN NoLead")
   (attr smd)

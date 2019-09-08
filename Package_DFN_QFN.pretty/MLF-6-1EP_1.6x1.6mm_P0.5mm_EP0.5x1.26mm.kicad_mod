@@ -1,4 +1,4 @@
-(module MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm (layer F.Cu) (tedit 5D752654)
+(module MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm (layer F.Cu) (tedit 5D753547)
   (descr "MLF, 6 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "MLF NoLead")
   (attr smd)

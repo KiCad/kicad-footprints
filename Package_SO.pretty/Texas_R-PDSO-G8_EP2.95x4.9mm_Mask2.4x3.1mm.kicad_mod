@@ -1,4 +1,4 @@
-(module Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm (layer F.Cu) (tedit 5D75298C)
+(module Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm (layer F.Cu) (tedit 5D75356F)
   (descr "HSOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lmr14030.pdf#page=28, http://www.ti.com/lit/ml/msoi002j/msoi002j.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "HSOIC SO")
   (attr smd)

@@ -1,4 +1,4 @@
-(module HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm_ThermalVias (layer F.Cu) (tedit 5D75298D)
+(module HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm_ThermalVias (layer F.Cu) (tedit 5D75356F)
   (descr "HTSOP, 8 Pin (https://media.digikey.com/pdf/Data%20Sheets/Rohm%20PDFs/BD9G341EFJ.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "HTSOP SO")
   (attr smd)

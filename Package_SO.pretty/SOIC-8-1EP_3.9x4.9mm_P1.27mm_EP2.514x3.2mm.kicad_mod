@@ -1,4 +1,4 @@
-(module SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.514x3.2mm (layer F.Cu) (tedit 5D75298E)
+(module SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.514x3.2mm (layer F.Cu) (tedit 5D753571)
   (descr "SOIC, 8 Pin (https://www.renesas.com/eu/en/www/doc/datasheet/hip2100.pdf#page=13), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)

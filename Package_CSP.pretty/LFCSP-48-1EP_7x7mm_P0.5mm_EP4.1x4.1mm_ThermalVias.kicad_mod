@@ -1,4 +1,4 @@
-(module LFCSP-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm_ThermalVias (layer F.Cu) (tedit 5D752654)
+(module LFCSP-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm_ThermalVias (layer F.Cu) (tedit 5D753547)
   (descr "LFCSP, 48 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_48_5.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "LFCSP NoLead")
   (attr smd)

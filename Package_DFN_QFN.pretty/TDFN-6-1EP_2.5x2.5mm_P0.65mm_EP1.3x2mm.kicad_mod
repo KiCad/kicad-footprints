@@ -1,4 +1,4 @@
-(module TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm (layer F.Cu) (tedit 5D752654)
+(module TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm (layer F.Cu) (tedit 5D753547)
   (descr "TDFN, 6 Pin (http://www.nve.com/Downloads/ab3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "TDFN NoLead")
   (attr smd)

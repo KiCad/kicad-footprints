@@ -1,4 +1,4 @@
-(module QFN-16-1EP_4x4mm_P0.5mm_EP2.45x2.45mm (layer F.Cu) (tedit 5D75263D)
+(module QFN-16-1EP_4x4mm_P0.5mm_EP2.45x2.45mm (layer F.Cu) (tedit 5D753550)
   (descr "QFN, 16 Pin (https://www.renesas.com/eu/en/www/doc/datasheet/isl8117.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)

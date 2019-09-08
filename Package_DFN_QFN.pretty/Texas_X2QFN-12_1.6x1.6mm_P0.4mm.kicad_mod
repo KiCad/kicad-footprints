@@ -1,4 +1,4 @@
-(module Texas_X2QFN-12_1.6x1.6mm_P0.4mm (layer F.Cu) (tedit 5D752642)
+(module Texas_X2QFN-12_1.6x1.6mm_P0.4mm (layer F.Cu) (tedit 5D753554)
   (descr "Texas  X2QFN, 12 Pin (http://www.ti.com/lit/ml/mpqf391c/mpqf391c.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "Texas X2QFN NoLead")
   (attr smd)

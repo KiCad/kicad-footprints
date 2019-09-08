@@ -1,4 +1,4 @@
-(module EQFP-144-1EP_20x20mm_P0.5mm_EP6.61x5.615mm_ThermalVias (layer F.Cu) (tedit 5D75298C)
+(module EQFP-144-1EP_20x20mm_P0.5mm_EP6.61x5.615mm_ThermalVias (layer F.Cu) (tedit 5D75356F)
   (descr "EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00485-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "EQFP QFP")
   (attr smd)
@@ -212,215 +212,107 @@
   (pad 145 thru_hole circle (at 1.3 2.1) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 145 thru_hole circle (at 2.6 2.1) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 145 smd roundrect (at 0 0) (size 5.7 4.7) (layers B.Cu) (roundrect_rratio 0.015957))
-  (pad "" smd custom (at -1.95 -1.4) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at -1.95 0) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at -1.95 1.4) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at -0.65 -1.4) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at -0.65 0) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at -0.65 1.4) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at 0.65 -1.4) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at 0.65 0) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at 0.65 1.4) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at 1.95 -1.4) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at 1.95 0) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at 1.95 1.4) (size 1.033069 1.033069) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.524047 -0.543111) (xy -0.502799 -0.564358) (xy 0.502799 -0.564358) (xy 0.524047 -0.543111)
-         (xy 0.524047 0.543111) (xy 0.502799 0.564358) (xy -0.502799 0.564358) (xy -0.524047 0.543111)) (width 0))
-    ))
-  (pad "" smd custom (at -2.9525 -1.4) (size 0.512602 0.512602) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.284195 -0.564358) (xy 0.205299 -0.564358) (xy 0.284195 -0.485463) (xy 0.284195 0.485463)
-         (xy 0.205299 0.564358) (xy -0.284195 0.564358)) (width 0))
-    ))
-  (pad "" smd custom (at -2.9525 0) (size 0.512602 0.512602) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.284195 -0.564358) (xy 0.205299 -0.564358) (xy 0.284195 -0.485463) (xy 0.284195 0.485463)
-         (xy 0.205299 0.564358) (xy -0.284195 0.564358)) (width 0))
-    ))
-  (pad "" smd custom (at -2.9525 1.4) (size 0.512602 0.512602) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.284195 -0.564358) (xy 0.205299 -0.564358) (xy 0.284195 -0.485463) (xy 0.284195 0.485463)
-         (xy 0.205299 0.564358) (xy -0.284195 0.564358)) (width 0))
-    ))
-  (pad "" smd custom (at 2.9525 -1.4) (size 0.512602 0.512602) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.284195 -0.485463) (xy -0.205299 -0.564358) (xy 0.284195 -0.564358) (xy 0.284195 0.564358)
-         (xy -0.205299 0.564358) (xy -0.284195 0.485463)) (width 0))
-    ))
-  (pad "" smd custom (at 2.9525 0) (size 0.512602 0.512602) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.284195 -0.485463) (xy -0.205299 -0.564358) (xy 0.284195 -0.564358) (xy 0.284195 0.564358)
-         (xy -0.205299 0.564358) (xy -0.284195 0.485463)) (width 0))
-    ))
-  (pad "" smd custom (at 2.9525 1.4) (size 0.512602 0.512602) (layers F.Paste)
-    (options (clearance outline) (anchor circle))
-    (primitives
-      (gr_poly (pts
-         (xy -0.284195 -0.485463) (xy -0.205299 -0.564358) (xy 0.284195 -0.564358) (xy 0.284195 0.564358)
-         (xy -0.205299 0.564358) (xy -0.284195 0.485463)) (width 0))
-    ))
+  (pad "" smd roundrect (at -1.95 -1.4) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at -1.95 0) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at -1.95 1.4) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at -0.65 -1.4) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at -0.65 0) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at -0.65 1.4) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at 0.65 -1.4) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at 0.65 0) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at 0.65 1.4) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at 1.95 -1.4) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at 1.95 0) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at 1.95 1.4) (size 1.048094 1.128716) (layers F.Paste) (roundrect_rratio 0.238528))
+  (pad "" smd roundrect (at -2.9525 -1.4) (size 0.568389 1.128716) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at -2.9525 0) (size 0.568389 1.128716) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at -2.9525 1.4) (size 0.568389 1.128716) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at 2.9525 -1.4) (size 0.568389 1.128716) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at 2.9525 0) (size 0.568389 1.128716) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at 2.9525 1.4) (size 0.568389 1.128716) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd custom (at -1.95 -2.45375) (size 0.507938 0.507938) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.524047 -0.285202) (xy 0.524047 -0.285202) (xy 0.524047 0.196861) (xy 0.435705 0.285202)
-         (xy -0.435705 0.285202) (xy -0.524047 0.196861)) (width 0))
+         (xy -0.46158 -0.222735) (xy 0.46158 -0.222735) (xy 0.46158 0.170986) (xy 0.40983 0.222735)
+         (xy -0.40983 0.222735) (xy -0.46158 0.170986)) (width 0.124934))
     ))
   (pad "" smd custom (at -0.65 -2.45375) (size 0.507938 0.507938) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.524047 -0.285202) (xy 0.524047 -0.285202) (xy 0.524047 0.196861) (xy 0.435705 0.285202)
-         (xy -0.435705 0.285202) (xy -0.524047 0.196861)) (width 0))
+         (xy -0.46158 -0.222735) (xy 0.46158 -0.222735) (xy 0.46158 0.170986) (xy 0.40983 0.222735)
+         (xy -0.40983 0.222735) (xy -0.46158 0.170986)) (width 0.124934))
     ))
   (pad "" smd custom (at 0.65 -2.45375) (size 0.507938 0.507938) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.524047 -0.285202) (xy 0.524047 -0.285202) (xy 0.524047 0.196861) (xy 0.435705 0.285202)
-         (xy -0.435705 0.285202) (xy -0.524047 0.196861)) (width 0))
+         (xy -0.46158 -0.222735) (xy 0.46158 -0.222735) (xy 0.46158 0.170986) (xy 0.40983 0.222735)
+         (xy -0.40983 0.222735) (xy -0.46158 0.170986)) (width 0.124934))
     ))
   (pad "" smd custom (at 1.95 -2.45375) (size 0.507938 0.507938) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.524047 -0.285202) (xy 0.524047 -0.285202) (xy 0.524047 0.196861) (xy 0.435705 0.285202)
-         (xy -0.435705 0.285202) (xy -0.524047 0.196861)) (width 0))
+         (xy -0.46158 -0.222735) (xy 0.46158 -0.222735) (xy 0.46158 0.170986) (xy 0.40983 0.222735)
+         (xy -0.40983 0.222735) (xy -0.46158 0.170986)) (width 0.124934))
     ))
   (pad "" smd custom (at -1.95 2.45375) (size 0.507938 0.507938) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.524047 -0.196861) (xy -0.435705 -0.285202) (xy 0.435705 -0.285202) (xy 0.524047 -0.196861)
-         (xy 0.524047 0.285202) (xy -0.524047 0.285202)) (width 0))
+         (xy -0.46158 -0.170986) (xy -0.40983 -0.222735) (xy 0.40983 -0.222735) (xy 0.46158 -0.170986)
+         (xy 0.46158 0.222735) (xy -0.46158 0.222735)) (width 0.124934))
     ))
   (pad "" smd custom (at -0.65 2.45375) (size 0.507938 0.507938) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.524047 -0.196861) (xy -0.435705 -0.285202) (xy 0.435705 -0.285202) (xy 0.524047 -0.196861)
-         (xy 0.524047 0.285202) (xy -0.524047 0.285202)) (width 0))
+         (xy -0.46158 -0.170986) (xy -0.40983 -0.222735) (xy 0.40983 -0.222735) (xy 0.46158 -0.170986)
+         (xy 0.46158 0.222735) (xy -0.46158 0.222735)) (width 0.124934))
     ))
   (pad "" smd custom (at 0.65 2.45375) (size 0.507938 0.507938) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.524047 -0.196861) (xy -0.435705 -0.285202) (xy 0.435705 -0.285202) (xy 0.524047 -0.196861)
-         (xy 0.524047 0.285202) (xy -0.524047 0.285202)) (width 0))
+         (xy -0.46158 -0.170986) (xy -0.40983 -0.222735) (xy 0.40983 -0.222735) (xy 0.46158 -0.170986)
+         (xy 0.46158 0.222735) (xy -0.46158 0.222735)) (width 0.124934))
     ))
   (pad "" smd custom (at 1.95 2.45375) (size 0.507938 0.507938) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.524047 -0.196861) (xy -0.435705 -0.285202) (xy 0.435705 -0.285202) (xy 0.524047 -0.196861)
-         (xy 0.524047 0.285202) (xy -0.524047 0.285202)) (width 0))
+         (xy -0.46158 -0.170986) (xy -0.40983 -0.222735) (xy 0.40983 -0.222735) (xy 0.46158 -0.170986)
+         (xy 0.46158 0.222735) (xy -0.46158 0.222735)) (width 0.124934))
     ))
   (pad "" smd custom (at -2.9525 -2.45375) (size 0.465159 0.465159) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.284195 -0.285202) (xy 0.284195 -0.285202) (xy 0.284195 0.139213) (xy 0.138205 0.285202)
-         (xy -0.284195 0.285202)) (width 0))
+         (xy -0.180964 -0.181972) (xy 0.180964 -0.181972) (xy 0.180964 0.096453) (xy 0.095446 0.181972)
+         (xy -0.180964 0.181972)) (width 0.206461))
     ))
   (pad "" smd custom (at -2.9525 2.45375) (size 0.465159 0.465159) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.284195 -0.285202) (xy 0.138205 -0.285202) (xy 0.284195 -0.139213) (xy 0.284195 0.285202)
-         (xy -0.284195 0.285202)) (width 0))
+         (xy -0.180964 -0.181972) (xy 0.095446 -0.181972) (xy 0.180964 -0.096453) (xy 0.180964 0.181972)
+         (xy -0.180964 0.181972)) (width 0.206461))
     ))
   (pad "" smd custom (at 2.9525 -2.45375) (size 0.465159 0.465159) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.284195 -0.285202) (xy 0.284195 -0.285202) (xy 0.284195 0.285202) (xy -0.138205 0.285202)
-         (xy -0.284195 0.139213)) (width 0))
+         (xy -0.180964 -0.181972) (xy 0.180964 -0.181972) (xy 0.180964 0.181972) (xy -0.095446 0.181972)
+         (xy -0.180964 0.096453)) (width 0.206461))
     ))
   (pad "" smd custom (at 2.9525 2.45375) (size 0.465159 0.465159) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.284195 -0.139213) (xy -0.138205 -0.285202) (xy 0.284195 -0.285202) (xy 0.284195 0.285202)
-         (xy -0.284195 0.285202)) (width 0))
+         (xy -0.180964 -0.096453) (xy -0.095446 -0.181972) (xy 0.180964 -0.181972) (xy 0.180964 0.181972)
+         (xy -0.180964 0.181972)) (width 0.206461))
     ))
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))

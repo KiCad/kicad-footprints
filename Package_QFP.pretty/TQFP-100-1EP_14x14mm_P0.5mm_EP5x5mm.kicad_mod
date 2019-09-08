@@ -1,4 +1,4 @@
-(module TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm (layer F.Cu) (tedit 5D75298F)
+(module TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm (layer F.Cu) (tedit 5D753571)
   (descr "TQFP, 100 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_100_4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TQFP QFP")
   (attr smd)

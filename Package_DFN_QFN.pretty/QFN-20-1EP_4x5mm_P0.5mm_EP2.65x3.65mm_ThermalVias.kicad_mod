@@ -1,4 +1,4 @@
-(module QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias (layer F.Cu) (tedit 5D75263D)
+(module QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias (layer F.Cu) (tedit 5D753550)
   (descr "QFN, 20 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_20_05-08-1711.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
@@ -62,43 +62,43 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.491323 -0.288334) (xy -0.328505 -0.451152) (xy 0.328505 -0.451152) (xy 0.491323 -0.288334)
-         (xy 0.491323 0.288334) (xy 0.328505 0.451152) (xy -0.328505 0.451152) (xy -0.491323 0.288334)) (width 0))
+         (xy -0.376193 -0.240646) (xy -0.280817 -0.336022) (xy 0.280817 -0.336022) (xy 0.376193 -0.240646)
+         (xy 0.376193 0.240646) (xy 0.280817 0.336022) (xy -0.280817 0.336022) (xy -0.376193 0.240646)) (width 0.230259))
     ))
   (pad "" smd custom (at -0.5375 0) (size 0.787174 0.787174) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.491323 -0.288334) (xy -0.328505 -0.451152) (xy 0.328505 -0.451152) (xy 0.491323 -0.288334)
-         (xy 0.491323 0.288334) (xy 0.328505 0.451152) (xy -0.328505 0.451152) (xy -0.491323 0.288334)) (width 0))
+         (xy -0.376193 -0.240646) (xy -0.280817 -0.336022) (xy 0.280817 -0.336022) (xy 0.376193 -0.240646)
+         (xy 0.376193 0.240646) (xy 0.280817 0.336022) (xy -0.280817 0.336022) (xy -0.376193 0.240646)) (width 0.230259))
     ))
   (pad "" smd custom (at -0.5375 1.05) (size 0.787174 0.787174) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.491323 -0.288334) (xy -0.328505 -0.451152) (xy 0.328505 -0.451152) (xy 0.491323 -0.288334)
-         (xy 0.491323 0.288334) (xy 0.328505 0.451152) (xy -0.328505 0.451152) (xy -0.491323 0.288334)) (width 0))
+         (xy -0.376193 -0.240646) (xy -0.280817 -0.336022) (xy 0.280817 -0.336022) (xy 0.376193 -0.240646)
+         (xy 0.376193 0.240646) (xy 0.280817 0.336022) (xy -0.280817 0.336022) (xy -0.376193 0.240646)) (width 0.230259))
     ))
   (pad "" smd custom (at 0.5375 -1.05) (size 0.787174 0.787174) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.491323 -0.288334) (xy -0.328505 -0.451152) (xy 0.328505 -0.451152) (xy 0.491323 -0.288334)
-         (xy 0.491323 0.288334) (xy 0.328505 0.451152) (xy -0.328505 0.451152) (xy -0.491323 0.288334)) (width 0))
+         (xy -0.376193 -0.240646) (xy -0.280817 -0.336022) (xy 0.280817 -0.336022) (xy 0.376193 -0.240646)
+         (xy 0.376193 0.240646) (xy 0.280817 0.336022) (xy -0.280817 0.336022) (xy -0.376193 0.240646)) (width 0.230259))
     ))
   (pad "" smd custom (at 0.5375 0) (size 0.787174 0.787174) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.491323 -0.288334) (xy -0.328505 -0.451152) (xy 0.328505 -0.451152) (xy 0.491323 -0.288334)
-         (xy 0.491323 0.288334) (xy 0.328505 0.451152) (xy -0.328505 0.451152) (xy -0.491323 0.288334)) (width 0))
+         (xy -0.376193 -0.240646) (xy -0.280817 -0.336022) (xy 0.280817 -0.336022) (xy 0.376193 -0.240646)
+         (xy 0.376193 0.240646) (xy 0.280817 0.336022) (xy -0.280817 0.336022) (xy -0.376193 0.240646)) (width 0.230259))
     ))
   (pad "" smd custom (at 0.5375 1.05) (size 0.787174 0.787174) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.491323 -0.288334) (xy -0.328505 -0.451152) (xy 0.328505 -0.451152) (xy 0.491323 -0.288334)
-         (xy 0.491323 0.288334) (xy 0.328505 0.451152) (xy -0.328505 0.451152) (xy -0.491323 0.288334)) (width 0))
+         (xy -0.376193 -0.240646) (xy -0.280817 -0.336022) (xy 0.280817 -0.336022) (xy 0.376193 -0.240646)
+         (xy 0.376193 0.240646) (xy 0.280817 0.336022) (xy -0.280817 0.336022) (xy -0.376193 0.240646)) (width 0.230259))
     ))
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))

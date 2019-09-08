@@ -1,4 +1,4 @@
-(module VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias (layer F.Cu) (tedit 5D752642)
+(module VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias (layer F.Cu) (tedit 5D753555)
   (descr "VQFN, 32 Pin (http://ww1.microchip.com/downloads/en/devicedoc/atmel-9520-at42-qtouch-bsw-at42qt1110_datasheet.pdf#page=42), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "VQFN NoLead")
   (attr smd)

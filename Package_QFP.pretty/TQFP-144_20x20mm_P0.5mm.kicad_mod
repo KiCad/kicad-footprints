@@ -1,4 +1,4 @@
-(module TQFP-144_20x20mm_P0.5mm (layer F.Cu) (tedit 5D75298F)
+(module TQFP-144_20x20mm_P0.5mm (layer F.Cu) (tedit 5D753571)
   (descr "TQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TQFP QFP")
   (attr smd)

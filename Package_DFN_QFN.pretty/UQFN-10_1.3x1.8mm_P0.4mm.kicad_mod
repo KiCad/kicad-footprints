@@ -1,4 +1,4 @@
-(module UQFN-10_1.3x1.8mm_P0.4mm (layer F.Cu) (tedit 5D752642)
+(module UQFN-10_1.3x1.8mm_P0.4mm (layer F.Cu) (tedit 5D753554)
   (descr "UQFN, 10 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00001725D.pdf (Page 9)), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "UQFN NoLead")
   (attr smd)

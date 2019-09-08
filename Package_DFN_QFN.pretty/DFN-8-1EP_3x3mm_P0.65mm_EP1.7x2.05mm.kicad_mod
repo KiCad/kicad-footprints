@@ -1,4 +1,4 @@
-(module DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm (layer F.Cu) (tedit 5D752654)
+(module DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm (layer F.Cu) (tedit 5D753547)
   (descr "DFN, 8 Pin (http://www.ixysic.com/home/pdfs.nsf/www/IX4426-27-28.pdf/$file/IX4426-27-28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)

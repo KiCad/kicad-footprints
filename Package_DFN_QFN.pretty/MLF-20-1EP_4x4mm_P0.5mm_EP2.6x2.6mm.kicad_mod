@@ -1,4 +1,4 @@
-(module MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm (layer F.Cu) (tedit 5D75263D)
+(module MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm (layer F.Cu) (tedit 5D753550)
   (descr "MLF, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=263), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "MLF NoLead")
   (attr smd)
