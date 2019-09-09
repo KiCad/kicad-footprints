@@ -1,4 +1,4 @@
-(module WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5CE4A9B3)
+(module WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5D6C2B25)
   (descr "WQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/lm26480.pdf#page=39), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WQFN NoLead")
   (attr smd)
