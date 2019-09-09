@@ -1,5 +1,5 @@
-(module QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5D41EED7)
-  (descr "QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=280), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias (layer F.Cu) (tedit 5D761D49)
+  (descr "QFN, 28 Pin (package code T2844-1; https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -3.32) (layer F.SilkS)
