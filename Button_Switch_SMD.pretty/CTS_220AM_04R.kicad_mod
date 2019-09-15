@@ -1,4 +1,4 @@
-(module CTS_220AM_04R (layer F.Cu) (tedit 5D7DFFAA)
+(module CTS_220AM_04R (layer F.Cu) (tedit 5D7E0215)
   (descr "4-bit rotary coded switch, https://www.ctscorp.com/wp-content/uploads/220.pdf")
   (tags "rotary switch bcd")
   (attr smd)
@@ -35,10 +35,20 @@
   (pad 1 smd rect (at -3.75 -2.54) (size 3 1) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 3.75 -2.54) (size 3 1) (layers F.Cu F.Paste F.Mask))
   (pad C smd rect (at -3.75 0) (size 3 1) (layers F.Cu F.Paste F.Mask))
-  (pad C smd rect (at 4 0) (size 3 1) (layers F.Cu F.Paste F.Mask))
+  (pad C smd rect (at 3.75 0) (size 3 1) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -3.75 2.54) (size 3 1) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 4 2.54) (size 3 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/Nidec_Copal_SH-7010B.wrl
+  (pad 2 smd rect (at 3.75 2.54) (size 3 1) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/CTS_220AMA04R.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/CTS_220AMB04R.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/CTS_220AMC04R.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
