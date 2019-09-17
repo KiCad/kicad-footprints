@@ -1,5 +1,5 @@
 (module Buzzer_Mallory_AST1109MLTRQ (layer F.Cu) (tedit 5D7E8337)
-  (descr "Mallory low-profile piezo buzzer: https://www.mspindy.com/specifications/AST1109MLTRQ.pdf")
+  (descr "Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf")
   (tags "buzzer piezo")
   (attr smd)
   (fp_text reference REF** (at 0 5.5 180) (layer F.SilkS)
