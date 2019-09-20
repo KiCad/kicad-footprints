@@ -1,4 +1,4 @@
-(module TerminalBlock_WAGO_236-303_1x03_P10.00mm_45Degree (layer F.Cu) (tedit 5D3C6B25)
+(module TerminalBlock_WAGO_236-303_1x03_P10.00mm_45Degree (layer F.Cu) (tedit 5D852327)
   (descr "Terminal Block WAGO 236-303, 45Degree (cable under 45degree), 3 pins, pitch 10mm, size 32.3x14mm^2, drill diamater 1.1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO")
   (tags "THT Terminal Block WAGO 236-303 45Degree pitch 10mm size 32.3x14mm^2 drill 1.1mm pad 3mm")
   (fp_text reference REF** (at 12.65 -6.12) (layer F.SilkS)
