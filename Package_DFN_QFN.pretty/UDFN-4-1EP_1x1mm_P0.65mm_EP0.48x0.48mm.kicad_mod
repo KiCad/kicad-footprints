@@ -1,11 +1,11 @@
-(module UDFN-4_1x1mm_P0.65mm (layer F.Cu) (tedit 5C428124)
+(module UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm (layer F.Cu) (tedit 5C428124)
   (descr "UDFN-4_1x1mm_P0.65mm, http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550x-300mA-Single-Output-LDO-in-Small-Packages-DS20006006A.pdf")
   (tags UDFN-4_1x1mm_P0.65mm)
   (attr smd)
   (fp_text reference REF** (at 0 -1.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value UDFN-4_1x1mm_P0.65mm (at 0 1.5) (layer F.Fab)
+  (fp_text value UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm (at 0 1.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0.61 0.63) (end -0.61 0.63) (layer F.SilkS) (width 0.12))
@@ -51,7 +51,7 @@
       (gr_poly (pts
          (xy -0.11 0.125) (xy -0.29 0.125) (xy -0.29 0.055) (xy -0.11 -0.125)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/UDFN-4_1x1mm_P0.65mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
