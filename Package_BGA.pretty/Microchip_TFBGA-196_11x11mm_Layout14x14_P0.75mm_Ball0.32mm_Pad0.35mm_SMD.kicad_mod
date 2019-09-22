@@ -1,5 +1,5 @@
-(module Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_Ball0.32mm_Pad0.35mm_SMD (layer F.Cu) (tedit 5D871EEE)
-  (descr "TFBGA-196, 11.0x11.0mm, 196 Ball, 14x14 Layout, 0.75mm Pitch, http://ww1.microchip.com/downloads/en/devicedoc/ds60001476b.pdf#page=2536")
+(module Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_Ball0.32mm_Pad0.35mm_SMD (layer F.Cu) (tedit 5D871FA2)
+  (descr "TFBGA-196, 11.0x11.0mm, 196 Ball, 14x14 Layout, 0.75mm Pitch, http://ww1.microchip.com/downloads/en/DeviceDoc/SAMA5D2-Series-Data-Sheet-DS60001476C.pdf#page=2596")
   (tags "BGA 196 0.75")
   (solder_mask_margin -0.0375)
   (solder_paste_margin 0.000001)
