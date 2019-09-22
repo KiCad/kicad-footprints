@@ -70,7 +70,7 @@
   (lib (name MountingHole)(type KiCad)(uri ${KISYSMOD}/MountingHole.pretty)(options "")(descr "Mechanical fasteners"))
   (lib (name MountingEquipment)(type KiCad)(uri ${KISYSMOD}/MountingEquipment.pretty)(options "")(descr "Mechanical parts"))
   (lib (name NetTie)(type KiCad)(uri ${KISYSMOD}/NetTie.pretty)(options "")(descr "Net ties"))
-  (lib (name OptoDevice)(type KiCad)(uri ${KISYSMOD}/OptoDevice.pretty)(options "")(descr "Optical devices (light sensors, opto isolators/interrupters, laser diodes, fiber optical components ...)"))
+  (lib (name OptoDevice)(type KiCad)(uri ${KISYSMOD}/OptoDevice.pretty)(options "")(descr "Optical devices (light sensors, opto isolators/interrupters, laser diodes, fiber optical components, lightpipes, lenses ...)"))
   (lib (name Oscillator)(type KiCad)(uri ${KISYSMOD}/Oscillator.pretty)(options "")(descr "Footprints for oscillator devices"))
   (lib (name Package_BGA)(type KiCad)(uri ${KISYSMOD}/Package_BGA.pretty)(options "")(descr "Ball Grid Array (BGA)"))
   (lib (name Package_CSP)(type KiCad)(uri ${KISYSMOD}/Package_CSP.pretty)(options "")(descr "Chip Scale Packages (CSP)"))
