@@ -1,6 +1,6 @@
 (module L_Wuerth_WE-PDF (layer F.Cu) (tedit 5990349D)
-  (descr "Choke, Drossel, WE-PDF, Wuerth, SMD,")
-  (tags "Choke Drossel WE-PDF Wuerth SMD ")
+  (descr "Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD,")
+  (tags "Choke Shielded Power Inductor WE-PDF Wuerth")
   (attr smd)
   (fp_text reference REF** (at 0 -6.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
