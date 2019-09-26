@@ -1,5 +1,5 @@
-(module L_Wuerth_WE-PDF (layer F.Cu) (tedit 5990349D)
-  (descr "Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD,")
+(module L_Wuerth_WE-PDF (layer F.Cu) (tedit 5D8D15CA)
+  (descr "Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD, https://katalog.we-online.de/pbs/datasheet/7447797022.pdf")
   (tags "Choke Shielded Power Inductor WE-PDF Wuerth")
   (attr smd)
   (fp_text reference REF** (at 0 -6.2) (layer F.SilkS)
