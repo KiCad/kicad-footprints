@@ -1,4 +1,4 @@
-(module L_Wuerth_WE-PD-Typ-M-Typ-S (layer F.Cu) (tedit 5D8A7016)
+(module L_Wuerth_WE-PD-Typ-M-Typ-S (layer F.Cu) (tedit 5D8D1F6D)
   (descr "Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMT, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744778005.pdf")
   (tags "Choke Shielded Power Inductor WE-PD TypM TypS Wuerth")
   (attr smd)

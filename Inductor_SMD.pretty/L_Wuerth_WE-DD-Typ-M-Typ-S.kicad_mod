@@ -1,5 +1,5 @@
-(module L_Wuerth_WE-DD-Typ-M-Typ-S (layer F.Cu) (tedit 5D8B910F)
-  (descr "Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744878001.pdf")
+(module L_Wuerth_WE-DD-Typ-M-Typ-S (layer F.Cu) (tedit 5D8D1F7A)
+  (descr "Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744878001.pdf, https://katalog.we-online.de/pbs/datasheet/744877001.pdf")
   (tags "Choke Coupled Double Inductor SMD Wuerth WE-DD TypM TypS")
   (attr smd)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
