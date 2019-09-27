@@ -1,5 +1,5 @@
-(module QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm_ThermalVias (layer F.Cu) (tedit 5D873728)
-  (descr "QFN, 16 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm_ThermalVias (layer F.Cu) (tedit 5D8E5C3C)
+  (descr "QFN, 16 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=266), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -3.3) (layer F.SilkS)
