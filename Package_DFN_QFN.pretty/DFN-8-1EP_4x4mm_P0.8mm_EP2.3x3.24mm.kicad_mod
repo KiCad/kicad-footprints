@@ -1,5 +1,5 @@
-(module DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm (layer F.Cu) (tedit 5D87628E)
-  (descr "DFN, 8 Pin (https://www.st.com/resource/en/datasheet/ld1086.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm (layer F.Cu) (tedit 5D8E5E11)
+  (descr "DFN, 8 Pin (https://www.st.com/resource/en/datasheet/ld1086.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -2.95) (layer F.SilkS)
