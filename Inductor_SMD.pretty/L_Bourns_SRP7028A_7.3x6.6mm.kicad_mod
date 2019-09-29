@@ -1,4 +1,4 @@
-(module L_Bourns_SRP7028A_7.3x6.6mm (layer F.Cu) (tedit 5D90E29B)
+(module L_Bourns_SRP7028A_7.3x6.6mm (layer F.Cu) (tedit 5D90E51A)
   (descr "Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)")
   (tags "Shielded Inductors Bourns SMD SRP7028A")
   (attr smd)
@@ -43,7 +43,7 @@
   (fp_line (start -3.6 3.55) (end -3.6 2) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -2.725 0) (size 2.95 3.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.725 0) (size 2.95 3.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Bourns_SRP7028A.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Bourns_SRP7028A_7.3x6.6mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
