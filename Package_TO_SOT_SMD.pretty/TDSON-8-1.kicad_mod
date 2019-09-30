@@ -1,5 +1,5 @@
-(module TDSON-8-1 (layer F.Cu) (tedit 5BAD674D)
-  (descr "Power MOSFET package, TDSON-8-1, SuperS08, SON-8_5x6mm (https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-1/)")
+(module TDSON-8-1 (layer F.Cu) (tedit 5D92234B)
+  (descr "Power MOSFET package, TDSON-8-1, 5.15x5.9mm (https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-1/)")
   (tags "tdson ")
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
@@ -37,19 +37,7 @@
   (pad "" smd rect (at 1.5 0.85) (size 1.5 1.5) (layers F.Paste))
   (pad "" smd rect (at -0.2 -0.85) (size 1.5 1.5) (layers F.Paste))
   (pad "" smd rect (at -0.2 0.85) (size 1.5 1.5) (layers F.Paste))
-  (pad 5 smd custom (at 0.65 0) (size 3.75 4.41) (layers F.Cu F.Mask)
-    (zone_connect 2)
-    (options (clearance outline) (anchor rect))
-    (primitives
-      (gr_poly (pts
-         (xy 1.875 -2.205) (xy 2.675 -2.205) (xy 2.675 -1.605) (xy 1.875 -1.605)) (width 0))
-      (gr_poly (pts
-         (xy 1.875 -0.935) (xy 2.675 -0.935) (xy 2.675 -0.335) (xy 1.875 -0.335)) (width 0))
-      (gr_poly (pts
-         (xy 1.875 0.335) (xy 2.675 0.335) (xy 2.675 0.935) (xy 1.875 0.935)) (width 0))
-      (gr_poly (pts
-         (xy 1.875 1.605) (xy 2.675 1.605) (xy 2.675 2.205) (xy 1.875 2.205)) (width 0))
-    ))
+  (pad 5 smd rect (at 1.05 0) (size 4.55 4.41) (layers F.Cu F.Mask))
   (pad "" smd rect (at 2.905 -1.905) (size 0.75 0.5) (layers F.Paste))
   (pad "" smd rect (at 2.905 -0.635) (size 0.75 0.5) (layers F.Paste))
   (pad "" smd rect (at 2.905 0.635) (size 0.75 0.5) (layers F.Paste))
