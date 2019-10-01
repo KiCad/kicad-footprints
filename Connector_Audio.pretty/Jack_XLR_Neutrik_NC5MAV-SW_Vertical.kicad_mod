@@ -1,4 +1,4 @@
-(module Jack_XLR_Neutrik_NC5MAV-SW_Vertical (layer F.Cu) (tedit 5D2D06C6)
+(module Jack_XLR_Neutrik_NC5MAV-SW_Vertical (layer F.Cu) (tedit 5D939999)
   (descr "A Series, 5 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav-sw")
   (tags "neutrik xlr a")
   (fp_text reference REF** (at 4.445 -12.865) (layer F.SilkS)
@@ -81,9 +81,9 @@
   (pad G thru_hole circle (at 4.445 8.89) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 4.445 5.08) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 7.62 3.175) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
-  (pad 5 thru_hole circle (at 8.255 -0.64) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 5 thru_hole circle (at 8.255 -0.635) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad NC thru_hole circle (at -2.54 1.27) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
-  (pad N thru_hole circle (at -4.445 0.64) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
+  (pad N thru_hole circle (at -4.445 0.635) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
   (pad NO thru_hole circle (at -6.35 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC5MAV-SW_Vertical.wrl
     (at (xyz 0 0 0))
