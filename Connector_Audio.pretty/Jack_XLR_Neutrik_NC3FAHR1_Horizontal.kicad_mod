@@ -1,4 +1,4 @@
-(module Jack_XLR_Neutrik_NC3FAHR1_Horizontal (layer F.Cu) (tedit 5BF4A201)
+(module Jack_XLR_Neutrik_NC3FAHR1_Horizontal (layer F.Cu) (tedit 5D9392CC)
   (descr "A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3fahr1")
   (tags "neutrik xlr a")
   (fp_text reference REF** (at 7 -10) (layer F.SilkS)
@@ -44,7 +44,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 7.62) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -3.18 3.81) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 11.42 5.05) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 11.42 5.08) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FAHR1_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
