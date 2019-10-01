@@ -1,4 +1,4 @@
-(module Jack_XLR_Neutrik_NC5MAV_Vertical (layer F.Cu) (tedit 5C0AB16F)
+(module Jack_XLR_Neutrik_NC5MAV_Vertical (layer F.Cu) (tedit 5D9398D0)
   (descr "A Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav")
   (tags "neutrik xlr a")
   (fp_text reference REF** (at 4.445 -11.5) (layer F.SilkS)
@@ -95,7 +95,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 4.445 5.08) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 7.62 3.175) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
-  (pad 5 thru_hole circle (at 8.89 -0.635) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 5 thru_hole circle (at 8.255 -0.635) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC5MAV_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
