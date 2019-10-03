@@ -1,4 +1,4 @@
-(module Jack_XLR_Neutrik_NC3MAAV-0_Vertical (layer F.Cu) (tedit 5C143FCD)
+(module Jack_XLR_Neutrik_NC3MAAV-0_Vertical (layer F.Cu) (tedit 5D960EB9)
   (descr "AA Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav-0")
   (tags "neutrik xlr aa")
   (fp_text reference REF** (at 3.81 -12) (layer F.SilkS)
@@ -79,7 +79,7 @@
   (fp_line (start -0.75 11.6) (end -0.82 11.6) (layer F.SilkS) (width 0.12))
   (fp_arc (start 3.81 0) (end 2 8.1) (angle 334.7) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
-  (pad G thru_hole circle (at 3.81 8.25) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
+  (pad G thru_hole circle (at 3.81 8.255) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 7.62 0) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 3.81 3.81) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3MAAV-0_Vertical.wrl

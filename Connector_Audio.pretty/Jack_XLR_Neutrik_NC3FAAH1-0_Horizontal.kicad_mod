@@ -1,4 +1,4 @@
-(module Jack_XLR_Neutrik_NC3FAAH1-0_Horizontal (layer F.Cu) (tedit 5BF49C93)
+(module Jack_XLR_Neutrik_NC3FAAH1-0_Horizontal (layer F.Cu) (tedit 5D960D86)
   (descr "AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah1-0")
   (tags "neutrik xlr aa")
   (fp_text reference REF** (at 4.3 -10) (layer F.SilkS)
@@ -42,7 +42,6 @@
   (pad 3 thru_hole circle (at -4.45 3.81) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 8.89 0) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 3.81 7.62) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
-  (pad G thru_hole circle (at 5.72 -4.44) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FAAH1-0_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
