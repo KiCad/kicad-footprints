@@ -1,5 +1,6 @@
-(module RJ45_Pulse_JK0654219NL_Horizontal (layer F.Cu) (tedit 5D962A5F)
+(module RJ45_Pulse_JK0654219NL_Horizontal (layer F.Cu) (tedit 5D962C4C)
   (descr https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf#page=2)
+  (tags "RJ45 8p8c ethernet")
   (fp_text reference REF** (at 8.95 -5.85 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -48,4 +49,9 @@
   (pad 3 thru_hole circle (at 0 4.064 180) (size 1.524 1.524) (drill 0.89) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 2.032 180) (size 1.524 1.524) (drill 0.89) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 180) (size 1.524 1.524) (drill 0.89) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Pulse_JK0654219NL_Horizontal.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
