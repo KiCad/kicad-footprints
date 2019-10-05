@@ -1,5 +1,5 @@
-(module QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm_ThermalVias (layer F.Cu) (tedit 5D7E61C7)
-  (descr "QFN, 64 Pin (https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf (page 69)), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm_ThermalVias (layer F.Cu) (tedit 5D987BA2)
+  (descr "QFN, 64 Pin (https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf#page=77), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -5.8) (layer F.SilkS)
