@@ -1,5 +1,5 @@
-(module SON-8_1.5x2mm_P0.5mm (layer F.Cu) (tedit 5D84F4F8)
-  (descr "SON, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62840.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module SON-8_1.5x2mm_P0.5mm (layer F.Cu) (tedit 5D99735F)
+  (descr "SON, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62840.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "SON NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -1.95) (layer F.SilkS)
