@@ -19,7 +19,7 @@
   (pad 3 thru_hole circle (at 0 6.72 90) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 6.72 6.72 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 6.72 0 270) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Sensor_Gas.3dshapes/MQ-6.wrl
+  (model ${KISYS3DMOD}/Sensor.3dshapes/MQ-6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
