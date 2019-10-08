@@ -1,4 +1,4 @@
-(module TE_1473005-1_2x100_P0.6mm_Horizontal (layer F.Cu) (tedit 5D9CF255)
+(module TE_1473005-1_2x100_P0.6mm_Horizontal (layer F.Cu) (tedit 5D9CF791)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -207,4 +207,6 @@
   (pad 1 smd roundrect (at -8.2 3) (size 2 0.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad "" np_thru_hole circle (at -4.1 1.25) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -4.1 68.05) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
+  (pad "" smd roundrect (at 7.9 2.1) (size 4.6 4.5) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.05599999999999999))
+  (pad "" smd roundrect (at 7.9 67.2) (size 4.6 4.5) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.05599999999999999))
 )
