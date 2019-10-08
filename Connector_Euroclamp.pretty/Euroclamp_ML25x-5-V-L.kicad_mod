@@ -1,4 +1,6 @@
-(module Euroclamp_ML25x-5-V-L (layer F.Cu) (tedit 5D9D0C3E)
+(module Euroclamp_ML25x-5-V-L (layer F.Cu) (tedit 5D9D11DF)
+  (descr "PCB Terminal Block for CEM35-H-GY plastic enclosure")
+  (tags "connector Euroclamp side entry")
   (fp_text reference REF** (at 5 -6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
