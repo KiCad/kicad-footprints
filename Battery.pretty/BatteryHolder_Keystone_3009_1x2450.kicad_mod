@@ -1,4 +1,4 @@
-(module BatteryHolder_Keystone_3009_1x2450 (layer F.Cu) (tedit 5D9C8073)
+(module BatteryHolder_Keystone_3009_1x2450 (layer F.Cu) (tedit 5D9CBE1C)
   (descr http://www.keyelco.com/product-pdf.cfm?p=787)
   (tags "Keystone type 3009 coin cell retainer")
   (fp_text reference REF** (at 0 -14.4) (layer F.SilkS)
@@ -20,7 +20,6 @@
   (fp_arc (start -10.15 7.25) (end -10.15 10.45) (angle 90) (layer F.CrtYd) (width 0.05))
   (fp_arc (start 12.7 0) (end 13.35 1.95) (angle -143) (layer F.CrtYd) (width 0.05))
   (fp_arc (start -12.7 0) (end -13.35 1.95) (angle 143) (layer F.CrtYd) (width 0.05))
-  (fp_arc (start 0 21) (end -9.55 9.73) (angle 80) (layer F.SilkS) (width 0.12))
   (fp_arc (start 10.15 9) (end 10.15 9.95) (angle 45) (layer F.SilkS) (width 0.12))
   (fp_arc (start -10.15 9) (end -10.15 9.95) (angle -45) (layer F.SilkS) (width 0.12))
   (fp_arc (start 10.15 9) (end 10.15 9.8) (angle 45) (layer F.Fab) (width 0.1))

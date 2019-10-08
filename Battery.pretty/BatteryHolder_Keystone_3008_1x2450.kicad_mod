@@ -1,4 +1,4 @@
-(module BatteryHolder_Keystone_3008_1x2450 (layer F.Cu) (tedit 5D9C803B)
+(module BatteryHolder_Keystone_3008_1x2450 (layer F.Cu) (tedit 5D9CBE11)
   (descr http://www.keyelco.com/product-pdf.cfm?p=786)
   (tags "Keystone type 3008 coin cell retainer")
   (attr smd)
@@ -19,7 +19,6 @@
   (fp_arc (start -10.15 9) (end -10.15 10.45) (angle -45) (layer F.CrtYd) (width 0.05))
   (fp_arc (start 10.15 7.25) (end 10.15 10.45) (angle -90) (layer F.CrtYd) (width 0.05))
   (fp_arc (start -10.15 7.25) (end -10.15 10.45) (angle 90) (layer F.CrtYd) (width 0.05))
-  (fp_arc (start 0 21) (end -9.55 9.73) (angle 80) (layer F.SilkS) (width 0.12))
   (fp_arc (start 10.15 9) (end 10.15 9.95) (angle 45) (layer F.SilkS) (width 0.12))
   (fp_arc (start -10.15 9) (end -10.15 9.95) (angle -45) (layer F.SilkS) (width 0.12))
   (fp_arc (start 10.15 9) (end 10.15 9.8) (angle 45) (layer F.Fab) (width 0.1))
