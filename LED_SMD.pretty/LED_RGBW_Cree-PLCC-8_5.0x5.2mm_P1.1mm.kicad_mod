@@ -1,11 +1,11 @@
-(module LED_RGBW_Cree-PLCC-8_5,0x5,2mm (layer F.Cu) (tedit 5D9C8B42)
-  (descr "5,0x5,2mm PLCC 8 LED, https://www.cree.com/led-components/media/documents/ds-CLQ6A-TKW.pdf")
+(module LED_RGBW_Cree-PLCC-8_5.0x5.2mm_P1.1mm (layer F.Cu) (tedit 5D9CA257)
+  (descr "5,0x5,2mm PLCC8 LED, https://www.cree.com/led-components/media/documents/ds-CLQ6A-TKW.pdf")
   (tags "LED RGBW Cree PLCC-8")
   (attr smd)
   (fp_text reference REF** (at 0.03 -3.56) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LED_RGBW_Cree-PLCC-8_5,0x5,2mm (at 0 -6.05) (layer F.Fab)
+  (fp_text value LED_RGBW_Cree-PLCC-8_5.0x5.2mm_P1.1mm (at 0 -6.05) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.25)))
   )
   (fp_poly (pts (xy 2.74 0.115) (xy 2.74 0.985) (xy 0.88 0.985) (xy 0.88 0.115)) (layer F.Mask) (width 0.00001))
@@ -66,7 +66,7 @@
     (zone_connect 0))
   (pad 8 smd rect (at 1.81 -1.75) (size 1.86 0.9) (layers F.Cu F.Paste F.Mask)
     (zone_connect 0))
-  (model ${KIPRJMOD}/lib/kicad-shared/staging/models/Cree_PLCC8.step
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_CLQ6A_PLCC8_5.0x5.2mm_P1.1mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
