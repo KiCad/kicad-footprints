@@ -1,4 +1,4 @@
-(module Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical (layer F.Cu) (tedit 5BFDC157)
+(module Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical (layer F.Cu) (tedit 5D9E3883)
   (descr "speakON Combo, 2 pole combination of speakON socket and 6.35mm (1/4in) jack receptacle, vertical pcb mount, https://www.neutrik.com/en/product/nlj2md-v")
   (tags "neutrik speakon combo")
   (fp_text reference REF** (at 0.7 -13) (layer F.SilkS)
@@ -38,6 +38,8 @@
   (fp_arc (start 10.2 15.6) (end 13.82 15.72) (angle 90) (layer F.SilkS) (width 0.12))
   (pad 1- thru_hole circle (at -4.7 2.9) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 1+ thru_hole circle (at 0 0) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 7.2) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 6.1 4.3) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
