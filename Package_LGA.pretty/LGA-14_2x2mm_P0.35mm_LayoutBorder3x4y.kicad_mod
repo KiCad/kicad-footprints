@@ -1,4 +1,4 @@
-(module LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y (layer F.Cu) (tedit 5CF93F4A)
+(module LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y (layer F.Cu) (tedit 5D9F7937)
   (descr "LGA, 14 Pin (http://www.st.com/resource/en/datasheet/lis2dh.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "LGA NoLead")
   (attr smd)
