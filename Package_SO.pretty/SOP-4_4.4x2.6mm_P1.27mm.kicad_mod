@@ -1,4 +1,4 @@
-(module SOP-4_4.4x2.6mm_P1.27mm (layer F.Cu) (tedit 5C5B4CBA)
+(module SOP-4_4.4x2.6mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SOP, 4 Pin (http://www.vishay.com/docs/83510/tcmt1100.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOP SO")
   (attr smd)
