@@ -1,4 +1,4 @@
-(module LQFP-176_20x20mm_P0.4mm (layer F.Cu) (tedit 5C1A9814)
+(module LQFP-176_20x20mm_P0.4mm (layer F.Cu) (tedit 5D9F72B0)
   (descr "LQFP, 176 Pin (https://www.onsemi.com/pub/Collateral/566DB.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)

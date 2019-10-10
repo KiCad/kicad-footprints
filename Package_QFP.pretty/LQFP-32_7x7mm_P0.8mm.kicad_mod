@@ -1,4 +1,4 @@
-(module LQFP-32_7x7mm_P0.8mm (layer F.Cu) (tedit 5C1823C9)
+(module LQFP-32_7x7mm_P0.8mm (layer F.Cu) (tedit 5D9F72AF)
   (descr "LQFP, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT358-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)
