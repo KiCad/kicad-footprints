@@ -1,11 +1,11 @@
-(module L_Murata_LQH2MCN_02 (layer F.Cu) (tedit 5D504C35)
+(module L_Murata_LQH2MCNxxxx02_2.0x1.6mm (layer F.Cu) (tedit 5D9F7F25)
   (descr "Inductor, Murata, LQH2MCN_02 series, 1.6x2.0x0.9mm (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)")
   (tags "chip coil inductor Murata LQH2MC")
   (attr smd)
   (fp_text reference REF** (at 0 -1.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value L_Murata_LQH2MCN_02 (at 0 1.75) (layer F.Fab)
+  (fp_text value L_Murata_LQH2MCNxxxx02_2.0x1.6mm (at 0 1.75) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.11 0.91) (end -1.11 0.7) (layer F.SilkS) (width 0.12))
@@ -27,7 +27,7 @@
   )
   (pad 2 smd rect (at 0.85 0) (size 0.9 1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -0.85 0) (size 0.9 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Murata_LQH2MCN_02.wrl
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Murata_LQH2MCNxxxx02_2.0x1.6mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
