@@ -1,4 +1,4 @@
-(module LED_RGBW_Cree-PLCC-8_5.0x5.2mm_P1.1mm (layer F.Cu) (tedit 5D9D9A18)
+(module LED_RGBW_Cree-PLCC-8_5.0x5.2mm_P1.1mm (layer F.Cu) (tedit 5D9EE71F)
   (descr "5.0x5.2mm PLCC8 LED, https://www.cree.com/led-components/media/documents/ds-CLQ6A-TKW.pdf")
   (tags "LED RGBW Cree PLCC-8")
   (attr smd)
@@ -80,7 +80,7 @@
     (zone_connect 0))
   (pad 8 smd rect (at 1.765 -1.75) (size 1.86 0.9) (layers F.Cu F.Paste F.Mask)
     (zone_connect 0))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_RGBW_Cree-PLCC-8_5.0x5.2mm_P1.1mm
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_RGBW_Cree-PLCC-8_5.0x5.2mm_P1.1mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
