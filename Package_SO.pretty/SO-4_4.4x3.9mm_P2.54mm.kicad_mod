@@ -1,4 +1,4 @@
-(module SO-4_4.4x3.9mm_P2.54mm (layer F.Cu) (tedit 5C9FC87E)
+(module SO-4_4.4x3.9mm_P2.54mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SO, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=10047&prodName=TLP3123), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SO SO")
   (attr smd)

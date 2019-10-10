@@ -1,4 +1,4 @@
-(module SOP-16_4.55x10.3mm_P1.27mm (layer F.Cu) (tedit 5C5B553D)
+(module SOP-16_4.55x10.3mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SOP, 16 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12855&prodName=TLP290-4), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOP SO")
   (attr smd)
