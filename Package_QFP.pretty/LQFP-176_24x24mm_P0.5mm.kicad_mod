@@ -1,4 +1,4 @@
-(module LQFP-176_24x24mm_P0.5mm (layer F.Cu) (tedit 5C1A9814)
+(module LQFP-176_24x24mm_P0.5mm (layer F.Cu) (tedit 5D9F72B0)
   (descr "LQFP, 176 Pin (https://www.st.com/resource/en/datasheet/stm32f207vg.pdf#page=163), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)
