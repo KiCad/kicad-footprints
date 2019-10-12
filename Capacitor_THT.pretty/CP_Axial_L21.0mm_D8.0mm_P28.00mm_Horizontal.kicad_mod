@@ -1,4 +1,4 @@
-(module CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal (layer F.Cu) (tedit 5D3040B9)
+(module CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal (layer F.Cu) (tedit 5DA19537)
   (descr "CP, Axial series, Axial, Horizontal, pin pitch=28mm, , length*diameter=21*8mm^2, Electrolytic Capacitor")
   (tags "CP Axial series Axial Horizontal pin pitch 28mm  length 21mm diameter 8mm Electrolytic Capacitor")
   (fp_text reference REF** (at 14 -5.12) (layer F.SilkS)

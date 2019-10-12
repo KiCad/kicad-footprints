@@ -1,4 +1,4 @@
-(module C_Axial_L19.0mm_D9.5mm_P25.00mm_Horizontal (layer F.Cu) (tedit 5D3040B6)
+(module C_Axial_L19.0mm_D9.5mm_P25.00mm_Horizontal (layer F.Cu) (tedit 5DA19536)
   (descr "C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=19*9.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf")
   (tags "C Axial series Axial Horizontal pin pitch 25mm  length 19mm diameter 9.5mm")
   (fp_text reference REF** (at 12.5 -5.87) (layer F.SilkS)

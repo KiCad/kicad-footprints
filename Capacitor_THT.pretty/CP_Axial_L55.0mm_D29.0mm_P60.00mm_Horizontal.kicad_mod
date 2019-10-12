@@ -1,4 +1,4 @@
-(module CP_Axial_L55.0mm_D29.0mm_P60.00mm_Horizontal (layer F.Cu) (tedit 5D3040B8)
+(module CP_Axial_L55.0mm_D29.0mm_P60.00mm_Horizontal (layer F.Cu) (tedit 5DA19537)
   (descr "CP, Axial series, Axial, Horizontal, pin pitch=60mm, , length*diameter=55*29.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf")
   (tags "CP Axial series Axial Horizontal pin pitch 60mm  length 55mm diameter 29.0mm Electrolytic Capacitor")
   (fp_text reference REF** (at 30 -15.62) (layer F.SilkS)

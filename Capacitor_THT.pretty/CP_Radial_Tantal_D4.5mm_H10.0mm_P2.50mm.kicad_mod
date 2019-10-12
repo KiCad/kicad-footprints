@@ -1,4 +1,4 @@
-(module CP_Radial_Tantal_D4.5mm_H10.0mm_P2.50mm (layer F.Cu) (tedit 5D3040B7)
+(module CP_Radial_Tantal_D4.5mm_H10.0mm_P2.50mm (layer F.Cu) (tedit 5DA19536)
   (descr "CP, Radial_Tantal series, Radial, pin pitch=2.50mm, diameter=4.5mm, height=10mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf")
   (tags "CP Radial_Tantal series Radial pin pitch 2.50mm diameter 4.5mm height 10mm Tantal Electrolytic Capacitor")
   (fp_text reference REF** (at 1.25 -3.5) (layer F.SilkS)

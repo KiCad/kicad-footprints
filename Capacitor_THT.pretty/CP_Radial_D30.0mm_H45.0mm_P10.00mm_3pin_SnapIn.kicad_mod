@@ -1,4 +1,4 @@
-(module CP_Radial_D30.0mm_H45.0mm_P10.00mm_3pin_SnapIn (layer F.Cu) (tedit 5D3040B8)
+(module CP_Radial_D30.0mm_H45.0mm_P10.00mm_3pin_SnapIn (layer F.Cu) (tedit 5DA19537)
   (descr "CP, Radial series, Radial, pin pitch=10.00mm, diameter=30mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf")
   (tags "CP Radial series Radial pin pitch 10.00mm diameter 30mm height 45mm Electrolytic Capacitor")
   (fp_text reference REF** (at 5 -16.25) (layer F.SilkS)
