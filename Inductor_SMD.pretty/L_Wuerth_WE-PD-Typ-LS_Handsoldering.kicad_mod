@@ -1,6 +1,6 @@
 (module L_Wuerth_WE-PD-Typ-LS_Handsoldering (layer F.Cu) (tedit 5990349D)
-  (descr "Choke, Drossel, WE-PD Typ LS, Wuerth, SMD, Handsoldering,")
-  (tags "Choke Drossel WE-PDTypLS Wuerth SMD Handsoldering ")
+  (descr "Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, Handsoldering, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf")
+  (tags "Choke Shielded Power Inductor WE-PD TypLS Wuerth")
   (attr smd)
   (fp_text reference REF** (at 0 -7.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

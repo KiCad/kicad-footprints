@@ -1,4 +1,4 @@
-(module SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm (layer F.Cu) (tedit 5B391424)
+(module SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm (layer F.Cu) (tedit 5C756AB2)
   (descr "SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip")
   (tags "solder jumper open")
   (attr virtual)
@@ -16,12 +16,7 @@
   (fp_line (start -1.65 -1.25) (end -1.65 1.25) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.65 1.25) (end 1.65 -1.25) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.65 1.25) (end -1.65 1.25) (layer F.CrtYd) (width 0.05))
-  (pad 1 smd custom (at -0.65 0) (size 1 1.5) (layers F.Cu F.Mask)
-    (zone_connect 2)
-    (options (clearance outline) (anchor rect))
-    (primitives
-      (gr_poly (pts
-         (xy 0.4 -0.3) (xy 0.9 -0.3) (xy 0.9 0.3) (xy 0.4 0.3)) (width 0))
-    ))
+  (fp_poly (pts (xy -0.25 -0.3) (xy 0.25 -0.3) (xy 0.25 0.3) (xy -0.25 0.3)) (layer F.Cu) (width 0))
+  (pad 1 smd rect (at -0.65 0) (size 1 1.5) (layers F.Cu F.Mask))
   (pad 2 smd rect (at 0.65 0) (size 1 1.5) (layers F.Cu F.Mask))
 )
