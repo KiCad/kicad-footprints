@@ -1,4 +1,4 @@
-(module Molex_SL_171971-0002_1x02_P2.54mm_Vertical (layer F.Cu) (tedit 5D9A35E2)
+(module Molex_SL_171971-0002_1x02_P2.54mm_Vertical (layer F.Cu) (tedit 5DA36613)
   (descr "Molex Stackable Linear Connector, 171971-0002 (compatible alternatives: 171971-0102, 171971-0202), 2 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex SL vertical")
   (fp_text reference REF** (at 1.27 -3.75) (layer F.SilkS)
