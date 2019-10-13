@@ -1,4 +1,4 @@
-(module MPS20N0040D-D (layer F.Cu) (tedit 5D4CDA66)
+(module MPS20N0040D-D (layer F.Cu) (tedit 5DA39840)
   (descr "Sphygmomanometer Pressure Sensor, 8.4x8.4x9.1mm, 2.54mm Pitch, DIP-6 Package, THT (http://www.qiannipicture.com/pic/UploadFile/P0/SKU236753/D25316C7669BCD169A15D29C9993CED2C763DF1663D233632363D2A193CF239B9E9B9A5697739E9D93A063.png)")
   (tags "sphygmomanometer pressure sensor MEMS DIP-6 THT")
   (fp_text reference REF** (at 2.54 -1.7) (layer F.SilkS)
@@ -41,7 +41,7 @@
   (pad 4 thru_hole oval (at 5.08 10.16) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.54 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 2.54 10.16) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (pad 1 thru_hole rect (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
+  (pad 1 thru_hole roundrect (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.156))
   (pad 6 thru_hole oval (at 0 10.16) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Sensor_Pressure.3dshapes/MPS20N0040D-D.wrl
     (at (xyz 0 0 0))
