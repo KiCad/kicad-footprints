@@ -1,10 +1,10 @@
-(module Converter_DCDC_muRata_MEE1SxxxxSC_THT (layer F.Cu) (tedit 5DA38B20)
+(module Converter_DCDC_Murata_MEE1SxxxxSC_THT (layer F.Cu) (tedit 5DA38B20)
   (descr https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf)
   (tags "murata dc-dc transformer")
   (fp_text reference REF** (at 0.5 -3.5 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_DCDC_muRata_MEE1SxxxxSC_THT (at 1.5 11) (layer F.Fab)
+  (fp_text value Converter_DCDC_Murata_MEE1SxxxxSC_THT (at 1.5 11) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 5.09 -2.2) (end 5.09 9.57) (layer F.SilkS) (width 0.12))
@@ -29,7 +29,7 @@
   (pad 3 thru_hole oval (at 0 5.08 270) (size 1.75 2.25) (drill 1.075) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 2.54 270) (size 1.75 2.25) (drill 1.075) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 270) (size 1.75 2.25) (drill 1.075) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_muRata_MEE1SxxxxSC_THT.wrl
+  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MEE1SxxxxSC_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
