@@ -1,4 +1,4 @@
-(module LED_RGB_Everlight_EASV3015RGBA0 (layer F.Cu) (tedit 5DA4674E)
+(module LED_RGB_Everlight_EASV3015RGBA0 (layer F.Cu) (tedit 5DA4712A)
   (descr "LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220")
   (tags "LED RGB right-angle")
   (attr smd)
@@ -36,11 +36,6 @@
   (pad 2 smd rect (at -0.425 -0.8) (size 0.55 0.34) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.425 -0.8) (size 0.55 0.34) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_RGB_Everlight_EASV3015RGBA0.step
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model /home/fabian/git_privat/kicad-packages3D-source/LED_SMD.3dshapes
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
