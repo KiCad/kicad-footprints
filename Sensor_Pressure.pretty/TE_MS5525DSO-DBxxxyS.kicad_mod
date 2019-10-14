@@ -1,5 +1,5 @@
-(module TE_MS5525DSO-DBxxxyS (layer F.Cu) (tedit 5D89C93F)
-  (descr https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English)
+(module TE_MS5525DSO-DBxxxyS (layer F.Cu) (tedit 5DA43855)
+  (descr "Pressure Sensor, SOIC-16, Dual-Barbed, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English")
   (tags "SOIC SO Pressure DualBarbed")
   (attr smd)
   (fp_text reference REF** (at 0 -7.25) (layer F.SilkS)
