@@ -1,6 +1,6 @@
 (module L_Wuerth_WE-PD2-Typ-L (layer F.Cu) (tedit 5990349D)
-  (descr "Choke, Drossel, WE-PD2, Typ L, Wuerth, SMD,")
-  (tags "Choke Drossel WE-PD2 TypL Wuerth SMD ")
+  (descr "Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ L, , https://katalog.we-online.com/pbs/datasheet/74477510.pdf")
+  (tags "Choke Power Inductor WE-PD2 TypL Wuerth")
   (attr smd)
   (fp_text reference REF** (at 0 -4.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
