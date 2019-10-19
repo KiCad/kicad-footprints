@@ -1,4 +1,4 @@
-(module BatteryHolder_Keystone_3000_1x12mm (layer F.Cu) (tedit 5D28A9B6)
+(module BatteryHolder_Keystone_3000_1x12mm (layer F.Cu) (tedit 5D9CBDF8)
   (descr http://www.keyelco.com/product-pdf.cfm?p=777)
   (tags "Keystone type 3000 coin cell retainer")
   (attr smd)
@@ -15,7 +15,6 @@
   (fp_circle (center 0 0) (end 0 6.25) (layer Dwgs.User) (width 0.15))
   (fp_arc (start 5.29 4.6) (end 4.5 5.2) (angle -60) (layer F.SilkS) (width 0.12))
   (fp_arc (start -5.29 4.6) (end -4.5 5.2) (angle 60) (layer F.SilkS) (width 0.12))
-  (fp_arc (start 0 8.9) (end -4.5 5.2) (angle 101) (layer F.SilkS) (width 0.12))
   (fp_arc (start 5.29 4.6) (end 4.6 5.1) (angle -60) (layer F.Fab) (width 0.1))
   (fp_arc (start -5.29 4.6) (end -4.6 5.1) (angle 60) (layer F.Fab) (width 0.1))
   (fp_arc (start 0 8.9) (end -4.6 5.1) (angle 101) (layer F.Fab) (width 0.1))
@@ -58,7 +57,7 @@
   (fp_line (start -5.29 6.76) (end 5.29 6.76) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -7.9 0) (size 3.5 3.3) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 7.9 0) (size 3.5 3.3) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 0 0) (size 4 4) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd circle (at 0 0) (size 10.2 10.2) (layers F.Cu F.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_Keystone_3000_1x12mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
