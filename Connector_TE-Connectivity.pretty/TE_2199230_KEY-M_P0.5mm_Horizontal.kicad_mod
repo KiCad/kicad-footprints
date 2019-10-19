@@ -1,6 +1,7 @@
-(module TE_2199230_KEY-M_P0.5mm_Horizontal (layer F.Cu) (tedit 5DAB45D4)
+(module TE_2199230_KEY-M_P0.5mm_Horizontal (layer F.Cu) (tedit 5DAB4969)
   (descr "TE M.2 Key-M connector https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2199230%7FB3%7Fpdf%7FEnglish%7FENG_CD_2199230_B3.pdf%7F2199230-4")
   (tags "M.2 NGFF")
+  (attr smd)
   (fp_text reference REF** (at 0 6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
