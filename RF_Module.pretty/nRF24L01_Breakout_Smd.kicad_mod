@@ -1,4 +1,4 @@
-(module nRF24L01_Breakout_Smd (layer F.Cu) (tedit 5DAC5F83)
+(module nRF24L01_Breakout_Smd (layer F.Cu) (tedit 5DAC65D6)
   (descr "Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/a007ps01a2_esp-07_product_specification_v1.2.pdf")
   (tags "Wi-Fi Module")
   (attr smd)
@@ -34,7 +34,7 @@
   (pad 2 smd rect (at -3.125 8.55) (size 1 2) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -4.395 8.55) (size 1 2) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 5.5 -2.5) (size 1.5 1.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/ESP-07.wrl
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/nRF24L01_Breakout_Smd.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
