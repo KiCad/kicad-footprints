@@ -1,6 +1,6 @@
-(module nRF24L01_Breakout_Smd (layer F.Cu) (tedit 5DAC6EF4)
+(module nRF24L01_Breakout_Smd (layer F.Cu) (tedit 5DAC6F87)
   (descr "Ultra low power 2.4GHz RF Transceiver, Carrier PCB")
-  (tags "Wi-Fi Module")
+  (tags "Low Power RF Transciever breakout carrier")
   (attr smd)
   (fp_text reference REF** (at -4.3 -10) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
