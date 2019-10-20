@@ -1,5 +1,5 @@
-(module nRF24L01_Breakout_Smd (layer F.Cu) (tedit 5DAC65D6)
-  (descr "Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/a007ps01a2_esp-07_product_specification_v1.2.pdf")
+(module nRF24L01_Breakout_Smd (layer F.Cu) (tedit 5DAC6EF4)
+  (descr "Ultra low power 2.4GHz RF Transceiver, Carrier PCB")
   (tags "Wi-Fi Module")
   (attr smd)
   (fp_text reference REF** (at -4.3 -10) (layer F.SilkS)
