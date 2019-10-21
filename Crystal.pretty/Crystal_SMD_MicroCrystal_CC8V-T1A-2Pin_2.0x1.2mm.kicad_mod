@@ -1,5 +1,5 @@
-(module Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm (layer F.Cu) (tedit 5A0FD1B2)
-  (descr "SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC8V-T1A.pdf, 2.0x1.2mm^2 package")
+(module Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm (layer F.Cu) (tedit 5D24C0DC)
+  (descr "SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC8V-T1A.pdf, 2.0x1.2mm^2 package")
   (tags "SMD SMT crystal")
   (attr smd)
   (fp_text reference REF** (at 0 -1.8) (layer F.SilkS)
