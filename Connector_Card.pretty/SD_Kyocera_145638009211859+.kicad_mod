@@ -1,4 +1,4 @@
-(module SD_Kyocera_145638009211859+ (layer F.Cu) (tedit 5B807A38)
+(module SD_Kyocera_145638009211859+ (layer F.Cu) (tedit 5DAD082B)
   (descr "SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)")
   (tags "sd card smt")
   (attr smd)
@@ -109,8 +109,8 @@
   (pad 11 smd roundrect (at 13.24 7.2) (size 0.7 2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.357))
   (pad "" np_thru_hole circle (at 12.1 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -12.1 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
-  (pad SH smd roundrect (at 13.25 -15.2) (size 1.7 2.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.147))
-  (pad "" smd roundrect (at -13.2 -14) (size 1.8 2.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.139))
+  (pad 13 smd roundrect (at 13.25 -15.2) (size 1.7 2.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.147))
+  (pad 12 smd roundrect (at -13.2 -14) (size 1.8 2.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.139))
   (model ${KISYS3DMOD}/Connector_Card.3dshapes/SD_Kyocera_145638009211859+.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
