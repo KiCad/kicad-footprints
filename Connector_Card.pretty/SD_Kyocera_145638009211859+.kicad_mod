@@ -1,4 +1,4 @@
-(module SD_Kyocera_145638009211859+ (layer F.Cu) (tedit 5DAF85D5)
+(module SD_Kyocera_145638009211859+ (layer F.Cu) (tedit 5DAF8746)
   (descr "SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)")
   (tags "sd card smt")
   (attr smd)
