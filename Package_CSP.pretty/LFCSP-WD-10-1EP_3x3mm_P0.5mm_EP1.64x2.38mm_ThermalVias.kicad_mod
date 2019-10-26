@@ -1,4 +1,4 @@
-(module LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias (layer F.Cu) (tedit 5DACB904)
+(module LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias (layer F.Cu) (tedit 5DB4AA4F)
   (descr "LFCSP-WD, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-10/CP_10_9.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "LFCSP-WD NoLead")
   (attr smd)
