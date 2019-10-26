@@ -53,8 +53,8 @@
   (pad "6" smd rect (at 0 0) (size 2.9 1.9) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "6" smd rect (at 3.7375 0) (size 0.875 1.9) (layers "F.Cu" "F.Mask"))
   (pad "6" smd rect (at -3.7375 0) (size 0.875 1.9) (layers "F.Cu" "F.Mask"))
-  (pad "" smd rect (at 3.5 0) (size 0.3 0.85) (layers "F.Cu" "F.Paste"))
-  (pad "" smd rect (at -3.5 0) (size 0.3 0.85) (layers "F.Cu" "F.Paste"))
+  (pad "" smd rect (at 3.5 0) (size 0.3 0.85) (layers "F.Paste"))
+  (pad "" smd rect (at -3.5 0) (size 0.3 0.85) (layers "F.Paste"))
   (model "${KISYS3DMOD}/Connector_USB.3dshapes/USB_Micro-AB_Molex_47590-0001.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
