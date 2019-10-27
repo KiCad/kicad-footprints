@@ -23,16 +23,20 @@
   (fp_line (start -1.35 1.28) (end -1.35 -1.28) (layer F.CrtYd) (width 0.05))
   (fp_line (start -1.35 -1.28) (end 1.35 -1.28) (layer F.CrtYd) (width 0.05))
   (fp_line (start -1.2 -1.15) (end 0.75 -1.15) (layer F.SilkS) (width 0.12))
-  (pad 1 smd rect (at -0.925 -0.65) (size 0.35 0.3) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at -0.925 0) (size 0.35 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -0.925 0.65) (size 0.35 0.3) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at 0.925 0) (size 0.35 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0.925 0.65) (size 0.35 0.3) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at 0.925 -0.65) (size 0.35 0.3) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at 0 -0.325) (size 1.5 0.95) (layers F.Cu F.Mask))
   (pad 4 smd rect (at 0.04 0.65) (size 0.87 0.235) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -0.35 -0.325) (size 0.6 0.8) (layers F.Paste))
   (pad "" smd rect (at 0.35 -0.325) (size 0.6 0.8) (layers F.Paste))
+  (pad 1 smd custom (at 0 -0.325) (size 1.5 0.95) (layers F.Cu F.Mask)
+    (zone_connect 2)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -1.1 -0.475) (xy 1.1 -0.475) (xy 1.1 -0.175) (xy -1.1 -0.175)) (width 0))
+      (gr_poly (pts
+         (xy -1.1 0.175) (xy 1.1 0.175) (xy 1.1 0.475) (xy -1.1 0.475)) (width 0))
+    ))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/Vishay_PowerPAK_SC70-6L_Single.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
