@@ -1,11 +1,11 @@
-(module Oscillator_SMD_IDT_JU6_7.0x5.0mm_P2.54mm (layer F.Cu) (tedit 5DB71376)
+(module Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm (layer F.Cu) (tedit 5DB72B02)
   (descr "SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=17, 7.0x5.0mm")
   (tags "SMD SMT crystal oscillator")
   (attr smd)
   (fp_text reference REF** (at 0 -4.63) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Oscillator_SMD_IDT_JU6_7.0x5.0mm_P2.54mm (at -0.03 4.68) (layer F.Fab)
+  (fp_text value Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm (at -0.03 4.68) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 2.61 1.1) (end 2.61 1.44) (layer F.SilkS) (width 0.12))
@@ -32,7 +32,7 @@
   (pad 4 smd rect (at 2.1 2.54 270) (size 1.8 2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -2.1 2.54 270) (size 1.8 2) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.1 -2.54 270) (size 1.8 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_IDT_JU6_7.0x5.0mm_P2.54mm.wrl
+  (model ${KISYS3DMOD}/Oscillator.3dshapes/Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
