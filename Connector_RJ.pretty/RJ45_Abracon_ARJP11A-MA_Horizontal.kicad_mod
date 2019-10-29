@@ -1,10 +1,10 @@
-(module RJ45_Abracon_ARJP11A-MA (layer F.Cu) (tedit 5DB88A6E)
+(module RJ45_Abracon_ARJP11A-MA_Horizontal (layer F.Cu) (tedit 5DB88B28)
   (descr "Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)")
   (tags "ethernet 8p8c transformer poe rj45")
   (fp_text reference REF** (at 5.71 -3.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value RJ45_Abracon_ARJP11A-MA (at 5.71 21.2) (layer F.Fab)
+  (fp_text value RJ45_Abracon_ARJP11A-MA_Horizontal (at 5.71 21.2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.54 -1.92) (end -2.54 4.21) (layer F.SilkS) (width 0.12))
@@ -53,7 +53,7 @@
   (pad "" np_thru_hole circle (at 11.43 8.89) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at -2.04 5.84) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 13.46 5.84) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Abracon_ARJP11A-MA.wrl
+  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Abracon_ARJP11A-MA_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
