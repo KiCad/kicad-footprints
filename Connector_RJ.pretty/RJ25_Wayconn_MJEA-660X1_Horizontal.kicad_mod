@@ -1,10 +1,10 @@
-(module RJ12_YT2038Y_Horizontal (layer F.Cu) (tedit 5DB8A026)
-  (descr "RJ12 Socket 90 degrees 6P6C, https://github.com/KiCad/kicad-footprints/pull/1936")
-  (tags "RJ12 socket 6P6C")
+(module RJ25_Wayconn_MJEA-660X1_Horizontal (layer F.Cu) (tedit 5DBB355A)
+  (descr "RJ25 6P6C Socket 90 degrees, sometimes called YT2038, https://github.com/KiCad/kicad-footprints/pull/1936")
+  (tags "RJ12 RJ18 RJ25 jack connector 6P6C")
   (fp_text reference REF** (at -6.985 -3.175) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value RJ12_YT2038Y_Horizontal (at -2.54 12.315) (layer F.Fab)
+  (fp_text value RJ25_Wayconn_MJEA-660X1_Horizontal (at -2.54 12.315) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.582 -0.762) (end 4.582 0.762) (layer F.SilkS) (width 0.1))
@@ -40,7 +40,7 @@
   (pad 1 thru_hole rect (at 0 0) (size 1.52 1.52) (drill 0.9) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at -4.08 0) (size 1.52 1.52) (drill 0.9) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -2.04 0) (size 1.52 1.52) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ12_YT2038Y_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ25_Wayconn_MJEA-660X1_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
