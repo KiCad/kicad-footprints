@@ -1,6 +1,6 @@
-(module Wireless-Shell (layer F.Cu) (tedit 5DBBFA19)
-  (descr "Single 2.4 GHz Wi-Fi and Bluetooth combo chip with U.FL connector, https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf")
-  (tags "Single 2.4 GHz Wi-Fi and Bluetooth combo  chip")
+(module Wireless-Shell (layer F.Cu) (tedit 5DBC0683)
+  (descr "Single 2.4 GHz Wi-Fi, LoRa and Bluetooth combo chip with U.FL connector, https://heltec.org/project/wireless-shell/")
+  (tags "Single 2.4 GHz Wi-Fi, LoRa and Bluetooth combo chip")
   (attr smd)
   (fp_text reference REF** (at -6.63 -20.1 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -74,7 +74,7 @@
   (pad 39 smd rect (at 7.55 -1.53) (size 2 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 40 smd rect (at 7.55 -2.8) (size 2 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 22 smd rect (at -0.635 18.7 90) (size 2 0.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/wireless-shell.wrl
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/Wireless-Shell.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
