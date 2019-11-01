@@ -1,4 +1,4 @@
-(module Molex_505110-4096_1x40-1MP_P0.5mm_Horizontal (layer F.Cu) (tedit 5DBC2077)
+(module Molex_505110-4096_1x40-1MP_P0.5mm_Horizontal (layer F.Cu) (tedit 5DBC5BE9)
   (descr "Easy-On FFC/FPC Connector, 0.50mm Pitch, FD19 Series, Right-Angle, Bottom Contact, 1.90mm Height, 40 Circuits (https://www.molex.com/pdm_docs/sd/5051104096_sd.pdf)")
   (tags "molex ffc fpc connector 0.5mm 40 right angle")
   (attr smd)
@@ -87,7 +87,7 @@
   (pad 40 smd roundrect (at 9.75 -0.5) (size 0.3 1) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad MP smd roundrect (at -12.05 2.2) (size 2 1.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.192))
   (pad MP smd roundrect (at 12.05 2.2) (size 2 1.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.192))
-  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_502244-1530_1x15-1MP_P0.5mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_505110-4096_1x40-1MP_P0.5mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
