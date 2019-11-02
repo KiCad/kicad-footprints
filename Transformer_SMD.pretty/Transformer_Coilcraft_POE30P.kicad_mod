@@ -1,5 +1,5 @@
-(module Transformer_Coilcraft_POE30P (layer F.Cu) (tedit 5DBD81DE)
-  (descr "Flyback transformer for PoE application, 3W, https://www.coilcraft.com/pdfs/poe_ep.pdf")
+(module Transformer_Coilcraft_POE30P (layer F.Cu) (tedit 5DBD83F5)
+  (descr "Flyback transformer for PoE application, 8.60x10.92x9.02mm, 3W, https://www.coilcraft.com/pdfs/poe_ep.pdf")
   (tags "flyback poe transformer")
   (attr smd)
   (fp_text reference REF** (at 0 -6.36 180) (layer F.SilkS)
