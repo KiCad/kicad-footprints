@@ -1,4 +1,4 @@
-(module TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm_ThermalVias (layer F.Cu) (tedit 5D9F72B1)
+(module TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm_ThermalVias (layer F.Cu) (tedit 5DC5FE76)
   (descr "TQFP, 100 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_100_4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TQFP QFP")
   (attr smd)
@@ -146,7 +146,7 @@
   (pad 98 smd roundrect (at -5 -7.6625) (size 0.3 1.475) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 99 smd roundrect (at -5.5 -7.6625) (size 0.3 1.475) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 100 smd roundrect (at -6 -7.6625) (size 0.3 1.475) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
-  (pad 101 smd roundrect (at 0 0) (size 5 5) (layers F.Cu F.Mask) (roundrect_rratio 0.015))
+  (pad 101 smd rect (at 0 0) (size 5 5) (layers F.Cu F.Mask))
   (pad 101 thru_hole circle (at -2.25 -2.25) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 101 thru_hole circle (at -1.125 -2.25) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 101 thru_hole circle (at 0 -2.25) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
@@ -172,7 +172,7 @@
   (pad 101 thru_hole circle (at 0 2.25) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 101 thru_hole circle (at 1.125 2.25) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 101 thru_hole circle (at 2.25 2.25) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
-  (pad 101 smd roundrect (at 0 0) (size 5 5) (layers B.Cu) (roundrect_rratio 0.015))
+  (pad 101 smd rect (at 0 0) (size 5 5) (layers B.Cu))
   (pad "" smd custom (at -1.6875 -1.6875) (size 0.890668 0.890668) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
