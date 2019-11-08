@@ -1,4 +1,4 @@
-(module Molex_Micro-Fit_3.0_43045-2400_2x12_P3.00mm_Horizontal (layer F.Cu) (tedit 5D93C372)
+(module Molex_Micro-Fit_3.0_43045-2400_2x12_P3.00mm_Horizontal (layer F.Cu) (tedit 5DC5E16C)
   (descr "Molex Micro-Fit 3.0 Connector System, 43045-2400 (alternative finishes: 43045-240x), 12 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Micro-Fit_3.0 horizontal")
   (fp_text reference REF** (at 16.5 -10.12) (layer F.SilkS)
