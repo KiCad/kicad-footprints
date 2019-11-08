@@ -1,4 +1,4 @@
-(module QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm_ThermalVias (layer F.Cu) (tedit 5D9F792B)
+(module QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm_ThermalVias (layer F.Cu) (tedit 5DC5F6A5)
   (descr "QFN, 40 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=295), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
@@ -64,7 +64,7 @@
   (pad 38 smd roundrect (at -1.25 -2.9375) (size 0.25 0.825) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 39 smd roundrect (at -1.75 -2.9375) (size 0.25 0.825) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 40 smd roundrect (at -2.25 -2.9375) (size 0.25 0.825) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
-  (pad 41 smd roundrect (at 0 0) (size 4.6 4.6) (layers F.Cu F.Mask) (roundrect_rratio 0.013587))
+  (pad 41 smd rect (at 0 0) (size 4.6 4.6) (layers F.Cu F.Mask))
   (pad 41 thru_hole circle (at -2.05 -2.05) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 41 thru_hole circle (at -1.025 -2.05) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 41 thru_hole circle (at 0 -2.05) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
@@ -90,7 +90,7 @@
   (pad 41 thru_hole circle (at 0 2.05) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 41 thru_hole circle (at 1.025 2.05) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 41 thru_hole circle (at 2.05 2.05) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
-  (pad 41 smd roundrect (at 0 0) (size 4.6 4.6) (layers B.Cu) (roundrect_rratio 0.013587))
+  (pad 41 smd rect (at 0 0) (size 4.6 4.6) (layers B.Cu))
   (pad "" smd custom (at -1.5375 -1.5375) (size 0.78569 0.78569) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
