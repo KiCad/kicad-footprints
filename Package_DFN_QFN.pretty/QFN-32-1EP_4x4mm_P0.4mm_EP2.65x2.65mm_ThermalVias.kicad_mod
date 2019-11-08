@@ -1,4 +1,4 @@
-(module QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias (layer F.Cu) (tedit 5D9F792A)
+(module QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias (layer F.Cu) (tedit 5DC5F6A4)
   (descr "QFN, 32 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/l32.4x4a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
@@ -104,7 +104,7 @@
          (xy -0.05 -0.35) (xy 0.05 -0.35) (xy 0.05 0.35) (xy 0.020711 0.35)
          (xy -0.05 0.279289)) (width 0.1))
     ))
-  (pad 33 smd roundrect (at 0 0) (size 2.65 2.65) (layers F.Cu F.Mask) (roundrect_rratio 0.018868))
+  (pad 33 smd rect (at 0 0) (size 2.65 2.65) (layers F.Cu F.Mask))
   (pad 33 thru_hole circle (at -0.85 -0.85) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 33 thru_hole circle (at 0 -0.85) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 33 thru_hole circle (at 0.85 -0.85) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
@@ -114,7 +114,7 @@
   (pad 33 thru_hole circle (at -0.85 0.85) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 33 thru_hole circle (at 0 0.85) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 33 thru_hole circle (at 0.85 0.85) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
-  (pad 33 smd roundrect (at 0 0) (size 2.2 2.2) (layers B.Cu) (roundrect_rratio 0.022727))
+  (pad 33 smd rect (at 0 0) (size 2.2 2.2) (layers B.Cu))
   (pad "" smd custom (at -0.425 -0.425) (size 0.601758 0.601758) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives

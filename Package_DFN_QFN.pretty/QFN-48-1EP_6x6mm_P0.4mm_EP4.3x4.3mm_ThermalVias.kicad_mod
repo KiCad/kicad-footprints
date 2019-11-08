@@ -1,4 +1,4 @@
-(module QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm_ThermalVias (layer F.Cu) (tedit 5D9F792B)
+(module QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm_ThermalVias (layer F.Cu) (tedit 5DC5F6A5)
   (descr "QFN, 48 Pin (https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf#page=38), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
@@ -72,7 +72,7 @@
   (pad 46 smd roundrect (at -1.4 -2.95) (size 0.2 0.8) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 47 smd roundrect (at -1.8 -2.95) (size 0.2 0.8) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 48 smd roundrect (at -2.2 -2.95) (size 0.2 0.8) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
-  (pad 49 smd roundrect (at 0 0) (size 4.3 4.3) (layers F.Cu F.Mask) (roundrect_rratio 0.011628))
+  (pad 49 smd rect (at 0 0) (size 4.3 4.3) (layers F.Cu F.Mask))
   (pad 49 thru_hole circle (at -1.9 -1.9) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 49 thru_hole circle (at -0.633333 -1.9) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 49 thru_hole circle (at 0.633333 -1.9) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
@@ -89,7 +89,7 @@
   (pad 49 thru_hole circle (at -0.633333 1.9) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 49 thru_hole circle (at 0.633333 1.9) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 49 thru_hole circle (at 1.9 1.9) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
-  (pad 49 smd roundrect (at 0 0) (size 4.3 4.3) (layers B.Cu) (roundrect_rratio 0.011628))
+  (pad 49 smd rect (at 0 0) (size 4.3 4.3) (layers B.Cu))
   (pad "" smd custom (at -1.266667 -1.266667) (size 1.034133 1.034133) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
