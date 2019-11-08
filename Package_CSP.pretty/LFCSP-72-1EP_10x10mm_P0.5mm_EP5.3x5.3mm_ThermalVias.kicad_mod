@@ -1,4 +1,4 @@
-(module LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm_ThermalVias (layer F.Cu) (tedit 5D9F7936)
+(module LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm_ThermalVias (layer F.Cu) (tedit 5DC5F695)
   (descr "LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "LFCSP NoLead")
   (attr smd)
@@ -96,7 +96,7 @@
   (pad 70 smd roundrect (at -3.25 -4.9375) (size 0.25 0.875) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 71 smd roundrect (at -3.75 -4.9375) (size 0.25 0.875) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 72 smd roundrect (at -4.25 -4.9375) (size 0.25 0.875) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
-  (pad 73 smd roundrect (at 0 0) (size 5.3 5.3) (layers F.Cu F.Mask) (roundrect_rratio 0.011792))
+  (pad 73 smd rect (at 0 0) (size 5.3 5.3) (layers F.Cu F.Mask))
   (pad 73 thru_hole circle (at -2.35 -2.35) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 73 thru_hole circle (at -0.783333 -2.35) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 73 thru_hole circle (at 0.783333 -2.35) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
@@ -113,7 +113,7 @@
   (pad 73 thru_hole circle (at -0.783333 2.35) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 73 thru_hole circle (at 0.783333 2.35) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 73 thru_hole circle (at 2.35 2.35) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
-  (pad 73 smd roundrect (at 0 0) (size 5.3 5.3) (layers B.Cu) (roundrect_rratio 0.011792))
+  (pad 73 smd rect (at 0 0) (size 5.3 5.3) (layers B.Cu))
   (pad "" smd custom (at -1.566667 -1.566667) (size 1.274978 1.274978) (layers F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
