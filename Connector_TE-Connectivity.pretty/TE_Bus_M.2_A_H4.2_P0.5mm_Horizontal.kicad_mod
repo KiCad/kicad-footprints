@@ -1,11 +1,11 @@
-(module TE_M.2_NGFF_A-KEY_2199230-8_H4.2_2Rows_67_P0.5mm_Horizontal (layer F.Cu) (tedit 5C624973)
+(module TE_Bus_M.2_A_H4.2_P0.5mm_Horizontal (layer F.Cu) (tedit 5DC854B4)
   (descr https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2199230%7FB2%7Fpdf%7FEnglish%7FENG_CD_2199230_B2.pdf%7F2199230-8)
   (tags "M.2 NGFF A KEY")
   (attr smd)
   (fp_text reference REF** (at 0.05 -7.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TE_M.2_NGFF_A-KEY_2199230-8_H4.2_2Rows_67_P0.5mm_Horizontal (at 0 7.5) (layer F.Fab)
+  (fp_text value TE_Bus_M.2_A_H4.2_P0.5mm_Horizontal (at 0 7.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user "INSERT DIRECTION" (at 0 1.5) (layer F.Fab)
@@ -104,7 +104,7 @@
   (pad 3 smd rect (at -8.75 -4) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -9 4) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -9.25 -4) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_TE-Connectivity.3dshapes/TE_M.2_NGFF_A-KEY_2199230-8_H4.2_2Rows_67_P0.5mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_TE-Connectivity.3dshapes/TE_Bus_M.2_A_H4.2_P0.5mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
