@@ -1,4 +1,4 @@
-(module LQFP-36_7x7mm_P0.65mm (layer F.Cu) (tedit 5C1939F9)
+(module LQFP-36_7x7mm_P0.65mm (layer F.Cu) (tedit 5D9F72AF)
   (descr "LQFP, 36 Pin (https://www.onsemi.com/pub/Collateral/561AV.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)
