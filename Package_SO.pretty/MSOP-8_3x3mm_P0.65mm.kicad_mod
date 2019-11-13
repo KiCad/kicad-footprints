@@ -1,4 +1,4 @@
-(module MSOP-8_3x3mm_P0.65mm (layer F.Cu) (tedit 5D9D0DBB)
+(module MSOP-8_3x3mm_P0.65mm (layer F.Cu) (tedit 5D9F72B0)
   (descr "MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "MSOP SO")
   (attr smd)
