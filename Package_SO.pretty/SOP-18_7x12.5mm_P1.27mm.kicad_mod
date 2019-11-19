@@ -1,4 +1,4 @@
-(module SOP-18_7x12.5mm_P1.27mm (layer F.Cu) (tedit 5C5B5C0A)
+(module SOP-18_7x12.5mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SOP, 18 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=30523), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOP SO")
   (attr smd)
