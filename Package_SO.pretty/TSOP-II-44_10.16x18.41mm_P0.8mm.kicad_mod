@@ -1,4 +1,4 @@
-(module TSOP-II-44_10.16x18.41mm_P0.8mm (layer F.Cu) (tedit 5B9EAF40)
+(module TSOP-II-44_10.16x18.41mm_P0.8mm (layer F.Cu) (tedit 5D9F72B2)
   (descr "TSOP-II, 44 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TSOP-II SO")
   (attr smd)
@@ -8,7 +8,6 @@
   (fp_text value TSOP-II-44_10.16x18.41mm_P0.8mm (at 0 10.16) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start 0 9.315) (end 0 9.315) (layer B.Fab) (width 0.12))
   (fp_line (start 0 9.315) (end 5.19 9.315) (layer F.SilkS) (width 0.12))
   (fp_line (start 5.19 9.315) (end 5.19 8.935) (layer F.SilkS) (width 0.12))
   (fp_line (start 0 9.315) (end -5.19 9.315) (layer F.SilkS) (width 0.12))
