@@ -1,4 +1,4 @@
-(module SOT-457T_SC-95 (layer F.Cu) (tedit 5DD36EA6)
+(module SOT-457T_SC-95 (layer F.Cu) (tedit 5DD36F39)
   (descr "SOT-353, SC-70-5")
   (tags "SOT-353 SC-70-5")
   (attr smd)
@@ -28,7 +28,7 @@
   (pad 4 smd roundrect (at 1.05 0.95) (size 0.9 0.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2))
   (pad 6 smd roundrect (at 1.05 -0.95) (size 0.9 0.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2))
   (pad 5 smd roundrect (at 1.05 0) (size 0.9 0.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2))
-  (model ${KISYS3DMOD}/Speaker.3dshapes/SOT-457T_SC-95.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-457T_SC-95.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
