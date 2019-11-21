@@ -1,5 +1,5 @@
-(module L_Sumida_CDRH103R_10x10mm (layer F.Cu) (tedit 5DD65111)
-  (descr "SMD Power Inductor ")
+(module L_Sumida_CDRH103R_10x10mm (layer F.Cu) (tedit 5DD65253)
+  (descr "SMD Power Inductor")
   (tags "Inductor Sumida SMD CDRH103R")
   (attr smd)
   (fp_text reference REF** (at 0 -6.35) (layer F.SilkS)
