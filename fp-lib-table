@@ -50,7 +50,6 @@
   (lib (name Connector_USB)(type KiCad)(uri ${KISYSMOD}/Connector_USB.pretty)(options "")(descr "USB connector footprints"))
   (lib (name Connector_Wago)(type KiCad)(uri ${KISYSMOD}/Connector_Wago.pretty)(options "")(descr "Wago connector footprints"))
   (lib (name Connector_Wire)(type KiCad)(uri ${KISYSMOD}/Connector_Wire.pretty)(options "")(descr "Footprints for solder wire pads."))
-  (lib (name Connector_Wire)(type KiCad)(uri ${KISYSMOD}/Connector_Wire.pretty)(options "")(descr "Footprints for solder wire pads"))
   (lib (name Connector_Wuerth)(type KiCad)(uri ${KISYSMOD}/Connector_Wuerth.pretty)(options "")(descr "Wuerth connector footprints"))
   (lib (name Converter_ACDC)(type KiCad)(uri ${KISYSMOD}/Converter_ACDC.pretty)(options "")(descr "AC/DC converter footprints"))
   (lib (name Converter_DCDC)(type KiCad)(uri ${KISYSMOD}/Converter_DCDC.pretty)(options "")(descr "DC/DC converter footprints"))
