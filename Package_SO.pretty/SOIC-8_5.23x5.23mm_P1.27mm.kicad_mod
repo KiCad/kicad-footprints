@@ -1,4 +1,4 @@
-(module SOIC-8_5.23x5.23mm_P1.27mm (layer F.Cu) (tedit 5C9033D8)
+(module SOIC-8_5.23x5.23mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)

@@ -1,4 +1,4 @@
-(module SOJ-36_10.16x23.49mm_P1.27mm (layer F.Cu) (tedit 5BADA422)
+(module SOJ-36_10.16x23.49mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SOJ, 36 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOJ SO")
   (attr smd)
@@ -8,7 +8,6 @@
   (fp_text value SOJ-36_10.16x23.49mm_P1.27mm (at 0 12.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start 0 11.855) (end 0 11.855) (layer B.Fab) (width 0.12))
   (fp_line (start 0 11.855) (end 5.19 11.855) (layer F.SilkS) (width 0.12))
   (fp_line (start 5.19 11.855) (end 5.19 11.355) (layer F.SilkS) (width 0.12))
   (fp_line (start 0 11.855) (end -5.19 11.855) (layer F.SilkS) (width 0.12))

@@ -1,4 +1,4 @@
-(module BatteryHolder_Keystone_3002_1x2032 (layer F.Cu) (tedit 5CBDF5E8)
+(module BatteryHolder_Keystone_3002_1x2032 (layer F.Cu) (tedit 5D9C7E9A)
   (descr https://www.tme.eu/it/Document/a823211ec201a9e209042d155fe22d2b/KEYS2996.pdf)
   (tags "BR2016 CR2016 DL2016 BR2020 CL2020 BR2025 CR2025 DL2025 DR2032 CR2032 DL2032")
   (attr smd)
@@ -56,7 +56,7 @@
   (fp_line (start -15.35 -2.55) (end -15.35 2.55) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at 12.8 0) (size 5.1 5.1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -12.8 0) (size 5.1 5.1) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd circle (at 0 0) (size 12 12) (layers F.Cu F.Mask))
+  (pad 2 smd circle (at 0 0) (size 17.8 17.8) (layers F.Cu F.Mask))
   (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_Keystone_3002_1x2032.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
