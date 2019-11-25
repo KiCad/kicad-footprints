@@ -1,4 +1,4 @@
-(module Diodes_UDFN-10_1.0x2.5mm_P0.5mm (layer F.Cu) (tedit 5DDC493A)
+(module Diodes_UDFN-10_1.0x2.5mm_P0.5mm (layer F.Cu) (tedit 5DDC59CA)
   (descr "U-DFN2510-10 package used by Diodes Incorporated")
   (tags "UDFN-10 U-DFN2510-10 Diodes")
   (attr smd)
@@ -32,4 +32,9 @@
   (pad 1 smd rect (at -0.3875 -1 270) (size 0.25 0.625) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -0.35 0 270) (size 0.45 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.3875 -0.5 270) (size 0.25 0.625) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Diodes_UDFN-10_2.5x1.0mm_P0.5mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
