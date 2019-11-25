@@ -1,5 +1,5 @@
-(module IDC-Header_2x32_P2.54mm_Latch_Vertical (layer F.Cu) (tedit 5D94F91B)
-  (descr "Through hole IDC header, 2x32, 2.54mm pitch, double rows latches")
+(module IDC-Header_2x32_P2.54mm_Latch_Vertical (layer F.Cu) (tedit 5DDC1295)
+  (descr "Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches")
   (tags "Through hole vertical IDC header THT 2x32 2.54mm double row")
   (fp_text reference REF** (at 1.27 -11.97) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
