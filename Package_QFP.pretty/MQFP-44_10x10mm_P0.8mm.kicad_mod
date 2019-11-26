@@ -1,4 +1,4 @@
-(module MQFP-44_10x10mm_P0.8mm (layer F.Cu) (tedit 5C1833AA)
+(module MQFP-44_10x10mm_P0.8mm (layer F.Cu) (tedit 5D9F72B0)
   (descr "MQFP, 44 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7722.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "MQFP QFP")
   (attr smd)
