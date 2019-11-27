@@ -1,4 +1,4 @@
-(module Hirose_FH48-68S-0.5SV_1x68-1SH_P0.50mm_Vertical (layer F.Cu) (tedit 5DDF09F1)
+(module Hirose_FH48-68S-0.5SV_1x68-1SH_P0.50mm_Vertical (layer F.Cu) (tedit 5DDF0B8F)
   (descr "Hirose FH48 FFC-FPC connector, FH48-68S-0.5SV, 68 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=FH48&documenttype=Catalog&lang=en&documentid=D49363_en), generated with kicad-footprint-generator")
   (tags "connector Hirose FH48 vertical")
   (attr smd)
@@ -33,7 +33,6 @@
   (fp_line (start 7.91 2.16) (end 9.59 2.16) (layer F.SilkS) (width 0.12))
   (fp_line (start 10.41 2.16) (end 12.09 2.16) (layer F.SilkS) (width 0.12))
   (fp_line (start 12.91 2.16) (end 14.59 2.16) (layer F.SilkS) (width 0.12))
-  (fp_line (start 15.41 2.16) (end 17.09 2.16) (layer F.SilkS) (width 0.12))
   (fp_line (start -20 -3.1) (end -20 3.1) (layer F.CrtYd) (width 0.05))
   (fp_line (start -20 3.1) (end 20 3.1) (layer F.CrtYd) (width 0.05))
   (fp_line (start 20 3.1) (end 20 -3.1) (layer F.CrtYd) (width 0.05))
