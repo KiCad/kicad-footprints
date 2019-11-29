@@ -1,4 +1,4 @@
-(module SFF-TA-1002_1C_RightAngle (layer F.Cu) (tedit 5DE09EBB)
+(module SFF-TA-1002_1C_RightAngle (layer F.Cu) (tedit 5DE13D95)
   (descr "SFF-TA-1002 1C Right Angle Protocol Agnostic Multi-Lane High Speed Connector (http://www.snia.org/sff/specifications)")
   (tags "SFF-TA-1002 SFF-TA-1009 Gen-Z EDSFF")
   (attr smd)
@@ -88,4 +88,9 @@
   (pad "" thru_hole circle (at 10.465 -3) (size 1.5 1.5) (drill 1.1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -9.415 0) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 9.415 -1) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_SFF-TA-1002.3dshapes/SFF-TA-1002_1C_RightAngle.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
