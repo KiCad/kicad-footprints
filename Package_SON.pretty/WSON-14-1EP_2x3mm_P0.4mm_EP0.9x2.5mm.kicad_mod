@@ -1,4 +1,4 @@
-(module WSON-14-1EP_2x3mm_P0.4mm_EP0.9x2.5mm (layer F.Cu) (tedit 5DE365B1)
+(module WSON-14-1EP_2x3mm_P0.4mm_EP0.9x2.5mm (layer F.Cu) (tedit 5DE36460)
   (descr "WSON, 14 Pin (http://www.ti.com/lit/ds/symlink/tps22976.pdf#page=31), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WSON NoLead R-PWSON-N14")
   (attr smd)
@@ -36,8 +36,8 @@
   (pad 3 smd roundrect (at -1.025 -0.4) (size 0.75 0.2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 2 smd roundrect (at -1.025 -0.8) (size 0.75 0.2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 1 smd roundrect (at -1.025 -1.2) (size 0.75 0.2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (pad 15 smd roundrect (at 0 0.625) (size 0.78 1.08) (layers F.Paste) (roundrect_rratio 0.25))
-  (pad 15 smd roundrect (at 0 -0.625) (size 0.78 1.08) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at 0 0.625) (size 0.78 1.08) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad "" smd roundrect (at 0 -0.625) (size 0.78 1.08) (layers F.Paste) (roundrect_rratio 0.25))
   (pad 15 smd roundrect (at 0 0) (size 0.9 2.5) (layers F.Cu F.Mask) (roundrect_rratio 0.25))
   (model ${KISYS3DMOD}/Package_SON.3dshapes/WSON-14-1EP_2x3mm_P0.4mm_EP0.9x2.5mm.wrl
     (at (xyz 0 0 0))
