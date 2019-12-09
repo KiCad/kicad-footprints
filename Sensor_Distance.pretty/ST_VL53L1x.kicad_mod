@@ -1,4 +1,4 @@
-(module ST_VL53L1x (layer F.Cu) (tedit 5DEE2C5C)
+(module ST_VL53L1x (layer F.Cu) (tedit 5DEE2D3D)
   (descr "VL53L1x distance sensor")
   (tags "VL53L1CXV0FY1 VL53L1x")
   (attr smd)
@@ -44,7 +44,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${KISYS3DMOD}/Sensor_Distance.3dshapes/ST_VL53L1x.stp
+  (model ${KISYS3DMOD}/Sensor_Distance.3dshapes/ST_VL53L1x.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
