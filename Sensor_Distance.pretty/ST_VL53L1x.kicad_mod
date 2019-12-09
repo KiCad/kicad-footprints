@@ -1,4 +1,7 @@
-(module ST_VL53L1x (layer F.Cu) (tedit 5DEE27D0)
+(module ST_VL53L1x (layer F.Cu) (tedit 5DEE2AE1)
+  (descr "VL53L1x distance sensor")
+  (tags "VL53L1CXV0FY1 VL53L1x")
+  (attr smd)
   (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
