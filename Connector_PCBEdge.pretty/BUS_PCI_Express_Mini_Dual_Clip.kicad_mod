@@ -1,5 +1,5 @@
-(module BUS_PCI_Express_Mini_Dual_Clip (layer F.Cu) (tedit 5DF60758)
-  (descr "Mini-PCI Express bus connector full size with dual clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf)")
+(module BUS_PCI_Express_Mini_Dual_Clip (layer F.Cu) (tedit 5DF7EA98)
+  (descr "Mini-PCI Express bus connector full size with dual clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=11)")
   (tags "mini pcie")
   (attr smd)
   (fp_text reference REF** (at -12.5 7 180) (layer F.SilkS)
