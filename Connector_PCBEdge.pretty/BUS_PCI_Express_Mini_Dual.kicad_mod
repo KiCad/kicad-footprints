@@ -1,11 +1,11 @@
-(module BUS_PCI_Express_Mini_Dual_Clip (layer F.Cu) (tedit 5DF7FCF6)
+(module BUS_PCI_Express_Mini_Dual (layer F.Cu) (tedit 5DF7FCF6)
   (descr "Mini-PCI Express bus connector full size with dual clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=28)")
   (tags "mini pcie")
   (attr smd)
   (fp_text reference REF** (at -12.5 6.35 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BUS_PCI_Express_Mini_Dual_Clip (at 0 6.35 180) (layer F.Fab)
+  (fp_text value BUS_PCI_Express_Mini_Dual (at 0 6.35 180) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 9.2 -21) (end 9.2 -26.8) (layer Dwgs.User) (width 0.1))
@@ -107,7 +107,7 @@
   (pad "" smd rect (at -14.65 3.5) (size 2.3 3.2) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -12.5 0) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 12.5 0) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Dual_Clip.wrl
+  (model ${KISYS3DMOD}/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Dual.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
