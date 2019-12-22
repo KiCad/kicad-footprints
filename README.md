@@ -9,6 +9,7 @@ Each footprint library is stored as a directory with the `.pretty` suffix. The f
 Weekly builds can be found at https://kicad.github.io/footprints
 
 Contribution guidelines can be found at http://kicad-pcb.org/libraries/contribute
+The library convention can be found at http://kicad-pcb.org/libraries/klc/
 
 Other KiCad library repositories are located:
 

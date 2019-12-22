@@ -1,5 +1,5 @@
-(module MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R (layer F.Cu) (tedit 5A030281)
-  (descr "Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC,")
+(module MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R (layer F.Cu) (tedit 5BF30E7B)
+  (descr "Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC, https://www.kynix.com/uploadfiles/pdf/AI-4228-TWT-R.pdf")
   (tags "Projects Unlimited AI-4228-TWT-R ")
   (fp_text reference REF** (at 12.2 -22.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

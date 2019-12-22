@@ -1,5 +1,5 @@
-(module Transformer_CHK_EI54-12VA_1xSec (layer F.Cu) (tedit 5A030845)
-  (descr "Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,")
+(module Transformer_CHK_EI54-12VA_1xSec (layer F.Cu) (tedit 5BEAF4E7)
+  (descr "Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,http://www.eratransformers.com/product-detail/19")
   (tags "Trafo Printtrafo CHK EI54 12VA 1x Sec ")
   (fp_text reference REF** (at 14.5 -44.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

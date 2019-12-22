@@ -1,5 +1,5 @@
-(module QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm (layer F.Cu) (tedit 5B4DC698)
-  (descr "QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf (Page 283)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm (layer F.Cu) (tedit 5C1FD453)
+  (descr "QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -3.8) (layer F.SilkS)

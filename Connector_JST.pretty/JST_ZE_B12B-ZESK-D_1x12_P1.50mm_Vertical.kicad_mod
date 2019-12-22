@@ -1,4 +1,4 @@
-(module JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical (layer F.Cu) (tedit 5A103FE6)
+(module JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical (layer F.Cu) (tedit 5B77636A)
   (descr "JST ZE series connector, B12B-ZESK-D (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator")
   (tags "connector JST ZE side entry")
   (fp_text reference REF** (at 8.25 -6.3) (layer F.SilkS)
@@ -48,9 +48,13 @@
   (fp_line (start -2.66 1.06) (end -1.16 1.06) (layer F.SilkS) (width 0.12))
   (fp_line (start -2.66 -0.44) (end -2.66 1.06) (layer F.Fab) (width 0.1))
   (fp_line (start -2.66 1.06) (end -1.16 1.06) (layer F.Fab) (width 0.1))
-  (pad 1 thru_hole oval (at 0 0) (size 1.4 1.75) (drill 0.75) (layers *.Cu *.Mask))
-  (pad 1 smd rect (at -0.35 0) (size 0.7 1.75) (layers F.Cu F.Mask))
-  (pad 1 smd rect (at -0.35 0) (size 0.7 1.75) (layers B.Cu B.Mask))
+  (pad 1 thru_hole custom (at 0 0) (size 1.117157 1.117157) (drill 0.75) (layers *.Cu *.Mask)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly (pts
+         (xy -0.45 -0.625) (xy 0.05 -0.625) (xy 0.45 -0.225) (xy 0.45 0.625)
+         (xy -0.45 0.625)) (width 0.5))
+    ))
   (pad 3 thru_hole oval (at 3 0) (size 1.4 1.75) (drill 0.75) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 6 0) (size 1.4 1.75) (drill 0.75) (layers *.Cu *.Mask))
   (pad 7 thru_hole oval (at 9 0) (size 1.4 1.75) (drill 0.75) (layers *.Cu *.Mask))

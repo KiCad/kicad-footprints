@@ -1,4 +1,4 @@
-(module Molex_Mini-Fit_Sr_42819-32XX_1x03_P10.00mm_Vertical (layer F.Cu) (tedit 5A16F607)
+(module Molex_Mini-Fit_Sr_42819-32XX_1x03_P10.00mm_Vertical (layer F.Cu) (tedit 5B782361)
   (descr "Molex Mini-Fit Sr. Power Connectors, 42819-32XX, 3 Pins per row (http://www.molex.com/pdm_docs/sd/428192214_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Mini-Fit_Sr side entry")
   (fp_text reference REF** (at 3.26 -8.93) (layer F.SilkS)

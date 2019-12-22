@@ -1,0 +1,17 @@
+(module Battery_CR1225 (layer F.Cu) (tedit 5B93F51B)
+  (descr "CR1225 battery")
+  (tags "battery CR1225 coin cell")
+  (attr virtual)
+  (fp_text reference REF** (at 0 -1) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Battery_CR1225 (at 0 0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 0 0) (end 6.25 0) (layer F.Fab) (width 0.1))
+  (model ${KISYS3DMOD}/Battery.3dshapes/Battery_CR1225.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

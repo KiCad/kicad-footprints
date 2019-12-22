@@ -1,5 +1,5 @@
-(module VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm (layer F.Cu) (tedit 5B50410B)
-  (descr "VQFN, 28 Pin (http://www.ti.com/lit/ds/symlink/lm5175.pdf (Page 37)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm (layer F.Cu) (tedit 5C1BF39E)
+  (descr "VQFN, 28 Pin (http://www.ti.com/lit/ds/symlink/lm5175.pdf#page=37), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "VQFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -3.82) (layer F.SilkS)

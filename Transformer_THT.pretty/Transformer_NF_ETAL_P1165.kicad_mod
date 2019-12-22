@@ -1,5 +1,5 @@
-(module Transformer_NF_ETAL_P1165 (layer F.Cu) (tedit 5A030845)
-  (descr "NF-Transformer,  ETAL, P1165,")
+(module Transformer_NF_ETAL_P1165 (layer F.Cu) (tedit 5BEAF840)
+  (descr "NF-Transformer,  ETAL, P1165,http://www.etalgroup.com/sites/default/files/products/P1165_February_2006.pdf")
   (tags "NF-Transformer ETAL P1165 ")
   (fp_text reference REF** (at -5 -5.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

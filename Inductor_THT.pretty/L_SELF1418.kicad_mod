@@ -42,4 +42,9 @@
   (pad 3 thru_hole circle (at 10.16 7.62) (size 2.03 2.03) (drill 1.27) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 0 10.16) (size 2.03 2.03) (drill 1.27) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 0 7.62) (size 2.03 2.03) (drill 1.27) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_SELF1418.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

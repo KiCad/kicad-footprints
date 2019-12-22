@@ -1,5 +1,5 @@
-(module QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm (layer F.Cu) (tedit 5B4D0CFF)
-  (descr "QFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf (Page 212)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
+(module QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm (layer F.Cu) (tedit 5C1FD453)
+  (descr "QFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf#page=212), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
   (fp_text reference REF** (at 0 -2.82) (layer F.SilkS)
@@ -33,8 +33,8 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.425 -0.125) (xy 0.275 -0.125) (xy 0.425 0.025) (xy 0.425 0.125)
-         (xy -0.425 0.125)) (width 0))
+         (xy -0.375 -0.075) (xy 0.254289 -0.075) (xy 0.375 0.045711) (xy 0.375 0.075)
+         (xy -0.375 0.075)) (width 0.1))
     ))
   (pad 2 smd roundrect (at -1.45 -0.45) (size 0.85 0.25) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 3 smd roundrect (at -1.45 0) (size 0.85 0.25) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
@@ -43,15 +43,15 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.425 -0.125) (xy 0.425 -0.125) (xy 0.425 -0.025) (xy 0.275 0.125)
-         (xy -0.425 0.125)) (width 0))
+         (xy -0.375 -0.075) (xy 0.375 -0.075) (xy 0.375 -0.045711) (xy 0.254289 0.075)
+         (xy -0.375 0.075)) (width 0.1))
     ))
   (pad 6 smd custom (at -0.9 1.45) (size 0.143934 0.143934) (layers F.Cu F.Mask F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.125 -0.275) (xy 0.025 -0.425) (xy 0.125 -0.425) (xy 0.125 0.425)
-         (xy -0.125 0.425)) (width 0))
+         (xy -0.075 -0.254289) (xy 0.045711 -0.375) (xy 0.075 -0.375) (xy 0.075 0.375)
+         (xy -0.075 0.375)) (width 0.1))
     ))
   (pad 7 smd roundrect (at -0.45 1.45) (size 0.25 0.85) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 8 smd roundrect (at 0 1.45) (size 0.25 0.85) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
@@ -60,15 +60,15 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.125 -0.425) (xy -0.025 -0.425) (xy 0.125 -0.275) (xy 0.125 0.425)
-         (xy -0.125 0.425)) (width 0))
+         (xy -0.075 -0.375) (xy -0.045711 -0.375) (xy 0.075 -0.254289) (xy 0.075 0.375)
+         (xy -0.075 0.375)) (width 0.1))
     ))
   (pad 11 smd custom (at 1.45 0.9) (size 0.143934 0.143934) (layers F.Cu F.Mask F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.425 -0.125) (xy 0.425 -0.125) (xy 0.425 0.125) (xy -0.275 0.125)
-         (xy -0.425 -0.025)) (width 0))
+         (xy -0.375 -0.075) (xy 0.375 -0.075) (xy 0.375 0.075) (xy -0.254289 0.075)
+         (xy -0.375 -0.045711)) (width 0.1))
     ))
   (pad 12 smd roundrect (at 1.45 0.45) (size 0.85 0.25) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 13 smd roundrect (at 1.45 0) (size 0.85 0.25) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
@@ -77,15 +77,15 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.425 0.025) (xy -0.275 -0.125) (xy 0.425 -0.125) (xy 0.425 0.125)
-         (xy -0.425 0.125)) (width 0))
+         (xy -0.375 0.045711) (xy -0.254289 -0.075) (xy 0.375 -0.075) (xy 0.375 0.075)
+         (xy -0.375 0.075)) (width 0.1))
     ))
   (pad 16 smd custom (at 0.9 -1.45) (size 0.143934 0.143934) (layers F.Cu F.Mask F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.125 -0.425) (xy 0.125 -0.425) (xy 0.125 0.275) (xy -0.025 0.425)
-         (xy -0.125 0.425)) (width 0))
+         (xy -0.075 -0.375) (xy 0.075 -0.375) (xy 0.075 0.254289) (xy -0.045711 0.375)
+         (xy -0.075 0.375)) (width 0.1))
     ))
   (pad 17 smd roundrect (at 0.45 -1.45) (size 0.25 0.85) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 18 smd roundrect (at 0 -1.45) (size 0.25 0.85) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
@@ -94,8 +94,8 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.125 -0.425) (xy 0.125 -0.425) (xy 0.125 0.425) (xy 0.025 0.425)
-         (xy -0.125 0.275)) (width 0))
+         (xy -0.075 -0.375) (xy 0.075 -0.375) (xy 0.075 0.375) (xy 0.045711 0.375)
+         (xy -0.075 0.254289)) (width 0.1))
     ))
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.75 0.75) (thickness 0.11)))
