@@ -1,4 +1,4 @@
-(module LQFP-144_20x20mm_P0.5mm (layer F.Cu) (tedit 5C1A9814)
+(module LQFP-144_20x20mm_P0.5mm (layer F.Cu) (tedit 5D9F72B0)
   (descr "LQFP, 144 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)
