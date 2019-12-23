@@ -1,4 +1,4 @@
-(module WDFN-8-1EP_6x8mm_P1.27mm_EP6x4.8mm_ThermalVias (layer F.Cu) (tedit 5E00D073)
+(module WDFN-8-1EP_6x8mm_P1.27mm_EP6x4.8mm_ThermalVias (layer F.Cu) (tedit 5E00D2B2)
   (descr "WDFN, WSON, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8L_WDFN_6x8mm_MN_C04172A.pdf)")
   (tags "WDFN WSON NoLead")
   (attr smd)
@@ -58,7 +58,7 @@
   (pad 3 smd oval (at -3.9 0.635) (size 0.95 0.45) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd oval (at -3.9 -0.635) (size 0.95 0.45) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd oval (at -3.9 -1.905) (size 0.95 0.45) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/WDFN-8-1EP_6x8mm_P1.27mm_EP6x4.8mm_ThermalVias.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/WDFN-8-1EP_6x8mm_P1.27mm_EP6x4.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
