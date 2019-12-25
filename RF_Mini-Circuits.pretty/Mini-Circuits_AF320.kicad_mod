@@ -1,5 +1,5 @@
 (module Mini-Circuits_AF320 (layer F.Cu) (tedit 5D360E57)
-  (descr "Footprint for Mini-Circuits case AF320 (https://ww2.minicircuits.com/case_style/AF320.pdf)")
+  (descr "Footprint for Mini-Circuits case AF320 (https://www.minicircuits.com/case_style/AF320.pdf)")
   (tags "mini-circuits AF320")
   (attr smd)
   (fp_text reference REF** (at 3.4 -2.15) (layer F.SilkS)

@@ -1,5 +1,5 @@
 (module Mini-Circuits_AF320_LandPatternPL-208 (layer F.Cu) (tedit 5D361A59)
-  (descr "Footprint for Mini-Circuits case AF320, Land pattern PL-208, vias included (case drawing: https://ww2.minicircuits.com/case_style/AF320.pdf, land pattern drawing: https://ww2.minicircuits.com/pcb/98-pl208.pdf)")
+  (descr "Footprint for Mini-Circuits case AF320, Land pattern PL-208, vias included (case drawing: https://www.minicircuits.com/case_style/AF320.pdf, land pattern drawing: https://www.minicircuits.com/pcb/98-pl208.pdf)")
   (tags "mini-circuits AF320 pl-208")
   (attr smd)
   (fp_text reference REF** (at 3.4 -2.667) (layer F.SilkS)
