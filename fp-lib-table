@@ -69,6 +69,7 @@
   (lib (name LED_THT)(type KiCad)(uri ${KISYSMOD}/LED_THT.pretty)(options "")(descr "Light emitting diodes (LED), through hole"))
   (lib (name Module)(type KiCad)(uri ${KISYSMOD}/Module.pretty)(options "")(descr "Footprints for SoM (System on Module)"))
   (lib (name MountingHole)(type KiCad)(uri ${KISYSMOD}/MountingHole.pretty)(options "")(descr "Mechanical fasteners"))
+  (lib (name Mounting_Wuerth)(type KiCad)(uri ${KISYSMOD}/Mounting_Wuerth.pretty)(options "")(descr "Mechanical fasteners by wuerth electronics"))
   (lib (name MountingEquipment)(type KiCad)(uri ${KISYSMOD}/MountingEquipment.pretty)(options "")(descr "Mechanical parts"))
   (lib (name NetTie)(type KiCad)(uri ${KISYSMOD}/NetTie.pretty)(options "")(descr "Net ties"))
   (lib (name OptoDevice)(type KiCad)(uri ${KISYSMOD}/OptoDevice.pretty)(options "")(descr "Optical devices (light sensors, opto isolators/interrupters, laser diodes, fiber optical components, lightpipes, lenses ...)"))
