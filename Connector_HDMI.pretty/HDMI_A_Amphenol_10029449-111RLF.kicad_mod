@@ -1,4 +1,6 @@
-(module HDMI_A_Amphenol_10029449-111RLF (layer F.Cu) (tedit 5E028ADF)
+(module HDMI_A_Amphenol_10029449-111RLF (layer F.Cu) (tedit 5E06227A)
+  (descr "HDMI, Type A, 10029449-111RLF, https://www.amphenol-icc.com/hdmi-10029449111rlf.html")
+  (tags "HDMI type a connector")
   (attr smd)
   (fp_text reference REF** (at -6.75 -6.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -48,7 +50,7 @@
   (pad SH thru_hole circle (at -7.25 -3.25) (size 2 2) (drill 1.3) (layers *.Cu *.Mask))
   (pad SH thru_hole circle (at 7.85 1.7) (size 2 2) (drill 1.3) (layers *.Cu *.Mask))
   (pad SH thru_hole circle (at -7.85 1.7) (size 2 2) (drill 1.3) (layers *.Cu *.Mask))
-  (model /home/theo/Downloads/10029449-111RLF.stp
+  (model 10029449-111RLF.stp
     (offset (xyz 0 1.5 3.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
