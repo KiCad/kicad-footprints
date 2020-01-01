@@ -1,4 +1,4 @@
-(module Raspberry_Pi_3B_Run_Socketed_THT_FaceDown_MountingHoles (layer F.Cu) (tedit 5E0CA08B)
+(module Raspberry_Pi_3B_Run_Socketed_THT_FaceDown_MountingHoles (layer F.Cu) (tedit 5E0CA1F1)
   (descr "Raspberry Pi 3B with Run using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_3b_1p2.pdf")
   (tags "raspberry pi 3b through hole")
   (fp_text reference REF** (at -1.5 32.5 90) (layer F.SilkS)
@@ -190,8 +190,8 @@
   (pad 15 thru_hole oval (at 4.77 26.15) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 4.77 10.91) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 2.23 13.45) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (pad 2 thru_hole oval (at 8.5 62.77) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (pad 1 thru_hole rect (at 8.5 60.23) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (pad 42 thru_hole oval (at 8.5 62.77) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (pad 41 thru_hole rect (at 8.5 60.23) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Module.3dshapes/Raspberry_Pi_3B_Run_Socketed_THT_FaceDown_MountingHoles.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
