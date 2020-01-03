@@ -1,4 +1,4 @@
-(module SOIC-28W_7.5x17.9mm_P1.27mm (layer F.Cu) (tedit 5C97300E)
+(module SOIC-28W_7.5x17.9mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SOIC, 28 Pin (JEDEC MS-013AE, https://www.analog.com/media/en/package-pcb-resources/package/35833120341221rw_28.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)

@@ -1,4 +1,4 @@
-(module Texas_S-PDSO-N10_EP1.2x2mm (layer F.Cu) (tedit 5DC5F696)
+(module Texas_S-PDSO-N10_EP1.2x2mm (layer F.Cu) (tedit 5DC5F54E)
   (descr "DFN, 10 Pin (http://www.ti.com/lit/ds/symlink/tps7a91.pdf#page=30), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)
