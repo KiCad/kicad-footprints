@@ -1,4 +1,4 @@
-(module LQFP-44_10x10mm_P0.8mm (layer F.Cu) (tedit 5C18330E)
+(module LQFP-44_10x10mm_P0.8mm (layer F.Cu) (tedit 5D9F72AF)
   (descr "LQFP, 44 Pin (https://www.nxp.com/files-static/shared/doc/package_info/98ASS23225W.pdf?&fsrch=1), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)
