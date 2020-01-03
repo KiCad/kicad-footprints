@@ -5,7 +5,7 @@
   (fp_text reference REF** (at 0 -2.025) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DFN-6-1EP_2x2mm_P0.65mm_EP0.96x1.65mm_Type_J (at 0 2.025) (layer F.Fab)
+  (fp_text value DFN-6-1EP_2x2mm_P0.65mm_EP0.96x1.65mm (at 0 2.025) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.45 -1.1) (end 0.725 -1.1) (layer F.SilkS) (width 0.15))
