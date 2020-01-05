@@ -1,5 +1,5 @@
-(module Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias (layer F.Cu) (tedit 5DC5F6A7)
-  (descr "QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf#page=117), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias (layer F.Cu) (tedit 5E11FE4E)
+  (descr "QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf#page=120), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -5.82) (layer F.SilkS)

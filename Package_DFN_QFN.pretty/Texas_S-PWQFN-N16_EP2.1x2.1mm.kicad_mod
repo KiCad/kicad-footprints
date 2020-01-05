@@ -1,5 +1,5 @@
-(module Texas_S-PWQFN-N16_EP2.1x2.1mm (layer F.Cu) (tedit 5DC5F6A7)
-  (descr "QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/drv8801.pdf#page=31), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module Texas_S-PWQFN-N16_EP2.1x2.1mm (layer F.Cu) (tedit 5E11FE4E)
+  (descr "QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/drv8801.pdf#page=31 MO-220 variation VGGC), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -3.32) (layer F.SilkS)

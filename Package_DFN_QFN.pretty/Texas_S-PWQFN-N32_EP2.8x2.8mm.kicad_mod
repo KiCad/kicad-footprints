@@ -1,5 +1,5 @@
-(module Texas_S-PWQFN-N32_EP2.8x2.8mm (layer F.Cu) (tedit 5DC5F6A7)
-  (descr "QFN, 32 Pin (https://www.ti.com/lit/ds/symlink/bq25703a.pdf#page=91), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module Texas_S-PWQFN-N32_EP2.8x2.8mm (layer F.Cu) (tedit 5E11FE4E)
+  (descr "QFN, 32 Pin (https://www.ti.com/lit/ds/symlink/bq25703a.pdf#page=90), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -3.32) (layer F.SilkS)
