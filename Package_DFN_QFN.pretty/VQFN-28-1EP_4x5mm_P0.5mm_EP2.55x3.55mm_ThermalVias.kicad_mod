@@ -1,5 +1,5 @@
-(module VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm_ThermalVias (layer F.Cu) (tedit 5DC5F6A8)
-  (descr "VQFN, 28 Pin (http://www.ti.com/lit/ds/symlink/lm5175.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm_ThermalVias (layer F.Cu) (tedit 5E11F21F)
+  (descr "VQFN, 28 Pin (http://www.ti.com/lit/ds/symlink/lm5175.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "VQFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -3.82) (layer F.SilkS)
