@@ -1,4 +1,4 @@
-(module Texas_VSON-HR-8_1.5x2mm_P0.5mm (layer F.Cu) (tedit 5D875AE3)
+(module Texas_VSON-HR-8_1.5x2mm_P0.5mm (layer F.Cu) (tedit 5DC5F54E)
   (descr "Texas  VSON-HR, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62823.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "Texas VSON-HR NoLead")
   (attr smd)

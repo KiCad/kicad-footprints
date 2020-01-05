@@ -1,4 +1,4 @@
-(module SOP-4_3.8x4.1mm_P2.54mm (layer F.Cu) (tedit 5C5B5C0A)
+(module SOP-4_3.8x4.1mm_P2.54mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SOP, 4 Pin (http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOP SO")
   (attr smd)
