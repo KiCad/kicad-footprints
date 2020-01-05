@@ -1,5 +1,5 @@
-(module VQFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm_ThermalVias (layer F.Cu) (tedit 5DC5F6A8)
-  (descr "VQFN, 16 Pin (http://www.ti.com/lit/ds/sbos354a/sbos354a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module VQFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm_ThermalVias (layer F.Cu) (tedit 5E11F21F)
+  (descr "VQFN, 16 Pin (http://www.ti.com/lit/ds/sbos354a/sbos354a.pdf, JEDEC MO-220 variant VEED-6), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "VQFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -2.82) (layer F.SilkS)
