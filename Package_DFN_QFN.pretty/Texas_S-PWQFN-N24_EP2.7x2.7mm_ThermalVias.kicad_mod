@@ -1,4 +1,4 @@
-(module Texas_S-PWQFN-N24_EP2.7x2.7mm_ThermalVias (layer F.Cu) (tedit 5DC5F6A7)
+(module Texas_S-PWQFN-N24_EP2.7x2.7mm_ThermalVias (layer F.Cu) (tedit 5E11FE4E)
   (descr "QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq25601.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
