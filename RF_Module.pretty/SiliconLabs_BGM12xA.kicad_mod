@@ -1,4 +1,4 @@
-(module SiliconLabs_BGM12xA (layer F.Cu) (tedit 5E16E7DD)
+(module SiliconLabs_BGM12xA (layer F.Cu) (tedit 5E16EAD5)
   (descr "Blue Gecko Bluetooth SiP Module with built-in antenna")
   (tags "Silicon Labs Blue Gecko Bluetooth SiP")
   (attr smd)
@@ -132,7 +132,7 @@
   (pad 56 smd rect (at 0.175 -2.75) (size 0.6 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 53 smd rect (at -2.75 -4.425) (size 0.7 4.05) (layers F.Cu))
   (pad 54 smd rect (at -2.75 -1.65) (size 0.7 0.9) (layers F.Cu))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/SiliconLabs_BGM12x.wrl
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/SiliconLabs_BGM12xA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
