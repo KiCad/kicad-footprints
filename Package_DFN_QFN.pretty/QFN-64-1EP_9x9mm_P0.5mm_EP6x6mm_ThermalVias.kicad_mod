@@ -1,5 +1,5 @@
-(module QFN-64-1EP_9x9mm_P0.5mm_EP6x6mm_ThermalVias (layer F.Cu) (tedit 5DC5F6A6)
-  (descr "QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/tusb8041.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module QFN-64-1EP_9x9mm_P0.5mm_EP6x6mm_ThermalVias (layer F.Cu) (tedit 5E1C43C4)
+  (descr "QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/tusb8041.pdf#page=42), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -5.82) (layer F.SilkS)
