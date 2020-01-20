@@ -1,6 +1,6 @@
-(module BatteryHolder_Keystone_2479_3xAAA (layer F.Cu) (tedit 5E258193)
+(module BatteryHolder_Keystone_2479_3xAAA (layer F.Cu) (tedit 5E258953)
   (descr "Keystone Battery Holder, 2479, Battery Type 3xAAA (Script generated with StandardBox.py) (Keystone Battery Holder, 2479, Battery Type 3xAAA)")
-  (tags "Keystone Battery Holder, 2479, Battery Type 3xAAA")
+  (tags "Keystone Battery Holder 2479 Battery Type 3xAAA")
   (fp_text reference REF** (at -0.09 -8.195) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
