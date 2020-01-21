@@ -1,4 +1,4 @@
-(module SparkFun_ProMicro (layer F.Cu) (tedit 5E26E1D9)
+(module SparkFun_ProMicro (layer F.Cu) (tedit 5E278E81)
   (descr "atmega32u4 module, https://www.sparkfun.com/products/12640")
   (tags "atmega32u4 microcontroller")
   (fp_text reference REF** (at 13.9446 -4.6355) (layer F.SilkS)
@@ -53,4 +53,9 @@
   (pad 3 thru_hole circle (at 0 5.08) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 2.54) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Module.3dshapes/SparkFun_ProMicro.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
