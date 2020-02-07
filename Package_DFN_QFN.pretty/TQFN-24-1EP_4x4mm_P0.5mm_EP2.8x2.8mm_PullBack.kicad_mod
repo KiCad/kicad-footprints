@@ -1,5 +1,5 @@
-(module TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack (layer F.Cu) (tedit 5DC5F6A7)
-  (descr "TQFN, 24 Pin (https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack (layer F.Cu) (tedit 5E3A7C69)
+  (descr "TQFN, 24 Pin (https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "TQFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -2.95) (layer F.SilkS)
