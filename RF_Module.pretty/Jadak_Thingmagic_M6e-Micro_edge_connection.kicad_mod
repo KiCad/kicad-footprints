@@ -1,4 +1,4 @@
-(module Jadak_Thingmagic_M6e-Micro_edge_connection (layer F.Cu) (tedit 5E429436)
+(module Jadak_Thingmagic_M6e-Micro_edge_connection (layer F.Cu) (tedit 5E4294BA)
   (descr "UHF RFID Module, dual antenna port, 30dBm")
   (tags "RFID RF module")
   (attr smd)
@@ -108,7 +108,7 @@
   (pad 31 smd roundrect (at 7.62 -22.86) (size 1.27 1.524) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 32 smd roundrect (at 10.16 -22.86) (size 1.27 1.524) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad "" np_thru_hole circle (at 0 -20.5232) (size 2.794 2.794) (drill 2.794) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/Jadak_Thingmagic_M6e-Micro_Edge_connection.wrl
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/Jadak_Thingmagic_M6e-Micro_edge_connection.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
