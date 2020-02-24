@@ -1,7 +1,6 @@
-(module Lightpipe_LPF-C012303S (layer F.Cu) (tedit 5D399D83)
+(module Lightpipe_LPF-C012303S (layer F.Cu) (tedit 5E53DE3A)
   (descr https://www.lumex.com/spec/LPF-C012303S.pdf)
   (tags "lightpipe dual tower right angle 3mm")
-  (attr virtual)
   (fp_text reference REF** (at -0.25 -5.75 270) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
