@@ -1,5 +1,6 @@
-(module Texas_EUK_R-PDSS-T7_THT (layer F.Cu) (tedit 5E562768)
+(module Texas_EUK_R-PDSS-T7_THT (layer F.Cu) (tedit 5E563507)
   (descr "Texas Instruments EUK 7 Pin Double Sided Module")
+  (tags "module pcb")
   (fp_text reference REF** (at 17.53 -2.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
