@@ -1,10 +1,10 @@
-(module Converter_DCDC_Texas_PTN78060_THT (layer F.Cu) (tedit 5E4848CA)
-  (descr "PTN78060 Wide Input 3A Adjustable Switching Regulator")
-  (tags "DCDC Converter Buck")
+(module Texas_EUW_R-PDSS-T7_THT (layer F.Cu) (tedit 5E5634FD)
+  (descr "Texas Instruments EUW 7 Pin Double Sided Module")
+  (tags "module pcb")
   (fp_text reference REF** (at 11.1 -2.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_DCDC_Texas_PTN78060_THT (at 11.1 15.6) (layer F.Fab)
+  (fp_text value Texas_EUW_R-PDSS-T7_THT (at 11.1 15.6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 24.26 -2.03) (end 24.26 14.73) (layer F.CrtYd) (width 0.05))
@@ -29,7 +29,7 @@
   (pad 5 thru_hole circle (at 15.88 12.7) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 22.23 12.7) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 22.23 0) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Texas_PTN78060_THT.wrl
+  (model ${KISYS3DMOD}/Module.3dshapes/Texas_EUW_R-PDSS-T7_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
