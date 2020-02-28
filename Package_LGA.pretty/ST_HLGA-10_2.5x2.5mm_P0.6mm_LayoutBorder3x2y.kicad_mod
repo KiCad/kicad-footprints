@@ -1,4 +1,4 @@
-(module ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y (layer F.Cu) (tedit 5CF93F4A)
+(module ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y (layer F.Cu) (tedit 5D9F7937)
   (descr "ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "ST HLGA NoLead")
   (attr smd)
