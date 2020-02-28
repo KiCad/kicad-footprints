@@ -1,10 +1,10 @@
-(module Converter_DCDC_Texas_PTN78000_THT (layer F.Cu) (tedit 5E4848AD)
-  (descr "PTN78000 Wide Input 1.5A Adjustable Switching Regulator")
-  (tags "DCDC Converter Buck")
+(module Texas_EUS_R-PDSS-T5_THT (layer F.Cu) (tedit 5E5634F4)
+  (descr "Texas Instruments EUS 5 Pin Double Sided Module")
+  (tags "module pcb")
   (fp_text reference REF** (at 7.94 -2.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_DCDC_Texas_PTN78000_THT (at 7.8 12.4) (layer F.Fab)
+  (fp_text value Texas_EUS_R-PDSS-T5_THT (at 7.8 12.4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 17.91 -2.04) (end 17.91 11.56) (layer F.CrtYd) (width 0.05))
@@ -27,7 +27,7 @@
   (pad 1 thru_hole roundrect (at 0 0) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 4 thru_hole circle (at 15.89 9.52) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 15.88 0) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Texas_PTN78000_THT.wrl
+  (model ${KISYS3DMOD}/Module.3dshapes/Texas_EUSR-PDSS-T5_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
