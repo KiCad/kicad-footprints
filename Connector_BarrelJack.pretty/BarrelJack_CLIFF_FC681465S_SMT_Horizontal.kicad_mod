@@ -1,5 +1,5 @@
-(module BarrelJack_CLIFF_FC681465S_SMT_Horizontal (layer F.Cu) (tedit 5E5B955E)
-  (descr "Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/DualDCSockets.pdf")
+(module BarrelJack_CLIFF_FC681465S_SMT_Horizontal (layer F.Cu) (tedit 5E5BA3DB)
+  (descr "Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf")
   (tags "Power Jack SMT")
   (attr smd)
   (fp_text reference REF** (at -6.5 6.5 180) (layer F.SilkS)
