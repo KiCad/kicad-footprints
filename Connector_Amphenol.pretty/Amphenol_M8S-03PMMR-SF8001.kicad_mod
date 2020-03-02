@@ -1,4 +1,4 @@
-(module Amphenol_M8S-03PMMR-SF8001 (layer F.Cu) (tedit 5E5CA53B)
+(module Amphenol_M8S-03PMMR-SF8001 (layer F.Cu) (tedit 5E5CA6E6)
   (descr "M8 Male connector for panel, 90° PCB mount (https://www.amphenolltw.com/2012download/2D%20PDF/03_M%20Series%20Sensor%20Connectors/M8S-XXPMMR-SF8001.pdf)")
   (tags "three-pin M8")
   (fp_text reference REF** (at -1.75 0.5) (layer F.SilkS)
@@ -38,8 +38,8 @@
   (pad SH thru_hole circle (at -8 0.5) (size 5 5) (drill 3) (layers *.Cu *.Mask))
   (pad SH thru_hole circle (at 4.5 0.5) (size 5 5) (drill 3) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Amphenol.3dshapes/Amphenol_M8S-03PMMR-SF8001.wrl
-    (offset (xyz -1.75 2.7 6.3))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 90))
+    (rotate (xyz 0 0 0))
   )
 )
