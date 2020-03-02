@@ -1,5 +1,5 @@
-(module Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical (layer F.Cu) (tedit 5E5CFEED)
-  (descr "Molex Pico-SPOX Connector System, 87437-1443, 14 Pins per row (https://www.molex.com/molex/products/datasheet.jsp?part=active/0874371443_PCB_HEADERS.xml)")
+(module Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical (layer F.Cu) (tedit 5E5CFF5C)
+  (descr "Molex Pico-SPOX Connector System, 87437-1443, 14 Pins per row (https://www.molex.com/pdm_docs/sd/874371443_sd.pdf#page=2)")
   (tags "molex pico spox 14")
   (attr smd)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
