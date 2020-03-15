@@ -1,5 +1,5 @@
-(module SW_SPST_Omron_B3FS-100xP (layer F.Cu) (tedit 5E1C24F1)
-  (descr "Surface Mount Tactile Switch for High-Density Mounting, 3.1mm height")
+(module SW_SPST_Omron_B3FS-100xP (layer F.Cu) (tedit 5E6E8A83)
+  (descr "Surface Mount Tactile Switch for High-Density Mounting, 3.1mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf")
   (tags "Tactile Switch")
   (attr smd)
   (fp_text reference REF** (at 0 -4.3) (layer F.SilkS)
