@@ -1,11 +1,11 @@
-(module Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD (layer F.Cu) (tedit 5E6E5776)
+(module Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD (layer F.Cu) (tedit 5E6E6A7A)
   (descr "Maxim_WLP-9 W91C1+1 https://pdfserv.maximintegrated.com/package_dwgs/21-0459.PDF")
   (tags Maxim_WLP-9)
   (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Maxim_WLP-9 (at 0.75 2.5) (layer F.Fab)
+  (fp_text value Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD (at 0.05 2.45) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.15 -1.05) (end -0.65 -1.05) (layer F.SilkS) (width 0.1))
@@ -35,7 +35,7 @@
   (pad A3 smd circle (at 0.4 -0.4 90) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad A2 smd circle (at 0 -0.4 90) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd circle (at -0.4 -0.4 90) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Maxim_WLP-9.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
