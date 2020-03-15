@@ -2,7 +2,7 @@
   (descr "ESP32-S2-WROVER(-I) Footprint")
   (tags "ESP32-S2  ESP32  WIFI")
   (attr smd)
-  (fp_text reference U1 (at 0 -20.265) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -20.265) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value ESP32-S2-WROVER (at 0.04 13.145 180) (layer F.Fab)
