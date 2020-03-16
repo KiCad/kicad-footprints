@@ -71,4 +71,9 @@
   (pad 41 smd rect (at 8.625 -10.275) (size 1.5 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 42 smd rect (at 8.625 -11.675) (size 1.5 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 43 smd rect (at -1.19 -3.735) (size 5 5) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/ESP32-S2-WROVER.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
