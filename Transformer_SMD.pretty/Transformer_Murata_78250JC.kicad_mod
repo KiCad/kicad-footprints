@@ -1,4 +1,4 @@
-(module Transformer_Murata_78250JC (layer F.Cu) (tedit 5E70E3D7)
+(module Transformer_Murata_78250JC (layer F.Cu) (tedit 5E711B0F)
   (descr "Murata 78250JC https://www.murata-ps.com/datasheet?/data/magnetics/kmp_78250j.pdf")
   (tags "Murata transformer")
   (attr smd)
@@ -39,4 +39,9 @@
   (pad 5 smd roundrect (at 5.75 0) (size 1.6 1) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 4 smd roundrect (at 5.75 -2.54) (size 1.6 1) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 6 smd roundrect (at 5.75 2.54) (size 1.6 1) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
+  (model ${KISYS3DMOD}/Transformer_SMD.3dshapes/Transformer_Murata_78250JC.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
