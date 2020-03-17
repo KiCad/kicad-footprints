@@ -1,6 +1,6 @@
-(module LED_ASMB-KTF0-0A306 (layer F.Cu) (tedit 5E713FDD)
+(module LED_ASMB-KTF0-0A306 (layer F.Cu) (tedit 5E714068)
   (descr "2220 Tricolor PLCC-4 LED")
-  (tags "Tricolor, LED")
+  (tags "Tricolor LED")
   (attr smd)
   (fp_text reference REF** (at 0 2.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
