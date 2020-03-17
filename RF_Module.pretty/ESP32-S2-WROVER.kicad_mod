@@ -1,5 +1,5 @@
 (module ESP32-S2-WROVER (layer F.Cu) (tedit 5E714EF2)
-  (descr "ESP32-S2-WROVER(-I) Footprint")
+  (descr "ESP32-S2-WROVER(-I) 2.4 GHz Wi-Fi https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf")
   (tags "ESP32-S2  ESP32  WIFI")
   (attr smd)
   (fp_text reference REF** (at 0 -20.265) (layer F.SilkS)
