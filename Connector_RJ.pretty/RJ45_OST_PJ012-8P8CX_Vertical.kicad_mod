@@ -1,5 +1,5 @@
 (module RJ45_OST_PJ012-8P8CX_Vertical (layer F.Cu) (tedit 5C214F77)
-  (descr "RJ45 vertical connector http://www.on-shore.com/wp-content/uploads/2015/09/PJ012-8P8CX.pdf")
+  (descr "RJ45 vertical connector https://www.on-shore.com/wp-content/uploads/PJ012-8P8CX.pdf")
   (tags "RJ45 PJ012")
   (fp_text reference REF** (at 4.45 14) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
