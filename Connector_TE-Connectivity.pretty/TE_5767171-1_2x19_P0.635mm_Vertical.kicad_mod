@@ -1,5 +1,5 @@
-(module TE_5767171-1_2x19_P0.635mm_Vertical (layer F.Cu) (tedit 5E5CC8CD)
-  (descr "PCB Mount Receptacle, Vertical, Board-to-Board, 38 Position, 24.003mm / .64mm [.945in] Centerline, Header Only, Palladium Nickel")
+(module TE_5767171-1_2x19_P0.635mm_Vertical (layer F.Cu) (tedit 5E71C125)
+  (descr "PCB Mount Receptacle, Vertical, Board-to-Board, 38 Position, 24.003mm / .64mm [.945in] Centerline, Header Only, Palladium Nickel (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5767171%7FB2%7Fpdf%7FEnglish%7FENG_CD_5767171_B2.pdf%7F5767171-1#page=2)")
   (tags "mictor38 receptacle board-to-board")
   (attr smd)
   (fp_text reference REF** (at 0 -10.8) (layer F.SilkS)
