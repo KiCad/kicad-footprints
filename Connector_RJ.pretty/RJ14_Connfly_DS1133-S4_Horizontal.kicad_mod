@@ -1,4 +1,4 @@
-(module RJ14_Connfly_DS1133-S4_Horizontal (layer F.Cu) (tedit 5E73C5CA)
+(module RJ14_Connfly_DS1133-S4_Horizontal (layer F.Cu) (tedit 5E73C846)
   (descr "RJ14 connector 6P4C Horizontal http://www.connfly.com/userfiles/image/UpLoadFile/File/2012/10/26/DS1133.pdf")
   (tags "RJ14 connector 6P4C Connfly DS1133")
   (fp_text reference REF** (at -3.2 -9.64 180) (layer F.SilkS)
@@ -39,7 +39,7 @@
   (pad 3 thru_hole circle (at 2.04 0 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 7.53 -2.3 180) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 3.06 2.54 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ11_Connfly_DS1133-S4.wrl
+  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ14_Connfly_DS1133-S4_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
