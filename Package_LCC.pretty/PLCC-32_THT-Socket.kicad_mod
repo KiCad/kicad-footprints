@@ -1,5 +1,5 @@
-(module PLCC-32_THT-Socket (layer F.Cu) (tedit 5E71CA96)
-  (descr "PLCC, 32 pins, through hole")
+(module PLCC-32_THT-Socket (layer F.Cu) (tedit 5E74E4F1)
+  (descr "PLCC, 32 pins, through hole, http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0981_CO.pdf")
   (tags "plcc leaded")
   (fp_text reference REF** (at -1.27 -6.22) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
