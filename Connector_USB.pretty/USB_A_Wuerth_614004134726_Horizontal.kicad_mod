@@ -1,4 +1,6 @@
-(module USB_A_Wuerth_614004134726_Horizontal (layer F.Cu) (tedit 5E7509F1)
+(module USB_A_Wuerth_614004134726_Horizontal (layer F.Cu) (tedit 5E750C06)
+  (descr "USB A connector https://www.we-online.com/catalog/datasheet/614004134726.pdf")
+  (tags "USB_A Female Connector receptacle")
   (fp_text reference REF** (at 0 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -29,4 +31,9 @@
   (pad 5 thru_hole circle (at 9.125 2.72) (size 2 2) (drill 1.35) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 9.125 -2.72) (size 2 2) (drill 1.35) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 2.125 -2.72) (size 2 2) (drill 1.35) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_A_Wuerth_614004134726_Horizontal.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
