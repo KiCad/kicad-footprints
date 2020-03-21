@@ -1,4 +1,4 @@
-(module RC-SM1276 (layer F.Cu) (tedit 5E7571B1)
+(module Radiocontrolli_RC-SM1276 (layer F.Cu) (tedit 5E75741B)
   (descr "radiocontrolli SX1276, 868MHz LoRa module")
   (tags "lora transceiver smd module")
   (attr smd)
@@ -51,7 +51,7 @@
   (pad 18 smd rect (at 7.62 -0.12) (size 1.6 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 20 thru_hole rect (at 0 -8.08) (size 1.2 1.4) (drill 0.6) (layers *.Cu *.Mask))
   (pad 19 thru_hole rect (at 0 -9.69) (size 1.2 1.4) (drill 0.6) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/RC-SM1276.wrl
+  (model ${KISYS3DMOD}/RF_Module.3dshapes/Radiocontrolli_RC-SM1276.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
