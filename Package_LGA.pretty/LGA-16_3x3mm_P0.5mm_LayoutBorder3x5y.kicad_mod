@@ -1,4 +1,4 @@
-(module LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y (layer F.Cu) (tedit 5CF93F4A)
+(module LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y (layer F.Cu) (tedit 5D9F7937)
   (descr "LGA, 16 Pin (http://www.st.com/resource/en/datasheet/lis331hh.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "LGA NoLead")
   (attr smd)

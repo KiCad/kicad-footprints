@@ -1,5 +1,5 @@
-(module USB3_A_Plug_Wuerth_692112030100_Horizontal (layer F.Cu) (tedit 5A588E4B)
-  (descr "USB type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf")
+(module USB3_A_Plug_Wuerth_692112030100_Horizontal (layer F.Cu) (tedit 5E75439F)
+  (descr "USB3 type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf")
   (tags "usb A plug horizontal")
   (attr smd)
   (fp_text reference REF** (at 0 -8) (layer F.SilkS)
