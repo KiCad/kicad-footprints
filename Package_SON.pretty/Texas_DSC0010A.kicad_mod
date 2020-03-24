@@ -1,4 +1,6 @@
-(module Texas_DSC0010A (layer F.Cu) (tedit 5E2830C1)
+(module Texas_DSC0010A (layer F.Cu) (tedit 5E79D79B)
+  (descr "3x3mm Body, 0.5mm Pitch, DSC0010A, WSON, www.ti.com/lit/ds/symlink/dac084s085.pdf")
+  (tags "0.5 DSC0010J WSON")
   (attr smd)
   (fp_text reference REF** (at 0 -2.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
