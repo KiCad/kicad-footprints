@@ -1,4 +1,4 @@
-(module TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm (layer F.Cu) (tedit 5E78E188)
+(module TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm (layer F.Cu) (tedit 5E7A0D60)
   (descr "TDFN, 8 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0168.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "TDFN NoLead")
   (attr smd)
