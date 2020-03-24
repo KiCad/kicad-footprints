@@ -1,4 +1,4 @@
-(module Texas_R-PWSON-N8_EP0.4x1.2mm (layer F.Cu) (tedit 5E79D853)
+(module Texas_R-PWSON-N8_EP0.4x1.2mm (layer F.Cu) (tedit 5E79D958)
   (fp_text reference REF** (at 0 -1.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
