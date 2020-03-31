@@ -1,4 +1,4 @@
-(module Infineon_PG-TSON-8-3_GDS (layer F.Cu) (tedit 5E83C0DA)
+(module Infineon_PG-TSON-8-3_GDS (layer F.Cu) (tedit 5E83C20E)
   (descr https://www.infineon.com/cms/en/product/packages/PG-TSON/PG-TSON-8-3/)
   (tags PG-TSON-8-3)
   (attr smd)
@@ -44,7 +44,7 @@
   (pad G smd rect (at 1.855 2.75) (size 0.64 1.1) (layers F.Cu F.Mask))
   (pad S smd rect (at -0.635 2.75) (size 3.18 1.1) (layers F.Cu F.Mask))
   (pad D smd rect (at 0 -1.05) (size 4.55 4.5) (layers F.Cu F.Mask))
-  (model PG-TSON-8-3_GDS
+  (model ${KISYS3DMOD}/Package_SON.3dshapes/PG-TSON-8-3_GDS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
