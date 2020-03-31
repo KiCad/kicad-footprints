@@ -1,4 +1,4 @@
-(module lsts-discretes:Infineon_PG-TSON-8-3_GDS (layer F.Cu) (tedit 5E8372A1)
+(module Infineon_PG-TSON-8-3_GDS (layer F.Cu) (tedit 5E8372A1)
   (descr https://www.infineon.com/cms/en/product/packages/PG-TSON/PG-TSON-8-3/)
   (tags PG-TSON-8-3)
   (attr smd)
