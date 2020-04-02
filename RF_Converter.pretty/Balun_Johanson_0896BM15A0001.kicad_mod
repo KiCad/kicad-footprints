@@ -1,4 +1,4 @@
-(module Balun_Johanson_5400BL15B050E (layer F.Cu) (tedit 5C321D62)
+(module Balun_Johanson_0896BM15A0001 (layer F.Cu) (tedit 5C321D62)
   (descr https://www.johansontechnology.com/datasheets/0896BM15A0001/0896BM15A0001.pdf)
   (tags "balun RF")
   (attr smd)
