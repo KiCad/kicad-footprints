@@ -1,5 +1,5 @@
-(module WDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm (layer F.Cu) (tedit 5E87E36F)
-  (descr "WDFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MNY_C04-0129E-MNY.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module WDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm (layer F.Cu) (tedit 5E87E70E)
+  (descr "WDFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8L_WDFN_5x6mm_MF_C04210B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WDFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -3.45) (layer F.SilkS)
