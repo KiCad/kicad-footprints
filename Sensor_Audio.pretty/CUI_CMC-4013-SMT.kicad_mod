@@ -1,4 +1,4 @@
-(module CUI_CMC-4013-SMT (layer F.Cu) (tedit 5E8D6DAB)
+(module CUI_CMC-4013-SMT (layer F.Cu) (tedit 5E8D7539)
   (attr smd)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -13,7 +13,7 @@
     (effects (font (size 0.8 0.8) (thickness 0.12)))
   )
   (pad 2 smd circle (at 0 0) (size 1 1) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd custom (at 0 -1.375) (size 0.75 0.75) (layers F.Cu F.Paste F.Mask)
+  (pad 1 smd custom (at 0 -1.375) (size 0.75 0.75) (layers F.Cu F.Mask)
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
