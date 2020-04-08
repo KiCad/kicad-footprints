@@ -1,5 +1,5 @@
-(module Plug_3.5mm_CUI_SP-3541 (layer F.Cu) (tedit 5E8DA6F8)
-  (descr "4 contacts, 3.5mm audio plug, https://www.cuidevices.com/product/resource/digikeypdf/sp-3541.pdf")
+(module Plug_3.5mm_CUI_SP-3541 (layer F.Cu) (tedit 5E8DB561)
+  (descr "4 contacts, 3.5mm audio plug, https://www.cuidevices.com/product/resource/pdf/sp-3541.pdf")
   (tags "3.5mm plug TRRS")
   (fp_text reference REF** (at 0 8.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
