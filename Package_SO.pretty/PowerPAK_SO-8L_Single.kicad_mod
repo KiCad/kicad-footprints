@@ -1,4 +1,4 @@
-(module PowerPAK_SO-8L_Single (layer F.Cu) (tedit 5E923748)
+(module PowerPAK_SO-8L_Single (layer F.Cu) (tedit 5E923AD4)
   (descr "PowerPAK SO-8L Single (https://www.vishay.com/docs/64721/an913.pdf)")
   (tags "PowerPAK SO-8L_Single")
   (attr smd)
@@ -30,7 +30,7 @@
   (pad 5 smd rect (at 0 -2.2725) (size 0.51 0.585) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.87 2.215) (size 0.41 0.47) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.08 0) (size 3.99 3.96) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/PowerPAK_SO-8L.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/PowerPAK_SO-8L_Single.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
