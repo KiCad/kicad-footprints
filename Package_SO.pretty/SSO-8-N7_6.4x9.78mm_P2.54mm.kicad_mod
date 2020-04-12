@@ -1,4 +1,4 @@
-(module SSO-8_6.4x9.78mm_P2.54mm (layer F.Cu) (tedit 5E93617E)
+(module SSO-8-N7_6.4x9.78mm_P2.54mm (layer F.Cu) (tedit 5E93617E)
   (descr "SSO, 8 Pin (https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SSO SO")
   (attr smd)
@@ -36,7 +36,7 @@
   (pad 5 smd roundrect (at 4.3 3.81) (size 1.85 1.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.178571))
   (pad 6 smd roundrect (at 4.3 1.27) (size 1.85 1.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.178571))
   (pad 8 smd roundrect (at 4.3 -3.81) (size 1.85 1.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.178571))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/SSO-8_6.4x9.78mm_P2.54mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/SSO-8-N7_6.4x9.78mm_P2.54mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
