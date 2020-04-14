@@ -1,10 +1,10 @@
-(module Heatsink_Aavid_576802B3900G (layer F.Cu) (tedit 5E94D82B)
+(module Heatsink_Aavid_576802B03900G (layer F.Cu) (tedit 5E94D82B)
   (descr "Heatsink, 14.48x12.7x19.05mm, TO-220/TO-262, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Plug-In-5768.pdf")
   (tags heatsink)
   (fp_text reference REF** (at 6.35 -8.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Heatsink_Aavid_576802B3900G (at 6.35 8.5) (layer F.Fab)
+  (fp_text value Heatsink_Aavid_576802B03900G (at 6.35 8.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 6.35 0) (layer F.Fab)
@@ -33,7 +33,7 @@
   (fp_line (start -1.75 7.49) (end 12.55 7.49) (layer F.CrtYd) (width 0.05))
   (fp_line (start -0.515 1.7) (end -0.515 6.46) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Heatsink.3dshapes/Heatsink_Aavid_576802B3900G.wrl
+  (model ${KISYS3DMOD}/Heatsink.3dshapes/Heatsink_Aavid_576802B03900G.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
