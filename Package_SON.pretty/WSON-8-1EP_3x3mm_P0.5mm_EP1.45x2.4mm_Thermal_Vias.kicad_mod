@@ -1,5 +1,5 @@
-(module WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm_Thermal_Vias (layer F.Cu) (tedit 5E9969EC)
-  (descr "8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf")
+(module WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm_Thermal_Vias (layer F.Cu) (tedit 5E996BC1)
+  (descr "8-Lead Plastic WSON, 3x3mm Body, 0.5mm Pitch, WSON-8, https://www.ti.com/lit/ds/symlink/ina333.pdf")
   (tags "WSON 8 1EP")
   (attr smd)
   (fp_text reference REF** (at 0.35 -2.45) (layer F.SilkS)
@@ -38,7 +38,7 @@
   (pad 9 thru_hole circle (at -0.475 0) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 9 thru_hole circle (at 0 -0.95) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 9 thru_hole circle (at 0 0.95) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
-  (model ${KISYS3DMOD}/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm.wrl
+  (model ${KISYS3DMOD}/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
