@@ -1,4 +1,4 @@
-(module Relay_DPDT_Kemet_EE2_NU_Double-Coil (layer F.Cu) (tedit 5E9CC3F9)
+(module Relay_DPDT_Kemet_EE2_NU_Double-Coil (layer F.Cu) (tedit 5E9CDBA6)
   (descr "Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf")
   (tags "Kemet EC2 signal relay DPDT double coil latching surface mount SMD")
   (attr smd)
@@ -37,7 +37,6 @@
   (fp_line (start 0.83 0.25) (end 4.25 0.25) (layer F.SilkS) (width 0.12))
   (fp_line (start 13.53 -7.53) (end 13.99 -7.53) (layer F.SilkS) (width 0.12))
   (fp_line (start 13.53 0.25) (end 13.99 0.25) (layer F.SilkS) (width 0.12))
-  (fp_line (start 0 1.76) (end 0 1.51) (layer F.Fab) (width 0.01))
   (fp_line (start -0.83 0.25) (end -0.83 1.37) (layer F.SilkS) (width 0.12))
   (fp_line (start 0.83 0.25) (end 0.83 1.37) (layer F.SilkS) (width 0.12))
   (fp_line (start -1.29 -7.53) (end -0.83 -7.53) (layer F.SilkS) (width 0.12))
