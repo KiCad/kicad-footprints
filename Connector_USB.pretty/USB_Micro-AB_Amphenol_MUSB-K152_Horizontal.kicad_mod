@@ -1,4 +1,4 @@
-(module USB_Micro-AB_Amphenol_MUSB-K152_Horizontal (layer F.Cu) (tedit 5E9CB5E9)
+(module USB_Micro-AB_Amphenol_MUSB-K152_Horizontal (layer F.Cu) (tedit 5E9CB6B2)
   (descr http://www.tensility.com/pdffiles/54-00023.pdf)
   (tags "usb mini receptacle vertical")
   (fp_text reference REF** (at -6.32 -2.29) (layer F.SilkS)
@@ -47,7 +47,7 @@
   (pad 6 thru_hole oval (at 5.55 0.8) (size 1.65 3.85) (drill oval 0.95 3.15) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Micro-AB_Amphenol_MUSB-K152_Horizontal.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0 0 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
