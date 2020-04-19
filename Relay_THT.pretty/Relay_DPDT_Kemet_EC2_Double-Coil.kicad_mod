@@ -1,4 +1,4 @@
-(module Relay_DPDT_Kemet_EC2_Double-Coil (layer F.Cu) (tedit 5E9CE052)
+(module Relay_DPDT_Kemet_EC2_Double-Coil (layer F.Cu) (tedit 5E9CE112)
   (descr "Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf")
   (tags "Kemet EC2 signal relay DPDT double coil latching through hole THT")
   (fp_text reference REF** (at 6.35 -7.41 180) (layer F.SilkS)
@@ -46,9 +46,4 @@
   (pad 4 thru_hole circle (at 7.62 0 90) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5.08 0 90) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole roundrect (at 0 0 90) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.167))
-  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_DPDT_Omron_G2RL.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

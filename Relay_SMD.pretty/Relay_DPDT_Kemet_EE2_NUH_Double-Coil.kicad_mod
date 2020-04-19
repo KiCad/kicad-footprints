@@ -1,4 +1,4 @@
-(module Relay_DPDT_Kemet_EE2_NUH_Double-Coil (layer F.Cu) (tedit 5E9CDFB9)
+(module Relay_DPDT_Kemet_EE2_NUH_Double-Coil (layer F.Cu) (tedit 5E9CE0EC)
   (descr "Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf")
   (tags "Kemet EC2 signal relay DPDT double coil latching surface mount SMD")
   (attr smd)
@@ -51,9 +51,4 @@
   (pad 9 smd roundrect (at 1.27 -3.15) (size 1.11 2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.225))
   (pad 10 smd roundrect (at -1.27 -3.15) (size 1.11 2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.225))
   (pad 12 smd roundrect (at -6.35 -3.15) (size 1.11 2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.225))
-  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_DPDT_Omron_G2RL.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
