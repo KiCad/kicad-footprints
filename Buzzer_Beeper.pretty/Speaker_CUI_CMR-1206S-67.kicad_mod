@@ -1,4 +1,4 @@
-(module Speaker_CUI_CMR-1206S-67 (layer F.Cu) (tedit 5E9EC9CE)
+(module Speaker_CUI_CMR-1206S-67 (layer F.Cu) (tedit 5E9ECC8C)
   (descr "Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf")
   (tags "speaker CUI")
   (attr smd)
@@ -41,4 +41,9 @@
   (fp_line (start 3.2 3.25) (end 4.4 3.25) (layer F.CrtYd) (width 0.05))
   (pad 2 smd rect (at 5.4 2.3 180) (size 1.5 2) (layers F.Cu F.Mask))
   (pad 1 smd rect (at -5.4 2.3 180) (size 1.5 2) (layers F.Cu F.Mask))
+  (model ${KISYS3DMOD}/Buzzer_Beeper.3dshapes/Speaker_CUI_CMR-1206S-67.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
