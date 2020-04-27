@@ -1,4 +1,4 @@
-(module TDFN-10-1EP_2x3mm_P0.5mm_EP2.08x0.8mm (layer F.Cu) (tedit 5EA6A7AF)
+(module TDFN-10-1EP_2x3mm_P0.5mm_EP2.08x0.8mm (layer F.Cu) (tedit 5EA6ACD0)
   (descr "10-lead plastic dual flat, 3x2x0.75mm size, 0.5mm pitch (https://pdfserv.maximintegrated.com/package_dwgs/21-0429.PDF & https://pdfserv.maximintegrated.com/land_patterns/90-0082.PDF)")
   (tags "TDFN DFN 0.5mm")
   (attr smd)
@@ -35,7 +35,7 @@
   (pad "" smd rect (at 0 0.5) (size 0.7 0.65) (layers F.Paste))
   (pad 5 smd rect (at -0.99 1) (size 0.7 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 0.99 -1) (size 0.7 0.3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/TDFN-10-1EP_3x2mm_P0.5mm_EP2.08x0.8mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/TDFN-10-1EP_2x3mm_P0.5mm_EP2.08x0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
