@@ -1,4 +1,4 @@
-(module VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias (layer F.Cu) (tedit 5E1EFB7B)
+(module VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias (layer F.Cu) (tedit 5EA80D29)
   (descr "VQFN, 24 Pin (https://www.nxp.com/docs/en/package-information/SOT616-3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "VQFN NoLead")
   (attr smd)
