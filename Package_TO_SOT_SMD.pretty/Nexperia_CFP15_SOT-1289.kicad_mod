@@ -35,7 +35,7 @@
   (pad "" smd rect (at -3.15 0) (size 0.6 2.4) (layers F.Paste))
   (pad "" smd rect (at -1.7 0.95) (size 1.9 1.7) (layers F.Paste))
   (pad "" smd rect (at 0.4 0.95) (size 1.9 1.7) (layers F.Paste))
-  (model ${KISYS3DMOD}/Diode_TO_SOT_SMD.3dshapes/Nexperia_CFP15_SOT-1289.wrl
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/Nexperia_CFP15_SOT-1289.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
