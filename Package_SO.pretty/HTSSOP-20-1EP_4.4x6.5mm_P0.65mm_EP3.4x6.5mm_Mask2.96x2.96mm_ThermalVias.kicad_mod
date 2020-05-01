@@ -1,4 +1,4 @@
-(module HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias (layer F.Cu) (tedit 5EAB35F2)
+(module HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias (layer F.Cu) (tedit 5EAC29DD)
   (descr "HTSSOP, 20 Pin (https://www.ti.com/lit/ds/symlink/tps2663.pdf#page=49), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "HTSSOP SO")
   (attr smd)
