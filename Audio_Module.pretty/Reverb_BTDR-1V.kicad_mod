@@ -39,7 +39,7 @@
   (pad 5 thru_hole circle (at 50.62 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 53.16 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 55.7 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Reverb_Belton.3dshapes/Reverb_BTDR-1V.wrl
+  (model ${KISYS3DMOD}/Audio_Module.3dshapes/Reverb_BTDR-1V.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
