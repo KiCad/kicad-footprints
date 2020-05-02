@@ -1,5 +1,5 @@
-(module Fuseholder_TR5_Littelfuse_No560_No460 (layer F.Cu) (tedit 5A1C8972)
-  (descr "Fuse, Fuseholder, TR5, Littelfuse/Wickmann, No. 460, No560,")
+(module Fuseholder_TR5_Littelfuse_No560_No460 (layer F.Cu) (tedit 5C39BAE2)
+  (descr "Fuse, Fuseholder, TR5, Littelfuse/Wickmann, No. 460, No560, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_holders/littelfuse_fuse_holder_559_560_datasheet.pdf.pdf")
   (tags "Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560 ")
   (fp_text reference REF** (at 2.39 -6.89) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
