@@ -1,5 +1,5 @@
-(module SMA_Wuerth_60312202114511_EdgeMount (layer F.Cu) (tedit 5EAFD9AE)
-  (descr "SMA PCB End Launch Jack Flat Tab with THT Grounding Pins for 2.8mm Max. PCB WR-SMA")
+(module SMA_Wuerth_60312202114511_EdgeMount (layer F.Cu) (tedit 5EAFDA63)
+  (descr https://www.we-online.com/catalog/datasheet/60312202114511.pdf)
   (tags SMA)
   (attr smd)
   (fp_text reference REF** (at -5.4 0 90) (layer F.SilkS)
