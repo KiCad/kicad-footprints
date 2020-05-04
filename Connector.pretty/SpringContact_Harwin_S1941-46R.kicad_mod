@@ -1,8 +1,8 @@
-(module SpringContact_Harwin_S1941-46R (layer F.Cu) (tedit 5EB03665)
+(module SpringContact_Harwin_S1941-46R (layer F.Cu) (tedit 5EB03931)
   (descr https://cdn.harwin.com/pdfs/S1941R.pdf)
   (tags "spring contact emi emc shield")
   (attr smd)
-  (fp_text reference REF** (at -1 -4) (layer F.SilkS) hide
+  (fp_text reference REF** (at -1 -4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value SpringContact_Harwin_S1941-46R (at -1 4) (layer F.Fab)
@@ -43,8 +43,13 @@
   (fp_line (start -0.6 -2.85) (end 1.2 -2.85) (layer F.Fab) (width 0.1))
   (fp_arc (start -1.1 2.85) (end -1.6 2.85) (angle 180) (layer F.Fab) (width 0.1))
   (fp_line (start -0.6 2.85) (end 1.2 2.85) (layer F.Fab) (width 0.1))
+  (fp_line (start 3 0) (end 3 3) (layer F.CrtYd) (width 0.01))
+  (fp_line (start 3 3) (end -7 3) (layer F.CrtYd) (width 0.01))
+  (fp_line (start -7 3) (end -7 -3) (layer F.CrtYd) (width 0.01))
+  (fp_line (start -7 -3) (end 3 -3) (layer F.CrtYd) (width 0.01))
+  (fp_line (start 3 -3) (end 3 0) (layer F.CrtYd) (width 0.01))
   (pad 1 smd rect (at -1.1 0) (size 4.6 5.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector.3dshapes/SpringContact_Harwin_S1941-46R
+  (model ${KISYS3DMOD}/Connector.3dshapes/SpringContact_Harwin_S1941-46R.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
