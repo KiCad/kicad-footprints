@@ -1,4 +1,4 @@
-(module R_0815_2038Metric_Pad1.53x4.00mm_HandSolder (layer F.Cu) (tedit 5B301BBD)
+(module R_0815_2038Metric_Pad1.53x4.00mm_HandSolder (layer F.Cu) (tedit 5EBA9317)
   (descr "Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.yageo.com/documents/recent/PYu-PRPFPH_521_RoHS_L_0.pdf), generated with kicad-footprint-generator")
   (tags "resistor handsolder")
   (attr smd)

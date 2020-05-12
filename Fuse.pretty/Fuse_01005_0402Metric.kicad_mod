@@ -1,6 +1,6 @@
-(module Fuse_01005_0402Metric (layer F.Cu) (tedit 5B301BBE)
+(module Fuse_01005_0402Metric (layer F.Cu) (tedit 5EBA931A)
   (descr "Fuse SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
-  (tags resistor)
+  (tags fuse)
   (attr smd)
   (fp_text reference REF** (at 0 -1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
