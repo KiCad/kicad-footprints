@@ -1,4 +1,4 @@
-(module LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y (layer F.Cu) (tedit 5CF93F4A)
+(module LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y (layer F.Cu) (tedit 5D9F7937)
   (descr "LGA, 14 Pin (http://www.st.com/resource/en/datasheet/lsm303dlhc.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "LGA NoLead")
   (attr smd)

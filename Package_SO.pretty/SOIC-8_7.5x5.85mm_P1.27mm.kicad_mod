@@ -1,4 +1,4 @@
-(module SOIC-8_7.5x5.85mm_P1.27mm (layer F.Cu) (tedit 5CD9BC68)
+(module SOIC-8_7.5x5.85mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SOIC, 8 Pin (http://www.ti.com/lit/ml/mpds382b/mpds382b.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)
