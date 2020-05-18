@@ -1,4 +1,5 @@
-(module LED_ASMB-MTB1-0A3A2_PLCC4_2.8x3.2mm_P1.5mm (layer F.Cu) (tedit 5EC28922)
+(module LED_ASMB-MTB1-0A3A2_PLCC4_2.8x3.2mm_P1.5mm (layer F.Cu) (tedit 5EC28BC9)
+  (descr "PLCC-4 Tricolor Black Surface LED")
   (tags "LED RGB PLCC")
   (attr smd)
   (fp_text reference REF** (at 0 -2.3) (layer F.SilkS)
