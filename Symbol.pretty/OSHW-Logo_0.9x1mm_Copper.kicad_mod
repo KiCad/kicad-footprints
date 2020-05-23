@@ -5,7 +5,7 @@
  (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
   (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value OSHW-Logo_0.9x1mm_copper (at 0.75 0) (layer F.Fab) hide
+  (fp_text value OSHW-Logo_0.9x1mm_Copper (at 0.75 0) (layer F.Fab) hide
   (effects (font (size 1 1)(thickness 0.15)))
   )
   (fp_poly (pts (xy -0.358945 0.244272) (xy -0.355702 0.246894) (xy -0.355701 0.246942) (xy -0.353480 0.248845) (xy -0.348681 0.246942) (xy -0.340071 0.244300) (xy -0.329625 0.243300) (xy -0.316327 0.245507)
