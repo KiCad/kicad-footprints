@@ -1,4 +1,4 @@
-(module L_TracoPower_TCK-047 (layer F.Cu) (tedit 5EC8AD95)
+(module L_TracoPower_TCK-047_5.2x5.8mm (layer F.Cu) (tedit 5EC8ADDF)
   (descr "Inductor, Traco, TCK-047, 5.2x5.8mm, https://www.tracopower.com/products/tck047.pdf")
   (tags "inductor smd traco")
   (attr smd)
