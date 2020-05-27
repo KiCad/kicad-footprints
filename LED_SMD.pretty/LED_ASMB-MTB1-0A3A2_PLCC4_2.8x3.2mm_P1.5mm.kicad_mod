@@ -1,4 +1,4 @@
-(module LED_ASMB-MTB1-0A3A2_PLCC4_2.8x3.2mm_P1.5mm (layer F.Cu) (tedit 5EC28BC9)
+(module LED_ASMB-MTB1-0A3A2_PLCC4_2.8x3.2mm_P1.5mm (layer F.Cu) (tedit 5ECEA258)
   (descr "PLCC-4 Tricolor Black Surface LED")
   (tags "LED RGB PLCC")
   (attr smd)
@@ -24,8 +24,8 @@
   (fp_circle (center 0 0) (end 0 -1.2) (layer F.Fab) (width 0.1))
   (fp_line (start -0.9 -1.4) (end -1.6 -0.7) (layer F.Fab) (width 0.1))
   (pad 3 smd rect (at 1.5 0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
-  (pad 4 smd rect (at 1.5 -0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at -1.5 0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 1.5 -0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at -1.5 0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.5 -0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_ASMB-MTB1-0A3A2_PLCC4_2.8x3.2mm_P1.5mm.wrl
     (at (xyz 0 0 0))
