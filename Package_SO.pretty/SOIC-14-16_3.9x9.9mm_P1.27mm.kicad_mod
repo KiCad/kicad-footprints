@@ -1,5 +1,5 @@
-(module SOIC-14-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5EC8A6D6)
-  (descr "SOIC, 16 Pin (UCC256301, https://www.ti.com/lit/ds/symlink/ucc256301.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module SOIC-14-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5ECF2194)
+  (descr "SOIC, 16 Pin package with pin 2 and 13 removed for voltage clearance  (UCC256301, https://www.ti.com/lit/ds/symlink/ucc256301.pdf)")
   (tags "SOIC SO")
   (attr smd)
   (fp_text reference REF** (at 0 -5.9) (layer F.SilkS)
