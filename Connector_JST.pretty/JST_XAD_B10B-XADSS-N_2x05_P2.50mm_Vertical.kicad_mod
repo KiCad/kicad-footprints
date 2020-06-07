@@ -48,7 +48,7 @@
   (pad 4 thru_hole circle (at -2.5 -2.5 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -2.5 0 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -2.5 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
-  (pad 1 thru_hole circle (at 0 0 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 1 thru_hole roundrect (at 0 0 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (roundrect_rratio 0.15))
   (pad 9 thru_hole circle (at -10 0 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at -10 -2.5 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_JST.3dshapes/JST_XAD_B10B-XADSS-N_2x05_P2.50mm_Vertical.step
