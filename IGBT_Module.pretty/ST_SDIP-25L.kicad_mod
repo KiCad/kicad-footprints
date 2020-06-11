@@ -1,4 +1,4 @@
-(module ST_SDIP-25L (layer F.Cu) (tedit 5EE2A8C3)
+(module ST_SDIP-25L (layer F.Cu) (tedit 5EE2ADA7)
   (descr "25-lead though-hole mounted SDIP package, W25.23mm, L41.2mm, row spacing 25.23mm (993 mils)")
   (tags "THT DIP")
   (fp_text reference REF** (at -5.055 1.799 90) (layer F.SilkS)
@@ -66,7 +66,7 @@
   (pad 12 thru_hole circle (at 0 30.85 270) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 0 36.8 270) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 0 34.45 270) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_DIP.3dshapes/ST_SDIP-25L_W25.23mm_L41.2mm.wrl
+  (model ${KISYS3DMOD}/IGBT_Module.3dshapes/ST_SDIP-25L.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
