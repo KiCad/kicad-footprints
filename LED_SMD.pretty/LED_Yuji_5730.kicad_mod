@@ -1,4 +1,4 @@
-(module LED_Yuji_5730 (layer F.Cu) (tedit 5DB76A38)
+(module LED_Yuji_5730 (layer F.Cu) (tedit 5DC5BBBC)
   (descr LED,Yuji,5730,https://cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf)
   (tags "LED Yuji 5730")
   (attr smd)
@@ -23,9 +23,9 @@
     (effects (font (size 0.8 0.8) (thickness 0.08)))
   )
   (fp_line (start -2.35 -1.1) (end -1.95 -1.5) (layer F.Fab) (width 0.1))
-  (pad 2 smd rect (at 2.85 0) (size 1.1 1.7) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.85 0) (size 1.1 1.7) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at -0.35 0) (size 2.5 1.7) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 2.85 0) (size 1.1 1.7) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0.35 0) (size 2.5 1.7) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Yuji_5730.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
