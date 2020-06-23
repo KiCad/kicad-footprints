@@ -1,5 +1,5 @@
-(module RAK811 (layer F.Cu) (tedit 5EF24E12)
-  (descr "RAK811 LPWAN Module")
+(module RAK811 (layer F.Cu) (tedit 5EF250FB)
+  (descr "RAK811 LPWAN Module https://downloads.rakwireless.com/LoRa/RAK811/Hardware_Specification/RAK811_LoRa_Module_Datasheet_V1.4.pdf")
   (tags "LoRa LoRaWAN RAK811")
   (attr smd)
   (fp_text reference REF** (at -6.35 -12.7) (layer F.SilkS)
