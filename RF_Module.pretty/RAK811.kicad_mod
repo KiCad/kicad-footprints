@@ -1,4 +1,4 @@
-(module RAK811 (layer F.Cu) (tedit 5EEAFA95)
+(module RAK811 (layer F.Cu) (tedit 5EF248FC)
   (descr "RAK811 LPWAN Module")
   (tags "LoRa LoRaWAN RAK811")
   (attr smd)
@@ -12,10 +12,8 @@
   (fp_line (start 8 -12) (end 8 12) (layer F.CrtYd) (width 0.05))
   (fp_line (start -8 12) (end 8 12) (layer F.CrtYd) (width 0.05))
   (fp_line (start -8 -12) (end 8 -12) (layer F.CrtYd) (width 0.05))
-  (fp_circle (center -7.3 -11.3) (end -6.9 -11.3) (layer F.SilkS) (width 0.12))
   (fp_line (start 7.3 -11.3) (end 7.3 -9.9) (layer F.SilkS) (width 0.12))
   (fp_line (start 5.4 -11.3) (end 7.3 -11.3) (layer F.SilkS) (width 0.12))
-  (fp_line (start -7.3 -11.3) (end -7.3 -9.9) (layer F.SilkS) (width 0.12))
   (fp_line (start -7.3 -11.3) (end -5.4 -11.3) (layer F.SilkS) (width 0.12))
   (fp_line (start 7.3 9.9) (end 7.3 11.3) (layer F.SilkS) (width 0.12))
   (fp_line (start 5.4 11.3) (end 7.3 11.3) (layer F.SilkS) (width 0.12))
@@ -68,4 +66,3 @@
     (rotate (xyz 0 0 0))
   )
 )
-
