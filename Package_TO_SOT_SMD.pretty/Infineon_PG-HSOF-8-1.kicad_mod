@@ -59,6 +59,7 @@
       (gr_poly (pts
          (xy -1.45 -4.85) (xy -5.15 -4.85) (xy -5.15 4.85) (xy -1.45 4.85)) (width 0))
     ))
+  (pad "" smd circle (at -0.07 -4.2) (size 1 1) (layers F.Paste))
   (pad "" smd circle (at 1.13 -4.2) (size 1 1) (layers F.Paste))
   (pad "" smd circle (at 5.93 -4.2) (size 1 1) (layers F.Paste))
   (pad "" smd circle (at -0.07 -3) (size 1 1) (layers F.Paste))
