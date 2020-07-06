@@ -1,4 +1,4 @@
-(module MLF-12-1EP_3x3mm_P0.5mm_EP1.8x1.125mm (layer F.Cu) (tedit 5F03A943)
+(module MLF-12-1EP_3x3mm_P0.5mm_EP1.8x1.125mm (layer F.Cu) (tedit 5F03ABD6)
   (descr "MLF, 12 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/MIC33050-4MHz-Internal-Inductor-PWM-Buck-Power-Module-with-HyperLight-Load-DS20006120A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "MLF NoLead")
   (attr smd)
@@ -34,7 +34,7 @@
   (pad 10 smd roundrect (at 1.475 -0.25) (size 0.75 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 11 smd roundrect (at 1.475 -0.75) (size 0.75 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 12 smd roundrect (at 1.475 -1.25) (size 0.75 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (pad 13 smd roundrect (at 0 -0.6985) (size 1.8 1.125) (layers F.Cu F.Mask) (roundrect_rratio 0.25))
+  (pad 13 smd roundrect (at 0 -0.6985) (size 1.8 1.125) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 0 -0.28) (size 1.45 0.45) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 0 0.28) (size 1.45 0.45) (layers F.Paste) (roundrect_rratio 0.25))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/MLF-12-1EP_3x3mm_P0.5mm_EP1.8x1.125mm.wrl
