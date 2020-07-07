@@ -1,4 +1,4 @@
-(module HDFN-12-1EP_3x3mm_P0.5mm_EP1.8x1.125mm (layer F.Cu) (tedit 5F04EC20)
+(module HDFN-12-1EP_3x3mm_P0.5mm_EP1.8x1.125mm (layer F.Cu) (tedit 5F050086)
   (descr "HDFN, 12 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/MIC33050-4MHz-Internal-Inductor-PWM-Buck-Power-Module-with-HyperLight-Load-DS20006120A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "HDFN NoLead")
   (attr smd)
@@ -41,10 +41,10 @@
   (pad 13 thru_hole circle (at -0.45 -0.685) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad "" smd rect (at 0 -0.985) (size 1.5 0.3) (layers F.Paste))
   (pad "" smd rect (at 0 -0.385) (size 1.5 0.3) (layers F.Paste))
-  (pad 14 smd rect (at 0 -0.685) (size 0.6 0.3) (layers F.Paste))
-  (pad 14 smd rect (at 0.675 -0.685) (size 0.15 0.3) (layers F.Paste))
-  (pad 14 smd rect (at -0.675 -0.685) (size 0.15 0.3) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/MLF-12-1EP_3x3mm_P0.5mm_EP1.8x1.125mm.wrl
+  (pad "" smd rect (at 0 -0.685) (size 0.6 0.3) (layers F.Paste))
+  (pad "" smd rect (at 0.675 -0.685) (size 0.15 0.3) (layers F.Paste))
+  (pad "" smd rect (at -0.675 -0.685) (size 0.15 0.3) (layers F.Paste))
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/HDFN-12-1EP_3x3mm_P0.5mm_EP1.8x1.125mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
