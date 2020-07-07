@@ -1,4 +1,4 @@
-(module Samtec_QTS-016-xx-x-D-DP_P0.635mm_Vertical (layer F.Cu) (tedit 5F035A1F)
+(module Samtec_QTS-016-xx-x-D-DP_P0.635mm_Vertical (layer F.Cu) (tedit 5F04AABE)
   (descr "Samtec QTS-016-xx-x-D-DP 0.64mm Q Pairs High-Speed Ground Plane Terminal Strip, Differential Pair; 1 bank(s), 16 pairs/bank; [drawing](http://suddendocs.samtec.com/prints/qts-xxx-xx-xxx-d-dp-xx-mkt.pdf), [footprint](http://suddendocs.samtec.com/prints/qts-xxx-xx-x-d-dp-xx-footprint.pdf)")
   (tags "connector Samtec Q-Pairs QTS mezzanine terminal vertical differential")
   (attr smd)
@@ -72,7 +72,7 @@
   (fp_text user %R (at 0 -5.31) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model /home/caleb/GitHub/kicad-footprints/Connector_Samtec_QStrip_QPairs.3dshapes/Samtec_QTS-016-xx-x-D-DP_P0.635mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Samtec_QStrip_QPairs.3dshapes/Samtec_QTS-016-xx-x-D-DP_P0.635mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
