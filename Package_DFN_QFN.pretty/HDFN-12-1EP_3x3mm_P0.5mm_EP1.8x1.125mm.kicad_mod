@@ -1,5 +1,5 @@
-(module HDFN-12-1EP_3x3mm_P0.5mm_EP1.8x1.125mm (layer F.Cu) (tedit 5F050086)
-  (descr "HDFN, 12 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/MIC33050-4MHz-Internal-Inductor-PWM-Buck-Power-Module-with-HyperLight-Load-DS20006120A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module HDFN-12-1EP_3x3mm_P0.5mm_EP1.8x1.125mm (layer F.Cu) (tedit 5F050CF0)
+  (descr "HDFN, 12 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/MIC33050-4MHz-Internal-Inductor-PWM-Buck-Power-Module-with-HyperLight-Load-DS20006120A.pdf)")
   (tags "HDFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -2.45) (layer F.SilkS)
