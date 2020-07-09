@@ -1,6 +1,6 @@
 (module USB_C_Receptacle_Hirose_CX90M-16P (layer F.Cu) (tedit 5E647DC8)
   (descr "CONN RCPT USB2.0 TYPEC 16POS SMD, https://www.hirose.com/product/document?clcode=CL0480-0513-0-00&productname=CX90M-16P&series=CX&documenttype=2DDrawing&lang=en&documentid=D174082_en")
-  (tags "USB C Type-C Receptacle SMD")
+  (tags "USB C 2.0 Type-C Receptacle SMD")
   (attr smd)
   (fp_text reference REF** (at 0 -4.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
