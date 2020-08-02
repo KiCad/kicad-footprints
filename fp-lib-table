@@ -125,6 +125,7 @@
   (lib (name TerminalBlock_RND)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_RND.pretty)(options "")(descr "RND terminal blocks"))
   (lib (name TerminalBlock_TE-Connectivity)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_TE-Connectivity.pretty)(options "")(descr "TE Connectivity terminal blocks"))
   (lib (name TerminalBlock_WAGO)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_WAGO.pretty)(options "")(descr "WAGO terminal blocks"))
+  (lib (name TerminalBlock_Wuerth)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Wuerth.pretty)(options "")(descr "Wuerth Elektronik terminal blocks"))
   (lib (name TestPoint)(type KiCad)(uri ${KISYSMOD}/TestPoint.pretty)(options "")(descr "Test points, measurement points, probe connection points"))
   (lib (name Transformer_SMD)(type KiCad)(uri ${KISYSMOD}/Transformer_SMD.pretty)(options "")(descr "Surface mount transformers"))
   (lib (name Transformer_THT)(type KiCad)(uri ${KISYSMOD}/Transformer_THT.pretty)(options "")(descr "Through hole transformers"))
