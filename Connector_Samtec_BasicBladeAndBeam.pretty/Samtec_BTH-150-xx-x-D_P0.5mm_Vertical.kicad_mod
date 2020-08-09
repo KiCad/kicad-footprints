@@ -1,4 +1,4 @@
-(module Samtec_BTH-150-xx-x-D_P0.5mm_Vertical (layer F.Cu) (tedit 5F2DF079)
+(module Samtec_BTH-150-xx-x-D_P0.5mm_Vertical (layer F.Cu) (tedit 5F2E13C3)
   (descr "Samtec BTH-150-xx-x-D 0.50mm Basic Blade & Beam Terminal; 300 pins; ")
   (tags "connector Samtec BTH mezzanine terminal vertical")
   (attr smd)

@@ -1,4 +1,4 @@
-(module Samtec_BSH-030-xx-x-D-A_P0.5mm_Vertical (layer F.Cu) (tedit 5F2DF079)
+(module Samtec_BSH-030-xx-x-D-A_P0.5mm_Vertical (layer F.Cu) (tedit 5F2E13C3)
   (descr "Samtec BSH-030-xx-x-D-A 0.50mm Basic Blade & Beam Socket; 60 pins; ")
   (tags "connector Samtec BSH mezzanine socket vertical alignment-pins")
   (attr smd)
