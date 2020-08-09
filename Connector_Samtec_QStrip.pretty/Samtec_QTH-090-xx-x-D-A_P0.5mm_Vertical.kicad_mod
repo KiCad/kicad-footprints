@@ -1,5 +1,5 @@
-(module Samtec_QTH-090-xx-x-D-A_P0.5mm_Vertical (layer F.Cu) (tedit 5F2DF47F)
-  (descr "Samtec QTH-090-xx-x-D-A 0.50mm Q Strip High-Speed Ground Plane Terminal Strip; 3 bank(s), 60 pins/bank; [drawing](http://suddendocs.samtec.com/prints/qth-xxx-xx-x-d-xxx-mkt.pdf), [footprint](http://suddendocs.samtec.com/prints/qth-xxx-xx-x-d-xxx-footprint.pdf)")
+(module Samtec_QTH-090-xx-x-D-A_P0.5mm_Vertical (layer F.Cu) (tedit 5F3004FC)
+  (descr "Samtec QTH-090-xx-x-D-A 0.50mm Q Strip High-Speed Ground Plane Terminal Strip; 3 bank(s), 60 pins/bank (http://suddendocs.samtec.com/prints/qth-xxx-xx-x-d-xxx-mkt.pdf, http://suddendocs.samtec.com/prints/qth-xxx-xx-x-d-xxx-footprint.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QStrip QTH mezzanine terminal vertical single-ended alignment-pins")
   (attr smd)
   (fp_text reference REF** (at 0 -5.31) (layer F.SilkS)

@@ -1,5 +1,5 @@
-(module Samtec_QTS-075-xx-x-D_P0.635mm_Vertical (layer F.Cu) (tedit 5F2DF47F)
-  (descr "Samtec QTS-075-xx-x-D 0.64mm Q Strip High-Speed Ground Plane Terminal Strip; 3 bank(s), 50 pins/bank; [drawing](http://suddendocs.samtec.com/prints/qts-xxx-xx-xxx-d-xxx-mkt.pdf), [footprint](http://suddendocs.samtec.com/prints/qts-xxx-xx-x-d-xx-footprint.pdf)")
+(module Samtec_QTS-075-xx-x-D_P0.635mm_Vertical (layer F.Cu) (tedit 5F3004FC)
+  (descr "Samtec QTS-075-xx-x-D 0.64mm Q Strip High-Speed Ground Plane Terminal Strip; 3 bank(s), 50 pins/bank (http://suddendocs.samtec.com/prints/qts-xxx-xx-xxx-d-xxx-mkt.pdf, http://suddendocs.samtec.com/prints/qts-xxx-xx-x-d-xx-footprint.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QStrip QTS mezzanine terminal vertical")
   (attr smd)
   (fp_text reference REF** (at 0 -5.31) (layer F.SilkS)

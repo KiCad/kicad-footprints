@@ -1,5 +1,5 @@
-(module Samtec_QSE-014-xx-x-D-DP_P0.8mm_Vertical (layer F.Cu) (tedit 5F2DF47F)
-  (descr "Samtec QSE-014-xx-x-D-DP 0.80mm Q Pairs High-Speed Ground Plane Socket Strip, Differential Pair; 1 bank(s), 14 pairs/bank; [drawing](http://suddendocs.samtec.com/prints/qse-xxx-xx-xxx-d-dp-xxx-xxxxx-mkt.pdf), [footprint](http://suddendocs.samtec.com/prints/qse-xxx-xx-x-d-dp-xxx-footprint.pdf)")
+(module Samtec_QSE-014-xx-x-D-DP_P0.8mm_Vertical (layer F.Cu) (tedit 5F3004FC)
+  (descr "Samtec QSE-014-xx-x-D-DP 0.80mm Q Pairs High-Speed Ground Plane Socket Strip, Differential Pair; 1 bank(s), 14 pairs/bank (http://suddendocs.samtec.com/prints/qse-xxx-xx-xxx-d-dp-xxx-xxxxx-mkt.pdf, http://suddendocs.samtec.com/prints/qse-xxx-xx-x-d-dp-xxx-footprint.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QPairs QSE mezzanine socket vertical differential")
   (attr smd)
   (fp_text reference REF** (at 0 -5.5) (layer F.SilkS)
