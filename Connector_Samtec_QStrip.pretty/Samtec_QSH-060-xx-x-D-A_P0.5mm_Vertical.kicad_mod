@@ -1,4 +1,4 @@
-(module Samtec_QSH-060-xx-x-D-A_P0.5mm_Vertical (layer F.Cu) (tedit 5F3004FC)
+(module Samtec_QSH-060-xx-x-D-A_P0.5mm_Vertical (layer F.Cu) (tedit 5F31D015)
   (descr "Samtec QSH-060-xx-x-D-A 0.50mm Q Strip High-Speed Ground Plane Socket Strip; 2 bank(s), 60 pins/bank (http://suddendocs.samtec.com/prints/qsh-xxx-xx-x-d-xxx-mkt.pdf, http://suddendocs.samtec.com/prints/qsh-xxx-xx-x-d-xx-footprint.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QStrip QSH mezzanine socket vertical single-ended alignment-pins")
   (attr smd)

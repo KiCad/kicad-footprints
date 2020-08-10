@@ -1,4 +1,4 @@
-(module Samtec_QSE-028-xx-x-D-DP-A_P0.8mm_Vertical (layer F.Cu) (tedit 5F3004FC)
+(module Samtec_QSE-028-xx-x-D-DP-A_P0.8mm_Vertical (layer F.Cu) (tedit 5F31D015)
   (descr "Samtec QSE-028-xx-x-D-DP-A 0.80mm Q Pairs High-Speed Ground Plane Socket Strip, Differential Pair; 2 bank(s), 14 pairs/bank (http://suddendocs.samtec.com/prints/qse-xxx-xx-xxx-d-dp-xxx-xxxxx-mkt.pdf, http://suddendocs.samtec.com/prints/qse-xxx-xx-x-d-dp-xxx-footprint.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QPairs QSE mezzanine socket vertical differential alignment-pins")
   (attr smd)

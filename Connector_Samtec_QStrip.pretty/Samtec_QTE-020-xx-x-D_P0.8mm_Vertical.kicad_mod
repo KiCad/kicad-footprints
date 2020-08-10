@@ -1,4 +1,4 @@
-(module Samtec_QTE-020-xx-x-D_P0.8mm_Vertical (layer F.Cu) (tedit 5F3004FC)
+(module Samtec_QTE-020-xx-x-D_P0.8mm_Vertical (layer F.Cu) (tedit 5F31D015)
   (descr "Samtec QTE-020-xx-x-D 0.80mm Q Strip High-Speed Ground Plane Terminal Strip; 1 bank(s), 40 pins/bank (http://suddendocs.samtec.com/prints/qte-xxx-xx-xxx-d-xxx-mkt.pdf, http://suddendocs.samtec.com/prints/qte-xxx-xx-xxx-d-xxx-footprint.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QStrip QTE mezzanine terminal vertical")
   (attr smd)
