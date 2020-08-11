@@ -63,6 +63,7 @@
   (lib (name Filter)(type KiCad)(uri ${KISYSMOD}/Filter.pretty)(options "")(descr "Filter footprints"))
   (lib (name Fuse)(type KiCad)(uri ${KISYSMOD}/Fuse.pretty)(options "")(descr "Fuse and fuse holder footprints"))
   (lib (name Heatsink)(type KiCad)(uri ${KISYSMOD}/Heatsink.pretty)(options "")(descr "Heatsinks and thermal products"))
+  (lib (name IGBT_Module)(type KiCad)(uri ${KISYSMOD}/IGBT_Module.pretty)(options "")(descr "IGBT modules"))
   (lib (name Inductor_SMD)(type KiCad)(uri ${KISYSMOD}/Inductor_SMD.pretty)(options "")(descr "Inductor footprints, surface mount"))
   (lib (name Inductor_THT)(type KiCad)(uri ${KISYSMOD}/Inductor_THT.pretty)(options "")(descr "Inductor footprints, through hole"))
   (lib (name Jumper)(type KiCad)(uri ${KISYSMOD}/Jumper.pretty)(options "")(descr "Jumpers, solder jumpers, ... footprints"))
