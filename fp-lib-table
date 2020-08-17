@@ -1,6 +1,5 @@
 (fp_lib_table
   (lib (name Battery)(type KiCad)(uri ${KISYSMOD}/Battery.pretty)(options "")(descr "Battery and battery holder footprints"))
-  (lib (name Button_Switch_Keyboard)(type KiCad)(uri ${KISYSMOD}/Button_Switch_Keyboard.pretty)(options "")(descr "Buttons and switches for keyboard applications"))
   (lib (name Button_Switch_SMD)(type KiCad)(uri ${KISYSMOD}/Button_Switch_SMD.pretty)(options "")(descr "Buttons and switches, surface mount"))
   (lib (name Button_Switch_THT)(type KiCad)(uri ${KISYSMOD}/Button_Switch_THT.pretty)(options "")(descr "Buttons and switches, through hole"))
   (lib (name Buzzer_Beeper)(type KiCad)(uri ${KISYSMOD}/Buzzer_Beeper.pretty)(options "")(descr "Audio signalling devices"))
@@ -114,6 +113,10 @@
   (lib (name Sensor_Pressure)(type KiCad)(uri ${KISYSMOD}/Sensor_Pressure.pretty)(options "")(descr "Specialized footprints for pressure sensors"))
   (lib (name Sensor_Voltage)(type KiCad)(uri ${KISYSMOD}/Sensor_Voltage.pretty)(options "")(descr "Specialized footprints for voltage sensors"))
   (lib (name Socket)(type KiCad)(uri ${KISYSMOD}/Socket.pretty)(options "")(descr "Sockets"))
+  (lib (name Switch_Keyboard_Alps_Matias)(type KiCad)(uri ${KISYSMOD}/Switch_Keyboard_Alps_Matias.pretty)(options "")(descr "Alps and Matias switches for keyboard applications"))
+  (lib (name Switch_Keyboard_Cherry_MX)(type KiCad)(uri ${KISYSMOD}/Switch_Keyboard_Cherry_MX.pretty)(options "")(descr "Cherry MX switches for keyboard applications"))
+  (lib (name Switch_Keyboard_Hybrid)(type KiCad)(uri ${KISYSMOD}/Switch_Keyboard_Hybrid.pretty)(options "")(descr "Hybrid footprint switches for keyboard applications"))
+  (lib (name Switch_Keyboard_Kailh)(type KiCad)(uri ${KISYSMOD}/Switch_Keyboard_Kailh.pretty)(options "")(descr "Kailh switches for keyboard applications"))
   (lib (name Symbol)(type KiCad)(uri ${KISYSMOD}/Symbol.pretty)(options "")(descr "PCB symbols"))
   (lib (name TerminalBlock_Altech)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Altech.pretty)(options "")(descr "Altech terminal block footprints"))
   (lib (name TerminalBlock)(type KiCad)(uri ${KISYSMOD}/TerminalBlock.pretty)(options "")(descr "Footprints for terminal blocks that do not have their own manufacturer specific library."))
