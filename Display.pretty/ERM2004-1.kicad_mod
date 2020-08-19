@@ -74,4 +74,9 @@
   (pad 14 thru_hole oval (at 32.99 55.02) (size 2 3.67) (drill 1.2 (offset 0 0.67)) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 35.53 55.02) (size 2 3.67) (drill 1.2 (offset 0 0.67)) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 38.07 55.02) (size 2 3.67) (drill 1.2 (offset 0 0.67)) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Display.3dshapes/ERM2004-1.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
