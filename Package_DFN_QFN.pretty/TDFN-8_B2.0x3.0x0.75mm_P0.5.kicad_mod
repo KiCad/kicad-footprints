@@ -1,4 +1,4 @@
-(module TDFN-8_B2.0x3.0x0.75mm_P0.5 (layer F.Cu) (tedit 5F3E55E6)
+(module TDFN-8_B2.0x3.0x0.75mm_P0.5 (layer F.Cu) (tedit 5F3E5820)
   (descr TDFN-8)
   (tags TDFN-8)
   (attr smd)
@@ -32,7 +32,7 @@
   (pad 7 smd rect (at -0.25 -1.5) (size 0.25 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -0.75 1.5) (size 0.25 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -0.75 -1.5) (size 0.25 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Interface_UART_RS485_Renesas_SMD.3dshapes/TDFN-8_B2.0x3.0x0.75mm_P0.5.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/TDFN-8_B2.0x3.0x0.75mm_P0.5.wrl
     (offset (xyz -1 -1.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
