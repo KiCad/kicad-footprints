@@ -1,5 +1,5 @@
-(module HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm (layer F.Cu) (tedit 5F23270E)
-  (descr "HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf (page 16)), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm (layer F.Cu) (tedit 5F2C5F6B)
+  (descr "HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf#page=16), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "HVSON NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -2.45) (layer F.SilkS)
