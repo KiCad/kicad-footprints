@@ -1,5 +1,5 @@
-(module SOT-23-5 (layer F.Cu) (tedit 5F43F50A)
-  (descr "SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module SOT-23-5 (layer F.Cu) (tedit 5F441015)
+  (descr "NEEDS TO BE REGENERATED https://github.com/pointhi/kicad-footprint-generator/pull/586")
   (tags "SOT TO_SOT_SMD")
   (attr smd)
   (fp_text reference REF** (at 0 -2.4) (layer F.SilkS)
@@ -28,7 +28,7 @@
   (pad 2 smd roundrect (at -1.1375 0) (size 1.325 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 3 smd roundrect (at -1.1375 0.95) (size 1.325 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 4 smd roundrect (at 1.1375 0.95) (size 1.325 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (pad 6 smd roundrect (at 1.1375 -0.95) (size 1.325 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
+  (pad 5 smd roundrect (at 1.1375 -0.95) (size 1.325 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
