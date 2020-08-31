@@ -15,7 +15,7 @@
     (effects (font (size 0.8 0.8) (thickness 0.12)))
   )
   (pad 2 smd circle (at 0 0) (size 1 1) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd custom (at 0 -1.375) (size 0.75 0.75) (layers F.Cu F.Mask)
+  (pad 1 smd custom (at 0 -1.375) (size 0.75 0.75) (layers F.Cu F.Paste F.Mask)
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
