@@ -1,5 +1,5 @@
-(module Balun_Johanson_0900PC15J0013 (layer F.Cu) (tedit 5F48C58C)
-  (descr "Johanson 0900PC15J0013 DFN, 10 Pin (https://johansontechnology.com/datasheets/highly-integrated-passive-components/0900PC15J0013.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+(module Balun_Johanson_0900PC15J0013 (layer F.Cu) (tedit 5F4CAF26)
+  (descr "Johanson 0900PC15J0013 DFN, 10 Pin (https://www.johansontechnology.com/datasheets/0900PC15J0013/0900PC15J0013.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "Johanson DFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -2.35) (layer F.SilkS)
