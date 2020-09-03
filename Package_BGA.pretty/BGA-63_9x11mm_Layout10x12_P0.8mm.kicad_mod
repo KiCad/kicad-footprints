@@ -1,4 +1,4 @@
-(module BGA-63_9x11mm_Layout10x12_P0.8mm (layer F.Cu) (tedit 5F5086C6)
+(module BGA-63_9x11mm_Layout10x12_P0.8mm (layer F.Cu) (tedit 5F508BC5)
   (descr BGA-63_9x11mm_Layout10x12_P0.8mm)
   (tags VBGA-63)
   (attr smd)
@@ -93,7 +93,7 @@
   (pad B10 smd circle (at 3.6 -3.6) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad L10 smd circle (at 3.6 3.6) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad M10 smd circle (at 3.6 4.4) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-63_9x11mm_Layout10x12_P0.5mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-63_9x11mm_Layout10x12_P0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
