@@ -1,11 +1,11 @@
-(module BGA-132_12x18mm_Layout11x17_P0.5mm (layer F.Cu) (tedit 5A058D74)
-  (descr "BGA-132 11x17 12x18mm 0.5pitch")
+(module BGA-132_12x18mm_Layout11x17_P1.0mm (layer F.Cu) (tedit 5F50A608)
+  (descr "BGA-132 11x17 12x18mm 1.0pitch")
   (tags BGA-132)
   (attr smd)
   (fp_text reference REF** (at 0 -10.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BGA-132_12x18mm_Layout11x17_P0.5mm (at 0 10.2) (layer F.Fab)
+  (fp_text value BGA-132_12x18mm_Layout11x17_P1.0mm (at 0 10.2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5 -9.4) (end -6.4 -9.4) (layer F.SilkS) (width 0.15))
@@ -158,7 +158,7 @@
   (pad R11 smd circle (at 5 6) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad T11 smd circle (at 5 7) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad U11 smd circle (at 5 8) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-132_12x18mm_Layout11x17_P0.5mm.wrl
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-132_12x18mm_Layout11x17_P1.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
