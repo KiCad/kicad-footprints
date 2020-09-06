@@ -1,6 +1,6 @@
 (module Relay_SPST_TE_PE0xxFxx_NO (layer F.Cu) (tedit 5E99DF07)
-  (descr "Relay SPST TE SCHRACK PE0xxFxx")
-  (tags "Relay SPST TE SCHRACK PE0xxFxx latching bistable PCB")
+  (descr "Relay SPST TE SCHRACK PE03xFxx")
+  (tags "Relay SPST TE SCHRACK PE03xFxx latching bistable PCB")
   (fp_text reference REF** (at 9.5 -2.88 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
