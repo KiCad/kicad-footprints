@@ -22,6 +22,7 @@ Script details:
  Specialized scripts are used to generate the following connectors:
 
  - KK-254
+ - KK-396
  - Mega-Fit
  - PicoClasp
  - Micro-Fit 3.0
@@ -33,7 +34,7 @@ Script details:
  - Picoflex
 
  Script details
- - original authors: Poeschl Rene, Jan W. Krieger, Oliver Walters, Thomas Pointhuber, evanshulz, misca1234
+ - original authors: Poeschl Rene, Jan W. Krieger, Oliver Walters, Thomas Pointhuber, evanshulz, misca1234, Franck Bourdonnec
  - scripts updated by Poeschl Rene to fit KLCv3.
  - script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector/Connector_Molex/
  - used config file (where applicable): config_KLCv3.0.yaml
