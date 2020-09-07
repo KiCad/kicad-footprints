@@ -45,7 +45,6 @@
   (lib (name Connector_Samtec_HLE_SMD)(type KiCad)(uri ${KISYSMOD}/Connector_Samtec_HLE_SMD.pretty)(options "")(descr "Samtec surface mount HLE series connector footprints"))
   (lib (name Connector_Samtec_HLE_THT)(type KiCad)(uri ${KISYSMOD}/Connector_Samtec_HLE_THT.pretty)(options "")(descr "Samtec through hole HLE series connector footprints"))
   (lib (name Connector_Samtec_QStrip)(type KiCad)(uri ${KISYSMOD}/Connector_Samtec_QStrip.pretty)(options "")(descr "Samtec Q Strip and Q Pairs mezzanine connector footprints"))
-  (lib (name Connector_Samtec_RazorBeam)(type KiCad)(uri ${KISYSMOD}/Connector_Samtec_RazorBeam.pretty)(options "")(descr "Samtec RazorBeam mezzanine connector footprints"))
   (lib (name Connector_RJ)(type KiCad)(uri ${KISYSMOD}/Connector_RJ.pretty)(options "")(descr "Registered Jack (RJ) connector footprints (e.g. RJ11, RJ45, ...)"))
   (lib (name Connector_SATA_SAS)(type KiCad)(uri ${KISYSMOD}/Connector_SATA_SAS.pretty)(options "")(descr "SATA/SAS connector footprints"))
   (lib (name Connector_Stocko)(type KiCad)(uri ${KISYSMOD}/Connector_Stocko.pretty)(options "")(descr "Stocko connector footprints"))
