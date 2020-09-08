@@ -1,4 +1,4 @@
-(module USB_C_Receptacle_Molex_1054500101 (layer F.Cu) (tedit 5F573930)
+(module USB_C_Receptacle_Molex_1054500101 (layer F.Cu) (tedit 5F575421)
   (descr "USB Type C Receptacle Top Mount SMT ")
   (tags USBC)
   (attr smd)
@@ -47,9 +47,9 @@
   (pad A3 smd rect (at -2 -3) (size 0.3 0.76) (layers F.Cu F.Paste F.Mask))
   (pad A2 smd rect (at -2.5 -3) (size 0.3 0.76) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd rect (at -3 -3) (size 0.3 0.76) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Receptacle_Molex_1054500101.stp
+  (model C:/Github/kicad-packages3D/Connector_USB.3dshapes/USB_C_Receptacle_Molex_1054500101.wrl
     (offset (xyz 0 0 1.5))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 180))
   )
 )
