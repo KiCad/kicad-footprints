@@ -1,11 +1,11 @@
-(module UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias (layer F.Cu) (tedit 5F57D287)
+(module UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias (layer F.Cu) (tedit 5F57D287)
   (descr "UFQFPN, 32 Pin (https://www.st.com/resource/en/datasheet/stm32g071k8.pdf)")
   (tags "UFQFPN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -3.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias (at 0 3.8) (layer F.Fab)
+  (fp_text value UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias (at 0 3.8) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.1 -3.1) (end -3.1 -3.1) (layer F.CrtYd) (width 0.05))
@@ -74,7 +74,7 @@
   (pad "" smd roundrect (at -0.775 0.775) (size 1.34 1.34) (layers F.Paste) (roundrect_rratio 0.186567))
   (pad "" smd roundrect (at 0.775 -0.775) (size 1.34 1.34) (layers F.Paste) (roundrect_rratio 0.186567))
   (pad "" smd roundrect (at 0.775 0.775) (size 1.34 1.34) (layers F.Paste) (roundrect_rratio 0.186567))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
