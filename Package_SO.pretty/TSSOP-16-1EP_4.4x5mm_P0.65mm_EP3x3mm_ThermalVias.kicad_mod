@@ -1,4 +1,4 @@
-(module TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias (layer F.Cu) (tedit 5F58EB90)
+(module TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias (layer F.Cu) (tedit 5F5AADC1)
   (descr "TSSOP, 16 Pin (Allegro A4954 https://www.allegromicro.com/-/media/Files/Datasheets/A4954-Datasheet.ashx), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TSSOP SO")
   (attr smd)
