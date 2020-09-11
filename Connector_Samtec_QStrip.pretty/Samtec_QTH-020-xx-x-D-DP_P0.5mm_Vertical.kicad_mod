@@ -1,4 +1,4 @@
-(module Samtec_QTH-020-xx-x-D-DP_P0.5mm_Vertical (layer F.Cu) (tedit 5F570271)
+(module Samtec_QTH-020-xx-x-D-DP_P0.5mm_Vertical (layer F.Cu) (tedit 5F5B12C1)
   (descr "Samtec QTH-020-xx-x-D-DP 0.50mm Q Pairs High-Speed Ground Plane Terminal Strip, Differential Pair; 1 bank(s), 20 pairs/bank (http://suddendocs.samtec.com/catalog_english/qth.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QPairs QTH mezzanine terminal vertical differential")
   (attr smd)
