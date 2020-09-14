@@ -1,4 +1,4 @@
-(module QFN-24-1EP_4x4mm_P0.5mm_EP2.15x2.15mm (layer F.Cu) (tedit 5F5A159D)
+(module QFN-24-1EP_4x4mm_P0.5mm_EP2.15x2.15mm (layer F.Cu) (tedit 5F5F4385)
   (descr "QFN, 24 Pin (https://www.st.com/resource/en/datasheet/led1642gw.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
