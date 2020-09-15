@@ -1,6 +1,7 @@
-(module Samtec_QFS-52-3MP_0.26x2mm_P0.625mm_MH2.6mm (layer F.Cu) (tedit 5F613FCB)
+(module Samtec_QFS-52-3MP_0.26x2mm_P0.625mm_MH2.6mm (layer F.Cu) (tedit 5F613FFF)
   (descr "http://suddendocs.samtec.com/productspecs/qms-qfs.pdf ")
   (tags "Samtec_QFS P0.652mm")
+  (attr smd)
   (fp_text reference REF** (at 7.94 -3.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
