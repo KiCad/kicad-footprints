@@ -1,6 +1,6 @@
-(module Samtec_HSMC_ASP-122953-01_P0.5mm_Vertical (layer F.Cu) (tedit 5F5B12C1)
+(module Samtec_HSMC_ASP-122953-01_P0.5mm_Vertical (layer F.Cu) (tedit 5F618C04)
   (descr "Samtec ASP-122953-01 HSMC Host Socket; modified QSH-090-01-L-D-A, Bank 1 differential (http://suddendocs.samtec.com/prints/asp-122953-01-mkt.pdf); generated with kicad-footprint-generator")
-  (tags "connector Samtec QSeries QStrip QPairs HSMC host socket mezzanine vertical single-ended differential application-specific alignment-pins")
+  (tags "connector Samtec QStrip QSH mezzanine socket vertical single-ended alignment-pins QPairs HSMC host differential application-specific")
   (attr smd)
   (fp_text reference REF** (at 0 -5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,4 +1,4 @@
-(module Samtec_QSS-075-xx-x-D_P0.635mm_Vertical (layer F.Cu) (tedit 5F5B12C1)
+(module Samtec_QSS-075-xx-x-D_P0.635mm_Vertical (layer F.Cu) (tedit 5F618C04)
   (descr "Samtec QSS-075-xx-x-D 0.635mm Q Strip High-Speed Ground Plane Socket Strip; 3 bank(s), 50 pins/bank (http://suddendocs.samtec.com/catalog_english/qss.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QStrip QSS mezzanine socket vertical single-ended")
   (attr smd)

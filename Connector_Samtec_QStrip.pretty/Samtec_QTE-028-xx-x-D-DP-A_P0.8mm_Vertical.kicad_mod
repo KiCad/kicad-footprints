@@ -1,4 +1,4 @@
-(module Samtec_QTE-028-xx-x-D-DP-A_P0.8mm_Vertical (layer F.Cu) (tedit 5F5B12C1)
+(module Samtec_QTE-028-xx-x-D-DP-A_P0.8mm_Vertical (layer F.Cu) (tedit 5F618C04)
   (descr "Samtec QTE-028-xx-x-D-DP-A 0.80mm Q Pairs High-Speed Ground Plane Terminal Strip, Differential Pair; 2 bank(s), 14 pairs/bank (http://suddendocs.samtec.com/catalog_english/qte.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QPairs QTE mezzanine terminal vertical differential alignment-pins")
   (attr smd)

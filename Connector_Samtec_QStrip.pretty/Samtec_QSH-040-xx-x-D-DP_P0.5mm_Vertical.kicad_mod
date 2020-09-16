@@ -1,4 +1,4 @@
-(module Samtec_QSH-040-xx-x-D-DP_P0.5mm_Vertical (layer F.Cu) (tedit 5F5B12C1)
+(module Samtec_QSH-040-xx-x-D-DP_P0.5mm_Vertical (layer F.Cu) (tedit 5F618C04)
   (descr "Samtec QSH-040-xx-x-D-DP 0.50mm Q Pairs High-Speed Ground Plane Socket Strip, Differential Pair; 2 bank(s), 20 pairs/bank (http://suddendocs.samtec.com/catalog_english/qsh.pdf); generated with kicad-footprint-generator")
   (tags "connector Samtec QPairs QSH mezzanine socket vertical differential")
   (attr smd)
