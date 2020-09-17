@@ -1,4 +1,4 @@
-(module Package_BGA:TFBGA-636_28x28_19.0x19.0mm (layer F.Cu) (tedit 5F630931)
+(module TFBGA-636_28x28_19.0x19.0mm (layer F.Cu) (tedit 5F630931)
   (attr smd)
   (fp_text reference REF** (at 0 -10.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
