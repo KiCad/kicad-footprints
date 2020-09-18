@@ -1,4 +1,4 @@
-(module HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm (layer F.Cu) (tedit 5F58A89A)
+(module HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm (layer F.Cu) (tedit 5F64746D)
   (descr "HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "HVSSOP SO")
   (attr smd)
