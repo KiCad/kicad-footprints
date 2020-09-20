@@ -1,5 +1,5 @@
-(module Samtec_HSMC_ASP-122952-01_P0.5mm_Vertical (layer F.Cu) (tedit 5F618C04)
-  (descr "Samtec ASP-122952-01 HSMC Card Terminal; modified QTH-090-01-L-D-A, Bank 1 differential (http://suddendocs.samtec.com/prints/asp-122952-01-mkt.pdf); generated with kicad-footprint-generator")
+(module Samtec_HSMC_ASP-122952-01_P0.5mm_Vertical (layer F.Cu) (tedit 5F6785B2)
+  (descr "Samtec ASP-122952-01 HSMC Card Terminal, modified QTH-090-01-L-D-A, Bank 1 differential, generated with kicad-footprint-generator, http://suddendocs.samtec.com/prints/asp-122952-01-mkt.pdf")
   (tags "connector Samtec QStrip QTH mezzanine terminal vertical single-ended alignment-pins QPairs HSMC card differential application-specific")
   (attr smd)
   (fp_text reference REF** (at 0 -5.31) (layer F.SilkS)

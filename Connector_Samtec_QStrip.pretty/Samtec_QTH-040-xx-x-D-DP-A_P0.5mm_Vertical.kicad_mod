@@ -1,5 +1,5 @@
-(module Samtec_QTH-040-xx-x-D-DP-A_P0.5mm_Vertical (layer F.Cu) (tedit 5F618C04)
-  (descr "Samtec QTH-040-xx-x-D-DP-A 0.50mm Q Pairs High-Speed Ground Plane Terminal Strip, Differential Pair; 2 bank(s), 20 pairs/bank (http://suddendocs.samtec.com/catalog_english/qth.pdf); generated with kicad-footprint-generator")
+(module Samtec_QTH-040-xx-x-D-DP-A_P0.5mm_Vertical (layer F.Cu) (tedit 5F6785B2)
+  (descr "Samtec QTH-040-xx-x-D-DP-A 0.50mm Q Pairs High-Speed Ground Plane Terminal Strip, Differential Pair, 2 bank(s), 20 pairs/bank, generated with kicad-footprint-generator, http://suddendocs.samtec.com/catalog_english/qth.pdf")
   (tags "connector Samtec QPairs QTH mezzanine terminal vertical differential alignment-pins")
   (attr smd)
   (fp_text reference REF** (at 0 -5.31) (layer F.SilkS)

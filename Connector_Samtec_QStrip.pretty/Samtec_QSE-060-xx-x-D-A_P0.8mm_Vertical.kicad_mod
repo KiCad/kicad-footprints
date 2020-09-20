@@ -1,5 +1,5 @@
-(module Samtec_QSE-060-xx-x-D-A_P0.8mm_Vertical (layer F.Cu) (tedit 5F618C04)
-  (descr "Samtec QSE-060-xx-x-D-A 0.80mm Q Strip High-Speed Ground Plane Socket Strip; 3 bank(s), 40 pins/bank (http://suddendocs.samtec.com/catalog_english/qse.pdf); generated with kicad-footprint-generator")
+(module Samtec_QSE-060-xx-x-D-A_P0.8mm_Vertical (layer F.Cu) (tedit 5F6785B3)
+  (descr "Samtec QSE-060-xx-x-D-A 0.80mm Q Strip High-Speed Ground Plane Socket Strip, 3 bank(s), 40 pins/bank, generated with kicad-footprint-generator, http://suddendocs.samtec.com/catalog_english/qse.pdf")
   (tags "connector Samtec QStrip QSE mezzanine socket vertical single-ended alignment-pins")
   (attr smd)
   (fp_text reference REF** (at 0 -5.5) (layer F.SilkS)
