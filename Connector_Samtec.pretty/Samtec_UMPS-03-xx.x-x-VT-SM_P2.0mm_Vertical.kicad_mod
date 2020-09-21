@@ -1,4 +1,4 @@
-(module Samtec_UMPS-03-xx.x-x-VT-SM_P2.0mm_Vertical (layer F.Cu) (tedit 5F681110)
+(module Samtec_UMPS-03-xx.x-x-VT-SM_P2.0mm_Vertical (layer F.Cu) (tedit 5F6813B8)
   (descr "Samtec UMPS-03-xx.x-x-VT-SM 2.00mm Ultra Micro Power Socket, generated with kicad-footprint-generator, http://suddendocs.samtec.com/catalog_english/umps.pdf")
   (tags "connector Samtec mPOWER UMPS power socket vertical")
   (attr smd)
