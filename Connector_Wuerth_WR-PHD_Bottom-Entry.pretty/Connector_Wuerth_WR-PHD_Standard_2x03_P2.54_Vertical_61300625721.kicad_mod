@@ -1,4 +1,4 @@
-(module Connector_Wuerth_WR-PHD_Standard_2x03_P2.54_Vertical_61300625721 (layer F.Cu) (tedit 5F68A493)
+(module Connector_Wuerth_WR-PHD_Standard_2x03_P2.54_Vertical_61300625721 (layer F.Cu) (tedit 5F68A692)
   (descr "Connector Wuerth, WR-PHD 2.54mm Dual Socket Header Bottom Entry Standard, Wuerth electronics 61300625721 (https://katalog.we-online.de/em/datasheet/61300625721.pdf), generated with kicad-footprint-generator")
   (tags "Connector Wuerth WR-PHD 2.54mm 61300625721")
   (fp_text reference REF** (at -2.54 -2.72) (layer F.SilkS)
