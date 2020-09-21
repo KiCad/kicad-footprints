@@ -1,4 +1,4 @@
-(module R_2010_5025Metric_Pad1.40x2.65mm_HandSolder (layer F.Cu) (tedit 5EBA9317)
+(module R_2010_5025Metric_Pad1.40x2.65mm_HandSolder (layer F.Cu) (tedit 5F68FEEE)
   (descr "Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "resistor handsolder")
   (attr smd)

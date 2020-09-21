@@ -1,4 +1,4 @@
-(module L_1206_3216Metric_Pad1.22x1.90mm_HandSolder (layer F.Cu) (tedit 5EBA9318)
+(module L_1206_3216Metric_Pad1.22x1.90mm_HandSolder (layer F.Cu) (tedit 5F68FEF0)
   (descr "Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "inductor handsolder")
   (attr smd)
