@@ -1,5 +1,6 @@
-(module Connector_Wuerth_WR-PHD_Large_2x09_P2.54_Vertical_613018216921 (layer F.Cu) (tedit 5F580347)
+(module Connector_Wuerth_WR-PHD_Large_2x09_P2.54_Vertical_613018216921 (layer F.Cu) (tedit 5F688F94)
   (descr "Connector Wuerth, WR-PHD 2.54mm Dual Socket Header Bottom Entry Large, Wuerth electronics 613018216921 (https://katalog.we-online.de/em/datasheet/613018216921.pdf), generated with kicad-footprint-generator")
+  (tags "Connector Wuerth WR-PHD 2.54mm 613018216921")
   (fp_text reference REF** (at -3.81 -2.72) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

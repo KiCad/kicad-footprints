@@ -1,5 +1,6 @@
-(module Connector_Wuerth_WR-PHD_SMD_2x04_P2.54_Vertical_610008243021 (layer F.Cu) (tedit 5F580347)
+(module Connector_Wuerth_WR-PHD_SMD_2x04_P2.54_Vertical_610008243021 (layer F.Cu) (tedit 5F688F94)
   (descr "Connector Wuerth, WR-PHD 2.54mm Dual Socket Header Bottom Entry SMD, Wuerth electronics 610008243021 (https://katalog.we-online.de/em/datasheet/610008243021.pdf), generated with kicad-footprint-generator")
+  (tags "Connector Wuerth WR-PHD 2.54mm 610008243021")
   (attr smd)
   (fp_text reference REF** (at -3.2 -2.47) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
