@@ -1,4 +1,4 @@
-(module Samtec_QFS-52-3MP_0.26x2mm_P0.625mm_MH2.6mm (layer F.Cu) (tedit 5F68A59E)
+(module Samtec_QFS-52-3MP_0.26x2mm_P0.625mm_MH2.6mm (layer F.Cu) (tedit 5F68B9EE)
   (descr "http://suddendocs.samtec.com/productspecs/qms-qfs.pdf ")
   (tags "Samtec_QFS P0.652mm Samtec")
   (attr smd)
@@ -86,7 +86,7 @@
   (pad 33 smd oval (at 2.225 -3.235) (size 0.41 2.16) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd oval (at -2.855 -3.235) (size 0.41 2.16) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd oval (at -4.125 -3.235) (size 0.41 2.16) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_Samtec_QFS_SMD.3dshapes/Samtec_QFS-52-3MP_0.26x2mm_P0.625mm_MH2.6mm.wrl
+  (model ${KISYS3DMOD}/Connector_Samtec.3dshapes/Samtec_QFS-52-3MP_0.26x2mm_P0.625mm_MH2.6mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
