@@ -1,5 +1,6 @@
-(module PhoenixContact_SPT_5_11-V-7.5-ZB_1x11_P7.5_Vertical_1719406 (layer F.Cu) (tedit 5F687589)
+(module PhoenixContact_SPT_5_11-V-7.5-ZB_1x11_P7.5_Vertical_1719406 (layer F.Cu) (tedit 5F688BA7)
   (descr "Connector Phoenix Contact, SPT 5/11-V-7.5-ZB Terminal Block, 1719406 (https://www.phoenixcontact.com/online/portal/fr/pxc/product_detail_page/!ut/p/z1/5VfbbuIwEP0VXnhbY-eePNJsaemVFkpJXiLbcZDb3Jq4UPr1tSmrFraAVoh9STRSbGfOGc9xJsrAEE5gmOMZn2LBixynch6EduTql_75mald31o9hO6swel1F9njnmnAMQxhWLOUUcFiHws2LaoFDLpXV-qBwAQGmhqVlD7DYAA0DSBpllpLOamw8k6qpFo68Vi6O5pnIlvNi2Tg-5ebMMFFymBwkha0FbPWU5FTtduW3-l3WqA1HIxaVhtJxBg4vywQnsjFP6SPu_K5Gekw3J3uJx5tubpoHz6QeGerg6_B4Y_CfOlYMcr4jFWSSQlWFfErFb-ZwDyt-4Jl_XUFt57MptRlnGRFzFa0Rc2VpGtB5HzE3sRq7YfjlBQpzqeveKpo9mRqNCXTIWpMpnpjMm1MnQ4bU6d6Y-pUb0yd6o2p035z3t7GfJH6dmMytWSmwdUpDOykHtt38AKGnGSdOc06qFO-0c4qahQvc4tKxSp7E_708hJ2YUiLXKjdTJREbTRnpI0yzPM2WgHrNkp5LZZAOR74J5FgVcZljxMR2Ug819HX9tvI9mJNpzgGJCYMmIlFACEaAbrtEEc3TJd5qpcId_3uL7uJpcOOdmGYVFHvPhpM_N79HpHOdPg442wOH_KiymRvNvyUXh0do7rhuo4HDM0gwETMA65nxsA0dA07nkWRG8NztC-CdmCEPfTGUend49LfHlccEx2X_tDdX-zsbJF5SDWWlPxVjeW_VmOZZa6xMvAweR8x8v7dkm_PPy26ubFmawbwOoYRFxkbMKucbcD-ayh3YaAnM7iYzeejJPOJu35bzD8AEGuxqw!!/p0/IZ7_82KCHG41MO5F00Q5PEMA06VF22=CZ6_82KCHG41MO5F00Q5PEMA06VF43=LA0=EdownloadId!6312565=action!downloadFile==/#Z7_82KCHG41MO5F00Q5PEMA06VF22), generated with kicad-footprint-generator")
+  (tags "Connector Phoenix Contact SPT 5/11-V-7.5-ZB 1719406")
   (fp_text reference REF** (at 35.6 -3.78) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

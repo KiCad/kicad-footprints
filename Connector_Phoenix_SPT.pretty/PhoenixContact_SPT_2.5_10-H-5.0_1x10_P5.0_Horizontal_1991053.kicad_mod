@@ -1,5 +1,6 @@
-(module PhoenixContact_SPT_2.5_10-H-5.0_1x10_P5.0_Horizontal_1991053 (layer F.Cu) (tedit 5F687589)
+(module PhoenixContact_SPT_2.5_10-H-5.0_1x10_P5.0_Horizontal_1991053 (layer F.Cu) (tedit 5F688BA6)
   (descr "Connector Phoenix Contact, SPT 2.5/10-H-5.0 Terminal Block, 1991053 (https://www.phoenixcontact.com/online/portal/fr/pxc/product_detail_page/!ut/p/z1/5VdbU-IwFP4rvPBmSJpeaB-huyheURBpXzpJmjLR3mwjqL_eBNlRWIXZcdiXds5Mk_Sc7-T70tPpgSGcwTAnCzEnUhQ5SdU8CJ3IxWf-ybFlXFzZA4Su7dHvix5ypgPLhFMYwrDmKWeSxz6RfF5ULzDonZ_rB5JQGBh6VDL2AIMRMAyAlNl6LRW0Ito7qZJq5SRi5e55BrJNPS-Ske-fbYdJIVMOg35asFbMW_dFzvRuW35n2GmB1ng0aeEju40MBE6AfYTU2h_Mu110LicYhrvZvsejb64e2hcfqPjutw6-Acdf6vIhY8UZFwteKSStV1XET0z-4pKItB5Kng03Bfz2YLaVLuMkK2K-hi1qoRXdSKLmE_4s12tfnKaCSEk-fyJzDbOHqdkUpmPUGKa4MUwbU6fjxtQpbkyd4sbUKW5MnQ6b8_Y25os0dBrD1FZMg_M-DJyknjrX8BSGgmadJcs6qFM-s846axSvuEWlRlWtibh_fAx7MGRFLvVuZlqiNlpy2kYZEXkbrQPrNkpFLVeBajzy-5HkVSZUixNR1Uc81NHH9tvI8WIDMxIDGlMOrMSmgFKDAux0aReblss9R_UC4a7f_VU3sXLY0S6Mkyoa3ESjmT-42SPSMYZ3C8GX8DYvqky1ZuN36fXRcYZN1-16wDRMCizEPeB6VgwsExuk69kMuTE8QfsyGD_MsAfePCi8e1j4q8OKY6HDwv9096c7O1tk_aQaS0b_qsbyX6uxzDLXXBu4nb1OOH39bMmn5-8WXV7aiw0DZDOGUxeZW2F2udgK-6-p3BcT3VvB6WK5nCSZT93N28vyDbceYWo!/p0/IZ7_82KCHG41MO5F00Q5PEMA06VF22=CZ6_82KCHG41MO5F00Q5PEMA06VF43=LA0=EdownloadId!6333206=action!downloadFile==/#Z7_82KCHG41MO5F00Q5PEMA06VF22), generated with kicad-footprint-generator")
+  (tags "Connector Phoenix Contact SPT 2.5/10-H-5.0 1991053")
   (fp_text reference REF** (at 24.4 -3.73) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
