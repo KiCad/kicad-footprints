@@ -1,4 +1,4 @@
-(module DX_5R5VxxxxU_D11.5mm_P5.00mm (layer F.Cu) (tedit 5ECAC79A)
+(module DX_5R5VxxxxU_D11.5mm_P5.00mm (layer F.Cu) (tedit 5F6A16E7)
   (descr "CP, Radial series, Radial, pin pitch=5.00mm, diameter=11.5mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf")
   (tags "CP Radial series Radial pin pitch 10.00mm diameter 11.2mm supercapacitor")
   (fp_text reference REF** (at -3.81 -1.27) (layer F.SilkS)
@@ -24,6 +24,10 @@
   (fp_line (start -5.9 0.1) (end -5.9 4.9) (layer F.SilkS) (width 0.12))
   (fp_line (start -5.9 0.1) (end -1.27 0.1) (layer F.SilkS) (width 0.12))
   (fp_line (start -6.1 -0.1) (end -6.1 5.1) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 2 0.5) (end 2 1.5) (layer F.Fab) (width 0.12))
+  (fp_line (start 1.5 1) (end 2.5 1) (layer F.Fab) (width 0.12))
+  (fp_line (start 2 -1.5) (end 2 -0.5) (layer F.SilkS) (width 0.12))
+  (fp_line (start 1.5 -1) (end 2.5 -1) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Capacitor_THT.3dshapes/DX_5R5VxxxxU_D11.5mm_P5.00mm.wrl
