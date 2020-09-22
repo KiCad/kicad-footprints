@@ -1,4 +1,4 @@
-(module SOIC-8_5.275x5.275mm_P1.27mm (layer F.Cu) (tedit 5CF507E8)
+(module SOIC-8_5.275x5.275mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1)
   (descr "SOIC, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/20005045C.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)

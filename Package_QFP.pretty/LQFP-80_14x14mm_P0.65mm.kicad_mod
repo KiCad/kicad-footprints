@@ -1,4 +1,4 @@
-(module LQFP-80_14x14mm_P0.65mm (layer F.Cu) (tedit 5C1956D1)
+(module LQFP-80_14x14mm_P0.65mm (layer F.Cu) (tedit 5D9F72AF)
   (descr "LQFP, 80 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD9852.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)
