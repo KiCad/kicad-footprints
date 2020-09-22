@@ -1,5 +1,5 @@
-(module BM78SPPS5xC2 (layer F.Cu) (tedit 5F69A866)
-  (descr "Bluetooth Dual-mode module with integral chip antenna")
+(module BM78SPPS5xC2 (layer F.Cu) (tedit 5F69A9B0)
+  (descr "Bluetooth Dual-mode module with integral chip antenna (http://ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf)")
   (tags "Bluetooth BR/EDR BLE")
   (attr smd)
   (fp_text reference REF** (at -4.07 -11.99 180) (layer F.SilkS)
