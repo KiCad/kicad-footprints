@@ -1,6 +1,6 @@
 (module DX_5R5HxxxxU_D11.5mm_P10.00mm (layer F.Cu) (tedit 5F6A169A)
   (descr "CP, Radial series, Radial, pin pitch=10.00mm, diameter=11.5mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf")
-  (tags "CP Radial series Radial pin pitch 10.00mm diameter 11.2mm supercapacitor")
+  (tags "CP Radial series Radial pin pitch 10.00mm diameter 11.5mm supercapacitor")
   (fp_text reference REF** (at 4 -7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
