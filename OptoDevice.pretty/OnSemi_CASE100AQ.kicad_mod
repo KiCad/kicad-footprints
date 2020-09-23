@@ -29,7 +29,7 @@
   (pad 2 thru_hole roundrect (at 0 0) (size 1.1 1.5) (drill 0.7) (layers *.Cu *.Mask) (roundrect_rratio 0.227))
   (pad 1 thru_hole oval (at 0 -4) (size 1.1 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 1.8 -4) (size 1.1 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Everlight_ITR8307F43.wrl
+  (model ${KISYS3DMOD}/OptoDevice.3dshapes/OnSemi_CASE100AQ.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
