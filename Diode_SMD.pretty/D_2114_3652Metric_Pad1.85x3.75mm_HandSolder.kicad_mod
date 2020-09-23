@@ -1,4 +1,4 @@
-(module D_2114_3652Metric_Pad1.85x3.75mm_HandSolder (layer F.Cu) (tedit 5B4B45C8)
+(module D_2114_3652Metric_Pad1.85x3.75mm_HandSolder (layer F.Cu) (tedit 5F68FEF0)
   (descr "Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator")
   (tags "diode handsolder")
   (attr smd)

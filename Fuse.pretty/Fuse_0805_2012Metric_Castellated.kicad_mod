@@ -1,4 +1,4 @@
-(module Fuse_0805_2012Metric_Castellated (layer F.Cu) (tedit 5E627E60)
+(module Fuse_0805_2012Metric_Castellated (layer F.Cu) (tedit 5F68FEF1)
   (descr "Fuse SMD 0805 (2012 Metric), castellated end terminal, IPC_7351. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
   (tags "fuse castellated")
   (attr smd)

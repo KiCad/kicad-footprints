@@ -1,6 +1,6 @@
-(module Fuse_2816_7142Metric_Pad3.20x4.45mm_HandSolder (layer F.Cu) (tedit 5B341557)
+(module Fuse_2816_7142Metric_Pad3.20x4.45mm_HandSolder (layer F.Cu) (tedit 5F68FEF1)
   (descr "Fuse SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator")
-  (tags "resistor handsolder")
+  (tags "fuse handsolder")
   (attr smd)
   (fp_text reference REF** (at 0 -3.18) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

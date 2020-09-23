@@ -1,4 +1,4 @@
-(module D_2816_7142Metric (layer F.Cu) (tedit 5B341557)
+(module D_2816_7142Metric (layer F.Cu) (tedit 5F68FEF0)
   (descr "Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator")
   (tags diode)
   (attr smd)
