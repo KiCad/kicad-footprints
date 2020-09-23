@@ -1,4 +1,4 @@
-(module Fuse_2920_7451Metric_Castellated (layer F.Cu) (tedit 5E627E60)
+(module Fuse_2920_7451Metric_Castellated (layer F.Cu) (tedit 5F68FEF2)
   (descr "Fuse SMD 2920 (7451 Metric), castellated end terminal, IPC_7351. (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator")
   (tags "fuse castellated")
   (attr smd)

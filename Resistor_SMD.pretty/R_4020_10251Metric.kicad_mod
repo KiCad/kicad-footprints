@@ -1,4 +1,4 @@
-(module R_4020_10251Metric (layer F.Cu) (tedit 5B301BBD)
+(module R_4020_10251Metric (layer F.Cu) (tedit 5F68FEEE)
   (descr "Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator")
   (tags resistor)
   (attr smd)
