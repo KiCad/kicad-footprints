@@ -1,4 +1,4 @@
-(module Carambola2 (layer F.Cu) (tedit 5F6B5295)
+(module Carambola2 (layer F.Cu) (tedit 5F6B5A6C)
   (descr "8devices Carambola2, OpenWRT, industrial SoM computer, https://www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf")
   (tags "carambola2 8devices")
   (attr smd)
@@ -38,6 +38,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_poly (pts (xy -20.87 -20) (xy -20 -20) (xy -20 -18.74) (xy -20.87 -18.74)) (layer F.Paste) (width 0.2))
+  (fp_poly (pts (xy -20.36 -18.92) (xy -21.64 -18.92) (xy -21.64 -19.82) (xy -20.36 -19.82)) (layer F.Paste) (width 0))
   (pad 1 smd oval (at -13.9 -17 90) (size 0.9 1.7) (layers F.Cu F.Mask))
   (pad 2 smd oval (at -13.9 -15 90) (size 0.9 1.7) (layers F.Cu F.Mask))
   (pad 3 smd oval (at -13.9 -13 90) (size 0.9 1.7) (layers F.Cu F.Mask))
@@ -90,7 +91,7 @@
   (pad 50 smd oval (at -6 -18.9) (size 0.9 1.7) (layers F.Cu F.Mask))
   (pad 51 smd oval (at -8 -18.9) (size 0.9 1.7) (layers F.Cu F.Mask))
   (pad 52 smd oval (at -10 -18.9) (size 0.9 1.7) (layers F.Cu F.Mask))
-  (pad 0 smd oval (at -21.24 -19.37 90) (size 0.9 1.7) (layers F.Paste))
+  (pad 0 smd circle (at -21.63 -19.37 90) (size 0.9 0.9) (layers F.Paste))
   (model ${KISYS3DMOD}/Module.3dshapes/Carambola2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
