@@ -1,5 +1,5 @@
 (module Battery_Panasonic_CR2032-VS1N_Vertical_CircularHoles (layer F.Cu) (tedit 5C857839)
-  (descr "Panasonic CR-2032/VS1N battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf")
+  (descr "Panasonic CR-2032/VS1N battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D348.PDF")
   (tags "battery CR-2032 coin cell vertical")
   (fp_text reference REF** (at 4.825 -5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

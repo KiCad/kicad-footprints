@@ -1,0 +1,40 @@
+# Configuration for Repo Lockdown - https://github.com/dessant/repo-lockdown-app
+
+# Skip issues and pull requests created before a given timestamp. Timestamp must
+# follow ISO 8601 (`YYYY-MM-DD`). Set to `false` to disable
+skipCreatedBefore: false
+
+# Issues and pull requests with these labels will be ignored. Set to `[]` to disable
+exemptLabels: []
+
+# Comment to post before closing or locking. Set to `false` to disable
+comment: >
+  On Oct 1, 2020 this repository, including issues and pull requests, will be archived and transferred to
+  [gitlab.com](https://gitlab.com/kicad/libraries/kicad-symbols/). In order for your pull requests and issues
+  to be imported into GitLab you must set your email address on GitHub to public and use the same address for
+  your GitLab account. Or login to GitLab at least once using the GitHub icon. Otherwise the importer can't
+  correlate the account information and the issues/comments on GitLab will be owned by `kicad-bot`
+  ([importer documentation](https://docs.gitlab.com/ee/user/project/import/github.html#how-it-works)).
+# Label to add before closing or locking. Set to `false` to disable
+label: false
+
+# Close issues and pull requests
+close: false
+
+# Lock issues and pull requests
+lock: false
+
+# Limit to only `issues` or `pulls`
+only: pulls
+
+# Optionally, specify configuration settings just for `issues` or `pulls`
+# issues:
+#   label: wontfix
+
+# pulls:
+#   comment: >
+#     This repository does not accept pull requests, see the README for details.
+#   lock: false
+
+# Repository to extend settings from
+# _extends: repo
