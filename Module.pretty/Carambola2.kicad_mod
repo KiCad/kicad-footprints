@@ -1,4 +1,4 @@
-(module Carambola2 (layer F.Cu) (tedit 5F6B4ECF)
+(module Carambola2 (layer F.Cu) (tedit 5F6B5295)
   (descr "8devices Carambola2, OpenWRT, industrial SoM computer, https://www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf")
   (tags "carambola2 8devices")
   (attr smd)
