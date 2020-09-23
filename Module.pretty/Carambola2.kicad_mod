@@ -1,4 +1,4 @@
-(module Carambola2 (layer F.Cu) (tedit 5F6B5E8C)
+(module Carambola2 (layer F.Cu) (tedit 5F6B60B3)
   (descr "8devices Carambola2, OpenWRT, industrial SoM computer, https://www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf")
   (tags "carambola2 8devices")
   (attr smd)
@@ -8,32 +8,32 @@
   (fp_text value Carambola2 (at -0.5 21.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start -14.05 -19.05) (end -12.85 -19.05) (layer F.SilkS) (width 0.12))
-  (fp_line (start -12.85 19.05) (end -14.05 19.05) (layer F.SilkS) (width 0.12))
-  (fp_line (start -14.05 17.85) (end -14.05 19.05) (layer F.SilkS) (width 0.12))
-  (fp_line (start 14.05 17.85) (end 14.05 19.05) (layer F.SilkS) (width 0.12))
-  (fp_line (start 12.85 19.05) (end 14.05 19.05) (layer F.SilkS) (width 0.12))
-  (fp_line (start 12.85 -19.05) (end 14.05 -19.05) (layer F.SilkS) (width 0.12))
-  (fp_line (start 13.9 -18.9) (end 12.9 -18.9) (layer F.Fab) (width 0.1))
-  (fp_line (start 12.9 -18.9) (end -13.9 -18.9) (layer F.Fab) (width 0.1))
-  (fp_line (start -13.9 -18.9) (end -13.9 18.9) (layer F.Fab) (width 0.1))
-  (fp_line (start -13.9 18.9) (end 13.9 18.9) (layer F.Fab) (width 0.1))
-  (fp_line (start 13.9 18.9) (end 13.9 -18.9) (layer F.Fab) (width 0.1))
-  (fp_line (start 14.05 -17.85) (end 14.05 -19.05) (layer F.SilkS) (width 0.12))
-  (fp_line (start 15 -20) (end 15 20) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 15 20) (end -15 20) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -15 20) (end -15 -20) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -15 -20) (end 15 -20) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 12.1 -16.9) (end -11.9 -16.9) (layer F.Fab) (width 0.1))
-  (fp_line (start -11.9 -16.9) (end -11.9 17) (layer F.Fab) (width 0.1))
-  (fp_line (start -11.9 17) (end 4.5 17) (layer F.Fab) (width 0.1))
-  (fp_line (start 4.5 17) (end 12.1 9) (layer F.Fab) (width 0.1))
-  (fp_line (start 12.1 9) (end 12.1 -16.9) (layer F.Fab) (width 0.1))
-  (fp_line (start 9.1 14.1) (end 11.9 14.1) (layer F.Fab) (width 0.1))
-  (fp_line (start 11.9 14.1) (end 11.9 17.5) (layer F.Fab) (width 0.1))
-  (fp_line (start 11.9 17.5) (end 9.1 17.5) (layer F.Fab) (width 0.1))
-  (fp_line (start 9.1 17.5) (end 9.1 14.1) (layer F.Fab) (width 0.1))
   (fp_circle (center 10.5 15.8) (end 10.5 16.863015) (layer F.Fab) (width 0.1))
+  (fp_line (start 9.1 17.5) (end 9.1 14.1) (layer F.Fab) (width 0.1))
+  (fp_line (start 11.9 17.5) (end 9.1 17.5) (layer F.Fab) (width 0.1))
+  (fp_line (start 11.9 14.1) (end 11.9 17.5) (layer F.Fab) (width 0.1))
+  (fp_line (start 9.1 14.1) (end 11.9 14.1) (layer F.Fab) (width 0.1))
+  (fp_line (start 12.1 9) (end 12.1 -16.9) (layer F.Fab) (width 0.1))
+  (fp_line (start 4.5 17) (end 12.1 9) (layer F.Fab) (width 0.1))
+  (fp_line (start -11.9 17) (end 4.5 17) (layer F.Fab) (width 0.1))
+  (fp_line (start -11.9 -16.9) (end -11.9 17) (layer F.Fab) (width 0.1))
+  (fp_line (start 12.1 -16.9) (end -11.9 -16.9) (layer F.Fab) (width 0.1))
+  (fp_line (start -15 -20) (end 15 -20) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -15 20) (end -15 -20) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 15 20) (end -15 20) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 15 -20) (end 15 20) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 14.05 -17.85) (end 14.05 -19.05) (layer F.SilkS) (width 0.12))
+  (fp_line (start 13.9 18.9) (end 13.9 -18.9) (layer F.Fab) (width 0.1))
+  (fp_line (start -13.9 18.9) (end 13.9 18.9) (layer F.Fab) (width 0.1))
+  (fp_line (start -13.9 -18.9) (end -13.9 18.9) (layer F.Fab) (width 0.1))
+  (fp_line (start 12.9 -18.9) (end -13.9 -18.9) (layer F.Fab) (width 0.1))
+  (fp_line (start 13.9 -18.9) (end 12.9 -18.9) (layer F.Fab) (width 0.1))
+  (fp_line (start 12.85 -19.05) (end 14.05 -19.05) (layer F.SilkS) (width 0.12))
+  (fp_line (start 12.85 19.05) (end 14.05 19.05) (layer F.SilkS) (width 0.12))
+  (fp_line (start 14.05 17.85) (end 14.05 19.05) (layer F.SilkS) (width 0.12))
+  (fp_line (start -14.05 17.85) (end -14.05 19.05) (layer F.SilkS) (width 0.12))
+  (fp_line (start -12.85 19.05) (end -14.05 19.05) (layer F.SilkS) (width 0.12))
+  (fp_line (start -14.05 -19.05) (end -12.85 -19.05) (layer F.SilkS) (width 0.12))
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -89,7 +89,8 @@
   (pad 50 smd oval (at -6 -18.9) (size 0.9 1.7) (layers F.Cu F.Mask))
   (pad 51 smd oval (at -8 -18.9) (size 0.9 1.7) (layers F.Cu F.Mask))
   (pad 52 smd oval (at -10 -18.9) (size 0.9 1.7) (layers F.Cu F.Mask))
-  (pad 0 smd custom (at -10 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -10 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -97,14 +98,15 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 8 18.5 270) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 8 18.5 270) (size 0.9 0.9) (layers F.Paste)
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
          (xy 0.1 -0.58) (xy 1.25 -0.58) (xy 1.25 0.57) (xy 0.1 0.57)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 -17 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 -17 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -112,7 +114,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 -15 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 -15 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -120,7 +123,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 -13 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 -13 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -128,7 +132,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.45 -11 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.45 -11 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -136,7 +141,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 -9 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 -9 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -144,7 +150,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 -7 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 -7 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -152,7 +159,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 -5 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 -5 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -160,7 +168,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 -3 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 -3 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -168,7 +177,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 -1 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 -1 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -176,7 +186,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 1 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 1 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -184,7 +195,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 3 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 3 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -192,7 +204,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 5 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 5 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -200,7 +213,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 7 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 7 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -208,7 +222,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 9 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 9 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -216,7 +231,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 11 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 11 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -224,7 +240,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.45 13 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.45 13 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -232,7 +249,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 15 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 15 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -240,7 +258,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -13.5 17 180) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -13.5 17 180) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -248,7 +267,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -10 18.5 270) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -10 18.5 270) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -256,7 +276,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -8 18.5 270) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -8 18.5 270) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -264,7 +285,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -6 18.5 270) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -6 18.5 270) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -272,7 +294,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -4 18.5 270) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -4 18.5 270) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -280,7 +303,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -2 18.5 270) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -2 18.5 270) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -288,7 +312,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 0 18.5 270) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 0 18.5 270) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -296,7 +321,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 6 18.5 270) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 6 18.5 270) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -304,7 +330,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 10 18.5 270) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 10 18.5 270) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -312,7 +339,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 17) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 17) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -320,7 +348,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 15) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 15) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -328,7 +357,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 13) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 13) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -336,7 +366,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 11) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 11) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -344,7 +375,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 9) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 9) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -352,7 +384,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 7) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 7) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -360,7 +393,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 5) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 5) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -368,7 +402,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 3) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 3) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -376,7 +411,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 1) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 1) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -384,7 +420,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 -1) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 -1) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -392,7 +429,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 -3) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 -3) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -400,7 +438,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 -5) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 -5) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -408,7 +447,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 -7) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 -7) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -416,7 +456,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 -9) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 -9) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -424,7 +465,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 -11) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 -11) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -432,7 +474,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 -13) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 -13) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -440,7 +483,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 -15) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 -15) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -448,7 +492,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 13.5 -17) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 13.5 -17) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -456,7 +501,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 10 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 10 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -464,7 +510,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 8 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 8 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -472,7 +519,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at 6 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at 6 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -480,7 +528,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -4 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -4 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -488,7 +537,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -6 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -6 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -496,7 +546,8 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (pad 0 smd custom (at -8 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+  (pad "" smd custom (at -8 -18.5 90) (size 0.9 0.9) (layers F.Paste)
+    (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
