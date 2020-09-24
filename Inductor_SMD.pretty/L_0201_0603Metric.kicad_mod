@@ -1,4 +1,4 @@
-(module L_0201_0603Metric (layer F.Cu) (tedit 5B301BBE)
+(module L_0201_0603Metric (layer F.Cu) (tedit 5F68FEF0)
   (descr "Inductor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
   (tags inductor)
   (attr smd)

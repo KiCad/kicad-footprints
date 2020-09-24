@@ -1,4 +1,4 @@
-(module L_1008_2520Metric (layer F.Cu) (tedit 5D4AF589)
+(module L_1008_2520Metric (layer F.Cu) (tedit 5F68FEF0)
   (descr "Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf), generated with kicad-footprint-generator")
   (tags inductor)
   (attr smd)

@@ -1,4 +1,4 @@
-(module LED_1812_4532Metric_Pad1.30x3.40mm_HandSolder (layer F.Cu) (tedit 5B4B45C9)
+(module LED_1812_4532Metric_Pad1.30x3.40mm_HandSolder (layer F.Cu) (tedit 5F68FEF1)
   (descr "LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator")
   (tags "LED handsolder")
   (attr smd)

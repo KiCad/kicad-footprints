@@ -1,4 +1,4 @@
-(module D_01005_0402Metric (layer F.Cu) (tedit 5B301BBE)
+(module D_01005_0402Metric (layer F.Cu) (tedit 5F68FEF0)
   (descr "Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
   (tags diode)
   (attr smd)

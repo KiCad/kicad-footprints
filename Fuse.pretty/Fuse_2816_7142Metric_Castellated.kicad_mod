@@ -1,4 +1,4 @@
-(module Fuse_2816_7142Metric_Castellated (layer F.Cu) (tedit 5E627E60)
+(module Fuse_2816_7142Metric_Castellated (layer F.Cu) (tedit 5F68FEF2)
   (descr "Fuse SMD 2816 (7142 Metric), castellated end terminal, IPC_7351. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator")
   (tags "fuse castellated")
   (attr smd)
