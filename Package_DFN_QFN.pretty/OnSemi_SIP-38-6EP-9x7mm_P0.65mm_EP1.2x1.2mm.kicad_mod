@@ -1,11 +1,11 @@
-(module OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP0.95x0.95mm (layer F.Cu) (tedit 5E8316BE)
+(module OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm (layer F.Cu) (tedit 5E8316BE)
   (descr "On Semiconductor, SIP-38, 9x7mm, (https://www.onsemi.com/pub/Collateral/AX-SIP-SFEU-D.PDF#page=19)")
   (tags "On Semiconductor SIP")
   (attr smd)
   (fp_text reference REF** (at -2.65 -4.4 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP0.95x0.95mm (at 0 4.45 180) (layer F.Fab)
+  (fp_text value OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm (at 0 4.45 180) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.5 -3.5) (end -4.5 -3.5) (layer F.Fab) (width 0.1))
@@ -68,7 +68,7 @@
   (pad 44 smd rect (at 0 -1) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 43 smd rect (at 2 -1) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 42 smd rect (at 2 1) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP0.95x0.95mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
