@@ -1,5 +1,5 @@
 (module LED_D5.0mm-4_RGB_Wide_Pins (layer F.Cu) (tedit 5F45987C)
-  (descr "LED, diameter 5.0mm, 4 pins, WP154A4, http://webtest4.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf")
+  (descr "LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf")
   (tags "LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED")
   (fp_text reference REF** (at 3.2385 -3.96) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
