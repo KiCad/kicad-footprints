@@ -1,4 +1,4 @@
-(module Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering (layer F.Cu) (tedit 5CF93F4A)
+(module Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering (layer F.Cu) (tedit 5D9F7937)
   (descr "Bosch  LGA, 8 Pin (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "Bosch LGA NoLead")
   (attr smd)

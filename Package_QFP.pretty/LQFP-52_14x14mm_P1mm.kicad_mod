@@ -1,4 +1,4 @@
-(module LQFP-52_14x14mm_P1mm (layer F.Cu) (tedit 5C03BED7)
+(module LQFP-52_14x14mm_P1mm (layer F.Cu) (tedit 5D9F72AF)
   (descr "LQFP, 52 Pin (http://www.holtek.com/documents/10179/116711/HT1632Cv170.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)

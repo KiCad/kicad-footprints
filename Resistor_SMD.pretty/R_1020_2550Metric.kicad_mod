@@ -1,4 +1,4 @@
-(module R_1020_2550Metric (layer F.Cu) (tedit 5B301BBD)
+(module R_1020_2550Metric (layer F.Cu) (tedit 5F68FEEE)
   (descr "Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator")
   (tags resistor)
   (attr smd)
