@@ -1,5 +1,5 @@
-(module Xilinx_FBG484 (layer F.Cu) (tedit 5CC4225D)
-  (descr "Artix-7 BGA, 22x22 grid, 23x23mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=271, NSMD pad definition Appendix A")
+(module Xilinx_FBG484 (layer F.Cu) (tedit 5CDADFA9)
+  (descr "Artix-7, Kintex-7 and Zynq-7000 BGA, 22x22 grid, 23x23mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=271, ttps://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=281, https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=82, NSMD pad definition Appendix A")
   (tags "BGA 484 1 FB484 FBG484 FBV484")
   (attr smd)
   (solder_mask_margin 0.05)

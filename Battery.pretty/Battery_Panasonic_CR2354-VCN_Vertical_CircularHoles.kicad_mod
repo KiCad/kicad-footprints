@@ -1,5 +1,5 @@
 (module Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles (layer F.Cu) (tedit 5C857853)
-  (descr "Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf")
+  (descr "Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D486.PDF")
   (tags "battery CR-2354/VCN coin cell vertical")
   (fp_text reference REF** (at 4.325 -8.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

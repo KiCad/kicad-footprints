@@ -1,6 +1,6 @@
-(module OnSemi_VCT-28_3.5x3.5mm_P0.4mm (layer F.Cu) (tedit 5BC620A8)
-  (descr "OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
-  (tags "OnSemi VCT DFN_QFN")
+(module OnSemi_VCT-28_3.5x3.5mm_P0.4mm (layer F.Cu) (tedit 5E30093D)
+  (descr "OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
+  (tags "OnSemi VCT NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -3.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -28,7 +28,7 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.3125 -0.05) (xy 0.2225 -0.05) (xy 0.3125 0.04) (xy 0.3125 0.05)
+         (xy -0.3125 -0.05) (xy 0.251789 -0.05) (xy 0.3125 0.010711) (xy 0.3125 0.05)
          (xy -0.3125 0.05)) (width 0.1))
     ))
   (pad 2 smd roundrect (at -1.6875 -0.8) (size 0.825 0.2) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
@@ -40,14 +40,14 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.3125 -0.05) (xy 0.3125 -0.05) (xy 0.3125 -0.04) (xy 0.2225 0.05)
+         (xy -0.3125 -0.05) (xy 0.3125 -0.05) (xy 0.3125 -0.010711) (xy 0.251789 0.05)
          (xy -0.3125 0.05)) (width 0.1))
     ))
   (pad 8 smd custom (at -1.2 1.7375) (size 0.13636 0.13636) (layers F.Cu F.Mask F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.05 -0.2225) (xy 0.04 -0.3125) (xy 0.05 -0.3125) (xy 0.05 0.3125)
+         (xy -0.05 -0.251789) (xy 0.010711 -0.3125) (xy 0.05 -0.3125) (xy 0.05 0.3125)
          (xy -0.05 0.3125)) (width 0.1))
     ))
   (pad 9 smd roundrect (at -0.8 1.6875) (size 0.2 0.825) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
@@ -59,15 +59,15 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.05 -0.3125) (xy -0.04 -0.3125) (xy 0.05 -0.2225) (xy 0.05 0.3125)
+         (xy -0.05 -0.3125) (xy -0.010711 -0.3125) (xy 0.05 -0.251789) (xy 0.05 0.3125)
          (xy -0.05 0.3125)) (width 0.1))
     ))
   (pad 15 smd custom (at 1.7375 1.2) (size 0.13636 0.13636) (layers F.Cu F.Mask F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.3125 -0.05) (xy 0.3125 -0.05) (xy 0.3125 0.05) (xy -0.2225 0.05)
-         (xy -0.3125 -0.04)) (width 0.1))
+         (xy -0.3125 -0.05) (xy 0.3125 -0.05) (xy 0.3125 0.05) (xy -0.251789 0.05)
+         (xy -0.3125 -0.010711)) (width 0.1))
     ))
   (pad 16 smd roundrect (at 1.6875 0.8) (size 0.825 0.2) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 17 smd roundrect (at 1.6875 0.4) (size 0.825 0.2) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
@@ -78,14 +78,14 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.3125 0.04) (xy -0.2225 -0.05) (xy 0.3125 -0.05) (xy 0.3125 0.05)
+         (xy -0.3125 0.010711) (xy -0.251789 -0.05) (xy 0.3125 -0.05) (xy 0.3125 0.05)
          (xy -0.3125 0.05)) (width 0.1))
     ))
   (pad 22 smd custom (at 1.2 -1.7375) (size 0.13636 0.13636) (layers F.Cu F.Mask F.Paste)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.05 -0.3125) (xy 0.05 -0.3125) (xy 0.05 0.2225) (xy -0.04 0.3125)
+         (xy -0.05 -0.3125) (xy 0.05 -0.3125) (xy 0.05 0.251789) (xy -0.010711 0.3125)
          (xy -0.05 0.3125)) (width 0.1))
     ))
   (pad 23 smd roundrect (at 0.8 -1.6875) (size 0.2 0.825) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
@@ -97,8 +97,8 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.05 -0.3125) (xy 0.05 -0.3125) (xy 0.05 0.3125) (xy 0.04 0.3125)
-         (xy -0.05 0.2225)) (width 0.1))
+         (xy -0.05 -0.3125) (xy 0.05 -0.3125) (xy 0.05 0.3125) (xy 0.010711 0.3125)
+         (xy -0.05 0.251789)) (width 0.1))
     ))
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.88 0.88) (thickness 0.13)))

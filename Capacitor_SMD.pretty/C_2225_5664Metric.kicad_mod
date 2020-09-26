@@ -1,4 +1,4 @@
-(module C_2225_5664Metric (layer F.Cu) (tedit 5B301BBE)
+(module C_2225_5664Metric (layer F.Cu) (tedit 5F68FEEE)
   (descr "Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
   (tags capacitor)
   (attr smd)

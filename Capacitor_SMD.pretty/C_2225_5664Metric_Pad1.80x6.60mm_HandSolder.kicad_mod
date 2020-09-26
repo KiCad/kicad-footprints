@@ -1,4 +1,4 @@
-(module C_2225_5664Metric_Pad1.80x6.60mm_HandSolder (layer F.Cu) (tedit 5B301BBE)
+(module C_2225_5664Metric_Pad1.80x6.60mm_HandSolder (layer F.Cu) (tedit 5F68FEEF)
   (descr "Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
   (tags "capacitor handsolder")
   (attr smd)
