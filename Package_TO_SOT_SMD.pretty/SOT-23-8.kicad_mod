@@ -1,4 +1,4 @@
-(module SOT-23-8 (layer F.Cu) (tedit 5F43F4BE)
+(module SOT-23-8 (layer F.Cu) (tedit 5F6F9B37)
   (descr "SOT, 8 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant BA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOT TO_SOT_SMD")
   (attr smd)
