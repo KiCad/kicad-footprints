@@ -1,11 +1,11 @@
-(module Samtec_UMPT-05-xx.x-x-VT-SM_P2.0mm_Vertical (layer F.Cu) (tedit 5F6813B8)
+(module Samtec_UMPT-05-xx.x-x-VT-SM_2x05_P2.0mm_Vertical (layer F.Cu) (tedit 5F713306)
   (descr "Samtec UMPT-05-xx.x-x-VT-SM 2.00mm Ultra Micro Power Terminal, generated with kicad-footprint-generator, http://suddendocs.samtec.com/catalog_english/umpt.pdf")
   (tags "connector Samtec mPOWER UMPT power terminal vertical")
   (attr smd)
   (fp_text reference REF** (at 0 -5.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Samtec_UMPT-05-xx.x-x-VT-SM_P2.0mm_Vertical (at 0 5.3) (layer F.Fab)
+  (fp_text value Samtec_UMPT-05-xx.x-x-VT-SM_2x05_P2.0mm_Vertical (at 0 5.3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8.004 -3.8) (end -8.65 -3.154) (layer F.Fab) (width 0.1))
@@ -30,7 +30,7 @@
   (fp_text user %R (at 0 -5.3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connector_Samtec.3dshapes/Samtec_UMPT-05-xx.x-x-VT-SM_P2.0mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_Samtec.3dshapes/Samtec_UMPT-05-xx.x-x-VT-SM_2x05_P2.0mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
