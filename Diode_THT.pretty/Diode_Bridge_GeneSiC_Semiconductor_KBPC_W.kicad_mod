@@ -1,5 +1,5 @@
-(module Diode_Bridge_GeneSiC_Semiconductor_KBPC_W (layer F.Cu) (tedit 5F725D22)
-  (descr "Single phase, Bridge Rectifier, 28.6x28.6mm, case KBPC_W(WP)")
+(module Diode_Bridge_GeneSiC_Semiconductor_KBPC_W (layer F.Cu) (tedit 5F725E41)
+  (descr "Single phase, Bridge Rectifier, 28.6x28.6mm, case KBPC_W(WP), https://www.diodemodule.com/bridge-rectifier/kbpc/kbpc15005w.pdf")
   (tags "diode module")
   (fp_text reference REF** (at -8 -9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
