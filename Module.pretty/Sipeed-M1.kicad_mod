@@ -1,5 +1,5 @@
 (module Sipeed-M1 (layer F.Cu) (tedit 5CF1F02B)
-  (descr "AI accelerated MCU with optional wifi")
+  (descr "AI accelerated MCU with optional wifi, https://dl.sipeed.com/MAIX/HDK/Sipeed-M1&M1W/Specifications")
   (tags "AI Kendryte K210 RISC-V")
   (attr smd)
   (fp_text reference REF** (at 0 14.6025) (layer F.SilkS)
