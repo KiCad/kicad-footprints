@@ -1,4 +1,4 @@
-(module NSOP-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1)
+(module NSOP-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5F737216)
   (descr "NSOP, 16 Pin (JEDEC MS-012AC, https://www.holtek.com/documents/10179/11842/HT42B534-xv110.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "NSOP SO")
   (attr smd)
