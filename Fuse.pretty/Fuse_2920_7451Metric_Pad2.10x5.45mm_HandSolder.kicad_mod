@@ -1,6 +1,6 @@
-(module Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder (layer F.Cu) (tedit 5B341557)
+(module Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder (layer F.Cu) (tedit 5F68FEF1)
   (descr "Fuse SMD 2920 (7451 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator")
-  (tags "resistor handsolder")
+  (tags "fuse handsolder")
   (attr smd)
   (fp_text reference REF** (at 0 -3.68) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

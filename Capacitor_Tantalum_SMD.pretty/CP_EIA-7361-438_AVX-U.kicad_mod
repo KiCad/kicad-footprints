@@ -1,4 +1,4 @@
-(module CP_EIA-7361-438_AVX-U (layer F.Cu) (tedit 5B301BBE)
+(module CP_EIA-7361-438_AVX-U (layer F.Cu) (tedit 5EBA9318)
   (descr "Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator")
   (tags "capacitor tantalum")
   (attr smd)
