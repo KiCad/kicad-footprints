@@ -1,4 +1,4 @@
-(module Texas_VQFN_RNR0011A-11 (layer F.Cu) (tedit 5D1346AC)
+(module Texas_VQFN_RNR0011A-11 (layer F.Cu) (tedit 5F74A852)
   (descr "RNR0011A, VQFN-11 (http://www.ti.com/lit/ds/symlink/tps61089.pdf, Pag.27)")
   (tags RNR0011A)
   (attr smd)
@@ -40,9 +40,14 @@
   (pad 10 smd roundrect (at 1.175 -0.75 180) (size 0.55 0.25) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 11 smd roundrect (at 0 -0.7) (size 1.1 1.1) (layers F.Cu F.Mask) (roundrect_rratio 0.05))
   (pad 11 thru_hole circle (at 0 -1) (size 0.4 0.4) (drill 0.2) (layers *.Cu *.Mask))
-  (pad "" smd roundrect (at 0 -0.46 180) (size 1 0.52) (layers F.Paste) (roundrect_rratio 0.25))
-  (pad "" smd roundrect (at 0.375 -1.06 180) (size 0.25 0.28) (layers F.Paste) (roundrect_rratio 0.25))
-  (pad "" smd roundrect (at -0.375 -1.06 180) (size 0.25 0.28) (layers F.Paste) (roundrect_rratio 0.25))
+  (pad 11 smd custom (at 0 -0.7) (size 1 0.12) (layers F.Paste)
+    (solder_mask_margin 0.05) (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 0.5 -0.5) (xy 0.25 -0.5) (xy 0.25 -0.12) (xy -0.25 -0.12) (xy -0.25 -0.5)
+         (xy -0.5 -0.5) (xy -0.5 0.5) (xy 0.5 0.5)) (width 0))
+    ))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Texas_VQFN_RNR0011A-11.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
