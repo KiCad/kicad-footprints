@@ -1,5 +1,5 @@
-(module Adafruit_Feather_WithMountingHoles (layer F.Cu) (tedit 5F749C8D)
-  (descr "Common footprint for the Adafruit Feather series of boards, https://www.adafruit.com/feather")
+(module Adafruit_Feather_WithMountingHoles (layer F.Cu) (tedit 5F74A135)
+  (descr "Common footprint for the Adafruit Feather series of boards, https://learn.adafruit.com/adafruit-feather/feather-specification")
   (tags "Adafruit Feather")
   (fp_text reference REF** (at 10.16 -7.62) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
