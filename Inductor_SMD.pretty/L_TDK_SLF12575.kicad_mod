@@ -38,9 +38,6 @@
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text user "" (at -49 0.05) (layer F.SilkS)
-    (effects (font (size 3 3) (thickness 0.15)))
-  )
   (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_TDK_SLF12575.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
