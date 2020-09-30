@@ -68,7 +68,7 @@
   (pad "" np_thru_hole circle (at 19.05 51.435 270) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 1.27 -3.81 270) (size 3.2 3.2) (drill 2.5) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at 20.32 38.1 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/Adafruit_Feather.wrl
+  (model ${KISYS3DMOD}/Module.3dshapes/Adafruit_Feather_32u4_FONA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

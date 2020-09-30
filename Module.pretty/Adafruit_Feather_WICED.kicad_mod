@@ -66,7 +66,7 @@
   (pad 18 thru_hole circle (at 20.32 35.56 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at 20.32 38.1 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 29 thru_hole circle (at 17.78 20.32 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/Adafruit_Feather.wrl
+  (model ${KISYS3DMOD}/Module.3dshapes/Adafruit_Feather_WICED.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
