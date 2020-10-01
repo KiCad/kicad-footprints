@@ -65,7 +65,7 @@
   (fp_line (start -7.02 10.68) (end 6.76 10.67) (layer F.CrtYd) (width 0.05))
   (fp_line (start 6.76 10.67) (end 6.76 -10.68) (layer F.CrtYd) (width 0.05))
   (fp_line (start 6.76 -10.68) (end -7.02 -10.68) (layer F.CrtYd) (width 0.05))
-  (fp_text user "%R" (at 1.805 0 90) (layer F.Fab)
+  (fp_text user "REF**" (at 1.805 0 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (pad "10" smd rect (at -5.12 5.08) (size 3 1.88) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 4e9263d0-98ee-4a85-a887-1c859a4921aa))
