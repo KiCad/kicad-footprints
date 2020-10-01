@@ -1,4 +1,6 @@
-(module Texas_DRL0006A (layer F.Cu) (tedit 5F7643F2)
+(module Texas_DRL0006A (layer F.Cu) (tedit 5F76460A)
+  (descr "Texas Instrument DRL0006A 1.5x1.1mm Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e1b06.pdf")
+  (tags "DRL0006A 1.5x1.1mm Pitch 0.5mm")
   (attr smd)
   (fp_text reference REF** (at -2.15 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -24,4 +26,9 @@
   (pad 2 smd rect (at 0 0.74) (size 0.3 0.67) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0.5 -0.74) (size 0.3 0.67) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.5 0.74) (size 0.3 0.67) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/Texas_DRL006A.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
