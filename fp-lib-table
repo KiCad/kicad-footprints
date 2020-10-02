@@ -1,4 +1,5 @@
 (fp_lib_table
+  (lib (name Audio_Module)(type Kicad)(uri ${KISYSMOD}/Audio_Module.pretty)(options "")(descr "Audio Module footprints"))
   (lib (name Battery)(type KiCad)(uri ${KISYSMOD}/Battery.pretty)(options "")(descr "Battery and battery holder footprints"))
   (lib (name Button_Switch_Keyboard)(type KiCad)(uri ${KISYSMOD}/Button_Switch_Keyboard.pretty)(options "")(descr "Buttons and switches for keyboard applications"))
   (lib (name Button_Switch_SMD)(type KiCad)(uri ${KISYSMOD}/Button_Switch_SMD.pretty)(options "")(descr "Buttons and switches, surface mount"))
