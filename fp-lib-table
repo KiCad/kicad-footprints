@@ -120,6 +120,7 @@
   (lib (name TerminalBlock)(type KiCad)(uri ${KISYSMOD}/TerminalBlock.pretty)(options "")(descr "Footprints for terminal blocks that do not have their own manufacturer specific library."))
   (lib (name TerminalBlock_4Ucon)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_4Ucon.pretty)(options "")(descr "4UCON terminal blocks"))
   (lib (name TerminalBlock_Dinkle)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Dinkle.pretty)(options "")(descr "Dinkle terminal blocks"))
+  (lib (name TerminalBlock_KaiFeng)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_KaiFeng.pretty)(options "")(descr "KaiFeng terminal blocks"))
   (lib (name TerminalBlock_MetzConnect)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_MetzConnect.pretty)(options "")(descr "Metz Connect terminal blocks"))
   (lib (name TerminalBlock_Philmore)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Philmore.pretty)(options "")(descr "Philmore terminal blocks"))
   (lib (name TerminalBlock_Phoenix)(type KiCad)(uri ${KISYSMOD}/TerminalBlock_Phoenix.pretty)(options "")(descr "Phoenix Contact terminal blocks"))
