@@ -27,6 +27,16 @@ Script details
 - used config file (where applicable): config_KLCv3.0.yaml
 - python version: 3.6.2
 
+- FH50
+
+Script details
+- authors: Evan Shultz
+- uses SMD single-row connector script
+- script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector/Connector_SMD_single_row_plus_mounting_pad/
+- series description: conn_hirose.yaml
+- used config file: config_KLCv3.0.yaml
+- python version: 3.7.2
+
 ---
 
 TE-Connectivity
@@ -34,7 +44,7 @@ TE-Connectivity
 - 84953
 
 Script details
-- authors: evanshulz, Thomas Pointhuber (see git log for details)
+- authors: Evan Shultz, Thomas Pointhuber (see git log for details)
 - scripts updated for KLC3 by Poeschl Rene
 - script location: https://github.com/pointhi/kicad-footprint-generator/tree/master/scripts/Connector/Connector_TE-Connectivity/
 - used config file (where applicable): config_KLCv3.0.yaml
