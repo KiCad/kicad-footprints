@@ -1,10 +1,10 @@
-(module Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles (layer F.Cu) (tedit 5E08CA5B)
-  (descr "Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p3.pdf")
-  (tags "raspberry pi zero through hole")
+(module Raspberry_Pi_ZeroW_Socketed_THT_FaceDown_MountingHoles (layer F.Cu) (tedit 5E08C9ED)
+  (descr "Raspberry Pi ZeroW using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p3.pdf")
+  (tags "raspberry pi zerow through hole")
   (fp_text reference REF** (at -6.27 24.13 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles (at 10.23 24.13 270) (layer F.Fab)
+  (fp_text value Raspberry_Pi_ZeroW_Socketed_THT_FaceDown_MountingHoles (at 10.23 24.13 270) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 27.03 41.63) (end 25.23 41.63) (layer F.Fab) (width 0.1))
@@ -155,7 +155,7 @@
     (solder_mask_margin 1.625))
   (pad "" np_thru_hole circle (at -1.27 53.13 90) (size 2.75 2.75) (drill 2.75) (layers *.Cu *.Mask)
     (solder_mask_margin 1.625))
-  (model ${KISYS3DMOD}/Module.3dshapes/Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles.wrl
+  (model ${KISYS3DMOD}/Module.3dshapes/Raspberry_Pi_ZeroW_Socketed_THT_FaceDown_MountingHoles.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
