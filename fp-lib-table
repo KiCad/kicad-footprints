@@ -41,6 +41,7 @@
   (lib (name Connector_Phoenix_MC_HighVoltage)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_MC_HighVoltage.pretty)(options "")(descr "Phoenix high voltage (320V, 5.08mm pitch) MC connector footprints"))
   (lib (name Connector_Phoenix_MSTB)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_MSTB.pretty)(options "")(descr "Phoenix MSTB connector footprints"))
   (lib (name Connector_Phoenix_GMSTB)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_GMSTB.pretty)(options "")(descr "Phoenix GMSTB series (high voltage MSTB) connector footprints"))
+  (lib (name Connector_Phoenix_SPT)(type KiCad)(uri ${KISYSMOD}/Connector_Phoenix_SPT.pretty)(options "")(descr "Phoenix SPT connector footprints"))
   (lib (name Connector_Samtec)(type KiCad)(uri ${KISYSMOD}/Connector_Samtec.pretty)(options "")(descr "Samtec connector footprints"))
   (lib (name Connector_Samtec_HLE_SMD)(type KiCad)(uri ${KISYSMOD}/Connector_Samtec_HLE_SMD.pretty)(options "")(descr "Samtec surface mount HLE series connector footprints"))
   (lib (name Connector_Samtec_HLE_THT)(type KiCad)(uri ${KISYSMOD}/Connector_Samtec_HLE_THT.pretty)(options "")(descr "Samtec through hole HLE series connector footprints"))
