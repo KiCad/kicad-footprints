@@ -16,6 +16,7 @@
   (lib (name Connector_BarrelJack)(type KiCad)(uri ${KISYSMOD}/Connector_BarrelJack.pretty)(options "")(descr "(DC) barrel jack connector footprints"))
   (lib (name Connector_Card)(type KiCad)(uri ${KISYSMOD}/Connector_Card.pretty)(options "")(descr "Card and card holder footprints"))
   (lib (name Connector_Coaxial)(type KiCad)(uri ${KISYSMOD}/Connector_Coaxial.pretty)(options "")(descr "Coaxial and RF connector footprints"))
+  (lib (name Connector_CviLux)(type KiCad)(uri ${KISYSMOD}/Connector_CviLux.pretty)(options "")(descr "CviLux connector footprints"))
   (lib (name Connector_DIN)(type KiCad)(uri ${KISYSMOD}/Connector_DIN.pretty)(options "")(descr "DIN connector footprints"))
   (lib (name Connector_Dsub)(type KiCad)(uri ${KISYSMOD}/Connector_Dsub.pretty)(options "")(descr "DSub connector footprints"))
   (lib (name Connector_FFC-FPC)(type KiCad)(uri ${KISYSMOD}/Connector_FFC-FPC.pretty)(options "")(descr "FFC (Flexible Flat Cable) and FPC (Flexible Printed Circuit) connector footprints"))
