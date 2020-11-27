@@ -1,4 +1,4 @@
-(module Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm (layer F.Cu) (tedit 5A0AA2C0)
+(module Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm (layer F.Cu) (tedit 5BA42315)
   (descr "MLPQ 32 leads, 7x7mm, 0.127mm stencil (https://www.infineon.com/dgdl/Infineon-AN1170-AN-v05_00-EN.pdf?fileId=5546d462533600a40153559ac3e51134)")
   (tags "mlpq 32 7x7mm")
   (attr smd)
@@ -31,9 +31,6 @@
   (fp_line (start -3.62 3.62) (end -3.62 2.6) (layer F.SilkS) (width 0.12))
   (fp_line (start -3.62 -3.62) (end -3.62 -2.6) (layer F.SilkS) (width 0.12))
   (fp_line (start -3.8 -2.6) (end -3.62 -2.6) (layer F.SilkS) (width 0.12))
-  (pad 33 smd rect (at -0.2375 0.175) (size 4.675 3.85) (layers F.Cu F.Mask))
-  (pad 33 smd rect (at -0.0625 -1.925) (size 4.325 0.35) (layers F.Cu F.Mask))
-  (pad 33 smd rect (at -2.225 -1.75 45) (size 0.495 0.495) (layers F.Cu F.Mask))
   (pad 1 smd rect (at -3.44 -2.25) (size 0.7 0.24) (layers F.Cu F.Mask))
   (pad 2 smd rect (at -3.44 -1.75) (size 0.7 0.24) (layers F.Cu F.Mask))
   (pad 3 smd rect (at -3.44 -1.25) (size 0.7 0.24) (layers F.Cu F.Mask))
@@ -107,6 +104,15 @@
   (pad "" smd rect (at 0.25 -3.425) (size 0.22 0.65) (layers F.Paste))
   (pad "" smd rect (at -1.75 -3.425) (size 0.22 0.65) (layers F.Paste))
   (pad "" smd rect (at -2.25 -3.425) (size 0.22 0.65) (layers F.Paste))
+  (pad 33 smd custom (at -0.2375 0.175) (size 4.675 3.85) (layers F.Cu F.Mask)
+    (zone_connect 2)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -2.3375 -1.925) (xy -1.9875 -2.275) (xy -1.9875 -1.925)) (width 0))
+      (gr_poly (pts
+         (xy -1.9875 -2.275) (xy 2.3375 -2.275) (xy 2.3375 -1.925) (xy -1.9875 -1.925)) (width 0))
+    ))
   (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
