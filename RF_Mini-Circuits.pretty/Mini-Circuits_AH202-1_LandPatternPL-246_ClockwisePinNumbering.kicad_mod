@@ -1,5 +1,5 @@
 (module Mini-Circuits_AH202-1_LandPatternPL-246_ClockwisePinNumbering (layer F.Cu) (tedit 5D4430A6)
-  (descr https://ww2.minicircuits.com/pcb/98-pl246.pdf)
+  (descr https://www.minicircuits.com/pcb/98-pl246.pdf)
   (tags "Mini-Circuits AH202-1 PL-246")
   (attr smd)
   (fp_text reference REF** (at -7.5 0 90) (layer F.SilkS)

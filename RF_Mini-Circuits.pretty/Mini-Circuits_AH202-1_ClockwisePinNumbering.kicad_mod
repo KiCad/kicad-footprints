@@ -1,5 +1,5 @@
 (module Mini-Circuits_AH202-1_ClockwisePinNumbering (layer F.Cu) (tedit 5D442FFD)
-  (descr https://ww2.minicircuits.com/case_style/AH202-1.pdf)
+  (descr https://www.minicircuits.com/case_style/AH202-1.pdf)
   (tags "Mini-Circuits AH202-1")
   (attr smd)
   (fp_text reference REF** (at -7.5 0 90) (layer F.SilkS)
