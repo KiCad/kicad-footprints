@@ -1,6 +1,6 @@
-(module Fuse_0805_2012Metric (layer F.Cu) (tedit 5B36C52C)
+(module Fuse_0805_2012Metric (layer F.Cu) (tedit 5F68FEF1)
   (descr "Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
-  (tags resistor)
+  (tags fuse)
   (attr smd)
   (fp_text reference REF** (at 0 -1.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

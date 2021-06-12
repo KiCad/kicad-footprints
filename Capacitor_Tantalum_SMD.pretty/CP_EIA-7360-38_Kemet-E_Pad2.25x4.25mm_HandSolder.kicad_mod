@@ -1,4 +1,4 @@
-(module CP_EIA-7360-38_Kemet-E_Pad2.25x4.25mm_HandSolder (layer F.Cu) (tedit 5B301BBE)
+(module CP_EIA-7360-38_Kemet-E_Pad2.25x4.25mm_HandSolder (layer F.Cu) (tedit 5EBA9318)
   (descr "Tantalum Capacitor SMD Kemet-E (7360-38 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
   (tags "capacitor tantalum")
   (attr smd)
