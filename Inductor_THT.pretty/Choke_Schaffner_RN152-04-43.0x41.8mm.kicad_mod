@@ -1,5 +1,5 @@
-(module Choke_Schaffner_RN152-04-43.0x41.8mm (layer F.Cu) (tedit 5A1421CD)
-  (descr "Current-compensated Chokes, Scaffner, RN152-04, 43.0mmx41.8mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/")
+(module Choke_Schaffner_RN152-04-43.0x41.8mm (layer F.Cu) (tedit 5E561414)
+  (descr "Current-compensated Chokes, Schaffner, RN152-04, 43.0mmx41.8mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/")
   (tags "chokes schaffner tht")
   (fp_text reference REF** (at 10 -14.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

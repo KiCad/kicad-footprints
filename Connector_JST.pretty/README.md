@@ -36,6 +36,7 @@ Specialized scripts are used to generate the following connectors:
 - PHD
 - PUD
 - VH
+- XA
 - XH
 - ZE
 

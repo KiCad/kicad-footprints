@@ -1,5 +1,5 @@
 (module Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles (layer F.Cu) (tedit 5C857820)
-  (descr "Panasonic CR-2025/V1AK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf")
+  (descr "Panasonic CR-2025/V1AK battery,")
   (tags "battery CR-2025 coin cell vertical")
   (fp_text reference REF** (at 4.825 -4.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

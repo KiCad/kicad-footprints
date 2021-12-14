@@ -1,5 +1,5 @@
 (module Battery_Panasonic_CR2450-VAN_Vertical_CircularHoles (layer F.Cu) (tedit 5C85786E)
-  (descr "Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf")
+  (descr "Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D492.PDF")
   (tags "battery CR-2450 coin cell")
   (fp_text reference REF** (at 4.325 -7.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

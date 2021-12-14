@@ -1,4 +1,4 @@
-(module CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder (layer F.Cu) (tedit 5D98AE44)
+(module CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder (layer F.Cu) (tedit 5EBA9318)
   (descr "Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator")
   (tags "capacitor tantalum")
   (attr smd)
